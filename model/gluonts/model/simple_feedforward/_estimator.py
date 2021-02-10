@@ -189,7 +189,7 @@ class SimpleFeedForwardEstimator(GluonEstimator):
     # Here we do only a simple operation to convert the input data to a form
     # that can be digested by our model by only splitting the target in two, a
     # conditioning part and a to-predict part, for each training example.
-    # For a more complex transformation example, see the `gluonts.model.deepar`
+    # For a more complex transformation example, see the `gluonts.model.my_deepar`
     # transformation that includes time features, age feature, observed values
     # indicator, ...
     def create_transformation(self) -> Transformation:
@@ -217,10 +217,7 @@ class SimpleFeedForwardEstimator(GluonEstimator):
             instance_sampler=instance_sampler,
             past_length=self.context_length,
             future_length=self.prediction_length,
-            time_series_fields=[
-                FieldName.FEAT_DYNAMIC_REAL,
-                FieldName.OBSERVED_VALUES,
-            ],
+            time_series_fields=[FieldName.OBSERVED_VALUES],
         )
 
     def create_training_data_loader(

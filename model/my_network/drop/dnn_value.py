@@ -2,11 +2,11 @@ from typing import List, Tuple
 # from gluonts.mx import Tensor
 
 from gluonts.mx.block.scaler import MeanScaler, NOPScaler
-from gluonts.model.estimator import GluonEstimator
-from gluonts.model.predictor import Predictor, RepresentableBlockPredictor
+from gluonts.mx.model.estimator import GluonEstimator
+from gluonts.mx.model.predictor import Predictor, RepresentableBlockPredictor
 from gluonts.core.component import validated
 from gluonts.mx.trainer import Trainer
-from gluonts.support.util import copy_parameters
+from gluonts.mx.util import copy_parameters
 from gluonts.transform import ExpectedNumInstanceSampler, Transformation, InstanceSplitter
 from gluonts.mx.distribution.distribution_output import DistributionOutput
 from mxnet.gluon import HybridBlock

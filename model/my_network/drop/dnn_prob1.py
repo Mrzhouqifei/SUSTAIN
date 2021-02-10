@@ -21,7 +21,6 @@ from gluonts.transform import (
     InstanceSplitter,
     SetFieldIfNotPresent,
 )
-from gluonts.support.util import weighted_average
 
 class MyProbNetwork(gluon.HybridBlock):
     def __init__(self,
@@ -43,18 +42,10 @@ class MyProbNetwork(gluon.HybridBlock):
         self.scaling = scaling
 
         with self.name_scope():
-            self.mlp = mx.gluon.nn.HybridSequential()
-            dims = [self.num_cells]
-            for layer_no, units in enumerate(dims[:-1]):
-                self.mlp.add(mx.gluon.nn.Dense(units=units, activation="relu"))
-            self.mlp.add(mx.gluon.nn.Dense(units=prediction_length * dims[-1]))
-            self.mlp.add(
-                mx.gluon.nn.HybridLambda(
-                    lambda F, o: F.reshape(
-                        o, (-1, prediction_length, dims[-1])
-                    )
-                )
-            )
+            # Set up a 2 layer neural network that its ouput will be projected to the distribution parameters
+            self.nn = mx.gluon.nn.HybridSequential()
+            self.nn.add(mx.gluon.nn.Dense(units=self.num_cells, activation='relu'))
+            self.nn.add(mx.gluon.nn.Dense(units=self.prediction_length * self.num_cells, activation='relu'))
 
             if scaling:
                 self.scaler = MeanScaler(keepdims=True)
@@ -74,20 +65,9 @@ class MyProbNetwork(gluon.HybridBlock):
 
         return scale
 
-"""
-target time series
-dynamic time series
-static real
-"""
+
 class MyProbTrainNetwork(MyProbNetwork):
-    def hybrid_forward(self,
-                       F,
-                       past_target,
-                       future_target,
-                       past_observed_values,
-                       past_feat_dynamic_real,
-                       future_observed_values,
-                       future_feat_dynamic_real):
+    def hybrid_forward(self, F, past_target, future_target, past_observed_values, past_feat_dynamic_real):
         # compute scale
         scale = self.compute_scale(past_target, past_observed_values)
 
@@ -99,7 +79,7 @@ class MyProbTrainNetwork(MyProbNetwork):
         net_input = F.concat(past_target_scale, past_feat_dynamic_real_scale, dim=-1)
 
         # compute network output
-        net_output = self.mlp(net_input)
+        net_output = self.nn(net_input)
 
         # (batch, prediction_length * nn_features)  ->  (batch, prediction_length, nn_features)
         net_output = net_output.reshape(0, self.prediction_length, -1)
@@ -112,12 +92,7 @@ class MyProbTrainNetwork(MyProbNetwork):
 
         # negative log-likelihood
         loss = distr.loss(future_target)
-
-        weighted_loss = weighted_average(
-            F=F, x=loss, weights=future_observed_values, axis=1
-        )
-
-        return weighted_loss
+        return loss
 
 
 class MyProbPredNetwork(MyProbTrainNetwork):
@@ -146,7 +121,7 @@ class MyProbPredNetwork(MyProbTrainNetwork):
         net_input = F.concat(repeated_past_target_scale, repeated_past_feat_dynamic_real_scale, dim=-1)
 
         # compute network oputput
-        net_output = self.mlp(net_input)
+        net_output = self.nn(net_input)
 
         # (batch * num_sample_paths, prediction_length * nn_features)  ->  (batch * num_sample_paths, prediction_length, nn_features)
         net_output = net_output.reshape(0, self.prediction_length, -1)

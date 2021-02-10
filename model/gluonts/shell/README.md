@@ -66,7 +66,7 @@ Pass the forecaster-class as a hyper-parameter:
 ```python
 {
     ...
-    "forecaster_name": "gluonts.model.deepar.DeepAREstimator",
+    "forecaster_name": "gluonts.model.my_deepar.DeepAREstimator",
     ...
 
 }

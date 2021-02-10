@@ -37,21 +37,26 @@ class MyProbNetwork(gluon.HybridBlock):
         self.prediction_length = prediction_length
         self.context_length = context_length
         self.distr_output = distr_output
-        self.num_cells = num_cells
+        self.num_cells = num_cells  # [static dim, dynamic dim, target dim]
         self.num_sample_paths = num_sample_paths
         self.proj_distr_args = distr_output.get_args_proj()
         self.scaling = scaling
 
         with self.name_scope():
+            # # static dense
+            self.static_mlp = mx.gluon.nn.HybridSequential()
+            self.static_mlp.add(mx.gluon.nn.Dense(units=self.num_cells[0], activation="relu"))
+            # dynamic dense
+            self.dynamic_mlp = mx.gluon.nn.HybridSequential()
+            self.dynamic_mlp.add(mx.gluon.nn.Dense(units=self.num_cells[1], activation="relu"))
+            # target mlp
             self.mlp = mx.gluon.nn.HybridSequential()
-            dims = [self.num_cells]
-            for layer_no, units in enumerate(dims[:-1]):
-                self.mlp.add(mx.gluon.nn.Dense(units=units, activation="relu"))
-            self.mlp.add(mx.gluon.nn.Dense(units=prediction_length * dims[-1]))
+            self.mlp.add(mx.gluon.nn.Dense(units=self.num_cells[2], activation="relu"))
+            self.mlp.add(mx.gluon.nn.Dense(units=prediction_length * self.num_cells[2]))
             self.mlp.add(
                 mx.gluon.nn.HybridLambda(
                     lambda F, o: F.reshape(
-                        o, (-1, prediction_length, dims[-1])
+                        o, (-1, prediction_length, self.num_cells[2])
                     )
                 )
             )
@@ -85,19 +90,28 @@ class MyProbTrainNetwork(MyProbNetwork):
                        past_target,
                        future_target,
                        past_observed_values,
-                       past_feat_dynamic_real,
                        future_observed_values,
-                       future_feat_dynamic_real):
+                       feat_static_real,
+                       past_feat_dynamic_real,
+                       future_feat_dynamic_real
+                       ):
         # compute scale
         scale = self.compute_scale(past_target, past_observed_values)
 
         # scale target and time features
         past_target_scale = F.broadcast_div(past_target, scale)
-        past_feat_dynamic_real_scale = F.broadcast_div(past_feat_dynamic_real.squeeze(axis=-1), scale)
+        # past_feat_dynamic_real_scale = F.broadcast_div(past_feat_dynamic_real.squeeze(axis=-1), scale)
+
+        static_output = self.static_mlp(feat_static_real)
+        dynamic_output = self.dynamic_mlp(past_feat_dynamic_real.squeeze(axis=-1))
 
         # concatenate target and time features to use them as input to the network
-        net_input = F.concat(past_target_scale, past_feat_dynamic_real_scale, dim=-1)
+        # net_input = F.concat(past_target_scale, past_feat_dynamic_real_scale, dim=-1)
+        net_input = F.concat(past_target_scale, static_output, dynamic_output, dim=-1)
 
+        # print(feat_static_real.shape)
+        # print(past_target.shape, past_target_scale.shape)
+        # print(past_feat_dynamic_real.shape, past_feat_dynamic_real_scale.shape)
         # compute network output
         net_output = self.mlp(net_input)
 
@@ -122,7 +136,14 @@ class MyProbTrainNetwork(MyProbNetwork):
 
 class MyProbPredNetwork(MyProbTrainNetwork):
     # The prediction network only receives past_target and returns predictions
-    def hybrid_forward(self, F, past_target, past_observed_values, past_feat_dynamic_real):
+    def hybrid_forward(self,
+                       F,
+                       past_target,
+                       past_observed_values,
+                       feat_static_real,
+                       past_feat_dynamic_real,
+                       future_feat_dynamic_real
+                       ):
         # repeat fields: from (batch_size, past_target_length) to
         # (batch_size * num_sample_paths, past_target_length)
         repeated_past_target = past_target.repeat(
@@ -131,7 +152,13 @@ class MyProbPredNetwork(MyProbTrainNetwork):
         repeated_past_observed_values = past_observed_values.repeat(
             repeats=self.num_sample_paths, axis=0
         )
+        repeated_feat_static_real = feat_static_real.repeat(
+            repeats=self.num_sample_paths, axis=0
+        )
         repeated_past_feat_dynamic_real = past_feat_dynamic_real.repeat(
+            repeats=self.num_sample_paths, axis=0
+        )
+        repeated_future_feat_dynamic_real = future_feat_dynamic_real.repeat(
             repeats=self.num_sample_paths, axis=0
         )
 
@@ -140,10 +167,14 @@ class MyProbPredNetwork(MyProbTrainNetwork):
 
         # scale repeated target and time features
         repeated_past_target_scale = F.broadcast_div(repeated_past_target, scale)
-        repeated_past_feat_dynamic_real_scale = F.broadcast_div(repeated_past_feat_dynamic_real.squeeze(axis=-1), scale)
+        # repeated_past_feat_dynamic_real_scale = F.broadcast_div(repeated_past_feat_dynamic_real.squeeze(axis=-1), scale)
+
+        static_output = self.static_mlp(repeated_feat_static_real)
+        dynamic_output = self.dynamic_mlp(repeated_past_feat_dynamic_real.squeeze(axis=-1))
 
         # concatenate target and time features to use them as input to the network
-        net_input = F.concat(repeated_past_target_scale, repeated_past_feat_dynamic_real_scale, dim=-1)
+        # net_input = F.concat(repeated_past_target_scale, repeated_past_feat_dynamic_real_scale, dim=-1)
+        net_input = F.concat(repeated_past_target_scale, static_output, dynamic_output, dim=-1)
 
         # compute network oputput
         net_output = self.mlp(net_input)
@@ -163,84 +194,3 @@ class MyProbPredNetwork(MyProbTrainNetwork):
         # reshape from (batch_size * num_sample_paths, prediction_length) to
         # (batch_size, num_sample_paths, prediction_length)
         return samples.reshape(shape=(-1, self.num_sample_paths, self.prediction_length))
-
-
-class MyProbEstimator(GluonEstimator):
-    @validated()
-    def __init__(
-            self,
-            prediction_length: int,
-            context_length: int,
-            freq: str,
-            distr_output: DistributionOutput,
-            num_cells: int,
-            num_sample_paths: int = 100,
-            scaling: bool = True,
-            trainer: Trainer = Trainer()
-    ) -> None:
-        super().__init__(trainer=trainer)
-        self.prediction_length = prediction_length
-        self.context_length = context_length
-        self.freq = freq
-        self.distr_output = distr_output
-        self.num_cells = num_cells
-        self.num_sample_paths = num_sample_paths
-        self.scaling = scaling
-
-    def create_transformation(self):
-        # Feature transformation that the model uses for input.
-        return Chain(
-            [
-                AddObservedValuesIndicator(
-                    target_field=FieldName.TARGET,
-                    output_field=FieldName.OBSERVED_VALUES,
-                ),
-                InstanceSplitter(
-                    target_field=FieldName.TARGET,
-                    is_pad_field=FieldName.IS_PAD,
-                    start_field=FieldName.START,
-                    forecast_start_field=FieldName.FORECAST_START,
-                    train_sampler=ExpectedNumInstanceSampler(num_instances=1),
-                    past_length=self.context_length,
-                    future_length=self.prediction_length,
-                    time_series_fields=[
-                        FieldName.FEAT_DYNAMIC_REAL,
-                        FieldName.OBSERVED_VALUES,
-                    ],
-                ),
-
-            ]
-        )
-
-    def create_training_network(self) -> MyProbTrainNetwork:
-        return MyProbTrainNetwork(
-            prediction_length=self.prediction_length,
-            context_length=self.context_length,
-            distr_output=self.distr_output,
-            num_cells=self.num_cells,
-            num_sample_paths=self.num_sample_paths,
-            scaling=self.scaling
-        )
-
-    def create_predictor(
-            self, transformation: Transformation, trained_network: HybridBlock
-    ) -> Predictor:
-        prediction_network = MyProbPredNetwork(
-            prediction_length=self.prediction_length,
-            context_length=self.context_length,
-            distr_output=self.distr_output,
-            num_cells=self.num_cells,
-            num_sample_paths=self.num_sample_paths,
-            scaling=self.scaling
-        )
-
-        copy_parameters(trained_network, prediction_network)
-
-        return RepresentableBlockPredictor(
-            input_transform=transformation,
-            prediction_net=prediction_network,
-            batch_size=self.trainer.batch_size,
-            freq=self.freq,
-            prediction_length=self.prediction_length,
-            ctx=self.trainer.ctx,
-        )

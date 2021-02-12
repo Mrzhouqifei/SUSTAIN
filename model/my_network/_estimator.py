@@ -15,12 +15,14 @@ from mxnet import gluon
 import mxnet as mx
 from gluonts.transform import (
     AddAgeFeature,
+    AddTimeFeatures,
     AddObservedValuesIndicator,
     Chain,
     ExpectedNumInstanceSampler,
     InstanceSplitter,
     SetFieldIfNotPresent,
     AsNumpyArray,
+    VstackFeatures,
 )
 from gluonts.support.util import weighted_average
 
@@ -30,6 +32,38 @@ from ._network import (
     MyProbPredNetwork,
 )
 
+from gluonts.time_feature import (
+    TimeFeature,
+    get_lags_for_frequency,
+    time_features_from_frequency_str,
+)
+
+"""
+    START = "start"
+    TARGET = "target"
+
+    FEAT_STATIC_CAT = "feat_static_cat"
+    FEAT_STATIC_REAL = "feat_static_real"
+    FEAT_DYNAMIC_CAT = "feat_dynamic_cat"
+    FEAT_DYNAMIC_REAL = "feat_dynamic_real"
+    PAST_FEAT_DYNAMIC_REAL = "past_feat_dynamic_real"
+    FEAT_DYNAMIC_REAL_LEGACY = "dynamic_feat"
+
+    FEAT_DYNAMIC = "feat_dynamic"
+    PAST_FEAT_DYNAMIC = "past_feat_dynamic"
+
+    FEAT_DYNAMIC = "feat_dynamic"
+
+    FEAT_TIME = "time_feat"
+    FEAT_CONST = "feat_dynamic_const"
+    FEAT_AGE = "feat_dynamic_age"
+
+    OBSERVED_VALUES = "observed_values"
+    IS_PAD = "is_pad"
+    FORECAST_START = "forecast_start"
+
+    TARGET_DIM_INDICATOR = "target_dimension_indicator"
+"""
 
 class MyProbEstimator(GluonEstimator):
     @validated()
@@ -52,6 +86,8 @@ class MyProbEstimator(GluonEstimator):
         self.num_cells = num_cells
         self.num_sample_paths = num_sample_paths
         self.scaling = scaling
+        self.time_features = time_features_from_frequency_str(self.freq)
+
 
     def create_transformation(self):
         # Feature transformation that the model uses for input.
@@ -65,6 +101,17 @@ class MyProbEstimator(GluonEstimator):
                 AddObservedValuesIndicator(
                     target_field=FieldName.TARGET,
                     output_field=FieldName.OBSERVED_VALUES,
+                ),
+                AddTimeFeatures(
+                    start_field=FieldName.START,
+                    target_field=FieldName.TARGET,
+                    output_field=FieldName.FEAT_TIME,
+                    time_features=self.time_features,
+                    pred_length=self.prediction_length,
+                ),
+                VstackFeatures(
+                    output_field=FieldName.FEAT_DYNAMIC_REAL,
+                    input_fields=[FieldName.FEAT_TIME, FieldName.FEAT_DYNAMIC_REAL]
                 ),
                 InstanceSplitter(
                     target_field=FieldName.TARGET,

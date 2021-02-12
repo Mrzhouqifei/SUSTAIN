@@ -60,6 +60,8 @@ class MyProbNetwork(gluon.HybridBlock):
                     )
                 )
             )
+            # future mlp
+            
 
             if scaling:
                 self.scaler = MeanScaler(keepdims=True)
@@ -103,7 +105,8 @@ class MyProbTrainNetwork(MyProbNetwork):
         # past_feat_dynamic_real_scale = F.broadcast_div(past_feat_dynamic_real.squeeze(axis=-1), scale)
 
         static_output = self.static_mlp(feat_static_real)
-        dynamic_output = self.dynamic_mlp(past_feat_dynamic_real.squeeze(axis=-1))
+        past_feat_dynamic_real = past_feat_dynamic_real.reshape(past_feat_dynamic_real.shape[0], -1)
+        dynamic_output = self.dynamic_mlp(past_feat_dynamic_real)
 
         # concatenate target and time features to use them as input to the network
         # net_input = F.concat(past_target_scale, past_feat_dynamic_real_scale, dim=-1)
@@ -117,6 +120,8 @@ class MyProbTrainNetwork(MyProbNetwork):
 
         # (batch, prediction_length * nn_features)  ->  (batch, prediction_length, nn_features)
         net_output = net_output.reshape(0, self.prediction_length, -1)
+
+        # future mlp
 
         # project network output to distribution parameters domain
         distr_args = self.proj_distr_args(net_output)
@@ -170,7 +175,8 @@ class MyProbPredNetwork(MyProbTrainNetwork):
         # repeated_past_feat_dynamic_real_scale = F.broadcast_div(repeated_past_feat_dynamic_real.squeeze(axis=-1), scale)
 
         static_output = self.static_mlp(repeated_feat_static_real)
-        dynamic_output = self.dynamic_mlp(repeated_past_feat_dynamic_real.squeeze(axis=-1))
+        repeated_past_feat_dynamic_real = repeated_past_feat_dynamic_real.reshape(repeated_past_feat_dynamic_real.shape[0], -1)
+        dynamic_output = self.dynamic_mlp(repeated_past_feat_dynamic_real)
 
         # concatenate target and time features to use them as input to the network
         # net_input = F.concat(repeated_past_target_scale, repeated_past_feat_dynamic_real_scale, dim=-1)

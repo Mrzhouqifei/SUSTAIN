@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from gluonts.mx.trainer import Trainer
 from gluonts.evaluation.backtest import make_evaluation_predictions
 from gluonts.mx.distribution import StudentTOutput
@@ -36,27 +37,30 @@ def main(series_category='confirmed'):
     # sampling
     forecasts = list(forecast_it)
 
+    history_series = history_series.iloc[:-metadata['prediction_length']]  # 过滤placehold数据
     history_series.to_csv('output/step_one/'+series_category+'/history.csv')  # 存历史数据
     predict_dict = {
         'median': 0.5,
-        '35quantile': 0.35,
-        '65quantile': 0.65,
-        '10quantile': 0.1,
-        '90quantile': 0.9,
+        'quantile35': 0.35,
+        'quantile65': 0.65,
+        'quantile10': 0.1,
+        'quantile90': 0.9,
     }
-    history_series=history_series.iloc[:-10]    # 测试效果
+
     for key in predict_dict.keys():
         median = []
         for i, country in enumerate(countries):
             median.append(forecasts[i].quantile_ts(predict_dict[key]))
         median = pd.concat(median, axis=1)
         median.columns = countries
-        median.loc[:, :] = target_scaler.inverse_transform(median).astype(int)
+        median.loc[:, :] = np.maximum(target_scaler.inverse_transform(median).astype(int), 0)
         median.loc[history_series.index[-1]] = history_series.iloc[-1]
+
         median = median.sort_index().cumsum().iloc[1:]
         median.to_csv('output/step_one/'+series_category+'/' + key + '.csv')
 
 
 if __name__ == '__main__':
+    # 'confirmed', 'deaths', 'recovered'
     main(series_category='confirmed')
 

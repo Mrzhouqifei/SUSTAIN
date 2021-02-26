@@ -6,7 +6,7 @@ from gluonts.dataset.common import ListDataset
 
 
 def get_target(series, countries):
-    # target (should def a function)，最后添加place holding用来预测
+    # series (should def a function)，最后添加place holding用来预测
 
     process_series = series.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).loc[countries, :].T[
         countries].fillna(0)
@@ -31,7 +31,7 @@ def get_target(series, countries):
     return metadata, target_scaler, target, process_series, process_series_diff
 
 
-def get_static(indicators, countries, indicator_year=2019):
+def get_static(indicators, countries, indicator_year):
     # static covariate (indicators)
     # num_series, indicator num
     indicators_values = indicators.pivot_table(index='Indicator', columns='Country', values=indicator_year)[countries].fillna(0).T
@@ -67,14 +67,16 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
 
 def get_train_data(
         series_category: str = 'confirmed',
+        indicator_year: int = 2019,
 ):
     """
     :param series_category: 'confirmed', 'deaths', 'recovered'
+    :param indicator_year:
     :return:
     """
     # 拿2019年的indicators
     indicators = pd.read_excel('raw_data/SUSTAIN database_08Jan2021_Asia and Latin America.xlsx')[
-        ['Country', 'Indicator', 2019]]
+        ['Country', 'Indicator', indicator_year]]
     policies = pd.read_excel('raw_data/SUSTAIN database_09Jan2021_policies_Asia and Latin America.xlsx')
 
     if series_category == 'deaths':
@@ -90,7 +92,7 @@ def get_train_data(
     policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
 
     metadata, target_scaler, target, process_series, process_series_diff = get_target(series, countries)
-    covariate_s = get_static(indicators, countries, indicator_year=2019)
+    covariate_s = get_static(indicators, countries, indicator_year=indicator_year)
     covariate_d = get_dynamic(policies, policy_names, countries, process_series_diff)
 
     train_ds = ListDataset([{FieldName.TARGET: target,

@@ -77,7 +77,8 @@ def get_train_data(
     # 拿2019年的indicators
     indicators = pd.read_excel('raw_data/SUSTAIN database_08Jan2021_Asia and Latin America.xlsx')[
         ['Country', 'Indicator', indicator_year]]
-    policies = pd.read_excel('raw_data/SUSTAIN database_09Jan2021_policies_Asia and Latin America.xlsx')
+    # policies = pd.read_excel('raw_data/SUSTAIN database_09Jan2021_policies_Asia and Latin America.xlsx')
+    policies = pd.read_excel('raw_data/SUSTAIN database_25Feb2021_policies_Asia and Latin America.xlsx')
 
     if series_category == 'deaths':
         series = pd.read_csv('raw_data/COVID/time_series_covid19_deaths_global.csv')

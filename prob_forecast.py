@@ -16,7 +16,7 @@ def main(series_category='confirmed'):
         context_length=metadata['context_length'],
         freq=metadata['freq'],
         distr_output=StudentTOutput(),
-        num_cells=[8, 8, 64],  # [static dim, dynamic dim, target dim]
+        num_cells=[8, 16, 64],  # [static dim, dynamic dim, target dim]
         scaling=True,
         trainer=Trainer(ctx="cpu",  # gpu(0),
                         epochs=10,
@@ -63,4 +63,6 @@ def main(series_category='confirmed'):
 if __name__ == '__main__':
     # 'confirmed', 'deaths', 'recovered'
     main(series_category='confirmed')
+    main(series_category='deaths')
+    main(series_category='recovered')
 

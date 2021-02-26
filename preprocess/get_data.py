@@ -5,19 +5,30 @@ from gluonts.dataset.field_names import FieldName
 from gluonts.dataset.common import ListDataset
 
 
+def series_place_holding(series, prediction_length):
+    from datetime import timedelta
+    max_date = series.index[-1]
+    for i in range(1, prediction_length + 1):
+        series.loc[max_date + timedelta(days=i)] = 0
+    return series
+
+
 def get_target(series, countries):
     # series (should def a function)，最后添加place holding用来预测
-
     process_series = series.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).loc[countries, :].T[
         countries].fillna(0)
     process_series.index = pd.to_datetime(process_series.index)
+    # prediction place holding
+    prediction_length = 10
+    process_series = series_place_holding(process_series, prediction_length)
+
     process_series_diff = process_series.diff()[1:]  # 预测增量
 
     # define the parameters of the dataset
     metadata = {'num_series': len(countries),
                           'num_steps': len(process_series_diff),
-                          'prediction_length': 10,
-                          'context_length': 10,
+                          'prediction_length': prediction_length,
+                          'context_length': prediction_length,
                           'freq': '1D',
                           'start': [pd.Timestamp(process_series_diff.index[0], freq='1D')
                                     for _ in range(len(countries))]
@@ -48,10 +59,11 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
         tmp = policy[['entity', 'date', policy_name]].pivot_table(index='date', columns='entity', values=policy_name)
         for x in countries:
             if x not in tmp.columns:
-                tmp[x] = 0
+                tmp[x] = 0  # some countries miss some policy data, we fill it with zeros
         tmp = tmp[countries]
         tmp.index = pd.to_datetime(tmp.index)
 
+        # if the policy data can not be update
         for index in process_series_diff.index:
             if index not in tmp.index:
                 tmp.loc[index] = 0
@@ -77,7 +89,6 @@ def get_train_data(
     # 拿2019年的indicators
     indicators = pd.read_excel('raw_data/SUSTAIN database_08Jan2021_Asia and Latin America.xlsx')[
         ['Country', 'Indicator', indicator_year]]
-    # policies = pd.read_excel('raw_data/SUSTAIN database_09Jan2021_policies_Asia and Latin America.xlsx')
     policies = pd.read_excel('raw_data/SUSTAIN database_25Feb2021_policies_Asia and Latin America.xlsx')
 
     if series_category == 'deaths':

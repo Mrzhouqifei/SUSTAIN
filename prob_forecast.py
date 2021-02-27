@@ -37,8 +37,8 @@ def main(series_category='confirmed'):
     # sampling
     forecasts = list(forecast_it)
 
-    history_series = history_series.iloc[:-metadata['prediction_length']]  # 过滤placehold数据
-    history_series.to_csv('output/step_one/'+series_category+'/history.csv')  # 存历史数据
+    history_series = history_series.iloc[:-metadata['prediction_length']]  # filter placehold data
+    history_series.to_csv('output/step_one/'+series_category+'/history.csv')  # save history data
     predict_dict = {
         'median': 0.5,
         'quantile35': 0.35,
@@ -65,4 +65,7 @@ if __name__ == '__main__':
     main(series_category='confirmed')
     main(series_category='deaths')
     main(series_category='recovered')
+
+    # pip install pipreqs
+    # pipreqs . --encoding=utf8 --force
 

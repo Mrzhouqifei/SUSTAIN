@@ -77,6 +77,13 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
     return covariate_d
 
 
+def download_data(series_category):
+    url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_' + series_category + '_global.csv'
+    df = pd.read_csv(url)
+    df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
+    return df
+
+
 def get_train_data(
         series_category: str = 'confirmed',
         indicator_year: int = 2019,
@@ -90,13 +97,10 @@ def get_train_data(
     indicators = pd.read_excel('raw_data/SUSTAIN database_08Jan2021_Asia and Latin America.xlsx')[
         ['Country', 'Indicator', indicator_year]]
     policies = pd.read_excel('raw_data/SUSTAIN database_25Feb2021_policies_Asia and Latin America.xlsx')
-
-    if series_category == 'deaths':
-        series = pd.read_csv('raw_data/COVID/time_series_covid19_deaths_global.csv')
-    elif series_category == 'recovered':
-        series = pd.read_csv('raw_data/COVID/time_series_covid19_recovered_global.csv')
-    else:
-        series = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv')
+    try:
+        series = download_data(series_category)
+    except:
+        series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
 
     countries = sorted(list(
         set(policies.entity).intersection(set(series['Country/Region'])).intersection(set(indicators['Country']))))

@@ -103,12 +103,12 @@ def calculate_rate(numerator, denominator, res_name):
 
 if __name__ == '__main__':
     # 'confirmed', 'deaths', 'recovered'
-    # main(series_category='confirmed')
-    # main(series_category='deaths')
-    # main(series_category='recovered')
+    main(series_category='confirmed')
+    main(series_category='deaths')
+    main(series_category='recovered')
 
     # mortality/recovery rate 死亡率恢复率
-    # calculate_rate('deaths', 'confirmed', 'mortality')
+    calculate_rate('deaths', 'confirmed', 'mortality')
     calculate_rate('recovered', 'confirmed', 'recovery')
 
 

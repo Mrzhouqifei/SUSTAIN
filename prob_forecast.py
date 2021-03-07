@@ -60,11 +60,58 @@ def main(series_category='confirmed'):
         median.to_csv('output/step_one/'+series_category+'/' + key + '.csv')
 
 
+def result_read(series_category):
+    history = pd.read_csv('output/step_one/' + series_category + '/' + 'history.csv', index_col=0)
+    median = pd.read_csv('output/step_one/' + series_category + '/' + 'median.csv', index_col=0)
+    quantile10 = pd.read_csv('output/step_one/' + series_category + '/' + 'quantile10.csv', index_col=0)
+    quantile90 = pd.read_csv('output/step_one/' + series_category + '/' + 'quantile90.csv', index_col=0)
+    quantile35 = pd.read_csv('output/step_one/' + series_category + '/' + 'quantile35.csv', index_col=0)
+    quantile65 = pd.read_csv('output/step_one/' + series_category + '/' + 'quantile65.csv', index_col=0)
+
+    history.index = pd.to_datetime(history.index)
+    median.index = pd.to_datetime(median.index)
+    quantile10.index = pd.to_datetime(quantile10.index)
+    quantile90.index = pd.to_datetime(quantile90.index)
+    quantile35.index = pd.to_datetime(quantile35.index)
+    quantile65.index = pd.to_datetime(quantile65.index)
+    res_dict = {}
+    res_dict['history'] = history
+    res_dict['median'] = median
+    res_dict['quantile10'] = quantile10
+    res_dict['quantile90'] = quantile90
+    res_dict['quantile35'] = quantile35
+    res_dict['quantile65'] = quantile65
+    return res_dict
+
+
+def calculate_rate(numerator, denominator, res_name):
+    """
+    :param numerator: 分子
+    :param denominator: 分母
+    :return:
+    """
+    # rate_dict = {}
+    numerator_dict = result_read(numerator)
+    denominator_dict = result_read(denominator)
+    names = ['history', 'median', 'quantile10', 'quantile90', 'quantile35', 'quantile65']
+    for name in names:
+        # rate_dict[name] = numerator_dict[name] / denominator_dict[name]
+        tmp = numerator_dict[name] / denominator_dict[name]
+        tmp.to_csv('output/step_one/' + res_name + '/' + name + '.csv')
+
+
+
 if __name__ == '__main__':
     # 'confirmed', 'deaths', 'recovered'
-    main(series_category='confirmed')
-    main(series_category='deaths')
-    main(series_category='recovered')
+    # main(series_category='confirmed')
+    # main(series_category='deaths')
+    # main(series_category='recovered')
+
+    # mortality/recovery rate 死亡率恢复率
+    # calculate_rate('deaths', 'confirmed', 'mortality')
+    calculate_rate('recovered', 'confirmed', 'recovery')
+
+
 
     # pip install pipreqs
     # pipreqs . --encoding=utf8 --force

@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from gluonts.dataset.field_names import FieldName
 from gluonts.dataset.common import ListDataset
+from preprocess.download_data import download_covid_data
 
 
 def series_place_holding(series, prediction_length):
@@ -77,13 +78,6 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
     return covariate_d
 
 
-def download_data(series_category):
-    url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_' + series_category + '_global.csv'
-    df = pd.read_csv(url)
-    df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
-    return df
-
-
 def get_train_data(
         series_category: str = 'confirmed',
         indicator_year: int = 2019,
@@ -94,11 +88,11 @@ def get_train_data(
     :return:
     """
     # 拿2019年的indicators
-    indicators = pd.read_excel('raw_data/SUSTAIN database_08Jan2021_Asia and Latin America.xlsx')[
+    indicators = pd.read_excel('raw_data/indicators.xlsx')[
         ['Country', 'Indicator', indicator_year]]
-    policies = pd.read_excel('raw_data/SUSTAIN database_25Feb2021_policies_Asia and Latin America.xlsx')
+    policies = pd.read_excel('raw_data/policies.xlsx')
     try:
-        series = download_data(series_category)
+        series = download_covid_data(series_category)
     except:
         series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
 

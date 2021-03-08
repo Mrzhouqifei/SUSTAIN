@@ -5,7 +5,7 @@ from gluonts.evaluation.backtest import make_evaluation_predictions
 from gluonts.mx.distribution import StudentTOutput
 from model.my_network import MyProbEstimator
 from preprocess.get_data import get_train_data
-
+from preprocess.download_data import download_policy_indicator
 
 def main(series_category='confirmed'):
     # 'confirmed', 'deaths', 'recovered'
@@ -102,6 +102,9 @@ def calculate_rate(numerator, denominator, res_name):
 
 
 if __name__ == '__main__':
+    # update indicator and policy
+    download_policy_indicator()
+
     # 'confirmed', 'deaths', 'recovered'
     main(series_category='confirmed')
     main(series_category='deaths')
@@ -110,8 +113,6 @@ if __name__ == '__main__':
     # mortality/recovery rate 死亡率恢复率
     calculate_rate('deaths', 'confirmed', 'mortality')
     calculate_rate('recovered', 'confirmed', 'recovery')
-
-
 
     # pip install pipreqs
     # pipreqs . --encoding=utf8 --force

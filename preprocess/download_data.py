@@ -34,10 +34,18 @@ def save_response_content(response, destination):
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
 
+
 def download_covid_data(series_category):
     url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_' + series_category + '_global.csv'
     df = pd.read_csv(url)
     df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
+    return df
+
+
+def download_policy():
+    url = "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv"
+    df = pd.read_csv(url)
+    df.to_csv('raw_data/policies.csv')
     return df
 
 

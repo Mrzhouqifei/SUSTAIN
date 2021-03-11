@@ -103,7 +103,7 @@ def calculate_rate(numerator, denominator, res_name):
 
 if __name__ == '__main__':
     # update indicator and policy
-    download_policy_indicator()
+    # download_policy_indicator()
 
     # 'confirmed', 'deaths', 'recovered'
     main(series_category='confirmed')

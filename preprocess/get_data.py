@@ -46,7 +46,7 @@ def get_target(series, countries):
 def get_static(indicators, countries, indicator_year):
     # static covariate (indicators)
     # num_series, indicator num
-    indicators_values = indicators.pivot_table(index='Indicator', columns='Country', values=indicator_year)[countries].fillna(0).T
+    indicators_values = indicators.pivot_table(index=['Indicator', 'Unit'], columns='Country', values=indicator_year)[countries].fillna(0).T
     # 对每一个indicator不同国家的值进行scale
     covariate_s = MinMaxScaler().fit_transform(indicators_values)
     return covariate_s
@@ -89,7 +89,7 @@ def get_train_data(
     """
     # 拿2019年的indicators
     indicators = pd.read_excel('raw_data/indicators.xlsx')[
-        ['Country', 'Indicator', indicator_year]]
+        ['Country', 'Indicator', 'Unit', indicator_year]]
     policies = pd.read_excel('raw_data/policies.xlsx')
     try:
         series = download_covid_data(series_category)

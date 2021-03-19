@@ -1,221 +1,221 @@
 Policy,Indicator,importance
-workplaces,"('Political stability and absence of violence/terrorism estimate', 'score')",0.2532378289591451
-workplaces,"('Fixed broadband subscriptions', 'number')",0.09690486194179834
-workplaces,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0776513172462807
-workplaces,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.03630749208272326
-workplaces,"('Mobile cellular subscriptions', 'per 100 people')",0.02716838936735854
-workplaces,"('General government net lending/borrowing', 'percent of GDP')",0.023871495139545198
-workplaces,"('Population ages 65 and above (% of total population)', 'proportion')",0.020474673080882144
-workplaces,"('Press freedom ranking', 'rank')",0.019561133102189467
-workplaces,"('Volume of imports', 'percent change')",0.018458915139003884
-workplaces,"('Net migration', 'net total / data are 5 year estimates')",0.012384244627604147
-grocery_and_pharmacy,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.256294463374175
-grocery_and_pharmacy,"('Fixed broadband subscriptions', 'number')",0.0984999426525887
-grocery_and_pharmacy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.08016330428563735
-grocery_and_pharmacy,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.028041184835948085
-grocery_and_pharmacy,"('Mobile cellular subscriptions', 'per 100 people')",0.02784957377830674
-grocery_and_pharmacy,"('General government net lending/borrowing', 'percent of GDP')",0.023562660501348167
-grocery_and_pharmacy,"('Population ages 65 and above, male (% of male population)', 'proportion')",0.019390953626389634
-grocery_and_pharmacy,"('Volume of imports', 'percent change')",0.019166321455295718
-grocery_and_pharmacy,"('Prevalence of total cancers', 'percent')",0.01850797390595599
-grocery_and_pharmacy,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.013930594921167392
-parks,"('Political stability and absence of violence/terrorism estimate', 'score')",0.2477485145796328
-parks,"('Fixed broadband subscriptions', 'number')",0.11185806715847262
-parks,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07043245744724405
-parks,"('Mobile cellular subscriptions', 'per 100 people')",0.027424239076712934
-parks,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.025872590261173407
-parks,"('General government net lending/borrowing', 'percent of GDP')",0.024464435462798736
-parks,"('Balance on goods (% of GDP)', 'percent')",0.022659517558612806
-parks,"('Volume of imports', 'percent change')",0.01853677925521098
-parks,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.012146087743453575
-parks,"('Press freedom score', 'score')",0.012014578075909645
-retail_and_recreation,"('Control of corruption estimate', 'score')",0.24492979531199058
-retail_and_recreation,"('Fixed broadband subscriptions', 'number')",0.09617855119821551
-retail_and_recreation,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07658025355671418
-retail_and_recreation,"('Press freedom ranking', 'rank')",0.03960471896632826
-retail_and_recreation,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.03928951230557526
-retail_and_recreation,"('Mobile cellular subscriptions', 'per 100 people')",0.027095754045972593
-retail_and_recreation,"('General government net lending/borrowing', 'percent of GDP')",0.025675475452813325
-retail_and_recreation,"('Population ages 60-64, male (% of male population)', 'proportion')",0.01871656663833641
-retail_and_recreation,"('Volume of imports', 'percent change')",0.018345323210619466
-retail_and_recreation,"('Net migration', 'net total / data are 5 year estimates')",0.01218287035101614
-residential,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.2721518581195651
-residential,"('Fixed broadband subscriptions', 'number')",0.10556392692629452
-residential,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.08304612793040536
-residential,"('Mobile cellular subscriptions', 'per 100 people')",0.04617088545214833
-residential,"('Mobile cellular subscriptions', 'number')",0.03358731874252078
-residential,"('General government net lending/borrowing', 'percent of GDP')",0.02489855769101063
-residential,"('Population ages 30-34, male (% of male population)', 'proportion')",0.021840004584849023
-residential,"('Volume of imports', 'percent change')",0.019874692002186743
-residential,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.016694821980557075
-residential,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.013578560536292623
-testing_policy,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3543113914124979
-testing_policy,"('Fixed broadband subscriptions', 'number')",0.13488081258193005
-testing_policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10932000726904517
-testing_policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.05513053607497217
-testing_policy,"('Mobile cellular subscriptions', 'per 100 people')",0.03863636062787333
-testing_policy,"('General government net lending/borrowing', 'percent of GDP')",0.035982587896247434
-testing_policy,"('Population ages 80 and above, female (% of female population)', 'proportion')",0.026674140144274133
-testing_policy,"('Volume of imports', 'percent change')",0.025719731735080395
-testing_policy,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.024068209768742514
-testing_policy,"('Net migration', 'net total / data are 5 year estimates')",0.01624870692709021
-contact_tracing,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.36112045717732155
-contact_tracing,"('Fixed broadband subscriptions', 'number')",0.13915580134862374
-contact_tracing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10046549987485556
-contact_tracing,"('Mobile cellular subscriptions', 'per 100 people')",0.04002033646081056
-contact_tracing,"('Press freedom score', 'score')",0.03550271030745811
-contact_tracing,"('General government net lending/borrowing', 'percent of GDP')",0.03530355959849328
-contact_tracing,"('Population ages 55-59, male (% of male population)', 'proportion')",0.02742676737491996
-contact_tracing,"('Volume of imports', 'percent change')",0.026575250357220595
-contact_tracing,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.025201944832376637
-contact_tracing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.017126366134867062
-containment_index,"('Government effectiveness estimate', 'score')",0.2513923688551386
-containment_index,"('Fixed broadband subscriptions', 'number')",0.09645117671461576
-containment_index,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07012129218962368
-containment_index,"('Press freedom ranking', 'rank')",0.03559636361595988
-containment_index,"('Mobile cellular subscriptions', 'per 100 people')",0.02670732315901528
-containment_index,"('General government net lending/borrowing', 'percent of GDP')",0.02514108504725956
-containment_index,"('Population ages 65 and above, male (% of male population)', 'proportion')",0.01883793040854303
-containment_index,"('Volume of imports', 'percent change')",0.018261052510739922
-containment_index,"('Press freedom score', 'score')",0.012310094094182196
-containment_index,"('Net migration', 'net total / data are 5 year estimates')",0.011330880331521
-stringency_index,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.25249798657761624
-stringency_index,"('Fixed broadband subscriptions', 'number')",0.09716998913500341
-stringency_index,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07007845311535
-stringency_index,"('Mobile cellular subscriptions', 'number')",0.03730801397237563
-stringency_index,"('Mobile cellular subscriptions', 'per 100 people')",0.030565307035949795
-stringency_index,"('General government net lending/borrowing', 'percent of GDP')",0.02367518772048727
-stringency_index,"('Volume of exports', 'percent change')",0.020713170106455882
-stringency_index,"('Volume of imports', 'percent change')",0.019967427121206967
-stringency_index,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.014557228074223773
-stringency_index,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.013060311178889691
-vaccination_policy,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3886731432650772
-vaccination_policy,"('Fixed broadband subscriptions', 'number')",0.1455596205450507
-vaccination_policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.14376358959192842
-vaccination_policy,"('Mobile cellular subscriptions', 'per 100 people')",0.041377958299021196
-vaccination_policy,"('General government net lending/borrowing', 'percent of GDP')",0.03610903332175978
-vaccination_policy,"('Urban population (% of total population)', 'total')",0.029109209140930077
-vaccination_policy,"('Volume of imports', 'percent change')",0.02820453974649286
-vaccination_policy,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.026011054440630083
-vaccination_policy,"('Net migration', 'net total / data are 5 year estimates')",0.019488880598715924
-vaccination_policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.01780942302609707
-debt_relief,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",0.34639179584174673
-debt_relief,"('Fixed broadband subscriptions', 'number')",0.12951685851261438
-debt_relief,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09352872987264318
-debt_relief,"('Press freedom score', 'score')",0.06211332825520121
-debt_relief,"('General government net lending/borrowing', 'percent of GDP')",0.03852382522682642
-debt_relief,"('Mobile cellular subscriptions', 'per 100 people')",0.037209330556657594
-debt_relief,"('Population ages 35-39, male (% of male population)', 'proportion')",0.02564277977183428
-debt_relief,"('Volume of imports', 'percent change')",0.024886851737793942
-debt_relief,"('Total investment', 'percent of GDP')",0.023908346643198252
-debt_relief,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.017218946299762294
-facial_coverings,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.32628355854000135
-facial_coverings,"('Fixed broadband subscriptions', 'number')",0.12411607980676616
-facial_coverings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.08972997360315367
-facial_coverings,"('Mobile cellular subscriptions', 'per 100 people')",0.03758970456231592
-facial_coverings,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.031762732213679555
-facial_coverings,"('General government net lending/borrowing', 'percent of GDP')",0.030232721725918194
-facial_coverings,"('Volume of imports', 'percent change')",0.02790304159928417
-facial_coverings,"('Press freedom score', 'score')",0.026335151809797952
-facial_coverings,"('Population ages 65 and above, male (% of male population)', 'proportion')",0.02440957342431955
-facial_coverings,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.015748052885752845
-income_support,"('Political stability and absence of violence/terrorism estimate', 'score')",0.34727279401564715
-income_support,"('Fixed broadband subscriptions', 'number')",0.13197599788668934
-income_support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10557294890589329
-income_support,"('Mobile cellular subscriptions', 'number')",0.04194423713140698
-income_support,"('Mobile cellular subscriptions', 'per 100 people')",0.03694208472983205
-income_support,"('General government net lending/borrowing', 'percent of GDP')",0.03163415765665656
-income_support,"('Population in the largest city (% of urban population)', 'proportion')",0.026626847613194546
-income_support,"('Volume of imports', 'percent change')",0.025707577079941566
-income_support,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.023290079695039732
-income_support,"('Net migration', 'net total / data are 5 year estimates')",0.015873303685516153
-restrictions_internal_movements,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.3298348062867022
-restrictions_internal_movements,"('Fixed broadband subscriptions', 'number')",0.17444762620760115
-restrictions_internal_movements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09149477226508342
-restrictions_internal_movements,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.04875716536265876
-restrictions_internal_movements,"('Mobile cellular subscriptions', 'per 100 people')",0.03610829973592006
-restrictions_internal_movements,"('General government net lending/borrowing', 'percent of GDP')",0.030486860450701297
-restrictions_internal_movements,"('Population ages 65-69, female (% of female population)', 'proportion')",0.02547320123029378
-restrictions_internal_movements,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.025312700889496352
-restrictions_internal_movements,"('Volume of imports', 'percent change')",0.02420901386970385
-restrictions_internal_movements,"('Press freedom ranking', 'rank')",0.015363614190492552
-international_travel_controls,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.3422384765245711
-international_travel_controls,"('Fixed broadband subscriptions', 'number')",0.13030574123508765
-international_travel_controls,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.12695265258735705
-international_travel_controls,"('Mobile cellular subscriptions', 'per 100 people')",0.037221654634365414
-international_travel_controls,"('General government net lending/borrowing', 'percent of GDP')",0.03478979014987519
-international_travel_controls,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.02568723499781979
-international_travel_controls,"('Volume of imports', 'percent change')",0.024998987848833858
-international_travel_controls,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.02305758882586817
-international_travel_controls,"('Net migration', 'net total / data are 5 year estimates')",0.019446857769206544
-international_travel_controls,"('Press freedom ranking', 'rank')",0.016594532972005742
-public_information_campaigns,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.3723860904349538
-public_information_campaigns,"('Fixed broadband subscriptions', 'number')",0.14388045455868206
-public_information_campaigns,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.1395449113034132
-public_information_campaigns,"('Mobile cellular subscriptions', 'per 100 people')",0.04056073241539147
-public_information_campaigns,"('General government net lending/borrowing', 'percent of GDP')",0.03764666094846927
-public_information_campaigns,"('Volume of imports', 'percent change')",0.030445021418830695
-public_information_campaigns,"('Population ages 65 and above, male (% of male population)', 'proportion')",0.028254827237241993
-public_information_campaigns,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.024864505896237905
-public_information_campaigns,"('Net migration', 'net total / data are 5 year estimates')",0.018145550733653558
-public_information_campaigns,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.01729728207051992
-cancel_public_events,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",0.34728870525972955
-cancel_public_events,"('Fixed broadband subscriptions', 'number')",0.13019586603159058
-cancel_public_events,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.12703829713390435
-cancel_public_events,"('Mobile cellular subscriptions', 'per 100 people')",0.036246765245034944
-cancel_public_events,"('General government net lending/borrowing', 'percent of GDP')",0.03174636387173422
-cancel_public_events,"('Press freedom ranking', 'rank')",0.025710246419573396
-cancel_public_events,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.025666080883446782
-cancel_public_events,"('Volume of imports', 'percent change')",0.02511958353766368
-cancel_public_events,"('Population ages 0-14, female', 'proportion')",0.023444819845944313
-cancel_public_events,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.015998225346210707
-restriction_gatherings,"('Control of corruption estimate', 'score')",0.3278468008854495
-restriction_gatherings,"('Fixed broadband subscriptions', 'number')",0.12661533300833738
-restriction_gatherings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09089252685838281
-restriction_gatherings,"('General government net lending/borrowing', 'percent of GDP')",0.040972417191671745
-restriction_gatherings,"('Mobile cellular subscriptions', 'per 100 people')",0.0364157119692289
-restriction_gatherings,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.03490409573356002
-restriction_gatherings,"('Population ages 25-29, female (% of female population)', 'proportion')",0.03349586223430486
-restriction_gatherings,"('Population ages 65 and above, male (% of male population)', 'proportion')",0.024899589755288352
-restriction_gatherings,"('Volume of imports', 'percent change')",0.024506697010139588
-restriction_gatherings,"('Press freedom ranking', 'rank')",0.015695268339500832
-close_public_transport,"('Control of corruption estimate', 'score')",0.33862455502933075
-close_public_transport,"('Fixed broadband subscriptions', 'number')",0.15415726924754963
-close_public_transport,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.12675581314870163
-close_public_transport,"('Mobile cellular subscriptions', 'per 100 people')",0.057241378584432984
-close_public_transport,"('General government net lending/borrowing', 'percent of GDP')",0.03120070267838695
-close_public_transport,"('Volume of imports', 'percent change')",0.026149224079194705
-close_public_transport,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.025972729478503882
-close_public_transport,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.0161285678799583
-close_public_transport,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.01546323558689882
-close_public_transport,"('Prevalence of Hypertensive heart disease', 'percent')",0.015354917041266158
-school_closures,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.31328745731678387
-school_closures,"('Fixed broadband subscriptions', 'number')",0.12437986966164262
-school_closures,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0868044425357339
-school_closures,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.04550302072216082
-school_closures,"('Age dependency ratio (% of working-age population)', 'proportion')",0.04088412365413507
-school_closures,"('Mobile cellular subscriptions', 'per 100 people')",0.034268822934579155
-school_closures,"('General government net lending/borrowing', 'percent of GDP')",0.02889197708064202
-school_closures,"('Volume of imports', 'percent change')",0.02443939425431678
-school_closures,"('Population ages 70-74, male (% of male population)', 'proportion')",0.02378045005157582
-school_closures,"('Net migration', 'net total / data are 5 year estimates')",0.0173813417891509
-stay_home_requirements,"('Government effectiveness estimate', 'score')",0.3290498157727946
-stay_home_requirements,"('Fixed broadband subscriptions', 'number')",0.12862019268885588
-stay_home_requirements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09114772490755718
-stay_home_requirements,"('Mobile cellular subscriptions', 'per 100 people')",0.035354559639436414
-stay_home_requirements,"('Press freedom ranking', 'rank')",0.03456686901106944
-stay_home_requirements,"('Interest rate on savings deposits', 'percent per annum')",0.032904590441864584
-stay_home_requirements,"('General government net lending/borrowing', 'percent of GDP')",0.030688023612121033
-stay_home_requirements,"('Volume of imports', 'percent change')",0.026990630804565596
-stay_home_requirements,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.024991031586808623
-stay_home_requirements,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.02265884709147479
-workplace_closures,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.3184931842484735
-workplace_closures,"('Fixed broadband subscriptions', 'number')",0.12221498677267001
-workplace_closures,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.11885732067428897
-workplace_closures,"('Mobile cellular subscriptions', 'per 100 people')",0.03402934374229904
-workplace_closures,"('General government net lending/borrowing', 'percent of GDP')",0.029225313972931516
-workplace_closures,"('Age dependency ratio, young (% of working-age population)', 'proportion')",0.027034199392444506
-workplace_closures,"('Population ages 35-39, male (% of male population)', 'proportion')",0.024061649668129334
-workplace_closures,"('Volume of imports', 'percent change')",0.02355382541730451
-workplace_closures,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.0192111484870434
-workplace_closures,"('Net migration', 'net total / data are 5 year estimates')",0.015263561021132245
+workplaces,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.2510439402780326
+workplaces,"('Fixed broadband subscriptions', 'number')",0.09646198170579971
+workplaces,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07704549039538408
+workplaces,"('Mobile cellular subscriptions', 'number')",0.0318833828199535
+workplaces,"('Mobile cellular subscriptions', 'per 100 people')",0.02802435503953956
+workplaces,"('General government net lending/borrowing', 'percent of GDP')",0.02671694750086137
+workplaces,"('Population ages 60-64, male (% of male population)', 'proportion')",0.020466495380509597
+workplaces,"('Press freedom ranking', 'rank')",0.018636531070743066
+workplaces,"('Volume of imports', 'percent change')",0.018514810757106273
+workplaces,"('Net migration', 'net total / data are 5 year estimates')",0.011740889712168986
+grocery_and_pharmacy,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.25516887572183866
+grocery_and_pharmacy,"('Fixed broadband subscriptions', 'number')",0.09862909538683325
+grocery_and_pharmacy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07101820903292802
+grocery_and_pharmacy,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.028603624916458986
+grocery_and_pharmacy,"('Mobile cellular subscriptions', 'per 100 people')",0.027728306295307786
+grocery_and_pharmacy,"('General government net lending/borrowing', 'percent of GDP')",0.023715968345249187
+grocery_and_pharmacy,"('Volume of imports', 'percent change')",0.019922766191840302
+grocery_and_pharmacy,"('Population ages 55-59, male (% of male population)', 'proportion')",0.019401411536342384
+grocery_and_pharmacy,"('Prevalence of total cancers', 'percent')",0.018232971453202955
+grocery_and_pharmacy,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",0.013327588831134678
+parks,"('Government effectiveness estimate', 'score')",0.24509595351256605
+parks,"('Fixed broadband subscriptions', 'number')",0.11685978061086462
+parks,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07561757156101268
+parks,"('Press freedom score', 'score')",0.04119825245647077
+parks,"('Mobile cellular subscriptions', 'per 100 people')",0.027519873713739245
+parks,"('General government net lending/borrowing', 'percent of GDP')",0.023882540019797692
+parks,"('Volume of imports', 'percent change')",0.020619508784381374
+parks,"('Fixed telephone subscriptions', 'number')",0.01910144817532797
+parks,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.012936552301371916
+parks,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.012186178302906843
+retail_and_recreation,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.24483508180222502
+retail_and_recreation,"('Fixed broadband subscriptions', 'number')",0.0950204184253085
+retail_and_recreation,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0689968760708674
+retail_and_recreation,"('Control of corruption estimate', 'score')",0.029728423077278073
+retail_and_recreation,"('Mobile cellular subscriptions', 'per 100 people')",0.026405656182611568
+retail_and_recreation,"('General government net lending/borrowing', 'percent of GDP')",0.02526702611308268
+retail_and_recreation,"('Press freedom score', 'score')",0.02425878869572836
+retail_and_recreation,"('Volume of imports', 'percent change')",0.01862894146213816
+retail_and_recreation,"('Population in the largest city (% of urban population)', 'proportion')",0.018593332987987918
+retail_and_recreation,"('Press freedom ranking', 'rank')",0.0129868793794869
+residential,"('Control of corruption estimate', 'score')",0.27463949240047913
+residential,"('Fixed broadband subscriptions', 'number')",0.1052724019341719
+residential,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07525784095862091
+residential,"('Mobile cellular subscriptions', 'number')",0.034232585311550774
+residential,"('Mobile cellular subscriptions', 'per 100 people')",0.030656657463755402
+residential,"('General government net lending/borrowing', 'percent of GDP')",0.02764148614540688
+residential,"('Population in the largest city (% of urban population)', 'proportion')",0.020538787155846016
+residential,"('Volume of imports', 'percent change')",0.020261246363961857
+residential,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.018918974279012683
+residential,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.017162943212371298
+testing_policy,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.35075445409066874
+testing_policy,"('Fixed broadband subscriptions', 'number')",0.1348943360779937
+testing_policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0985669222462862
+testing_policy,"('Mobile cellular subscriptions', 'per 100 people')",0.037501611289117984
+testing_policy,"('Press freedom score', 'score')",0.03466653097426235
+testing_policy,"('General government net lending/borrowing', 'percent of GDP')",0.03225389007893307
+testing_policy,"('Volume of imports', 'percent change')",0.030130346517396066
+testing_policy,"('Population ages 55-59, male (% of male population)', 'proportion')",0.029334937192053833
+testing_policy,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.024073191836792747
+testing_policy,"('Net migration', 'net total / data are 5 year estimates')",0.015750370546247207
+contact_tracing,"('Control of corruption estimate', 'score')",0.3612021627203209
+contact_tracing,"('Fixed broadband subscriptions', 'number')",0.13920509800233988
+contact_tracing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10021743103504864
+contact_tracing,"('Mobile cellular subscriptions', 'number')",0.044124540918765214
+contact_tracing,"('Mobile cellular subscriptions', 'per 100 people')",0.03878449068305968
+contact_tracing,"('General government net lending/borrowing', 'percent of GDP')",0.033949087294366416
+contact_tracing,"('Volume of imports', 'percent change')",0.029435854592443494
+contact_tracing,"('Population ages 40-44, male (% of male population)', 'proportion')",0.027561485581208613
+contact_tracing,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.024507237774904198
+contact_tracing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.016518262833128638
+containment_index,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.24906617556797644
+containment_index,"('Fixed broadband subscriptions', 'number')",0.09685738428197237
+containment_index,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.06988536240336307
+containment_index,"('Mobile cellular subscriptions', 'per 100 people')",0.02702493844075791
+containment_index,"('Press freedom score', 'score')",0.024943082303649007
+containment_index,"('General government net lending/borrowing', 'percent of GDP')",0.02288124372662467
+containment_index,"('Population ages 80 and above, female (% of female population)', 'proportion')",0.018837930408538487
+containment_index,"('Volume of imports', 'percent change')",0.018331462419721577
+containment_index,"('Press freedom ranking', 'rank')",0.01771732359872231
+containment_index,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.015313058156387635
+stringency_index,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.25332310776876826
+stringency_index,"('Fixed broadband subscriptions', 'number')",0.09721043354340618
+stringency_index,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0702056500098678
+stringency_index,"('Mobile cellular subscriptions', 'number')",0.04077722987332174
+stringency_index,"('Expenditure on health (% of GDP)', 'percent')",0.0324215402845103
+stringency_index,"('Mobile cellular subscriptions', 'per 100 people')",0.02740109285066313
+stringency_index,"('General government net lending/borrowing', 'percent of GDP')",0.023260967012903512
+stringency_index,"('Volume of imports', 'percent change')",0.0193785182285492
+stringency_index,"('Population ages 65 and above, female (% of female population)', 'proportion')",0.019144511517633103
+stringency_index,"('Press freedom ranking', 'rank')",0.017120418455887198
+vaccination_policy,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.3833638240606171
+vaccination_policy,"('Fixed broadband subscriptions', 'number')",0.14767507975371666
+vaccination_policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10617915772328816
+vaccination_policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.05515312722118753
+vaccination_policy,"('Mobile cellular subscriptions', 'per 100 people')",0.04112484575491943
+vaccination_policy,"('General government net lending/borrowing', 'percent of GDP')",0.03909260553949064
+vaccination_policy,"('Volume of exports', 'percent change')",0.031254990489601224
+vaccination_policy,"('Volume of imports', 'percent change')",0.02820603056016454
+vaccination_policy,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.026674211032962802
+vaccination_policy,"('Net migration', 'net total / data are 5 year estimates')",0.017390975912699336
+debt_relief,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.33751240684978334
+debt_relief,"('Fixed broadband subscriptions', 'number')",0.14440058986467766
+debt_relief,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09785180058947347
+debt_relief,"('Press freedom score', 'score')",0.047288383192031325
+debt_relief,"('General government net lending/borrowing', 'percent of GDP')",0.036280243267857275
+debt_relief,"('Mobile cellular subscriptions', 'per 100 people')",0.03621888323489783
+debt_relief,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",0.027582795602252897
+debt_relief,"('Population, female (% of total population)', 'proportion')",0.025531187674709778
+debt_relief,"('Volume of imports', 'percent change')",0.024747076953964622
+debt_relief,"('Net migration', 'net total / data are 5 year estimates')",0.01583521397566252
+facial_coverings,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",0.3311170721136397
+facial_coverings,"('Fixed broadband subscriptions', 'number')",0.12438664243237456
+facial_coverings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.08913367601387712
+facial_coverings,"('Press freedom ranking', 'rank')",0.039379302392711556
+facial_coverings,"('Mobile cellular subscriptions', 'per 100 people')",0.03448516387467858
+facial_coverings,"('General government net lending/borrowing', 'percent of GDP')",0.03009522559606985
+facial_coverings,"('Population ages 75-79, male (% of male population)', 'proportion')",0.024409573424326054
+facial_coverings,"('Volume of imports', 'percent change')",0.023744479045639953
+facial_coverings,"('Net migration', 'net total / data are 5 year estimates')",0.015748054020897254
+facial_coverings,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.015525865175903568
+income_support,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.34256718430395827
+income_support,"('Fixed broadband subscriptions', 'number')",0.1320253638087173
+income_support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0951311895416286
+income_support,"('Press freedom score', 'score')",0.0495424886126383
+income_support,"('Mobile cellular subscriptions', 'per 100 people')",0.03713128885656752
+income_support,"('General government net lending/borrowing', 'percent of GDP')",0.03433961650094819
+income_support,"('Volume of imports', 'percent change')",0.03188935752220229
+income_support,"('Population, female (% of total population)', 'proportion')",0.02601882936383912
+income_support,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.023364629931367308
+income_support,"('Net migration', 'net total / data are 5 year estimates')",0.015895512535974862
+restrictions_internal_movements,"('Government effectiveness estimate', 'score')",0.33159610586605204
+restrictions_internal_movements,"('Fixed broadband subscriptions', 'number')",0.12684766605689377
+restrictions_internal_movements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0912090021137299
+restrictions_internal_movements,"('Press freedom ranking', 'rank')",0.04699056395499582
+restrictions_internal_movements,"('Mobile cellular subscriptions', 'per 100 people')",0.035297513560747604
+restrictions_internal_movements,"('General government net lending/borrowing', 'percent of GDP')",0.031226786920583546
+restrictions_internal_movements,"('Population ages 30-34, male (% of male population)', 'proportion')",0.030916824150584967
+restrictions_internal_movements,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.025310607003992947
+restrictions_internal_movements,"('Population ages 65 and above, female (% of female population)', 'proportion')",0.02498457748638926
+restrictions_internal_movements,"('Fixed telephone subscriptions', 'number')",0.024809082449770578
+international_travel_controls,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3434068908585523
+international_travel_controls,"('Fixed broadband subscriptions', 'number')",0.13036317966716307
+international_travel_controls,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09370575330844083
+international_travel_controls,"('Press freedom ranking', 'rank')",0.047523435287916575
+international_travel_controls,"('Mobile cellular subscriptions', 'per 100 people')",0.03687796160409202
+international_travel_controls,"('General government net lending/borrowing', 'percent of GDP')",0.03505779601710432
+international_travel_controls,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.026322872874043036
+international_travel_controls,"('Volume of imports', 'percent change')",0.025706219600208635
+international_travel_controls,"('Population ages 60-64, male (% of male population)', 'proportion')",0.025687234997815125
+international_travel_controls,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.015486180759633443
+public_information_campaigns,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",0.38259871790542327
+public_information_campaigns,"('Fixed broadband subscriptions', 'number')",0.14336904599042907
+public_information_campaigns,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10305149714946607
+public_information_campaigns,"('Mobile cellular subscriptions', 'per 100 people')",0.039950500290162755
+public_information_campaigns,"('Press freedom score', 'score')",0.03796709959808622
+public_information_campaigns,"('General government net lending/borrowing', 'percent of GDP')",0.03734342077635407
+public_information_campaigns,"('Population ages 65-69, female (% of female population)', 'proportion')",0.028254827237237275
+public_information_campaigns,"('Volume of imports', 'percent change')",0.027377624287982842
+public_information_campaigns,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.02486569340476385
+public_information_campaigns,"('Net migration', 'net total / data are 5 year estimates')",0.017395595558577892
+cancel_public_events,"('Control of corruption estimate', 'score')",0.3396095972460786
+cancel_public_events,"('Fixed broadband subscriptions', 'number')",0.1302822225522518
+cancel_public_events,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10455056680531297
+cancel_public_events,"('Mobile cellular subscriptions', 'per 100 people')",0.03894303944168008
+cancel_public_events,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.03329709713190117
+cancel_public_events,"('General government net lending/borrowing', 'percent of GDP')",0.031162402815838895
+cancel_public_events,"('Population ages 30-34, male (% of male population)', 'proportion')",0.028353357237939348
+cancel_public_events,"('Volume of imports', 'percent change')",0.025437220593529646
+cancel_public_events,"('Press freedom score', 'score')",0.024926231341432337
+cancel_public_events,"('Population ages 75-79, male (% of male population)', 'proportion')",0.023444037881690444
+restriction_gatherings,"('Government effectiveness estimate', 'score')",0.3279065125407311
+restriction_gatherings,"('Fixed broadband subscriptions', 'number')",0.12631018869054866
+restriction_gatherings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.10518415066329137
+restriction_gatherings,"('General government net lending/borrowing', 'percent of GDP')",0.04105483100909335
+restriction_gatherings,"('Mobile cellular subscriptions', 'per 100 people')",0.03556703036437589
+restriction_gatherings,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.035068389883101334
+restriction_gatherings,"('Population in the largest city (% of urban population)', 'proportion')",0.03349586223430484
+restriction_gatherings,"('Population ages 35-39, male (% of male population)', 'proportion')",0.024899589755287374
+restriction_gatherings,"('Volume of imports', 'percent change')",0.024562322561638542
+restriction_gatherings,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",0.01679988270398316
+close_public_transport,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.3381293654018786
+close_public_transport,"('Fixed broadband subscriptions', 'number')",0.1301616961950008
+close_public_transport,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.09368508721131971
+close_public_transport,"('Mobile cellular subscriptions', 'per 100 people')",0.036241244714199886
+close_public_transport,"('Prevalence of Hypertensive heart disease', 'percent')",0.03522063749210361
+close_public_transport,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.03420132111596222
+close_public_transport,"('General government net lending/borrowing', 'percent of GDP')",0.031157656654235037
+close_public_transport,"('Volume of imports', 'percent change')",0.028005967502794046
+close_public_transport,"('Population ages 30-34, male (% of male population)', 'proportion')",0.025652577063431152
+close_public_transport,"('Prevalence of down syndrome', 'percent')",0.02391755793360897
+school_closures,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.3134692799467801
+school_closures,"('Fixed broadband subscriptions', 'number')",0.12108614283972975
+school_closures,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.08743845885274186
+school_closures,"('Volume of imports', 'percent change')",0.06495952858467113
+school_closures,"('Mobile cellular subscriptions', 'number')",0.038886660355942876
+school_closures,"('Mobile cellular subscriptions', 'per 100 people')",0.03412910845875287
+school_closures,"('General government net lending/borrowing', 'percent of GDP')",0.030910818020745946
+school_closures,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.02585202831866037
+school_closures,"('Net migration', 'net total / data are 5 year estimates')",0.017355822310308053
+school_closures,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.014945420146637519
+stay_home_requirements,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3335876262087541
+stay_home_requirements,"('Fixed broadband subscriptions', 'number')",0.1301717015502565
+stay_home_requirements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.1017519898311257
+stay_home_requirements,"('Mobile cellular subscriptions', 'per 100 people')",0.03531883395429103
+stay_home_requirements,"('Population ages 10-14, male (% of male population)', 'proportion')",0.032904590441864584
+stay_home_requirements,"('Press freedom score', 'score')",0.032393837652883686
+stay_home_requirements,"('General government net lending/borrowing', 'percent of GDP')",0.03042060797734448
+stay_home_requirements,"('Population ages 65 and above, male (% of male population)', 'proportion')",0.024991031586807894
+stay_home_requirements,"('Volume of imports', 'percent change')",0.02421434880912129
+stay_home_requirements,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.022333127987703705
+workplace_closures,"('Government effectiveness estimate', 'score')",0.31935219751205995
+workplace_closures,"('Fixed broadband subscriptions', 'number')",0.12273737902930583
+workplace_closures,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.08970347370610961
+workplace_closures,"('Press freedom ranking', 'rank')",0.05289173934536492
+workplace_closures,"('Mobile cellular subscriptions', 'per 100 people')",0.03426511891543675
+workplace_closures,"('General government net lending/borrowing', 'percent of GDP')",0.03193065507432722
+workplace_closures,"('Rural population (% of total population)', 'proportion')",0.027236833894424356
+workplace_closures,"('Population ages 70-74, male (% of male population)', 'proportion')",0.024144075763187646
+workplace_closures,"('Volume of imports', 'percent change')",0.023313850649302695
+workplace_closures,"('Net migration', 'net total / data are 5 year estimates')",0.015825122788018762

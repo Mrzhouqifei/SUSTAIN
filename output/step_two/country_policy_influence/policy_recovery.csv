@@ -1,0 +1,361 @@
+Country,Policy,importance
+Afghanistan,facial_coverings,0.9609267759894129
+Afghanistan,restrictions_internal_movements,0.024993691484211628
+Afghanistan,parks,0.010350516832983322
+Afghanistan,workplaces,0.0012971867817824336
+Afghanistan,containment_index,0.0012535475767478652
+Afghanistan,stringency_index,0.0006180688885786036
+Afghanistan,residential,0.0002675338923669208
+Afghanistan,retail_and_recreation,0.00021267825513548224
+Afghanistan,grocery_and_pharmacy,7.979854221923877e-05
+Afghanistan,debt_relief,1.03295664229967e-07
+Argentina,testing_policy,0.5573696430779369
+Argentina,containment_index,0.21894756241019667
+Argentina,facial_coverings,0.1717959649150414
+Argentina,retail_and_recreation,0.02768288247798414
+Argentina,residential,0.01518202767477946
+Argentina,parks,0.007954183622738318
+Argentina,grocery_and_pharmacy,0.0006542239674968852
+Argentina,workplaces,0.00023623228570375494
+Argentina,stringency_index,0.000142830541289763
+Argentina,workplace_closures,3.4033345796165374e-05
+Bangladesh,facial_coverings,0.6304655806910074
+Bangladesh,workplaces,0.24859292198447527
+Bangladesh,residential,0.05388187957080091
+Bangladesh,retail_and_recreation,0.019528118177838817
+Bangladesh,stringency_index,0.017177579294133983
+Bangladesh,restrictions_internal_movements,0.012320862546946035
+Bangladesh,parks,0.011685794627752344
+Bangladesh,grocery_and_pharmacy,0.0023995857083280274
+Bangladesh,stay_home_requirements,0.0019840757704526514
+Bangladesh,close_public_transport,0.0016149809508536881
+Belize,stay_home_requirements,0.5358400502131935
+Belize,stringency_index,0.1623144904861735
+Belize,workplace_closures,0.1394850515723997
+Belize,workplaces,0.06742767498878638
+Belize,retail_and_recreation,0.028033839915545977
+Belize,facial_coverings,0.027353417733932163
+Belize,residential,0.015072211421272741
+Belize,parks,0.00709659789241164
+Belize,grocery_and_pharmacy,0.007039925912003669
+Belize,close_public_transport,0.00564669690263583
+Bolivia,international_travel_controls,0.6698402097721073
+Bolivia,facial_coverings,0.14315930717471842
+Bolivia,containment_index,0.0917298619954318
+Bolivia,public_information_campaigns,0.0403978839945397
+Bolivia,retail_and_recreation,0.017796793336605384
+Bolivia,debt_relief,0.015706964132784725
+Bolivia,workplaces,0.011727315724247307
+Bolivia,residential,0.004742593037528593
+Bolivia,grocery_and_pharmacy,0.002245849374038514
+Bolivia,parks,0.0016757573981689125
+Brazil,testing_policy,0.6985394344522546
+Brazil,parks,0.14248264853217263
+Brazil,facial_coverings,0.11624221463960244
+Brazil,workplaces,0.01971634443952965
+Brazil,residential,0.015966895558866746
+Brazil,workplace_closures,0.005208276884169639
+Brazil,retail_and_recreation,0.0010095032225225671
+Brazil,grocery_and_pharmacy,0.000415717346539118
+Brazil,containment_index,0.00021601945215351682
+Brazil,stringency_index,0.00020168353412441232
+Cambodia,international_travel_controls,0.457686927752766
+Cambodia,income_support,0.3027457062538902
+Cambodia,workplaces,0.07190291654538017
+Cambodia,parks,0.04773789527234226
+Cambodia,stringency_index,0.04638731311089158
+Cambodia,grocery_and_pharmacy,0.04625406441176625
+Cambodia,school_closures,0.012121114287654229
+Cambodia,retail_and_recreation,0.011934797774414675
+Cambodia,residential,0.0011087477268652052
+Cambodia,cancel_public_events,0.0009817164585063124
+Chile,income_support,0.8349884076833809
+Chile,containment_index,0.12439304058254078
+Chile,workplaces,0.014705455943065202
+Chile,parks,0.012703309855062933
+Chile,residential,0.004726963543701383
+Chile,close_public_transport,0.004249329344287418
+Chile,grocery_and_pharmacy,0.0034658212495054944
+Chile,stringency_index,0.0006553503551654411
+Chile,retail_and_recreation,0.00010323347814468975
+Chile,vaccination_policy,8.867089953534267e-06
+Colombia,residential,0.500044062574256
+Colombia,stringency_index,0.3550215148448256
+Colombia,workplaces,0.10472058158724568
+Colombia,workplace_closures,0.020358488252077006
+Colombia,restriction_gatherings,0.011773812094242992
+Colombia,grocery_and_pharmacy,0.0034367676945755267
+Colombia,facial_coverings,0.002845915648168109
+Colombia,parks,0.0008099143605411949
+Colombia,contact_tracing,0.00045612299269526046
+Colombia,retail_and_recreation,0.00043657711447955686
+Costa Rica,restriction_gatherings,0.613080220149151
+Costa Rica,grocery_and_pharmacy,0.25057325190299723
+Costa Rica,containment_index,0.03710265158010702
+Costa Rica,workplaces,0.030116043547522984
+Costa Rica,workplace_closures,0.02400638283528165
+Costa Rica,retail_and_recreation,0.02004903376635686
+Costa Rica,residential,0.01458715056442231
+Costa Rica,parks,0.010461793324045923
+Costa Rica,facial_coverings,1.7841753314007677e-05
+Costa Rica,contact_tracing,2.2535992005950775e-06
+Dominican Republic,facial_coverings,0.741319901373294
+Dominican Republic,residential,0.1632435698476588
+Dominican Republic,parks,0.06393962699663808
+Dominican Republic,stay_home_requirements,0.014821937096484985
+Dominican Republic,workplaces,0.008855561145566624
+Dominican Republic,grocery_and_pharmacy,0.0036093056614787743
+Dominican Republic,retail_and_recreation,0.002271002077288302
+Dominican Republic,restrictions_internal_movements,0.0017493837495750923
+Dominican Republic,stringency_index,0.00018920918042764214
+Dominican Republic,international_travel_controls,4.781611573706283e-07
+Ecuador,international_travel_controls,0.569657048757054
+Ecuador,stringency_index,0.20159537316045475
+Ecuador,residential,0.18619781755554293
+Ecuador,retail_and_recreation,0.03418101184320543
+Ecuador,grocery_and_pharmacy,0.002619014285814385
+Ecuador,parks,0.0024116779135427424
+Ecuador,facial_coverings,0.0021955088156765624
+Ecuador,workplaces,0.0009124296506898103
+Ecuador,containment_index,0.00020346490015371322
+Ecuador,restriction_gatherings,2.6653117865656346e-05
+El Salvador,stringency_index,0.6795696809313679
+El Salvador,debt_relief,0.22000234448409425
+El Salvador,residential,0.03685470138698264
+El Salvador,facial_coverings,0.025837129557601014
+El Salvador,parks,0.017074130955023338
+El Salvador,retail_and_recreation,0.008771260255826347
+El Salvador,workplaces,0.0063326823230418555
+El Salvador,restriction_gatherings,0.003592334209729501
+El Salvador,grocery_and_pharmacy,0.0009230896148714722
+El Salvador,contact_tracing,0.0008560319871155008
+Guatemala,workplace_closures,0.8612761110890694
+Guatemala,close_public_transport,0.05660729654997168
+Guatemala,workplaces,0.05286048972922836
+Guatemala,retail_and_recreation,0.01167044740507155
+Guatemala,residential,0.008755233062002534
+Guatemala,facial_coverings,0.004232149001069627
+Guatemala,testing_policy,0.003266415551006723
+Guatemala,parks,0.0006542349194361299
+Guatemala,grocery_and_pharmacy,0.0005405142493487096
+Guatemala,international_travel_controls,0.0001246367619773472
+Haiti,stringency_index,0.9472009261312585
+Haiti,school_closures,0.03217462839499222
+Haiti,parks,0.005745540868600133
+Haiti,international_travel_controls,0.005360699492648742
+Haiti,grocery_and_pharmacy,0.0027064146540044906
+Haiti,retail_and_recreation,0.0026640680408157413
+Haiti,workplaces,0.001601079156672281
+Haiti,residential,0.0014213830358176687
+Haiti,containment_index,0.0011093903724116484
+Haiti,facial_coverings,1.0764031325235819e-05
+Honduras,residential,0.7355521551549032
+Honduras,income_support,0.18790220063400417
+Honduras,workplaces,0.04382645001928622
+Honduras,stringency_index,0.012998199197567756
+Honduras,grocery_and_pharmacy,0.005833244932207919
+Honduras,international_travel_controls,0.005394913316216093
+Honduras,retail_and_recreation,0.0046873521753590126
+Honduras,parks,0.0038050149869876494
+Honduras,stay_home_requirements,2.5979303915635803e-07
+Honduras,containment_index,2.0979042881195026e-07
+India,close_public_transport,0.4905074078271817
+India,restrictions_internal_movements,0.1184255856573072
+India,grocery_and_pharmacy,0.10097060619861628
+India,stay_home_requirements,0.08138279124910527
+India,workplaces,0.07518953729668473
+India,debt_relief,0.04478816487509201
+India,containment_index,0.0365245766987964
+India,retail_and_recreation,0.023766573049903608
+India,residential,0.013616397010595336
+India,parks,0.01173261438589359
+Indonesia,school_closures,0.6243471133063776
+Indonesia,income_support,0.26801602294159754
+Indonesia,stay_home_requirements,0.04644016575720353
+Indonesia,parks,0.04483069760982024
+Indonesia,grocery_and_pharmacy,0.005050602754233382
+Indonesia,residential,0.004972672886128475
+Indonesia,workplaces,0.004060256713174765
+Indonesia,international_travel_controls,0.0013560753169130594
+Indonesia,retail_and_recreation,0.0007041931168823693
+Indonesia,debt_relief,0.0001236699088532686
+Japan,income_support,0.6210102751956806
+Japan,retail_and_recreation,0.2762381066232587
+Japan,containment_index,0.05328893864791471
+Japan,residential,0.013737081532221812
+Japan,grocery_and_pharmacy,0.012208934079557848
+Japan,parks,0.008080229816247599
+Japan,workplaces,0.007758511293259506
+Japan,testing_policy,0.0036467427773336373
+Japan,international_travel_controls,0.0015754328916294824
+Japan,contact_tracing,0.001359033802864095
+Laos,school_closures,0.7595220478205966
+Laos,income_support,0.11639276673440128
+Laos,international_travel_controls,0.032107925147765136
+Laos,grocery_and_pharmacy,0.0250668680268331
+Laos,parks,0.0212771224487308
+Laos,residential,0.019358087028216963
+Laos,retail_and_recreation,0.010576055670826997
+Laos,workplaces,0.009376831834891564
+Laos,debt_relief,0.0053893738343925085
+Laos,containment_index,0.0006236043138471023
+Malaysia,testing_policy,0.5581654200424352
+Malaysia,stringency_index,0.16198434621875915
+Malaysia,containment_index,0.1444228263499628
+Malaysia,residential,0.05263405296396927
+Malaysia,workplaces,0.01799154618574768
+Malaysia,parks,0.016298028016407732
+Malaysia,international_travel_controls,0.01566147094905768
+Malaysia,grocery_and_pharmacy,0.014810197442513585
+Malaysia,facial_coverings,0.009930459450958167
+Malaysia,retail_and_recreation,0.007701040092337341
+Mexico,facial_coverings,0.7816666335349728
+Mexico,workplaces,0.11290136298102377
+Mexico,parks,0.04828146521982784
+Mexico,residential,0.032922617322016234
+Mexico,retail_and_recreation,0.02114962771526616
+Mexico,grocery_and_pharmacy,0.0017661333748469682
+Mexico,international_travel_controls,0.0004846491575251005
+Mexico,containment_index,0.00045994690263107007
+Mexico,vaccination_policy,0.00032528738443149917
+Mexico,restriction_gatherings,3.972107343913179e-05
+Mongolia,parks,0.7456716607876801
+Mongolia,income_support,0.14738555934514352
+Mongolia,workplaces,0.05560222622507142
+Mongolia,grocery_and_pharmacy,0.03522495292723034
+Mongolia,residential,0.004784744258370882
+Mongolia,containment_index,0.004320966769580957
+Mongolia,retail_and_recreation,0.003978493952593936
+Mongolia,stringency_index,0.002137400158911791
+Mongolia,restrictions_internal_movements,0.0006891539124684224
+Mongolia,restriction_gatherings,0.0001950645474640796
+Nepal,stringency_index,0.7818191679458774
+Nepal,containment_index,0.1068754197820932
+Nepal,workplaces,0.08161728098372506
+Nepal,parks,0.017250763451319442
+Nepal,residential,0.004835512071737029
+Nepal,retail_and_recreation,0.0030871851250660566
+Nepal,grocery_and_pharmacy,0.002389304460567935
+Nepal,close_public_transport,0.0016965117801356685
+Nepal,cancel_public_events,0.00042469884010942185
+Nepal,debt_relief,4.112793644411351e-06
+Nicaragua,containment_index,0.4176452867829709
+Nicaragua,school_closures,0.41307434627577383
+Nicaragua,workplaces,0.06875211023354003
+Nicaragua,parks,0.04193148071867736
+Nicaragua,residential,0.029546604448021655
+Nicaragua,grocery_and_pharmacy,0.012740601182165875
+Nicaragua,retail_and_recreation,0.00960864804142307
+Nicaragua,international_travel_controls,0.0035753379002620832
+Nicaragua,stringency_index,0.0020128682191976497
+Nicaragua,public_information_campaigns,0.0011127161979674464
+Pakistan,international_travel_controls,0.8471078300763446
+Pakistan,parks,0.09148454226978352
+Pakistan,testing_policy,0.042407495650028014
+Pakistan,residential,0.006695619421893496
+Pakistan,retail_and_recreation,0.0043254867652669305
+Pakistan,containment_index,0.0035189210882177707
+Pakistan,close_public_transport,0.0014960812597566992
+Pakistan,grocery_and_pharmacy,0.0006544201404106066
+Pakistan,income_support,0.0006390895151941568
+Pakistan,contact_tracing,0.000493461128113729
+Panama,income_support,0.7368784675837773
+Panama,residential,0.1521825495941197
+Panama,parks,0.08061894182267527
+Panama,retail_and_recreation,0.015546911933150163
+Panama,workplaces,0.011140119839927787
+Panama,grocery_and_pharmacy,0.0020548077181137513
+Panama,stringency_index,0.0011330002319032656
+Panama,containment_index,0.00040942230249471466
+Panama,stay_home_requirements,3.374380660108948e-05
+Panama,close_public_transport,2.027562401714233e-06
+Paraguay,facial_coverings,0.5385275745786907
+Paraguay,workplace_closures,0.2030094581271732
+Paraguay,grocery_and_pharmacy,0.08418670552104594
+Paraguay,stay_home_requirements,0.06572486439988054
+Paraguay,residential,0.05484111608147448
+Paraguay,retail_and_recreation,0.025687132055929866
+Paraguay,parks,0.01635667543419094
+Paraguay,containment_index,0.0037003866160836714
+Paraguay,workplaces,0.002802403151144371
+Paraguay,debt_relief,0.0026419847861906647
+Peru,contact_tracing,0.7362237804254114
+Peru,workplaces,0.12692651543831107
+Peru,containment_index,0.0867157011920575
+Peru,retail_and_recreation,0.032925058720162936
+Peru,residential,0.009025321865999452
+Peru,grocery_and_pharmacy,0.005543324507339188
+Peru,parks,0.002208694732593855
+Peru,stringency_index,0.00042378174308253607
+Peru,international_travel_controls,7.709321782227912e-06
+Peru,stay_home_requirements,5.685030691367072e-08
+Philippines,facial_coverings,0.827606156555905
+Philippines,debt_relief,0.08131938879419563
+Philippines,stringency_index,0.02828800516088753
+Philippines,parks,0.01985532997451361
+Philippines,workplaces,0.014590985427487685
+Philippines,grocery_and_pharmacy,0.009249914332978462
+Philippines,stay_home_requirements,0.006180642877673353
+Philippines,restrictions_internal_movements,0.004285223016399514
+Philippines,retail_and_recreation,0.004145883160549416
+Philippines,residential,0.0031706074454377403
+Singapore,income_support,0.8098539309863952
+Singapore,workplaces,0.07520736817721614
+Singapore,parks,0.06887381979144527
+Singapore,stringency_index,0.02106019550508173
+Singapore,residential,0.017166048499274958
+Singapore,grocery_and_pharmacy,0.0027990986382784027
+Singapore,containment_index,0.0022506974625039434
+Singapore,workplace_closures,0.0017274535036718864
+Singapore,retail_and_recreation,0.0010530249550640015
+Singapore,debt_relief,8.35797452314719e-06
+Sri Lanka,stringency_index,0.5355975152333863
+Sri Lanka,parks,0.20409663359332647
+Sri Lanka,grocery_and_pharmacy,0.09227034141271694
+Sri Lanka,stay_home_requirements,0.052182001590977786
+Sri Lanka,testing_policy,0.04053502193746508
+Sri Lanka,retail_and_recreation,0.024794318699032033
+Sri Lanka,school_closures,0.022863724956518245
+Sri Lanka,residential,0.011328556300872775
+Sri Lanka,containment_index,0.0059201741126454115
+Sri Lanka,restriction_gatherings,0.005109218366726635
+Thailand,testing_policy,0.6523292647152205
+Thailand,retail_and_recreation,0.10828511308648955
+Thailand,contact_tracing,0.10170855470979634
+Thailand,workplace_closures,0.06346323428844193
+Thailand,residential,0.04580167990418119
+Thailand,grocery_and_pharmacy,0.008628674075114473
+Thailand,workplaces,0.008481753296673118
+Thailand,restriction_gatherings,0.007722687152212688
+Thailand,parks,0.002919907475166472
+Thailand,stringency_index,0.00044856598133815825
+Uruguay,facial_coverings,0.4768346595724846
+Uruguay,stringency_index,0.23629777754260664
+Uruguay,residential,0.1513677844533052
+Uruguay,workplaces,0.05340158650586445
+Uruguay,workplace_closures,0.05096198595252422
+Uruguay,retail_and_recreation,0.014281439935340253
+Uruguay,parks,0.00815504766186524
+Uruguay,grocery_and_pharmacy,0.005024108488723373
+Uruguay,stay_home_requirements,0.0028249174945196563
+Uruguay,testing_policy,0.0007466369393211903
+Venezuela,containment_index,0.42070391192859113
+Venezuela,grocery_and_pharmacy,0.3740871818942615
+Venezuela,workplace_closures,0.12510483611649656
+Venezuela,stringency_index,0.02614765700673633
+Venezuela,close_public_transport,0.014137604478225653
+Venezuela,residential,0.012325579580266314
+Venezuela,debt_relief,0.009504321349692807
+Venezuela,workplaces,0.007971735088991336
+Venezuela,retail_and_recreation,0.005971343304761837
+Venezuela,parks,0.003970329894472727
+Vietnam,residential,0.5931830001057282
+Vietnam,testing_policy,0.15029975489064054
+Vietnam,grocery_and_pharmacy,0.1335712169221427
+Vietnam,parks,0.04595568396264384
+Vietnam,workplace_closures,0.029943996086675344
+Vietnam,stringency_index,0.019647782570064283
+Vietnam,workplaces,0.01028270762109651
+Vietnam,retail_and_recreation,0.008179336401477475
+Vietnam,containment_index,0.005497236066846391
+Vietnam,debt_relief,0.0027982713374890104

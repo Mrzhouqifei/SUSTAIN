@@ -1,174 +1,174 @@
 Indicator,Unit,influence
-Political stability and absence of violence/terrorism estimate,score,-0.3508729534769822
-Government effectiveness estimate,score,-0.24315399588729364
-Rule of law estimate ,score,-0.24084334935266224
-Control of corruption estimate,score,-0.23107616113063245
-Press freedom score,score,0.2210376770359637
-"Unemployment, total (% of total labor force) (modeled ILO estimate)",percent of total labor force,0.19998320424604005
-Press freedom ranking,rank,0.18701813953880841
-Regulatory quality estimate,score,-0.1770890826972665
-"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",Percentage of females of the total population,-0.1636279056601704
-"Labour force participation rate (Female) - Youth, adults: 15-64",percent,-0.16001175136453713
-"Immunization, measles (% of children ages 12-23 months)",percent,-0.15713291770808113
-Voice and accountability estimate,score,-0.1569930352149993
-"Trade, total as % of GDP",percent,-0.15363408150915644
-Total investment,percent of GDP,-0.1359426621612936
-Mobile cellular subscriptions,per 100 people,-0.1325929159620488
-"Primary completion rate, female (% of relevant age group)",proportion,-0.13202542337904474
-"Primary completion rate, total (% of relevant age group)",proportion,-0.1311528564787291
-Rural population (% of total population),proportion,-0.1308691708007636
-Fixed telephone subscriptions,number,0.1301872046822725
-"Primary completion rate, male (% of relevant age group)",proportion,-0.13016992176564507
-"Immunization, DPT (% of children ages 12-23 months)",percent,-0.1298244919695702
-"Lending interest rates, percent per annum",percent per annum,-0.12936737163093787
-Individuals using the Internet,percent of population,-0.1291476582434173
-"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",international $ in PPP,-0.12556894943825855
-Urban population (% of total),percent of total population,-0.11670524864390527
-Population aged 65+ years (% of total population),percent of total population,-0.11563544554757495
-Prevalence of Diabetes,percent,-0.11390437653403099
-Population aged 15-64 years (% of total population),percent of total population,-0.11346194906785302
-Age dependency ratio,percent of total population,-0.10978863369353681
-Fixed broadband subscriptions,number,0.10931730168698625
-Starting a Business (Score),Score,-0.1083005221928199
-Interest rate on time deposits of 12 months,percent per annum,-0.10478039131606003
-Population aged 0-14 years (% of total population),percent of total population,-0.10354383526923411
-General government net lending/borrowing,percent of GDP,-0.10178111381743016
-Population in urban agglomerations of more than 1 million,proportion,0.0994819106262371
-Prevalence of down syndrome,percent,0.09917987089983002
-Days required for business start up,days,-0.09910820083047461
-Population in largest city,proportion,0.0976251465632668
-Urban population,total,0.09713811935416324
-Interest rate on savings deposits,percent,-0.09638825274427257
-Interest rate on time deposits of 6 months,percent per annum,-0.09586758422701043
-Mobile cellular subscriptions,number,0.09478343933696658
-Use of IMF credit (DOD),current US$,0.09173473166982492
-Starting a Business (Rank),rank,-0.0896475046241306
-"Yield on 90-day treasury bills, percent per annum",percent per annum,-0.08872109296476889
-Refugee population by country or territory of origin,proportion,0.08623164551467938
-"Labour force participation rate (Male) - Youth, adults: 15-64",percent,0.08609090276536158
-Unemployment rate (%) - Annual,percent,-0.08418797565146255
-Expenditure on education (% of GDP),percent,-0.08349640898265993
-Prevalence of chronic kidney disease,percent,-0.08346695492213524
-"Population ages 65 and above, female",proportion,0.08249074996478056
-"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",rating,-0.08215519097702495
-Summary exposure value tobacco,Rate (risk-weighted prevalence),0.08205459271710372
-"Population ages 65 and above, total",proportion,0.08170157858646233
-"Population ages 65 and above, male",proportion,0.08077602350645406
-Expenditure on health (% of GDP),percent,-0.07845367473773342
-Secure Internet servers ,per 1 million people,-0.07667910334273163
-Population (% change),percent,-0.07480146418202284
-Employment in services (% of total employment) (modeled ILO estimate),Percentage of total employment,0.07477386170187295
-Fixed broadband subscriptions,per 100 people,-0.07450522115692007
-Prevalence of total cancers,percent,-0.07224185907571616
-"Population ages 15-64, female",proportion,0.07087577455288052
-Population density,persons per square kilometer,-0.07001048829913428
-Net migration,net total / data are 5 year estimates,-0.06959432057094929
-"Population, female",proportion,0.0695660845384012
-"Population ages 15-64, total",proportion,0.0695026607522699
-"Population, total",total,0.06830268182795603
-"Population ages 15-64, male",proportion,0.06821191702539918
-"Population, male",proportion,0.067119833890021
-Proportion of Unemployment in Non-agricultural Employment (total),percent,0.06391609033605265
-Expenditure on social protection (% of GDP),percent,-0.06275102557608711
-Stock market capitalization (US$ million),US Dollar,0.06213915843658325
-"Population ages 55-59, male (% of male population)",proportion,-0.06199700794273122
-Proportion of women in managerial positions (%),percent,0.06147377827148522
-Urban population growth (annual %),total,-0.06110624398098323
-Interest rate on savings deposits,percent per annum,-0.060790756344087864
-Production index: Agriculture,index,-0.06057541028418284
-"Population ages 55-59, female (% of female population)",proportion,-0.06039943275263081
-"Population ages 25-29, male (% of male population)",proportion,-0.0600152937432074
-Interest rate on loans and discounts - private,percent per annum,-0.05899357249565426
-Interest rate on loans and discounts - public,percent per annum,-0.05899357249565415
-"Population ages 60-64, male (% of male population)",proportion,-0.05794718643297782
-"Population ages 30-34, male (% of male population)",proportion,-0.057705697322103934
-"Population ages 60-64, female (% of female population)",proportion,-0.057475260928046605
-"Population ages 35-39, male (% of male population)",proportion,-0.0573119862593409
-"Population ages 0-14, male",proportion,0.05641406626813545
-"Population ages 0-14, total",proportion,0.05628277937371222
-"Population ages 35-39, female (% of female population)",proportion,-0.056238812807886736
-"Population ages 0-14, female",proportion,0.056128571724376075
-"Population ages 50-54, male (% of male population)",proportion,-0.055489832830318754
-"Population, male (% of total population)",proportion,-0.05528828295673783
-Interest rate on time deposits of 12 months,percent,-0.05517966169381893
-Interest rate on demand deposits,percent per annum,-0.054648838225474006
-"Population ages 15-64, male (% of male population)",proportion,-0.054475972422080673
-"Population ages 30-34, female (% of female population)",proportion,-0.05384524788816639
-"Labour force participation rate (Total) - Youth, adults: 15-64",percent,-0.05355178493716797
-"Population ages 45-49, male (% of male population)",proportion,-0.05347432068236436
-Population ages 15-64 (% of total population),proportion,-0.053248570575742844
-"Population ages 25-29, female (% of female population)",proportion,-0.05324604356842683
-"Population ages 00-04, female (% of female population)",proportion,-0.052647059823161355
-"Population ages 50-54, female (% of female population)",proportion,-0.05201884172843746
-"Population ages 15-64, female (% of female population)",proportion,-0.05160476135017633
-Balance on goods (% of GDP),percent,0.05146378856329406
-Interest rate on time deposits of over 12 months,percent per annum,-0.051415686720470005
-Interest rate on time deposits of 6 months,percent,-0.05101870724285189
-"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Percentage of total population,-0.050786851006938125
-"Population ages 05-09, female (% of female population)",proportion,-0.04991430259481134
-"Population ages 20-24, male (% of male population)",proportion,-0.04983334118290007
-"Population ages 40-44, male (% of male population)",proportion,-0.04950571147467006
-"Population ages 0-14, female (% of female population)",proportion,-0.04934217694204044
-Volume of exports,percent change,-0.049094945538486506
-"Population ages 45-49, female (% of female population)",proportion,-0.04869923998518057
-"Population, female (% of total population)",proportion,-0.04736500412768271
-"Population ages 65-69, male (% of male population)",proportion,-0.04633335944233529
-"Population ages 00-04, male (% of male population)",proportion,-0.046177879560727636
-Age dependency ratio (% of working-age population),proportion,-0.045955694759761474
-"Population ages 20-24, female (% of female population)",proportion,-0.04584297582697742
-Population growth (annual %),proportion,-0.04526365863116389
-"Population ages 40-44, female (% of female population)",proportion,-0.04522208595835635
-"Population ages 10-14, female (% of female population)",proportion,-0.04504640890644456
-"Population ages 70-74, female (% of female population)",proportion,-0.0447285510958652
-"Age dependency ratio, young (% of working-age population)",proportion,-0.04471818565216389
-"Population ages 65-69, female (% of female population)",proportion,-0.04412010373375023
-Population in the largest city (% of urban population),proportion,-0.044104306077061645
-"Population ages 05-09, male (% of male population)",proportion,-0.04354186933207926
-Prevalence of anxiety disorders,percent,0.04342195627478354
-"Population ages 0-14, male (% of male population)",proportion,-0.04290325759581497
-Rural population growth (annual %),proportion,-0.042618258884533154
-Prevalence of Respiratory infections and tuberculosis,percent,-0.04155696170875026
-"Prevalence of HIV, total (% of population ages 15-49)",percent,0.041320704012839424
-"Incidence of tuberculosis (per 100,000 people)",Cases,-0.040897293649071305
-"Population ages 70-74, male (% of male population)",proportion,-0.040314620608685715
-"Population ages 65 and above, female (% of female population)",proportion,-0.04027077916590727
-Population ages 65 and above (% of total population),proportion,-0.03943131854510419
-"Population ages 75-79, female (% of female population)",proportion,-0.03938744238942008
-"Population ages 15-19, female (% of female population)",proportion,-0.03898010012642841
-"Population ages 65 and above, male (% of male population)",proportion,-0.038850362631105854
-"Population ages 10-14, male (% of male population)",proportion,-0.0386049982930337
-"Age dependency ratio, old (% of working-age population)",proportion,-0.037262715328692776
-Population in urban agglomerations of more than 1 million (% of total population),proportion,0.0370799554457956
-Rural population,proportion,0.03631300148064066
-"Population ages 15-19, male (% of male population)",proportion,-0.03479974065221357
-"Foreign direct investment, net",US Dollar,0.0340035312040765
-"Population ages 75-79, male (% of male population)",proportion,-0.032490200364977816
-Volume of imports,percent change,-0.030028834125153347
-"Population ages 80 and above, female (% of female population)",proportion,-0.029566001212450406
-"Population ages 80 and above, male (% of male population)",proportion,-0.027484058612633384
-"General government net lending/borrowing, percent of fiscal year GDP",percent,-0.027187261636955614
-Doctors per 1 000 inhabitants.,Ones,0.025789942865575417
-Interest rate on loans and discounts - short-term,percent per annum,-0.024472873763783307
-Interest rate on loans and discounts - long-term,percent per annum,-0.024472873763783168
-Production index: Industry,index,-0.02398602111373477
-"International tourism, receipts",US Dollar,-0.023518760079676442
-Hospital beds (per 10 000 population),Ones,-0.022775427198189768
-Urban population (% of total),percent,0.022744274528749546
-Urban population (% of total population),total,-0.022638939135870177
-Prevalence of Hypertensive heart disease,percent,0.022543935452438785
-Prevalence of Depressive disorders,percent,0.02106251769583233
-Interest rate on loans and discounts,percent per annum,0.01917584407137209
-Refugee population by country or territory of asylum,proportion,0.017825835021657462
-"Literacy rate, adult male (% of males ages 15 and above)",proportion,-0.017153743864606465
-"Literacy rate, adult female (% of females ages 15 and above)",proportion,-0.017153743864606406
-"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",proportion,-0.017153743864606396
-"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",proportion,-0.017153743864606347
-"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",proportion,-0.017153743864606344
-"Literacy rate, adult total (% of people ages 15 and above)",proportion,-0.01715374386460633
-Production index: Manufacturing,index,0.015266398398075559
-Production index: Mining,index,0.014647392733993278
-Interest rate on time deposits of over 12 months,percent,-0.011470062275541024
-"Population, mid-year",person,-0.005498411544811971
-"Labor force participation rate, male (% of male population ages 15+) (national estimate)",Percentage of males of the total population,-0.00336026371549593
-Proportion of seats held by women in national parliaments (%),proportion,-0.0013719552238077568
+Political stability and absence of violence/terrorism estimate,score,-0.3570819458604864
+Government effectiveness estimate,score,-0.24824595382612316
+Rule of law estimate ,score,-0.24702021987537048
+Control of corruption estimate,score,-0.23691855702506096
+Press freedom score,score,0.22416850962768742
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",percent of total labor force,0.2049520169835494
+Press freedom ranking,rank,0.18950262983472166
+Regulatory quality estimate,score,-0.18161754654579113
+"Immunization, measles (% of children ages 12-23 months)",percent,-0.16325274667227105
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",Percentage of females of the total population,-0.16308182808696997
+"Labour force participation rate (Female) - Youth, adults: 15-64",percent,-0.1601052123851145
+Voice and accountability estimate,score,-0.15956906684967556
+"Trade, total as % of GDP",percent,-0.1561676343079566
+Total investment,percent of GDP,-0.1384329627238371
+"Immunization, DPT (% of children ages 12-23 months)",percent,-0.1361839899003089
+Mobile cellular subscriptions,per 100 people,-0.13526424087643749
+Fixed telephone subscriptions,number,0.13500450569926856
+"Primary completion rate, female (% of relevant age group)",proportion,-0.13470123043153467
+Individuals using the Internet,percent of population,-0.13391644836145508
+"Primary completion rate, total (% of relevant age group)",proportion,-0.13376308246798815
+"Primary completion rate, male (% of relevant age group)",proportion,-0.13271292833752402
+"Lending interest rates, percent per annum",percent per annum,-0.13176349178480345
+Rural population (% of total population),proportion,-0.12969427937296443
+"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",international $ in PPP,-0.12965445862427416
+Urban population (% of total),percent of total population,-0.12115252271193391
+Population aged 65+ years (% of total population),percent of total population,-0.11914394806714683
+Prevalence of Diabetes,percent,-0.11710348997056451
+Population aged 15-64 years (% of total population),percent of total population,-0.11705183735255784
+Fixed broadband subscriptions,number,0.11332585889256785
+Age dependency ratio,percent of total population,-0.11297013184851357
+Starting a Business (Score),Score,-0.11205109792311516
+Interest rate on time deposits of 12 months,percent per annum,-0.10722355152922966
+Population aged 0-14 years (% of total population),percent of total population,-0.10658419234629118
+General government net lending/borrowing,percent of GDP,-0.10448709365602103
+Population in urban agglomerations of more than 1 million,proportion,0.10377581505954271
+Population in largest city,proportion,0.10285052302016261
+Urban population,total,0.10125857185540638
+Days required for business start up,days,-0.10110349011856737
+Mobile cellular subscriptions,number,0.09846910515349125
+Interest rate on savings deposits,percent,-0.09838045571251568
+Interest rate on time deposits of 6 months,percent per annum,-0.09791139635883395
+Prevalence of down syndrome,percent,0.09601409722929559
+Use of IMF credit (DOD),current US$,0.09557984572614797
+Starting a Business (Rank),rank,-0.09150273910821811
+Refugee population by country or territory of origin,proportion,0.090199686771925
+"Yield on 90-day treasury bills, percent per annum",percent per annum,-0.08934620354826325
+"Labour force participation rate (Male) - Youth, adults: 15-64",percent,0.08823135142221804
+Unemployment rate (%) - Annual,percent,-0.08668502823630898
+Prevalence of chronic kidney disease,percent,-0.0862265477762873
+"Population ages 65 and above, female",proportion,0.08608862815066505
+Expenditure on education (% of GDP),percent,-0.08532288990035998
+"Population ages 65 and above, total",proportion,0.08524181257808615
+"Population ages 65 and above, male",proportion,0.08424978501781685
+"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",rating,-0.08255674138506044
+Expenditure on health (% of GDP),percent,-0.08023191123707606
+Secure Internet servers ,per 1 million people,-0.08021037352797294
+Population (% change),percent,-0.07842577758991155
+Fixed broadband subscriptions,per 100 people,-0.07788777460793214
+Summary exposure value tobacco,Rate (risk-weighted prevalence),0.07720703288755193
+Prevalence of total cancers,percent,-0.07545842558290729
+"Population ages 15-64, female",proportion,0.07389376818597734
+Net migration,net total / data are 5 year estimates,-0.07265695854171784
+"Population, female",proportion,0.07256015459097113
+"Population ages 15-64, total",proportion,0.0724547369651987
+Population density,persons per square kilometer,-0.07205131029258514
+Employment in services (% of total employment) (modeled ILO estimate),Percentage of total employment,0.07149617256980884
+"Population, total",total,0.07123248234214967
+"Population ages 15-64, male",proportion,0.07110207543416136
+"Population, male",proportion,0.06998926304576357
+Proportion of Unemployment in Non-agricultural Employment (total),percent,0.06634122925131325
+Stock market capitalization (US$ million),US Dollar,0.06539942254914644
+Expenditure on social protection (% of GDP),percent,-0.06400464073449634
+Proportion of women in managerial positions (%),percent,0.06398207606224733
+Production index: Agriculture,index,-0.06226136247169854
+Interest rate on savings deposits,percent per annum,-0.06219027296682393
+Interest rate on loans and discounts - private,percent per annum,-0.06100130721752452
+Interest rate on loans and discounts - public,percent per annum,-0.06100130721752441
+"Population ages 55-59, male (% of male population)",proportion,-0.060303868215446824
+Urban population growth (annual %),total,-0.060001068813306184
+"Population ages 0-14, male",proportion,0.05889506534720757
+"Population ages 0-14, total",proportion,0.05876997906510655
+"Population ages 0-14, female",proportion,0.05862231066228461
+"Population ages 55-59, female (% of female population)",proportion,-0.0585378606035394
+"Population ages 25-29, male (% of male population)",proportion,-0.058337532029352775
+Interest rate on demand deposits,percent per annum,-0.05652166484443143
+"Population ages 60-64, male (% of male population)",proportion,-0.0563015469073963
+"Population ages 30-34, male (% of male population)",proportion,-0.0560761800541568
+Interest rate on time deposits of 12 months,percent,-0.055760570989724534
+"Population ages 60-64, female (% of female population)",proportion,-0.055697407462431694
+"Population ages 35-39, male (% of male population)",proportion,-0.055308306222833836
+"Population ages 35-39, female (% of female population)",proportion,-0.05409712832667767
+Balance on goods (% of GDP),percent,0.05351429556532795
+"Population ages 50-54, male (% of male population)",proportion,-0.05343098237885658
+"Population, male (% of total population)",proportion,-0.053235730580972425
+Interest rate on time deposits of over 12 months,percent per annum,-0.05318311041527447
+"Labour force participation rate (Total) - Youth, adults: 15-64",percent,-0.0528601279866676
+"Population ages 15-64, male (% of male population)",proportion,-0.05239922139426766
+"Population ages 30-34, female (% of female population)",proportion,-0.05188340485128891
+"Population ages 45-49, male (% of male population)",proportion,-0.051368661357968894
+Interest rate on time deposits of 6 months,percent,-0.05122310398017636
+"Population ages 25-29, female (% of female population)",proportion,-0.05121450477428126
+Population ages 15-64 (% of total population),proportion,-0.05110302440930643
+"Population ages 00-04, female (% of female population)",proportion,-0.050602267655653434
+"Population ages 50-54, female (% of female population)",proportion,-0.0498130774283911
+"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",Percentage of total population,-0.049508897973183474
+"Population ages 15-64, female (% of female population)",proportion,-0.049374084225732716
+Volume of exports,percent change,-0.04900189208442073
+"Population ages 05-09, female (% of female population)",proportion,-0.0478141654938123
+"Population ages 20-24, male (% of male population)",proportion,-0.047647737172137904
+"Population ages 40-44, male (% of male population)",proportion,-0.04734640193151322
+"Population ages 0-14, female (% of female population)",proportion,-0.04719658192976764
+"Population ages 45-49, female (% of female population)",proportion,-0.04634403753279625
+"Prevalence of HIV, total (% of population ages 15-49)",percent,0.04560064229358237
+"Population, female (% of total population)",proportion,-0.044915646510662044
+"Population ages 65-69, male (% of male population)",proportion,-0.04429409926415373
+"Population ages 00-04, male (% of male population)",proportion,-0.04382968586552278
+Population growth (annual %),proportion,-0.04352842685380903
+"Population ages 20-24, female (% of female population)",proportion,-0.043516404435387374
+Age dependency ratio (% of working-age population),proportion,-0.04349912313532428
+Population in the largest city (% of urban population),proportion,-0.043492607220297255
+"Population ages 40-44, female (% of female population)",proportion,-0.042865146826001885
+"Population ages 10-14, female (% of female population)",proportion,-0.04275608705897868
+"Population ages 70-74, female (% of female population)",proportion,-0.04265962019653351
+"Age dependency ratio, young (% of working-age population)",proportion,-0.042386598553603445
+Rural population growth (annual %),proportion,-0.042126610628569365
+"Population ages 65-69, female (% of female population)",proportion,-0.04198024842607357
+Prevalence of anxiety disorders,percent,0.041491580850786254
+"Population ages 05-09, male (% of male population)",proportion,-0.041137436879476214
+"Population ages 0-14, male (% of male population)",proportion,-0.040452263531450164
+Prevalence of Respiratory infections and tuberculosis,percent,-0.04038276431333188
+Population in urban agglomerations of more than 1 million (% of total population),proportion,0.03991833986356577
+"Population ages 65 and above, female (% of female population)",proportion,-0.03826470235919311
+"Population ages 70-74, male (% of male population)",proportion,-0.03811654048347876
+Rural population,proportion,0.03791402366559462
+"Population ages 75-79, female (% of female population)",proportion,-0.037424857414867334
+Population ages 65 and above (% of total population),proportion,-0.037313922381772065
+"Population ages 65 and above, male (% of male population)",proportion,-0.03662254217963556
+"Incidence of tuberculosis (per 100,000 people)",Cases,-0.036596572753374156
+"Population ages 15-19, female (% of female population)",proportion,-0.036458803672069766
+"Population ages 10-14, male (% of male population)",proportion,-0.036006929888856135
+"Foreign direct investment, net",US Dollar,0.03594066805481298
+"Age dependency ratio, old (% of working-age population)",proportion,-0.03510058347419196
+"Population ages 15-19, male (% of male population)",proportion,-0.03208453242711261
+Volume of imports,percent change,-0.030176523688108258
+"Population ages 75-79, male (% of male population)",proportion,-0.030158002598939308
+"General government net lending/borrowing, percent of fiscal year GDP",percent,-0.0289491979773973
+"Population ages 80 and above, female (% of female population)",proportion,-0.02787946932185552
+Doctors per 1 000 inhabitants.,Ones,0.0264586538169971
+"Population ages 80 and above, male (% of male population)",proportion,-0.025131260445113147
+Interest rate on loans and discounts - short-term,percent per annum,-0.02467595392490979
+Interest rate on loans and discounts - long-term,percent per annum,-0.024675953924909642
+Production index: Industry,index,-0.024273480657456836
+Urban population (% of total),percent,0.023904871919932996
+Hospital beds (per 10 000 population),Ones,-0.023112307084166134
+"International tourism, receipts",US Dollar,-0.022966540228507165
+Urban population (% of total population),total,-0.02166129614665544
+Interest rate on loans and discounts,percent per annum,0.020434075417062922
+Prevalence of Hypertensive heart disease,percent,0.019581298881514032
+Refugee population by country or territory of asylum,proportion,0.01889324946384933
+Prevalence of Depressive disorders,percent,0.018497343108717278
+"Literacy rate, adult male (% of males ages 15 and above)",proportion,-0.017440291948250638
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",proportion,-0.017440291948250603
+"Literacy rate, adult female (% of females ages 15 and above)",proportion,-0.017440291948250537
+"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)",proportion,-0.017440291948250523
+"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)",proportion,-0.017440291948250523
+"Literacy rate, adult total (% of people ages 15 and above)",proportion,-0.017440291948250503
+Production index: Manufacturing,index,0.016601152381754625
+Production index: Mining,index,0.01605399029346326
+Interest rate on time deposits of over 12 months,percent,-0.011350770353651998
+"Population, mid-year",person,-0.0054663040694770395
+"Labor force participation rate, male (% of male population ages 15+) (national estimate)",Percentage of males of the total population,-0.00275618606632103
+Proportion of seats held by women in national parliaments (%),proportion,0.0026537906408131487
 Stock market capitalization (US$ million),percent,

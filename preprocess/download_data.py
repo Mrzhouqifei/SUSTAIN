@@ -35,20 +35,6 @@ def save_response_content(response, destination):
                 f.write(chunk)
 
 
-def download_covid_data(series_category):
-    url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_' + series_category + '_global.csv'
-    df = pd.read_csv(url)
-    df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
-    return df
-
-
-def download_policy():
-    url = "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv"
-    df = pd.read_csv(url)
-    df.to_csv('raw_data/policies.csv')
-    return df
-
-
 def download_policy_indicator(parent_folder_id='1QWz0egRt0d39MRdUT4OgkPaiptBHTOGN'):
     gauth = GoogleAuth()
     gauth.LocalWebserverAuth()
@@ -74,3 +60,17 @@ def download_policy_indicator(parent_folder_id='1QWz0egRt0d39MRdUT4OgkPaiptBHTOG
             cnt += 1
     for item in file_dict.values():
         download_file_from_google_drive(item['id'], 'raw_data/' + item['title'])
+
+
+def download_covid_data(series_category):
+    url = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_' + series_category + '_global.csv'
+    df = pd.read_csv(url)
+    df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv', index=False)
+    return df
+
+
+def download_policy():
+    url = "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv"
+    df = pd.read_csv(url)
+    df.to_csv('raw_data/policies.csv', index=False)
+    return df

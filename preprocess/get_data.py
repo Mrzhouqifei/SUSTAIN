@@ -91,10 +91,7 @@ def get_train_data(
     indicators = pd.read_excel('raw_data/indicators.xlsx')[
         ['Country', 'Indicator', 'Unit', indicator_year]]
     policies = pd.read_excel('raw_data/policies.xlsx')
-    try:
-        series = download_covid_data(series_category)
-    except:
-        series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
+    series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
 
     countries = sorted(list(
         set(policies.entity).intersection(set(series['Country/Region'])).intersection(set(indicators['Country']))))

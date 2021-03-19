@@ -7,9 +7,10 @@ from model.my_network import MyProbEstimator
 from preprocess.get_data import get_train_data
 from preprocess.download_data import download_policy_indicator
 
-def main(series_category='confirmed'):
+def main(series_category, indicator_year):
     # 'confirmed', 'deaths', 'recovered'
-    metadata, history_series, train_ds, test_ds, target_scaler, countries = get_train_data(series_category=series_category)
+    metadata, history_series, train_ds, test_ds, target_scaler, countries = get_train_data(series_category=series_category,
+                                                                                           indicator_year=indicator_year)
 
     estimator = MyProbEstimator(
         prediction_length=metadata['prediction_length'],
@@ -106,9 +107,10 @@ if __name__ == '__main__':
     # download_policy_indicator()
 
     # 'confirmed', 'deaths', 'recovered'
-    main(series_category='confirmed')
-    main(series_category='deaths')
-    main(series_category='recovered')
+    indicator_year = 2019
+    main(series_category='confirmed', indicator_year=indicator_year)
+    main(series_category='deaths', indicator_year=indicator_year)
+    main(series_category='recovered', indicator_year=indicator_year)
 
     # mortality/recovery rate 死亡率恢复率
     calculate_rate('deaths', 'confirmed', 'mortality')

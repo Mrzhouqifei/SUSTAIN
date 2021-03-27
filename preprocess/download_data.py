@@ -72,5 +72,5 @@ def download_covid_data(series_category):
 def download_policy():
     url = "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_latest.csv"
     df = pd.read_csv(url)
-    df.to_csv('raw_data/policies.csv', index=False)
+    df.to_csv('raw_data/policies_latest.csv', index=False)
     return df

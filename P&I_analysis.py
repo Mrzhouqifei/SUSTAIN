@@ -106,7 +106,7 @@ def policy_country_analysis(confirmed, deaths, recovered, policies):
                 importance = pd.DataFrame({'Policy': policy_names, 'importance': model_importance}).sort_values(
                     'importance', ascending=False)
                 importance['Country'] = key
-                res = pd.concat((res, importance[['Country', 'Policy', 'importance']][:10]))
+                res = pd.concat((res, importance[['Country', 'Policy', 'importance']])) # [:10]
         return res
 
     policy_influence(policies, mortality).to_csv('output/step_two/country_policy_influence/policy_mortality.csv',
@@ -172,7 +172,7 @@ if __name__ == '__main__':
     deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
     recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
 
-    indicator_analysis(confirmed, deaths, recovered, indicators)
-    policy_analysis(confirmed, deaths, recovered, policies_all_countries)
-    policy_country_analysis(confirmed, deaths, recovered, policies)
-    policy_indicator_analysis(confirmed, deaths, recovered, policies_all_countries, indicators)
+    # indicator_analysis(confirmed, deaths, recovered, indicators)
+    # policy_analysis(confirmed, deaths, recovered, policies_all_countries)
+    # policy_country_analysis(confirmed, deaths, recovered, policies)
+    # policy_indicator_analysis(confirmed, deaths, recovered, policies_all_countries, indicators)

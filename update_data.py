@@ -9,6 +9,7 @@ for series_category in ['confirmed', 'deaths', 'recovered']:
         print('download fail for %s' % series_category)
     time.sleep(5)
 
+
 try:
     download_policy()
     print('download success for policy')

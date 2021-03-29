@@ -1,23 +1,31 @@
 Policy,importance
-containment_index,0.12323877469646659
-parks,0.11608949244064048
-retail_and_recreation,0.0859806768387373
-testing_policy,0.0782889525744032
-international_travel_controls,0.07618131725195662
-grocery_and_pharmacy,0.07360915213723584
-stringency_index,0.0723124745339957
-workplaces,0.042806687092162066
-workplace_closures,0.03696613632654829
-contact_tracing,0.03550690224737766
-income_support,0.033811431620058494
-residential,0.032916991590830884
-facial_coverings,0.030570911989898034
-public_information_campaigns,0.026372530369182107
-school_closures,0.025930572991507254
-restrictions_internal_movements,0.025625440168195138
-debt_relief,0.02410912708667897
-close_public_transport,0.022359876090906363
-restriction_gatherings,0.017058199743347473
-stay_home_requirements,0.01609400621626715
-cancel_public_events,0.004134708577703413
-vaccination_policy,3.5637415900857595e-05
+ContainmentHealthIndex,0.1463477679215183
+C8_International travel controls,0.12549363225334093
+StringencyIndex,0.056779181695296825
+StringencyLegacyIndexForDisplay,0.05084160080146208
+C4_Restrictions on gatherings,0.05058465777132199
+H2_Testing policy,0.04989652082279189
+ContainmentHealthIndexForDisplay,0.048803261545982406
+C1_School closing,0.045733199362040074
+C6_Stay at home requirements,0.044112142492052586
+GovernmentResponseIndex,0.043404638842311605
+H6_Facial Coverings,0.03895061235751092
+C7_Restrictions on internal movement,0.03546476560142499
+StringencyLegacyIndex,0.03208738375457579
+H3_Contact tracing,0.029426464509983114
+EconomicSupportIndexForDisplay,0.029336827667100634
+StringencyIndexForDisplay,0.028620144788990942
+H8_Protection of elderly people,0.022431788407812518
+GovernmentResponseIndexForDisplay,0.022000728329725626
+EconomicSupportIndex,0.016827641589885846
+H1_Public information campaigns,0.016366209173731716
+C2_Workplace closing,0.013978577493527591
+E1_Income support,0.013359587259291135
+C5_Close public transport,0.012447349435903577
+E2_Debt/contract relief,0.009214105633904006
+H4_Emergency investment in healthcare,0.006763825953941037
+C3_Cancel public events,0.006342711019092545
+H5_Investment in vaccines,0.0023341480635323563
+H7_Vaccination policy,0.0012382563303416408
+E3_Fiscal measures,0.000587940483678346
+E4_International support,0.00022432863792695276

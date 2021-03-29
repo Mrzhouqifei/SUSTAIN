@@ -71,8 +71,8 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
 
         tmp = tmp.sort_index()
         tmp = tmp.loc[process_series_diff.index[0]:process_series_diff.index[-1]].fillna(0)
-        #     tmp_value = MinMaxScaler().fit_transform(tmp).T
-        tmp_value = tmp.T.values
+        tmp_value = MinMaxScaler().fit_transform(tmp).T
+        # tmp_value = tmp.T.values
         covariate_d.append(tmp_value)
     covariate_d = np.array(covariate_d).transpose(1, 0, 2)
     return covariate_d
@@ -90,7 +90,7 @@ def get_train_data(
     # 拿2019年的indicators
     indicators = pd.read_excel('raw_data/indicators.xlsx')[
         ['Country', 'Indicator', 'Unit', indicator_year]]
-    policies = pd.read_excel('raw_data/policies.xlsx')
+    policies = pd.read_csv('raw_data/policies.csv')
     series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
 
     countries = sorted(list(

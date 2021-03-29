@@ -95,13 +95,13 @@ def calculate_rate(numerator, denominator, res_name):
     denominator_dict = result_read(denominator)
     names = ['history', 'quantile10', 'quantile35', 'median', 'quantile65', 'quantile90']
     for name in names[:1]:
-        tmp = numerator_dict[name] / denominator_dict[name]
+        tmp = (numerator_dict[name] / denominator_dict[name]).replace([float('inf'), np.nan]).dropna(how='all')
         tmp.to_csv('output/step_one/' + res_name + '/' + name + '.csv')
     columns = list(numerator_dict['median'].columns)
     index = list(numerator_dict['median'].index)
     res = []
     for name in names[1:]:
-        res.append((numerator_dict[name] / denominator_dict[name]).values)
+        res.append((numerator_dict[name] / denominator_dict[name]).replace([float('inf'), np.nan]).dropna(how='all').values)
     res = np.sort(np.array(res), axis=0)
 
     for i, name in enumerate(names[1:]):
@@ -111,7 +111,6 @@ def calculate_rate(numerator, denominator, res_name):
 
 
 if __name__ == '__main__':
-    # update indicator and policy
 
     # 'confirmed', 'deaths', 'recovered'
     indicator_year = 2019

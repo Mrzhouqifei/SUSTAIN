@@ -80,7 +80,7 @@ def calculate_rate(numerator, denominator, res_name):
     denominator_dict = result_read(denominator)
     names = ['history', 'prediction']
     for name in names:
-        tmp = numerator_dict[name] / denominator_dict[name]
+        tmp = (numerator_dict[name] / denominator_dict[name]).replace([float('inf'), np.nan]).dropna(how='all')
         tmp.to_csv('output/step_three/' + res_name + '/' + name + '.csv')
 
 

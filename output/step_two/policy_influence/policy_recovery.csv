@@ -1,23 +1,31 @@
 Policy,importance
-facial_coverings,0.2593135614037825
-retail_and_recreation,0.1178852320272573
-containment_index,0.075550929852419
-parks,0.0582032705638437
-income_support,0.05572643612414265
-testing_policy,0.045800677237075656
-residential,0.04540882803544579
-grocery_and_pharmacy,0.04319258966540503
-stringency_index,0.04272693505561742
-international_travel_controls,0.039541776001121624
-restriction_gatherings,0.03671997800224753
-workplaces,0.03298887006196794
-school_closures,0.028158348888062717
-cancel_public_events,0.024274376953752366
-workplace_closures,0.02018332811104087
-debt_relief,0.019583458096339764
-contact_tracing,0.015476961413492033
-close_public_transport,0.012048039325455912
-stay_home_requirements,0.011881264063566222
-restrictions_internal_movements,0.011170948267843487
-public_information_campaigns,0.004160407154147438
-vaccination_policy,3.7836959730483008e-06
+H6_Facial Coverings,0.22613788664078585
+StringencyLegacyIndexForDisplay,0.10129426212690038
+GovernmentResponseIndex,0.061132242536085735
+H2_Testing policy,0.050132161787175375
+C1_School closing,0.04751538879320894
+E1_Income support,0.04167483146518077
+StringencyLegacyIndex,0.04018885935768757
+GovernmentResponseIndexForDisplay,0.03982772915746938
+C8_International travel controls,0.03644142867563525
+StringencyIndexForDisplay,0.03579241011597981
+EconomicSupportIndex,0.03280520235872291
+H8_Protection of elderly people,0.030574515006441674
+C2_Workplace closing,0.0299406427624368
+ContainmentHealthIndexForDisplay,0.02841446950902611
+ContainmentHealthIndex,0.025875760925682622
+StringencyIndex,0.021941427786848697
+H3_Contact tracing,0.02129500151406896
+E2_Debt/contract relief,0.021036145522869514
+C3_Cancel public events,0.02005820385168032
+C4_Restrictions on gatherings,0.018254552735225537
+C6_Stay at home requirements,0.017188204444497302
+EconomicSupportIndexForDisplay,0.013751642843703617
+H7_Vaccination policy,0.011828956278274481
+C5_Close public transport,0.010649347012365112
+C7_Restrictions on internal movement,0.010147684055802112
+H1_Public information campaigns,0.004029653417633958
+E3_Fiscal measures,0.0011392654974008317
+H4_Emergency investment in healthcare,0.0006870642791157244
+E4_International support,0.00019524632405995673
+H5_Investment in vaccines,4.9813218034616985e-05

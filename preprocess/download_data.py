@@ -74,3 +74,40 @@ def download_policy():
     df = pd.read_csv(url)
     df.to_csv('raw_data/policies_latest.csv', index=False)
     return df
+
+
+def policy_preprocess():
+    policy_column = [
+        'CountryName', 'CountryCode', 'Date',
+        'C1_School closing',
+        'C2_Workplace closing', 'C3_Cancel public events',
+        'C4_Restrictions on gatherings', 'C5_Close public transport',
+        'C6_Stay at home requirements',
+        'C7_Restrictions on internal movement',
+        'C8_International travel controls', 'E1_Income support',
+        'E2_Debt/contract relief', 'E3_Fiscal measures',
+        'E4_International support', 'H1_Public information campaigns',
+        'H2_Testing policy', 'H3_Contact tracing',
+        'H4_Emergency investment in healthcare', 'H5_Investment in vaccines',
+        'H6_Facial Coverings', 'H7_Vaccination policy',
+        'H8_Protection of elderly people',
+        'StringencyIndex', 'ContainmentHealthIndex',
+        'StringencyIndexForDisplay', 'StringencyLegacyIndex',
+        'StringencyLegacyIndexForDisplay', 'GovernmentResponseIndex',
+        'GovernmentResponseIndexForDisplay',
+        'ContainmentHealthIndexForDisplay', 'EconomicSupportIndex',
+        'EconomicSupportIndexForDisplay'
+    ]
+    df = pd.read_csv('raw_data/policies_latest.csv')
+    df = df.dropna(axis=1, how='all')
+    df = df[df.Jurisdiction == 'NAT_TOTAL']
+    policy_column = [x for x in policy_column if x in df.columns]
+    df = df[policy_column]
+    df = df.rename(columns={'CountryName': 'entity', 'CountryCode': 'iso', 'Date': 'date'})
+    df['date'] = pd.to_datetime(df.date.apply(str))
+    df = df.fillna(0)
+    df.to_csv('raw_data/policies_all_countries.csv', index=False)
+    indicators = pd.read_excel('raw_data/indicators.xlsx')
+    country = pd.DataFrame(list(set(indicators.Country)), columns=['entity'])
+    df = df.merge(country, on='entity')
+    df.to_csv('raw_data/policies.csv', index=False)

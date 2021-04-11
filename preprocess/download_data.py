@@ -91,12 +91,12 @@ def policy_preprocess():
         'H4_Emergency investment in healthcare', 'H5_Investment in vaccines',
         'H6_Facial Coverings', 'H7_Vaccination policy',
         'H8_Protection of elderly people',
-        'StringencyIndex', 'ContainmentHealthIndex',
-        'StringencyIndexForDisplay', 'StringencyLegacyIndex',
-        'StringencyLegacyIndexForDisplay', 'GovernmentResponseIndex',
-        'GovernmentResponseIndexForDisplay',
-        'ContainmentHealthIndexForDisplay', 'EconomicSupportIndex',
-        'EconomicSupportIndexForDisplay'
+        # 'StringencyIndex', 'ContainmentHealthIndex',
+        # 'StringencyIndexForDisplay', 'StringencyLegacyIndex',
+        # 'StringencyLegacyIndexForDisplay', 'GovernmentResponseIndex',
+        # 'GovernmentResponseIndexForDisplay',
+        # 'ContainmentHealthIndexForDisplay', 'EconomicSupportIndex',
+        # 'EconomicSupportIndexForDisplay'
     ]
     df = pd.read_csv('raw_data/policies_latest.csv')
     df = df.dropna(axis=1, how='all')

@@ -1,31 +1,31 @@
 Policy,importance
-ContainmentHealthIndex,0.1463477679215183
-C8_International travel controls,0.12549363225334093
-StringencyIndex,0.056779181695296825
-StringencyLegacyIndexForDisplay,0.05084160080146208
-C4_Restrictions on gatherings,0.05058465777132199
-H2_Testing policy,0.04989652082279189
-ContainmentHealthIndexForDisplay,0.048803261545982406
-C1_School closing,0.045733199362040074
-C6_Stay at home requirements,0.044112142492052586
-GovernmentResponseIndex,0.043404638842311605
-H6_Facial Coverings,0.03895061235751092
-C7_Restrictions on internal movement,0.03546476560142499
-StringencyLegacyIndex,0.03208738375457579
-H3_Contact tracing,0.029426464509983114
-EconomicSupportIndexForDisplay,0.029336827667100634
-StringencyIndexForDisplay,0.028620144788990942
-H8_Protection of elderly people,0.022431788407812518
-GovernmentResponseIndexForDisplay,0.022000728329725626
-EconomicSupportIndex,0.016827641589885846
-H1_Public information campaigns,0.016366209173731716
-C2_Workplace closing,0.013978577493527591
-E1_Income support,0.013359587259291135
-C5_Close public transport,0.012447349435903577
-E2_Debt/contract relief,0.009214105633904006
-H4_Emergency investment in healthcare,0.006763825953941037
-C3_Cancel public events,0.006342711019092545
-H5_Investment in vaccines,0.0023341480635323563
-H7_Vaccination policy,0.0012382563303416408
-E3_Fiscal measures,0.000587940483678346
-E4_International support,0.00022432863792695276
+C8_International travel controls,0.12983640308842356
+ContainmentHealthIndexForDisplay,0.1006136717129076
+GovernmentResponseIndexForDisplay,0.09688328550036074
+H6_Facial Coverings,0.06423811581678164
+C7_Restrictions on internal movement,0.060719274822335315
+H8_Protection of elderly people,0.05394566080062258
+StringencyLegacyIndexForDisplay,0.05323002496735554
+GovernmentResponseIndex,0.05196635586169699
+H2_Testing policy,0.045775294445585646
+StringencyLegacyIndex,0.039324908885754475
+StringencyIndex,0.03591347923802368
+StringencyIndexForDisplay,0.034283485691803305
+ContainmentHealthIndex,0.026911894775938278
+C6_Stay at home requirements,0.02429949926094703
+EconomicSupportIndex,0.021374748521381628
+C2_Workplace closing,0.02058912609662268
+H3_Contact tracing,0.01949976072969605
+C5_Close public transport,0.01913421730892141
+C4_Restrictions on gatherings,0.01805829984446695
+E1_Income support,0.017242179529298716
+C3_Cancel public events,0.012205379508640913
+H1_Public information campaigns,0.011828603459913541
+C1_School closing,0.011578181722481016
+EconomicSupportIndexForDisplay,0.009884080011468382
+E2_Debt/contract relief,0.008844472442322232
+H7_Vaccination policy,0.005705859673650332
+H4_Emergency investment in healthcare,0.0030118797602847473
+H5_Investment in vaccines,0.00229888507960978
+E3_Fiscal measures,0.0005884867639307422
+E4_International support,0.00021448467877473976

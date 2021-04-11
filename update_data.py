@@ -7,7 +7,7 @@ for series_category in ['confirmed', 'deaths', 'recovered']:
         print('download success for %s' % series_category)
     except:
         print('download fail for %s' % series_category)
-    time.sleep(5)
+    time.sleep(30)
 
 try:
     download_policy()

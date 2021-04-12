@@ -1,301 +1,201 @@
 Policy,Indicator,importance
-C1_School closing,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3454163830249866
-C1_School closing,"('Volume of imports', 'percent change')",0.09117061597699305
-C1_School closing,"('Fixed broadband subscriptions', 'number')",0.06374839627905093
-C1_School closing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.046264821400769526
-C1_School closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04526421571293369
-C1_School closing,"('Refugee population by country or territory of origin', 'proportion')",0.037104608693229936
-C1_School closing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.031581489997359304
-C1_School closing,"('Mobile cellular subscriptions', 'number')",0.027196200727412388
-C1_School closing,"('Individuals using the Internet', 'percent of population')",0.018389122831969022
-C1_School closing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.017908204126425135
-C2_Workplace closing,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3593340289360959
-C2_Workplace closing,"('Fixed broadband subscriptions', 'number')",0.0949967948565005
-C2_Workplace closing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04929574787782749
-C2_Workplace closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04660789505848926
-C2_Workplace closing,"('Volume of imports', 'percent change')",0.04067132979471003
-C2_Workplace closing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03285718135917731
-C2_Workplace closing,"('Population ages 15-64, male (% of male population)', 'proportion')",0.03062415075389342
-C2_Workplace closing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.020911763946871248
-C2_Workplace closing,"('Individuals using the Internet', 'percent of population')",0.0201349078185261
-C2_Workplace closing,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.018324894634400197
-C3_Cancel public events,"('Political stability and absence of violence/terrorism estimate', 'score')",0.37279611561812626
-C3_Cancel public events,"('Fixed broadband subscriptions', 'number')",0.0667887545608488
-C3_Cancel public events,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05020277795009005
-C3_Cancel public events,"('Population ages 05-09, male (% of male population)', 'proportion')",0.04946275338576266
-C3_Cancel public events,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.048370316599228434
-C3_Cancel public events,"('Volume of imports', 'percent change')",0.04140676909405265
-C3_Cancel public events,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.034099174741931644
-C3_Cancel public events,"('Mobile cellular subscriptions', 'number')",0.02766334350522453
-C3_Cancel public events,"('Individuals using the Internet', 'percent of population')",0.021348493357777654
-C3_Cancel public events,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.019060119380379614
-C4_Restrictions on gatherings,"('Political stability and absence of violence/terrorism estimate', 'score')",0.36004672847895614
-C4_Restrictions on gatherings,"('Fixed broadband subscriptions', 'number')",0.06636967854444378
-C4_Restrictions on gatherings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.049347210308041026
-C4_Restrictions on gatherings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.049148292695090696
-C4_Restrictions on gatherings,"('Volume of imports', 'percent change')",0.04204735869002967
-C4_Restrictions on gatherings,"('Urban population (% of total population)', 'total')",0.03588756517353155
-C4_Restrictions on gatherings,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03300484638188495
-C4_Restrictions on gatherings,"('Mobile cellular subscriptions', 'number')",0.02943587306072154
-C4_Restrictions on gatherings,"('Individuals using the Internet', 'percent of population')",0.019361289901642435
-C4_Restrictions on gatherings,"('Population ages 75-79, male (% of male population)', 'proportion')",0.018703847541125192
-C5_Close public transport,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4028249707021878
-C5_Close public transport,"('Fixed broadband subscriptions', 'number')",0.0724018513633099
-C5_Close public transport,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05339836814135847
-C5_Close public transport,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05107262839764591
-C5_Close public transport,"('Volume of imports', 'percent change')",0.043977811283960264
-C5_Close public transport,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.03959984455507648
-C5_Close public transport,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03701288848191239
-C5_Close public transport,"('Mobile cellular subscriptions', 'number')",0.02941897444010826
-C5_Close public transport,"('Individuals using the Internet', 'percent of population')",0.021202335113491788
-C5_Close public transport,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.019932555997801082
-C6_Stay at home requirements,"('Political stability and absence of violence/terrorism estimate', 'score')",0.36511147756293977
-C6_Stay at home requirements,"('Fixed broadband subscriptions', 'number')",0.09412598848512192
-C6_Stay at home requirements,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.050506426649178385
-C6_Stay at home requirements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04856349580937144
-C6_Stay at home requirements,"('Volume of imports', 'percent change')",0.04231771348316203
-C6_Stay at home requirements,"('Net migration', 'net total / data are 5 year estimates')",0.03799123429539747
-C6_Stay at home requirements,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03348688072584873
-C6_Stay at home requirements,"('Prevalence of down syndrome', 'percent')",0.022214060647785534
-C6_Stay at home requirements,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.021883738268761464
-C6_Stay at home requirements,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02005717945880867
-C7_Restrictions on internal movement,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3682189369150148
-C7_Restrictions on internal movement,"('Fixed broadband subscriptions', 'number')",0.06581528993091423
-C7_Restrictions on internal movement,"('Volume of imports', 'percent change')",0.05970761329542871
-C7_Restrictions on internal movement,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.049564116520067404
-C7_Restrictions on internal movement,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04755375230808141
-C7_Restrictions on internal movement,"('Population ages 40-44, female (% of female population)', 'proportion')",0.040804322063831784
-C7_Restrictions on internal movement,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.033646022016860656
-C7_Restrictions on internal movement,"('Mobile cellular subscriptions', 'number')",0.028863815133927696
-C7_Restrictions on internal movement,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.021403431335633587
-C7_Restrictions on internal movement,"('Individuals using the Internet', 'percent of population')",0.01983336267367567
-C8_International travel controls,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3746100309437861
-C8_International travel controls,"('Fixed broadband subscriptions', 'number')",0.09621517093589126
-C8_International travel controls,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.051817142861657624
-C8_International travel controls,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04853235119838073
-C8_International travel controls,"('Volume of imports', 'percent change')",0.046617101445339475
-C8_International travel controls,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03426079384929764
-C8_International travel controls,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.022186721395265438
-C8_International travel controls,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.020496182550474702
-C8_International travel controls,"('Individuals using the Internet', 'percent of population')",0.019923606683697265
-C8_International travel controls,"('Rural population growth (annual %)', 'proportion')",0.017388582029931876
-E1_Income support,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3894740397460915
-E1_Income support,"('Fixed broadband subscriptions', 'number')",0.06944219819381603
-E1_Income support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05176982677235914
-E1_Income support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.0503048842661369
-E1_Income support,"('Volume of imports', 'percent change')",0.04548340978473035
-E1_Income support,"('Mobile cellular subscriptions', 'number')",0.038333762227176486
-E1_Income support,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03560148603884886
-E1_Income support,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.027767951330164665
-E1_Income support,"('Individuals using the Internet', 'percent of population')",0.020697479820832244
-E1_Income support,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.019697053399064593
-E2_Debt/contract relief,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3784878127356064
-E2_Debt/contract relief,"('Fixed broadband subscriptions', 'number')",0.06831662087690138
-E2_Debt/contract relief,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.050152272662758186
-E2_Debt/contract relief,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04827212714143164
-E2_Debt/contract relief,"('Volume of imports', 'percent change')",0.04427628454595017
-E2_Debt/contract relief,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03416320971307952
-E2_Debt/contract relief,"('Mobile cellular subscriptions', 'number')",0.031837349569461125
-E2_Debt/contract relief,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02605464871003966
-E2_Debt/contract relief,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.022037914563968353
-E2_Debt/contract relief,"('Population ages 80 and above, male (% of male population)', 'proportion')",0.020148335703819898
-E3_Fiscal measures,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4482235228148218
-E3_Fiscal measures,"('Fixed broadband subscriptions', 'number')",0.08146256291696452
-E3_Fiscal measures,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.06308622113990893
-E3_Fiscal measures,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.057520929861826886
-E3_Fiscal measures,"('Volume of imports', 'percent change')",0.04890172765897635
-E3_Fiscal measures,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.0402725667284596
-E3_Fiscal measures,"('Mobile cellular subscriptions', 'number')",0.03675611146098532
-E3_Fiscal measures,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02567624773758116
-E3_Fiscal measures,"('Individuals using the Internet', 'percent of population')",0.023440807841127415
-E3_Fiscal measures,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.022597386834926778
-E4_International support,"('Political stability and absence of violence/terrorism estimate', 'score')",0.44424554033275604
-E4_International support,"('Fixed broadband subscriptions', 'number')",0.07958498458931759
-E4_International support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.0580723742271656
-E4_International support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05686378973152309
-E4_International support,"('Volume of imports', 'percent change')",0.05317446193079709
-E4_International support,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.0406386150760589
-E4_International support,"('Mobile cellular subscriptions', 'number')",0.03269966360631605
-E4_International support,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02589766763270851
-E4_International support,"('Individuals using the Internet', 'percent of population')",0.02366563024354273
-E4_International support,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.022201672683388858
-H1_Public information campaigns,"('Political stability and absence of violence/terrorism estimate', 'score')",0.42688193328726803
-H1_Public information campaigns,"('Fixed broadband subscriptions', 'number')",0.08096440245140234
-H1_Public information campaigns,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05573306439328871
-H1_Public information campaigns,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.054892602804606325
-H1_Public information campaigns,"('Volume of imports', 'percent change')",0.04736860513969114
-H1_Public information campaigns,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.039002737862037215
-H1_Public information campaigns,"('Mobile cellular subscriptions', 'number')",0.03170207302669507
-H1_Public information campaigns,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.03015187935030536
-H1_Public information campaigns,"('Individuals using the Internet', 'percent of population')",0.02322828726564043
-H1_Public information campaigns,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02131409478349719
-H2_Testing policy,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3860940654344175
-H2_Testing policy,"('Fixed broadband subscriptions', 'number')",0.08057347521697775
-H2_Testing policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.050016247246930254
-H2_Testing policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.049746799778755145
-H2_Testing policy,"('Volume of imports', 'percent change')",0.04351636432971251
-H2_Testing policy,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.035319469384434504
-H2_Testing policy,"('Fixed telephone subscriptions', 'number')",0.0300293547356292
-H2_Testing policy,"('Mobile cellular subscriptions', 'number')",0.029133546328585263
-H2_Testing policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.024028649130433913
-H2_Testing policy,"('Individuals using the Internet', 'percent of population')",0.021776535267632006
-H3_Contact tracing,"('Political stability and absence of violence/terrorism estimate', 'score')",0.40883370485161086
-H3_Contact tracing,"('Fixed broadband subscriptions', 'number')",0.07525877372323714
-H3_Contact tracing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05401012950035755
-H3_Contact tracing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05371391945277892
-H3_Contact tracing,"('Volume of imports', 'percent change')",0.050707895888406185
-H3_Contact tracing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03747573570915224
-H3_Contact tracing,"('Mobile cellular subscriptions', 'number')",0.03134210024087172
-H3_Contact tracing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.024905086375136443
-H3_Contact tracing,"('Individuals using the Internet', 'percent of population')",0.02181512923708735
-H3_Contact tracing,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02150418976243487
-H4_Emergency investment in healthcare,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4303932810606599
-H4_Emergency investment in healthcare,"('Fixed broadband subscriptions', 'number')",0.11105176530250002
-H4_Emergency investment in healthcare,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.07021110830314051
-H4_Emergency investment in healthcare,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05638915051319891
-H4_Emergency investment in healthcare,"('Volume of imports', 'percent change')",0.04793131570298816
-H4_Emergency investment in healthcare,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03947427982099778
-H4_Emergency investment in healthcare,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.025430330475872058
-H4_Emergency investment in healthcare,"('Individuals using the Internet', 'percent of population')",0.02298758726462874
-H4_Emergency investment in healthcare,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02156790516189796
-H4_Emergency investment in healthcare,"('Rural population growth (annual %)', 'proportion')",0.020681548497689904
-H5_Investment in vaccines,"('Political stability and absence of violence/terrorism estimate', 'score')",0.44401826434246844
-H5_Investment in vaccines,"('Fixed broadband subscriptions', 'number')",0.08163440741920369
-H5_Investment in vaccines,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05856848077972663
-H5_Investment in vaccines,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05800045170530007
-H5_Investment in vaccines,"('Volume of imports', 'percent change')",0.04946027953968677
-H5_Investment in vaccines,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.040611185311992745
-H5_Investment in vaccines,"('Mobile cellular subscriptions', 'number')",0.03311364471256181
-H5_Investment in vaccines,"('Individuals using the Internet', 'percent of population')",0.025319781893134354
-H5_Investment in vaccines,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.022361754591330482
-H5_Investment in vaccines,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.021909664103203857
-H6_Facial Coverings,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3539033288411085
-H6_Facial Coverings,"('Fixed broadband subscriptions', 'number')",0.06252653204417294
-H6_Facial Coverings,"('Volume of imports', 'percent change')",0.05613906812450603
-H6_Facial Coverings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05209992173912049
-H6_Facial Coverings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04529509310296095
-H6_Facial Coverings,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.032055985184269
-H6_Facial Coverings,"('Mobile cellular subscriptions', 'number')",0.026885308871317497
-H6_Facial Coverings,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.0207426373468444
-H6_Facial Coverings,"('Total investment', 'percent of GDP')",0.019864978190443253
-H6_Facial Coverings,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.019373378659397828
-H7_Vaccination policy,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4214079187512236
-H7_Vaccination policy,"('Fixed broadband subscriptions', 'number')",0.07553285524574598
-H7_Vaccination policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.057856061980806
-H7_Vaccination policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05478547439260277
-H7_Vaccination policy,"('Volume of imports', 'percent change')",0.046578346303940484
-H7_Vaccination policy,"('Mobile cellular subscriptions', 'number')",0.0412679455580473
-H7_Vaccination policy,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03836002931768811
-H7_Vaccination policy,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.026286890277644286
-H7_Vaccination policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.025797072602308863
-H7_Vaccination policy,"('Individuals using the Internet', 'percent of population')",0.022305376811527295
-H8_Protection of elderly people,"('Political stability and absence of violence/terrorism estimate', 'score')",0.37932130340079373
-H8_Protection of elderly people,"('Fixed broadband subscriptions', 'number')",0.09271750939011353
-H8_Protection of elderly people,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.048664640668521206
-H8_Protection of elderly people,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.047413357750409994
-H8_Protection of elderly people,"('Prevalence of anxiety disorders', 'percent')",0.04301171398745542
-H8_Protection of elderly people,"('Volume of imports', 'percent change')",0.04203023558613206
-H8_Protection of elderly people,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03362493102121575
-H8_Protection of elderly people,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02196466243566836
-H8_Protection of elderly people,"('Individuals using the Internet', 'percent of population')",0.01951253399070692
-H8_Protection of elderly people,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.018375528018558403
-StringencyIndex,"('Political stability and absence of violence/terrorism estimate', 'score')",0.2495295081705187
-StringencyIndex,"('Fixed broadband subscriptions', 'number')",0.06698434008445722
-StringencyIndex,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.03884779271176544
-StringencyIndex,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03224814419505795
-StringencyIndex,"('Volume of imports', 'percent change')",0.030010963398124806
-StringencyIndex,"('Fixed broadband subscriptions', 'per 100 people')",0.027882785325929017
-StringencyIndex,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.02278095254646943
-StringencyIndex,"('Individuals using the Internet', 'percent of population')",0.014787803029415238
-StringencyIndex,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.014005071684924994
-StringencyIndex,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.013189833193944954
-ContainmentHealthIndex,"('Political stability and absence of violence/terrorism estimate', 'score')",0.24469776563095988
-ContainmentHealthIndex,"('Fixed broadband subscriptions', 'number')",0.06417382850592729
-ContainmentHealthIndex,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03432574837144873
-ContainmentHealthIndex,"('Volume of imports', 'percent change')",0.03351300822147874
-ContainmentHealthIndex,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.03295608016179851
-ContainmentHealthIndex,"('Population in largest city', 'proportion')",0.026224548138046564
-ContainmentHealthIndex,"('Urban population (% of total population)', 'total')",0.023375207479709663
-ContainmentHealthIndex,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.022365874329534356
-ContainmentHealthIndex,"('Individuals using the Internet', 'percent of population')",0.018177344614651453
-ContainmentHealthIndex,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.01566894160661179
-StringencyIndexForDisplay,"('Political stability and absence of violence/terrorism estimate', 'score')",0.2490200394114919
-StringencyIndexForDisplay,"('Fixed broadband subscriptions', 'number')",0.04812721821197123
-StringencyIndexForDisplay,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.03397782997545157
-StringencyIndexForDisplay,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03248191136295969
-StringencyIndexForDisplay,"('Population ages 30-34, male (% of male population)', 'proportion')",0.0304562464756158
-StringencyIndexForDisplay,"('Volume of imports', 'percent change')",0.029858899035313594
-StringencyIndexForDisplay,"('Unemployment, total (% of total labor force) (modeled ILO estimate)', 'percent of total labor force')",0.027546376191422063
-StringencyIndexForDisplay,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.022778571315767614
-StringencyIndexForDisplay,"('Mobile cellular subscriptions', 'number')",0.020915225001540555
-StringencyIndexForDisplay,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.015006819984877618
-StringencyLegacyIndex,"('Political stability and absence of violence/terrorism estimate', 'score')",0.2606745221565797
-StringencyLegacyIndex,"('Fixed broadband subscriptions', 'number')",0.06611776701677397
-StringencyLegacyIndex,"('Individuals using the Internet', 'percent of population')",0.04158914245603285
-StringencyLegacyIndex,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.036526949693872386
-StringencyLegacyIndex,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03397979342825308
-StringencyLegacyIndex,"('Volume of imports', 'percent change')",0.033438801248681836
-StringencyLegacyIndex,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.02385834809182761
-StringencyLegacyIndex,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.016225250281485495
-StringencyLegacyIndex,"('Population ages 05-09, male (% of male population)', 'proportion')",0.01447184867089351
-StringencyLegacyIndex,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.013644560743538398
-StringencyLegacyIndexForDisplay,"('Political stability and absence of violence/terrorism estimate', 'score')",0.2609082732789575
-StringencyLegacyIndexForDisplay,"('Fixed broadband subscriptions', 'number')",0.07215913612664443
-StringencyLegacyIndexForDisplay,"('Volume of imports', 'percent change')",0.034892349611512816
-StringencyLegacyIndexForDisplay,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.034829346581669016
-StringencyLegacyIndexForDisplay,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0343918041459895
-StringencyLegacyIndexForDisplay,"('Balance on goods (% of GDP)', 'percent')",0.025975829835013505
-StringencyLegacyIndexForDisplay,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.02386371392250018
-StringencyLegacyIndexForDisplay,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.015453341100368298
-StringencyLegacyIndexForDisplay,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.014914801402436567
-StringencyLegacyIndexForDisplay,"('Regulatory quality estimate', 'score')",0.014667517203814064
-GovernmentResponseIndex,"('Political stability and absence of violence/terrorism estimate', 'score')",0.24794362283464985
-GovernmentResponseIndex,"('Fixed broadband subscriptions', 'number')",0.044990846574045076
-GovernmentResponseIndex,"('Volume of imports', 'percent change')",0.03341309925233846
-GovernmentResponseIndex,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03255283370801521
-GovernmentResponseIndex,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.032009021773742576
-GovernmentResponseIndex,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.02246787958478418
-GovernmentResponseIndex,"('Mobile cellular subscriptions', 'number')",0.018297303487426635
-GovernmentResponseIndex,"('Prevalence of Depressive disorders', 'percent')",0.0151178817107855
-GovernmentResponseIndex,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.014858895512221072
-GovernmentResponseIndex,"('Individuals using the Internet', 'percent of population')",0.013614555525667937
-GovernmentResponseIndexForDisplay,"('Political stability and absence of violence/terrorism estimate', 'score')",0.24427128979831725
-GovernmentResponseIndexForDisplay,"('Fixed broadband subscriptions', 'number')",0.06622187631217076
-GovernmentResponseIndexForDisplay,"('Volume of imports', 'percent change')",0.03480825364174551
-GovernmentResponseIndexForDisplay,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.03288788158605498
-GovernmentResponseIndexForDisplay,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03174956372624814
-GovernmentResponseIndexForDisplay,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.0222957689537317
-GovernmentResponseIndexForDisplay,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",0.019463255419816645
-GovernmentResponseIndexForDisplay,"('Individuals using the Internet', 'percent of population')",0.017385887275203116
-GovernmentResponseIndexForDisplay,"('Population ages 15-19, male (% of male population)', 'proportion')",0.014663380012531485
-GovernmentResponseIndexForDisplay,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.014216338615912217
-ContainmentHealthIndexForDisplay,"('Political stability and absence of violence/terrorism estimate', 'score')",0.24513283943246256
-ContainmentHealthIndexForDisplay,"('Fixed broadband subscriptions', 'number')",0.045980701426500965
-ContainmentHealthIndexForDisplay,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.03387815963969651
-ContainmentHealthIndexForDisplay,"('Volume of imports', 'percent change')",0.03225241751231762
-ContainmentHealthIndexForDisplay,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.03171321219331174
-ContainmentHealthIndexForDisplay,"('Population aged 65+ years (% of total population)', 'percent of total population')",0.02609333418957258
-ContainmentHealthIndexForDisplay,"('Mobile cellular subscriptions', 'number')",0.023450470332246735
-ContainmentHealthIndexForDisplay,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.022426796685935058
-ContainmentHealthIndexForDisplay,"('Labour force participation rate (Female) - Youth, adults: 15-64', 'percent')",0.016602160868096214
-ContainmentHealthIndexForDisplay,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.014342259288926339
-EconomicSupportIndex,"('Political stability and absence of violence/terrorism estimate', 'score')",0.34388242085137505
-EconomicSupportIndex,"('Fixed broadband subscriptions', 'number')",0.08664322714945065
-EconomicSupportIndex,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04890327905725442
-EconomicSupportIndex,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04449149356929185
-EconomicSupportIndex,"('Volume of imports', 'percent change')",0.04230068140662394
-EconomicSupportIndex,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03145608888755419
-EconomicSupportIndex,"('Press freedom score', 'score')",0.0241279607407966
-EconomicSupportIndex,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.020073374310946482
-EconomicSupportIndex,"('Individuals using the Internet', 'percent of population')",0.020041933854971012
-EconomicSupportIndex,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.01730697463842236
-EconomicSupportIndexForDisplay,"('Political stability and absence of violence/terrorism estimate', 'score')",0.34306906270957155
-EconomicSupportIndexForDisplay,"('Fixed broadband subscriptions', 'number')",0.1045953389379496
-EconomicSupportIndexForDisplay,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04530103855575036
-EconomicSupportIndexForDisplay,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04432986140688845
-EconomicSupportIndexForDisplay,"('Volume of imports', 'percent change')",0.041290393144070986
-EconomicSupportIndexForDisplay,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03137025518288483
-EconomicSupportIndexForDisplay,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.020223428987057826
-EconomicSupportIndexForDisplay,"('Prevalence of down syndrome', 'percent')",0.01998263051935709
-EconomicSupportIndexForDisplay,"('Individuals using the Internet', 'percent of population')",0.018880321417273454
-EconomicSupportIndexForDisplay,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.018000879518584815
+C1_School closing,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3561677156455143
+C1_School closing,"('Fixed broadband subscriptions', 'number')",0.09031498013245884
+C1_School closing,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.05020282058761254
+C1_School closing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04832408246053832
+C1_School closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.045885680398244144
+C1_School closing,"('Volume of imports', 'percent change')",0.04274821215786751
+C1_School closing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03247132811562371
+C1_School closing,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.025770385717107214
+C1_School closing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02178832954024188
+C1_School closing,"('Individuals using the Internet', 'percent of population')",0.020144538238941304
+C2_Workplace closing,"('Political stability and absence of violence/terrorism estimate', 'score')",0.36943365381994386
+C2_Workplace closing,"('Fixed broadband subscriptions', 'number')",0.06407995595907154
+C2_Workplace closing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05062100975141381
+C2_Workplace closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.050075250525664375
+C2_Workplace closing,"('Volume of imports', 'percent change')",0.04009163513787688
+C2_Workplace closing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.032991428335615934
+C2_Workplace closing,"('Mobile cellular subscriptions', 'number')",0.027226642432737896
+C2_Workplace closing,"('Volume of exports', 'percent change')",0.02528571668313919
+C2_Workplace closing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.021358174256991942
+C2_Workplace closing,"('Individuals using the Internet', 'percent of population')",0.019317119787474805
+C3_Cancel public events,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3812982281428795
+C3_Cancel public events,"('Fixed broadband subscriptions', 'number')",0.0666612223053728
+C3_Cancel public events,"('Population in the largest city (% of urban population)', 'proportion')",0.0493785144874048
+C3_Cancel public events,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.0482085774366968
+C3_Cancel public events,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04732601473737458
+C3_Cancel public events,"('Volume of imports', 'percent change')",0.042335363366398135
+C3_Cancel public events,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03410829447944737
+C3_Cancel public events,"('Mobile cellular subscriptions', 'number')",0.02770935040391177
+C3_Cancel public events,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.024905722389186664
+C3_Cancel public events,"('Individuals using the Internet', 'percent of population')",0.021087079833994108
+C4_Restrictions on gatherings,"('Political stability and absence of violence/terrorism estimate', 'score')",0.36606241548675705
+C4_Restrictions on gatherings,"('Fixed broadband subscriptions', 'number')",0.09545224385994991
+C4_Restrictions on gatherings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05103141087710567
+C4_Restrictions on gatherings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04973080775152315
+C4_Restrictions on gatherings,"('Volume of imports', 'percent change')",0.04902232659968122
+C4_Restrictions on gatherings,"('Mobile cellular subscriptions', 'per 100 people')",0.039036858820259014
+C4_Restrictions on gatherings,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.033190727179503235
+C4_Restrictions on gatherings,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02527007494231761
+C4_Restrictions on gatherings,"('Individuals using the Internet', 'percent of population')",0.021571861020460627
+C4_Restrictions on gatherings,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.01827471433130005
+C5_Close public transport,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4023051320079429
+C5_Close public transport,"('Fixed broadband subscriptions', 'number')",0.07049573935409056
+C5_Close public transport,"('Volume of imports', 'percent change')",0.06034376365057655
+C5_Close public transport,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.052662746231200736
+C5_Close public transport,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05115110376748591
+C5_Close public transport,"('Mobile cellular subscriptions', 'number')",0.038616673899345824
+C5_Close public transport,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.036232136772749134
+C5_Close public transport,"('Individuals using the Internet', 'percent of population')",0.024398683785604697
+C5_Close public transport,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.022902408867674983
+C5_Close public transport,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02022863811878496
+C6_Stay at home requirements,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3711122259982275
+C6_Stay at home requirements,"('Fixed broadband subscriptions', 'number')",0.09452892966984507
+C6_Stay at home requirements,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.0496147208771896
+C6_Stay at home requirements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04905180454981445
+C6_Stay at home requirements,"('Volume of imports', 'percent change')",0.04110047756836549
+C6_Stay at home requirements,"('Prevalence of Diabetes', 'percent')",0.03964725608599526
+C6_Stay at home requirements,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.0337874754122554
+C6_Stay at home requirements,"('Individuals using the Internet', 'percent of population')",0.023034264550277916
+C6_Stay at home requirements,"('Prevalence of total cancers', 'percent')",0.018489083122019107
+C6_Stay at home requirements,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.0184238358687119
+C7_Restrictions on internal movement,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3759404103801457
+C7_Restrictions on internal movement,"('Fixed broadband subscriptions', 'number')",0.09291126747957124
+C7_Restrictions on internal movement,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0549186994289365
+C7_Restrictions on internal movement,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04840527479969041
+C7_Restrictions on internal movement,"('Volume of imports', 'percent change')",0.04297960137892709
+C7_Restrictions on internal movement,"('Population ages 65-69, male (% of male population)', 'proportion')",0.04068813656861568
+C7_Restrictions on internal movement,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03363551106772569
+C7_Restrictions on internal movement,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.021776511174044094
+C7_Restrictions on internal movement,"('Individuals using the Internet', 'percent of population')",0.019600658511347076
+C7_Restrictions on internal movement,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.018556882516764215
+C8_International travel controls,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3789570304896854
+C8_International travel controls,"('Fixed broadband subscriptions', 'number')",0.07093684161669132
+C8_International travel controls,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.055736536591133756
+C8_International travel controls,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.049036465557676746
+C8_International travel controls,"('Volume of imports', 'percent change')",0.04447586245408846
+C8_International travel controls,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03459920975179472
+C8_International travel controls,"('Individuals using the Internet', 'percent of population')",0.030121738178942915
+C8_International travel controls,"('Mobile cellular subscriptions', 'number')",0.028764448478546877
+C8_International travel controls,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.021949284414741962
+C8_International travel controls,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.019582558573328718
+E1_Income support,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3928698427698293
+E1_Income support,"('Fixed broadband subscriptions', 'number')",0.09975543823055362
+E1_Income support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05293586392267259
+E1_Income support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05051889959333168
+E1_Income support,"('Volume of imports', 'percent change')",0.04357976748934297
+E1_Income support,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.0357525109876838
+E1_Income support,"('Individuals using the Internet', 'percent of population')",0.021002035892422624
+E1_Income support,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.020220523775487904
+E1_Income support,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.019239089168617232
+E1_Income support,"('Rural population growth (annual %)', 'proportion')",0.01805992331457672
+E2_Debt/contract relief,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3849005179154259
+E2_Debt/contract relief,"('Fixed broadband subscriptions', 'number')",0.0683628072054484
+E2_Debt/contract relief,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.0486788787557871
+E2_Debt/contract relief,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04780086365975934
+E2_Debt/contract relief,"('Volume of imports', 'percent change')",0.04207824346559871
+E2_Debt/contract relief,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03444768183462752
+E2_Debt/contract relief,"('Rural population growth (annual %)', 'proportion')",0.031249786300541017
+E2_Debt/contract relief,"('Mobile cellular subscriptions', 'number')",0.02814667488835309
+E2_Debt/contract relief,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02304580976214543
+E2_Debt/contract relief,"('Individuals using the Internet', 'percent of population')",0.020118135162052613
+E3_Fiscal measures,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4421944620971992
+E3_Fiscal measures,"('Fixed broadband subscriptions', 'number')",0.08117281509295458
+E3_Fiscal measures,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05801391428745999
+E3_Fiscal measures,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05740665704563851
+E3_Fiscal measures,"('Volume of imports', 'percent change')",0.05283212793081178
+E3_Fiscal measures,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.040269709577860205
+E3_Fiscal measures,"('Mobile cellular subscriptions', 'number')",0.032390127685992504
+E3_Fiscal measures,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02541995591267756
+E3_Fiscal measures,"('Individuals using the Internet', 'percent of population')",0.023463960383681683
+E3_Fiscal measures,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.022097187159949485
+E4_International support,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4539932535342065
+E4_International support,"('Fixed broadband subscriptions', 'number')",0.11136597052374508
+E4_International support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.0615202287017883
+E4_International support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05802874596160362
+E4_International support,"('Volume of imports', 'percent change')",0.049368725182185554
+E4_International support,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.040631913893349775
+E4_International support,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.030370990764580254
+E4_International support,"('Individuals using the Internet', 'percent of population')",0.023790258272294168
+E4_International support,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02207388170263068
+E4_International support,"('Rural population growth (annual %)', 'proportion')",0.020524691238917748
+H1_Public information campaigns,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4265585853190771
+H1_Public information campaigns,"('Fixed broadband subscriptions', 'number')",0.0784883437644857
+H1_Public information campaigns,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05857108159904756
+H1_Public information campaigns,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.055647800688167236
+H1_Public information campaigns,"('Volume of imports', 'percent change')",0.05112721798672863
+H1_Public information campaigns,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.038952403241278875
+H1_Public information campaigns,"('Mobile cellular subscriptions', 'number')",0.031631552580315636
+H1_Public information campaigns,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02459093268036019
+H1_Public information campaigns,"('Individuals using the Internet', 'percent of population')",0.02296348935066777
+H1_Public information campaigns,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.021166441378497193
+H2_Testing policy,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3893254506200286
+H2_Testing policy,"('Fixed broadband subscriptions', 'number')",0.0686219374896087
+H2_Testing policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05471486536607529
+H2_Testing policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05132649173160228
+H2_Testing policy,"('Volume of imports', 'percent change')",0.043153184308534966
+H2_Testing policy,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03531224877344057
+H2_Testing policy,"('Mobile cellular subscriptions', 'number')",0.029541577809708224
+H2_Testing policy,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",0.02760544271803644
+H2_Testing policy,"('Individuals using the Internet', 'percent of population')",0.020606369356557977
+H2_Testing policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.019501502723396767
+H3_Contact tracing,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4222745568622333
+H3_Contact tracing,"('Fixed broadband subscriptions', 'number')",0.07695852638191718
+H3_Contact tracing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05680889921427814
+H3_Contact tracing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.056050364901549694
+H3_Contact tracing,"('Volume of imports', 'percent change')",0.045446949704742785
+H3_Contact tracing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.037419432543109206
+H3_Contact tracing,"('Mobile cellular subscriptions', 'number')",0.03039350185763321
+H3_Contact tracing,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02363070530917136
+H3_Contact tracing,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02230346408452987
+H3_Contact tracing,"('Individuals using the Internet', 'percent of population')",0.022238463950794145
+H4_Emergency investment in healthcare,"('Political stability and absence of violence/terrorism estimate', 'score')",0.43439707808768474
+H4_Emergency investment in healthcare,"('Fixed broadband subscriptions', 'number')",0.11004397635774403
+H4_Emergency investment in healthcare,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05871867511350307
+H4_Emergency investment in healthcare,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05651414449566596
+H4_Emergency investment in healthcare,"('Volume of imports', 'percent change')",0.051999963904672035
+H4_Emergency investment in healthcare,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03947258802673102
+H4_Emergency investment in healthcare,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.027044287316935048
+H4_Emergency investment in healthcare,"('Individuals using the Internet', 'percent of population')",0.023000735086224477
+H4_Emergency investment in healthcare,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.021628050905249163
+H4_Emergency investment in healthcare,"('Rural population growth (annual %)', 'proportion')",0.01993972210183744
+H5_Investment in vaccines,"('Political stability and absence of violence/terrorism estimate', 'score')",0.4457984158571022
+H5_Investment in vaccines,"('Fixed broadband subscriptions', 'number')",0.11185950605256223
+H5_Investment in vaccines,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.06098908945705064
+H5_Investment in vaccines,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.058005235220993705
+H5_Investment in vaccines,"('Volume of imports', 'percent change')",0.04932122589549629
+H5_Investment in vaccines,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.04095974823239737
+H5_Investment in vaccines,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.025635138079900352
+H5_Investment in vaccines,"('Individuals using the Internet', 'percent of population')",0.02377390098870072
+H5_Investment in vaccines,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.02205598461834525
+H5_Investment in vaccines,"('Rural population growth (annual %)', 'proportion')",0.020511319517339
+H6_Facial Coverings,"('Political stability and absence of violence/terrorism estimate', 'score')",0.35522777871590633
+H6_Facial Coverings,"('Fixed broadband subscriptions', 'number')",0.09257514179025558
+H6_Facial Coverings,"('Volume of imports', 'percent change')",0.050958643153107934
+H6_Facial Coverings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.04563602684600487
+H6_Facial Coverings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04557797728373602
+H6_Facial Coverings,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03230105486600501
+H6_Facial Coverings,"('Individuals using the Internet', 'percent of population')",0.03184424011943833
+H6_Facial Coverings,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.02044506131806322
+H6_Facial Coverings,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.017738822118297814
+H6_Facial Coverings,"('Rural population growth (annual %)', 'proportion')",0.016316464431304054
+H7_Vaccination policy,"('Political stability and absence of violence/terrorism estimate', 'score')",0.41892815638996395
+H7_Vaccination policy,"('Fixed broadband subscriptions', 'number')",0.1051211026299752
+H7_Vaccination policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05769310063151397
+H7_Vaccination policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05450601257869914
+H7_Vaccination policy,"('Volume of imports', 'percent change')",0.05016643364203957
+H7_Vaccination policy,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.038225188865173856
+H7_Vaccination policy,"('Individuals using the Internet', 'percent of population')",0.022949194423178144
+H7_Vaccination policy,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.020790058236351362
+H7_Vaccination policy,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.020668142228859113
+H7_Vaccination policy,"('Rural population growth (annual %)', 'proportion')",0.01930896489561179
+H8_Protection of elderly people,"('Political stability and absence of violence/terrorism estimate', 'score')",0.3718829464307925
+H8_Protection of elderly people,"('Fixed broadband subscriptions', 'number')",0.0655207440152724
+H8_Protection of elderly people,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.05069089386581262
+H8_Protection of elderly people,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.05045815245284615
+H8_Protection of elderly people,"('Population ages 30-34, male (% of male population)', 'proportion')",0.04222983019675691
+H8_Protection of elderly people,"('Volume of imports', 'percent change')",0.04185763770771388
+H8_Protection of elderly people,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.03375520325395093
+H8_Protection of elderly people,"('Mobile cellular subscriptions', 'number')",0.027260610674122443
+H8_Protection of elderly people,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",0.022880523386305987
+H8_Protection of elderly people,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.019583952044209166

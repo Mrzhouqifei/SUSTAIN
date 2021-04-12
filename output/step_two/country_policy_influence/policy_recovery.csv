@@ -1,1231 +1,821 @@
 Country,Policy,importance
-Afghanistan,C8_International travel controls,0.8695803177326247
-Afghanistan,ContainmentHealthIndex,0.11301814863418401
-Afghanistan,GovernmentResponseIndex,0.007652749686804703
-Afghanistan,ContainmentHealthIndexForDisplay,0.004826517065284222
-Afghanistan,H3_Contact tracing,0.003307046779616149
-Afghanistan,H1_Public information campaigns,0.0005346583792016427
-Afghanistan,C7_Restrictions on internal movement,0.00034076479130880566
-Afghanistan,C2_Workplace closing,0.000265866606292555
-Afghanistan,GovernmentResponseIndexForDisplay,0.00018382872555359377
-Afghanistan,H4_Emergency investment in healthcare,9.8486580728073e-05
-Afghanistan,StringencyIndexForDisplay,9.583409530285536e-05
-Afghanistan,StringencyLegacyIndex,6.678577232593295e-05
-Afghanistan,EconomicSupportIndex,1.898950627429489e-05
-Afghanistan,StringencyLegacyIndexForDisplay,8.386373806406776e-06
-Afghanistan,StringencyIndex,1.1879447056522719e-06
-Afghanistan,E4_International support,4.3132598643498523e-07
-Afghanistan,H7_Vaccination policy,0.0
-Afghanistan,H8_Protection of elderly people,0.0
-Afghanistan,C1_School closing,0.0
-Afghanistan,H6_Facial Coverings,0.0
-Afghanistan,H5_Investment in vaccines,0.0
+Afghanistan,C8_International travel controls,0.8685330076176611
+Afghanistan,C2_Workplace closing,0.11354437804397992
+Afghanistan,H3_Contact tracing,0.007506430776533015
+Afghanistan,C7_Restrictions on internal movement,0.004750719151307339
+Afghanistan,C6_Stay at home requirements,0.004021933271987162
+Afghanistan,H6_Facial Coverings,0.0006921414079727803
+Afghanistan,C1_School closing,0.00041646872807065837
+Afghanistan,H7_Vaccination policy,0.00013238469686224628
+Afghanistan,H4_Emergency investment in healthcare,9.705504675932635e-05
+Afghanistan,C4_Restrictions on gatherings,9.444111605862182e-05
+Afghanistan,C3_Cancel public events,9.1041116304335e-05
+Afghanistan,H8_Protection of elderly people,8.53203363224397e-05
+Afghanistan,E2_Debt/contract relief,1.8713487723546288e-05
+Afghanistan,H1_Public information campaigns,1.5101433598737334e-05
+Afghanistan,C5_Close public transport,4.387123337369988e-07
+Afghanistan,E4_International support,4.2505652516072785e-07
 Afghanistan,H2_Testing policy,0.0
-Afghanistan,E3_Fiscal measures,0.0
-Afghanistan,E2_Debt/contract relief,0.0
+Afghanistan,H5_Investment in vaccines,0.0
 Afghanistan,E1_Income support,0.0
-Afghanistan,C6_Stay at home requirements,0.0
-Afghanistan,C5_Close public transport,0.0
-Afghanistan,C4_Restrictions on gatherings,0.0
-Afghanistan,C3_Cancel public events,0.0
-Afghanistan,EconomicSupportIndexForDisplay,0.0
-Argentina,H2_Testing policy,0.6847836977119786
-Argentina,H8_Protection of elderly people,0.18557740136525555
-Argentina,StringencyIndexForDisplay,0.0820948406524383
-Argentina,GovernmentResponseIndexForDisplay,0.03379485737323322
-Argentina,StringencyIndex,0.004737968033458071
-Argentina,H6_Facial Coverings,0.004684000858055474
-Argentina,H1_Public information campaigns,0.004050045411071972
-Argentina,C2_Workplace closing,0.00011776668215463569
-Argentina,ContainmentHealthIndex,7.462199634782941e-05
-Argentina,E3_Fiscal measures,4.7929062848026725e-05
-Argentina,StringencyLegacyIndex,2.5240939057097824e-05
-Argentina,C3_Cancel public events,9.594600319047651e-06
-Argentina,H4_Emergency investment in healthcare,1.8583153604597418e-06
-Argentina,ContainmentHealthIndexForDisplay,1.7683778894596953e-07
-Argentina,GovernmentResponseIndex,1.6063291881569514e-10
-Argentina,StringencyLegacyIndexForDisplay,0.0
-Argentina,H7_Vaccination policy,0.0
-Argentina,EconomicSupportIndex,0.0
-Argentina,C1_School closing,0.0
-Argentina,H5_Investment in vaccines,0.0
-Argentina,H3_Contact tracing,0.0
+Afghanistan,E3_Fiscal measures,0.0
+Argentina,H8_Protection of elderly people,0.7151565253339898
+Argentina,H2_Testing policy,0.18042433300590247
+Argentina,C3_Cancel public events,0.03778103899421729
+Argentina,E2_Debt/contract relief,0.034380373173857885
+Argentina,C2_Workplace closing,0.02140994737181837
+Argentina,C8_International travel controls,0.004880613776713485
+Argentina,H6_Facial Coverings,0.004830683917445901
+Argentina,C6_Stay at home requirements,0.0005609815955882713
+Argentina,H4_Emergency investment in healthcare,0.00022750591777541868
+Argentina,C5_Close public transport,0.00019973342058876684
+Argentina,C1_School closing,7.046173873792225e-05
+Argentina,E3_Fiscal measures,4.964717994704481e-05
+Argentina,H7_Vaccination policy,1.5042710782496457e-05
+Argentina,C7_Restrictions on internal movement,1.160005673224796e-05
+Argentina,C4_Restrictions on gatherings,1.5118059026678996e-06
 Argentina,E4_International support,0.0
-Argentina,E2_Debt/contract relief,0.0
+Argentina,H1_Public information campaigns,0.0
 Argentina,E1_Income support,0.0
-Argentina,C8_International travel controls,0.0
-Argentina,C7_Restrictions on internal movement,0.0
-Argentina,C6_Stay at home requirements,0.0
-Argentina,C5_Close public transport,0.0
-Argentina,C4_Restrictions on gatherings,0.0
-Argentina,EconomicSupportIndexForDisplay,0.0
-Bangladesh,H6_Facial Coverings,0.5533338874646229
-Bangladesh,StringencyIndex,0.21182243773824444
-Bangladesh,H1_Public information campaigns,0.10138531737673105
-Bangladesh,StringencyLegacyIndex,0.08356161652517126
-Bangladesh,StringencyIndexForDisplay,0.016626367978397675
-Bangladesh,GovernmentResponseIndexForDisplay,0.010349871802328992
-Bangladesh,GovernmentResponseIndex,0.008263203495997969
-Bangladesh,C6_Stay at home requirements,0.008210140090490493
-Bangladesh,ContainmentHealthIndexForDisplay,0.003953324419184013
-Bangladesh,C8_International travel controls,0.001639882840735189
-Bangladesh,E3_Fiscal measures,0.0005182371877661857
-Bangladesh,E2_Debt/contract relief,0.00021122485535005848
-Bangladesh,H4_Emergency investment in healthcare,8.996358324343927e-05
-Bangladesh,EconomicSupportIndex,3.3117416541905604e-05
-Bangladesh,E4_International support,1.4072251945345315e-06
-Bangladesh,H8_Protection of elderly people,0.0
-Bangladesh,StringencyLegacyIndexForDisplay,0.0
-Bangladesh,ContainmentHealthIndex,0.0
-Bangladesh,C1_School closing,0.0
-Bangladesh,H7_Vaccination policy,0.0
-Bangladesh,H5_Investment in vaccines,0.0
-Bangladesh,C2_Workplace closing,0.0
-Bangladesh,H3_Contact tracing,0.0
+Argentina,H3_Contact tracing,0.0
+Argentina,H5_Investment in vaccines,0.0
+Bangladesh,H6_Facial Coverings,0.49547806306607534
+Bangladesh,C2_Workplace closing,0.21462299743458843
+Bangladesh,C8_International travel controls,0.17347278514360492
+Bangladesh,C5_Close public transport,0.06833367123204936
+Bangladesh,C4_Restrictions on gatherings,0.015944191069110145
+Bangladesh,C1_School closing,0.010289095114725118
+Bangladesh,E1_Income support,0.008078497960688399
+Bangladesh,C6_Stay at home requirements,0.00661103901289504
+Bangladesh,H7_Vaccination policy,0.005411733379360172
+Bangladesh,E3_Fiscal measures,0.0008127052655162265
+Bangladesh,E2_Debt/contract relief,0.0006831040337662577
+Bangladesh,H4_Emergency investment in healthcare,0.00015508789601784064
+Bangladesh,C3_Cancel public events,0.00010127141755727272
+Bangladesh,H3_Contact tracing,4.348913978098683e-06
+Bangladesh,E4_International support,1.409060067411948e-06
+Bangladesh,H1_Public information campaigns,0.0
 Bangladesh,H2_Testing policy,0.0
-Bangladesh,E1_Income support,0.0
+Bangladesh,H5_Investment in vaccines,0.0
 Bangladesh,C7_Restrictions on internal movement,0.0
-Bangladesh,C5_Close public transport,0.0
-Bangladesh,C4_Restrictions on gatherings,0.0
-Bangladesh,C3_Cancel public events,0.0
-Bangladesh,EconomicSupportIndexForDisplay,0.0
-Belize,C6_Stay at home requirements,0.4150650906474708
-Belize,C2_Workplace closing,0.33266891016837075
-Belize,C8_International travel controls,0.08910579576477602
-Belize,StringencyLegacyIndex,0.06332811444032162
-Belize,StringencyLegacyIndexForDisplay,0.037543015922924486
-Belize,GovernmentResponseIndex,0.030248729877479306
-Belize,C7_Restrictions on internal movement,0.009475373324952165
-Belize,H1_Public information campaigns,0.008372733746020837
-Belize,StringencyIndex,0.007386101355448227
-Belize,GovernmentResponseIndexForDisplay,0.00507447633247213
-Belize,StringencyIndexForDisplay,0.001376001709925935
-Belize,E4_International support,0.00016047234541763356
-Belize,E3_Fiscal measures,0.00011751087127273443
-Belize,C5_Close public transport,7.767349314723519e-05
-Belize,H8_Protection of elderly people,0.0
-Belize,ContainmentHealthIndexForDisplay,0.0
-Belize,EconomicSupportIndex,0.0
-Belize,ContainmentHealthIndex,0.0
-Belize,C1_School closing,0.0
-Belize,H4_Emergency investment in healthcare,0.0
-Belize,H7_Vaccination policy,0.0
-Belize,H6_Facial Coverings,0.0
+Bangladesh,H8_Protection of elderly people,0.0
+Belize,C6_Stay at home requirements,0.4766244678561638
+Belize,C2_Workplace closing,0.30563372880482453
+Belize,H6_Facial Coverings,0.112097733399632
+Belize,C5_Close public transport,0.05322684560593047
+Belize,C4_Restrictions on gatherings,0.028264106203442715
+Belize,C8_International travel controls,0.019975117667597013
+Belize,C7_Restrictions on internal movement,0.0022708484056119917
+Belize,E2_Debt/contract relief,0.0016271359788709733
+Belize,E4_International support,0.00015694801219667424
+Belize,E3_Fiscal measures,0.00011493006854105598
+Belize,H3_Contact tracing,8.128732807554197e-06
+Belize,H7_Vaccination policy,9.264381161453263e-09
 Belize,H5_Investment in vaccines,0.0
-Belize,H3_Contact tracing,0.0
+Belize,H4_Emergency investment in healthcare,0.0
+Belize,C1_School closing,0.0
 Belize,H2_Testing policy,0.0
-Belize,E2_Debt/contract relief,0.0
+Belize,H1_Public information campaigns,0.0
 Belize,E1_Income support,0.0
-Belize,C4_Restrictions on gatherings,0.0
 Belize,C3_Cancel public events,0.0
-Belize,EconomicSupportIndexForDisplay,0.0
-Bhutan,H6_Facial Coverings,0.7524541138994778
-Bhutan,GovernmentResponseIndexForDisplay,0.11644209956720432
-Bhutan,StringencyIndexForDisplay,0.08330850668325636
-Bhutan,H7_Vaccination policy,0.0153878710634979
-Bhutan,C8_International travel controls,0.014034035863901985
-Bhutan,C2_Workplace closing,0.013109284339467444
-Bhutan,GovernmentResponseIndex,0.00181140598905111
-Bhutan,StringencyLegacyIndexForDisplay,0.0017566266554669124
-Bhutan,C7_Restrictions on internal movement,0.0008956026546043005
-Bhutan,ContainmentHealthIndex,0.0006040934671684058
-Bhutan,C6_Stay at home requirements,0.00015247871574331805
-Bhutan,ContainmentHealthIndexForDisplay,4.048820177544659e-05
-Bhutan,StringencyIndex,1.821326207985601e-06
-Bhutan,E3_Fiscal measures,1.5320113453601886e-06
-Bhutan,C3_Cancel public events,3.956183171991514e-08
-Bhutan,H8_Protection of elderly people,0.0
-Bhutan,StringencyLegacyIndex,0.0
-Bhutan,EconomicSupportIndex,0.0
-Bhutan,C1_School closing,0.0
-Bhutan,H4_Emergency investment in healthcare,0.0
-Bhutan,H5_Investment in vaccines,0.0
-Bhutan,H3_Contact tracing,0.0
-Bhutan,H2_Testing policy,0.0
-Bhutan,H1_Public information campaigns,0.0
+Belize,H8_Protection of elderly people,0.0
+Bhutan,H6_Facial Coverings,0.7733735513547251
+Bhutan,C5_Close public transport,0.08336223903784522
+Bhutan,E2_Debt/contract relief,0.0760560597342506
+Bhutan,C1_School closing,0.018125121180578754
+Bhutan,H8_Protection of elderly people,0.016050838166425063
+Bhutan,C8_International travel controls,0.013054121049471384
+Bhutan,C3_Cancel public events,0.011863008464444876
+Bhutan,C4_Restrictions on gatherings,0.0042806200201292895
+Bhutan,H2_Testing policy,0.0017884532795141652
+Bhutan,E1_Income support,0.0017209747087461047
+Bhutan,C2_Workplace closing,0.0002888812167558343
+Bhutan,H7_Vaccination policy,3.461918820906554e-05
+Bhutan,E3_Fiscal measures,1.5125989046387312e-06
+Bhutan,C6_Stay at home requirements,0.0
+Bhutan,C7_Restrictions on internal movement,0.0
 Bhutan,E4_International support,0.0
-Bhutan,E2_Debt/contract relief,0.0
-Bhutan,E1_Income support,0.0
-Bhutan,C5_Close public transport,0.0
-Bhutan,C4_Restrictions on gatherings,0.0
-Bhutan,EconomicSupportIndexForDisplay,0.0
-Bolivia,StringencyLegacyIndexForDisplay,0.7588342613811473
-Bolivia,EconomicSupportIndexForDisplay,0.15462480902996578
-Bolivia,ContainmentHealthIndex,0.0648495119474174
-Bolivia,GovernmentResponseIndex,0.0075567639672987985
-Bolivia,H6_Facial Coverings,0.00597734555030727
-Bolivia,StringencyIndex,0.003742068259113615
-Bolivia,GovernmentResponseIndexForDisplay,0.0034997857099949912
-Bolivia,E3_Fiscal measures,0.00027380898735175516
-Bolivia,ContainmentHealthIndexForDisplay,0.00026323427500373224
-Bolivia,H4_Emergency investment in healthcare,0.00019006154970338705
-Bolivia,H7_Vaccination policy,0.00018144910465078262
-Bolivia,E1_Income support,6.870484051063883e-06
-Bolivia,C8_International travel controls,2.9753994200154657e-08
-Bolivia,C7_Restrictions on internal movement,0.0
-Bolivia,EconomicSupportIndex,0.0
-Bolivia,C3_Cancel public events,0.0
-Bolivia,C4_Restrictions on gatherings,0.0
-Bolivia,C5_Close public transport,0.0
-Bolivia,C6_Stay at home requirements,0.0
-Bolivia,StringencyLegacyIndex,0.0
-Bolivia,StringencyIndexForDisplay,0.0
-Bolivia,E2_Debt/contract relief,0.0
+Bhutan,H1_Public information campaigns,0.0
+Bhutan,H3_Contact tracing,0.0
+Bhutan,H5_Investment in vaccines,0.0
+Bhutan,H4_Emergency investment in healthcare,-4.268245183789298e-18
+Bolivia,C8_International travel controls,0.6359137661773038
+Bolivia,H2_Testing policy,0.19826490802160615
+Bolivia,H8_Protection of elderly people,0.0922548931806136
+Bolivia,C2_Workplace closing,0.0553743490762359
+Bolivia,H3_Contact tracing,0.006139769404581879
+Bolivia,C6_Stay at home requirements,0.004835541891635086
+Bolivia,C3_Cancel public events,0.0035291133610935214
+Bolivia,H6_Facial Coverings,0.0017649501302535399
+Bolivia,E2_Debt/contract relief,0.001310227943986266
+Bolivia,E3_Fiscal measures,0.00021512338720984747
+Bolivia,H4_Emergency investment in healthcare,0.00018785364977256107
+Bolivia,H7_Vaccination policy,0.0001793412534506339
+Bolivia,C1_School closing,3.016252225736965e-05
+Bolivia,E1_Income support,0.0
 Bolivia,E4_International support,0.0
-Bolivia,H8_Protection of elderly people,0.0
-Bolivia,H5_Investment in vaccines,0.0
-Bolivia,C2_Workplace closing,0.0
-Bolivia,H3_Contact tracing,0.0
-Bolivia,H2_Testing policy,0.0
 Bolivia,H1_Public information campaigns,0.0
-Bolivia,C1_School closing,0.0
-Brazil,C6_Stay at home requirements,0.4957632945336019
-Brazil,StringencyIndexForDisplay,0.20366414054866216
-Brazil,StringencyLegacyIndex,0.19043250862142705
-Brazil,GovernmentResponseIndex,0.0748463393142457
-Brazil,ContainmentHealthIndexForDisplay,0.01485745715888693
-Brazil,H4_Emergency investment in healthcare,0.012789479312894
-Brazil,H2_Testing policy,0.004814600275142331
-Brazil,StringencyLegacyIndexForDisplay,0.0019433898388434886
-Brazil,E3_Fiscal measures,0.0006964013405718121
-Brazil,GovernmentResponseIndexForDisplay,7.707814410835785e-05
-Brazil,H1_Public information campaigns,3.9063268243514554e-05
-Brazil,H5_Investment in vaccines,3.7723551632072965e-05
-Brazil,StringencyIndex,2.319274932320381e-05
-Brazil,C4_Restrictions on gatherings,6.7893656898661625e-06
-Brazil,EconomicSupportIndexForDisplay,3.5741730665721648e-06
-Brazil,H3_Contact tracing,2.21954345105398e-06
-Brazil,ContainmentHealthIndex,1.985917524675575e-06
-Brazil,E2_Debt/contract relief,4.463000451506015e-07
-Brazil,H7_Vaccination policy,3.087179686658641e-07
-Brazil,H6_Facial Coverings,4.928208805088416e-09
-Brazil,E1_Income support,2.3964627688189763e-09
-Brazil,C2_Workplace closing,0.0
-Brazil,H8_Protection of elderly people,0.0
+Bolivia,C7_Restrictions on internal movement,0.0
+Bolivia,C5_Close public transport,0.0
+Bolivia,H5_Investment in vaccines,0.0
+Bolivia,C4_Restrictions on gatherings,0.0
+Brazil,C8_International travel controls,0.463531282677978
+Brazil,H1_Public information campaigns,0.19845633085882736
+Brazil,H6_Facial Coverings,0.16121865590004023
+Brazil,C6_Stay at home requirements,0.1279979019734803
+Brazil,H2_Testing policy,0.024602249090921933
+Brazil,H4_Emergency investment in healthcare,0.012374578523904823
+Brazil,C2_Workplace closing,0.006053323928501419
+Brazil,C4_Restrictions on gatherings,0.002872255018006505
+Brazil,C5_Close public transport,0.0019480056717454672
+Brazil,E3_Fiscal measures,0.0008190081409674571
+Brazil,C1_School closing,5.23239177043067e-05
+Brazil,H5_Investment in vaccines,3.764919167784567e-05
+Brazil,H3_Contact tracing,2.083239521778593e-05
+Brazil,E2_Debt/contract relief,1.0723075868556153e-05
+Brazil,E1_Income support,4.666121244928561e-06
+Brazil,H7_Vaccination policy,2.0900649322654942e-07
+Brazil,H8_Protection of elderly people,4.5074198189501926e-09
 Brazil,E4_International support,0.0
-Brazil,C8_International travel controls,0.0
 Brazil,C7_Restrictions on internal movement,0.0
-Brazil,C5_Close public transport,0.0
 Brazil,C3_Cancel public events,0.0
-Brazil,EconomicSupportIndex,0.0
-Brazil,C1_School closing,0.0
-Brunei,EconomicSupportIndexForDisplay,0.9056061893476555
-Brunei,C3_Cancel public events,0.04884271058370377
-Brunei,StringencyLegacyIndexForDisplay,0.041630418363729854
-Brunei,E3_Fiscal measures,0.0016591432330151376
-Brunei,EconomicSupportIndex,0.0012394566937077751
-Brunei,H4_Emergency investment in healthcare,0.00037415081016645927
-Brunei,GovernmentResponseIndex,0.0002915752228254508
-Brunei,ContainmentHealthIndex,0.0001329851109845964
-Brunei,C4_Restrictions on gatherings,0.00011979835634583151
-Brunei,ContainmentHealthIndexForDisplay,9.080420431147862e-05
-Brunei,StringencyIndexForDisplay,1.2768073553775182e-05
-Brunei,H2_Testing policy,3.5085003440565017e-16
-Brunei,C7_Restrictions on internal movement,0.0
-Brunei,H8_Protection of elderly people,0.0
-Brunei,GovernmentResponseIndexForDisplay,0.0
-Brunei,C5_Close public transport,0.0
-Brunei,StringencyLegacyIndex,0.0
-Brunei,StringencyIndex,0.0
-Brunei,H7_Vaccination policy,0.0
-Brunei,C8_International travel controls,0.0
-Brunei,H6_Facial Coverings,0.0
-Brunei,H5_Investment in vaccines,0.0
-Brunei,C2_Workplace closing,0.0
-Brunei,H3_Contact tracing,0.0
-Brunei,H1_Public information campaigns,0.0
-Brunei,E4_International support,0.0
+Brunei,H8_Protection of elderly people,0.6001954396320214
+Brunei,H3_Contact tracing,0.17855188432173527
+Brunei,C3_Cancel public events,0.1009534506806101
+Brunei,C7_Restrictions on internal movement,0.09764888651872268
+Brunei,E2_Debt/contract relief,0.0181542089474535
+Brunei,E3_Fiscal measures,0.0016583471868244248
+Brunei,E1_Income support,0.001458050779428986
+Brunei,C8_International travel controls,0.0012288520591758828
+Brunei,C4_Restrictions on gatherings,8.972432621173392e-05
+Brunei,C1_School closing,5.8660711657741374e-05
+Brunei,H7_Vaccination policy,1.8027170420893898e-06
+Brunei,C2_Workplace closing,6.921191144791116e-07
+Brunei,H6_Facial Coverings,1.6949615443385825e-15
 Brunei,C6_Stay at home requirements,0.0
-Brunei,E2_Debt/contract relief,0.0
-Brunei,E1_Income support,0.0
-Brunei,C1_School closing,0.0
-Cambodia,H6_Facial Coverings,0.5820560828981515
-Cambodia,C8_International travel controls,0.16120848977034555
-Cambodia,C7_Restrictions on internal movement,0.13578322936224332
-Cambodia,ContainmentHealthIndex,0.06248358106706954
-Cambodia,GovernmentResponseIndex,0.04498515237647461
-Cambodia,StringencyLegacyIndex,0.006839080135484015
-Cambodia,E1_Income support,0.002826747967523754
-Cambodia,C2_Workplace closing,0.001925797318458436
-Cambodia,GovernmentResponseIndexForDisplay,0.0010222861345013487
-Cambodia,E3_Fiscal measures,0.0004956207557752906
-Cambodia,StringencyIndex,0.00014219050189854472
-Cambodia,StringencyLegacyIndexForDisplay,0.00012205252659209865
-Cambodia,ContainmentHealthIndexForDisplay,4.2130494933990884e-05
-Cambodia,H7_Vaccination policy,3.334255771374824e-05
-Cambodia,EconomicSupportIndexForDisplay,2.950012895125309e-05
-Cambodia,C3_Cancel public events,1.723642704909816e-06
-Cambodia,C1_School closing,1.5644779173502249e-06
-Cambodia,H4_Emergency investment in healthcare,1.4278832607182144e-06
-Cambodia,H5_Investment in vaccines,0.0
-Cambodia,H3_Contact tracing,0.0
-Cambodia,H8_Protection of elderly people,0.0
-Cambodia,H2_Testing policy,0.0
-Cambodia,H1_Public information campaigns,0.0
-Cambodia,StringencyIndexForDisplay,0.0
+Brunei,C5_Close public transport,0.0
+Brunei,E4_International support,0.0
+Brunei,H1_Public information campaigns,0.0
+Brunei,H2_Testing policy,0.0
+Brunei,H4_Emergency investment in healthcare,0.0
+Brunei,H5_Investment in vaccines,0.0
+Cambodia,H6_Facial Coverings,0.6345271523226592
+Cambodia,C8_International travel controls,0.1592550578831928
+Cambodia,C7_Restrictions on internal movement,0.1373543663215824
+Cambodia,C3_Cancel public events,0.02155679760851927
+Cambodia,C1_School closing,0.016175934258707853
+Cambodia,E2_Debt/contract relief,0.007362817363974308
+Cambodia,H1_Public information campaigns,0.006032972609807536
+Cambodia,H7_Vaccination policy,0.005683672979138434
+Cambodia,C4_Restrictions on gatherings,0.004251010189737326
+Cambodia,C6_Stay at home requirements,0.003218160554767981
+Cambodia,C2_Workplace closing,0.0019498950588617764
+Cambodia,E3_Fiscal measures,0.0019448159025951663
+Cambodia,E1_Income support,0.0006735037481443114
+Cambodia,H2_Testing policy,1.2396281390570995e-05
+Cambodia,H4_Emergency investment in healthcare,1.444405184688743e-06
+Cambodia,H8_Protection of elderly people,2.5117362620582546e-09
 Cambodia,E4_International support,0.0
-Cambodia,E2_Debt/contract relief,0.0
-Cambodia,C6_Stay at home requirements,0.0
+Cambodia,H3_Contact tracing,0.0
+Cambodia,H5_Investment in vaccines,0.0
 Cambodia,C5_Close public transport,0.0
-Cambodia,C4_Restrictions on gatherings,0.0
-Cambodia,EconomicSupportIndex,0.0
-Chile,GovernmentResponseIndexForDisplay,0.8838373564656571
-Chile,ContainmentHealthIndex,0.10702588321572981
-Chile,C4_Restrictions on gatherings,0.004217817625989818
-Chile,EconomicSupportIndexForDisplay,0.0012780911113363476
-Chile,E3_Fiscal measures,0.0010357535638003611
-Chile,E4_International support,0.0010091737452718637
-Chile,StringencyIndex,0.0009795314968737644
-Chile,StringencyLegacyIndexForDisplay,0.00022403333057617435
-Chile,H3_Contact tracing,0.00017033070920297426
-Chile,ContainmentHealthIndexForDisplay,8.617035195389928e-05
-Chile,H7_Vaccination policy,7.256482761772092e-05
-Chile,H4_Emergency investment in healthcare,5.2822826879038686e-05
-Chile,H8_Protection of elderly people,5.43700693982828e-06
-Chile,StringencyIndexForDisplay,2.71844850462998e-06
-Chile,StringencyLegacyIndex,2.180656714945851e-06
-Chile,H5_Investment in vaccines,1.3461695170408126e-07
-Chile,H1_Public information campaigns,0.0
-Chile,EconomicSupportIndex,0.0
-Chile,C3_Cancel public events,0.0
-Chile,C5_Close public transport,0.0
-Chile,GovernmentResponseIndex,0.0
-Chile,C6_Stay at home requirements,0.0
-Chile,C7_Restrictions on internal movement,0.0
-Chile,H2_Testing policy,0.0
-Chile,C8_International travel controls,0.0
-Chile,E1_Income support,0.0
-Chile,H6_Facial Coverings,0.0
-Chile,C2_Workplace closing,0.0
-Chile,E2_Debt/contract relief,0.0
+Chile,E1_Income support,0.8987226227907066
+Chile,H1_Public information campaigns,0.043177775716768084
+Chile,H6_Facial Coverings,0.04037463005111911
+Chile,C6_Stay at home requirements,0.004893759454768171
+Chile,C5_Close public transport,0.004871781321951775
+Chile,H4_Emergency investment in healthcare,0.004089689221590985
+Chile,E3_Fiscal measures,0.0012098230876968303
+Chile,E4_International support,0.0011779713372143832
+Chile,E2_Debt/contract relief,0.0009660990500321391
+Chile,H3_Contact tracing,0.00019882076226079067
+Chile,C8_International travel controls,0.00017631024423034084
+Chile,H7_Vaccination policy,0.00010037354646199941
+Chile,C7_Restrictions on internal movement,3.691368008564801e-05
+Chile,C2_Workplace closing,3.173144798059704e-06
+Chile,H5_Investment in vaccines,1.5713340835199307e-07
+Chile,H2_Testing policy,9.945690653166578e-08
 Chile,C1_School closing,0.0
-China,C8_International travel controls,0.788912771726062
-China,StringencyIndex,0.1800471352182405
-China,GovernmentResponseIndexForDisplay,0.01972583639593041
-China,ContainmentHealthIndexForDisplay,0.009727600385553453
-China,StringencyLegacyIndex,0.0006019559106220566
-China,E4_International support,0.00030294707924148905
-China,H4_Emergency investment in healthcare,0.00019980526014109736
-China,C1_School closing,0.00015497603309649373
-China,H2_Testing policy,9.701292497008346e-05
-China,ContainmentHealthIndex,6.801467233222237e-05
-China,E2_Debt/contract relief,6.431125429447384e-05
-China,E1_Income support,5.2691117114583935e-05
-China,StringencyLegacyIndexForDisplay,1.6748948807435563e-05
-China,C4_Restrictions on gatherings,1.134181017370734e-05
-China,E3_Fiscal measures,6.205303792170618e-06
-China,StringencyIndexForDisplay,5.45196281972676e-06
-China,EconomicSupportIndex,2.800093709902117e-06
-China,C7_Restrictions on internal movement,2.2041132897311203e-06
-China,EconomicSupportIndexForDisplay,1.7757054360562375e-07
-China,H6_Facial Coverings,1.0791803448169788e-08
-China,GovernmentResponseIndex,1.4274612238649543e-09
-China,H7_Vaccination policy,0.0
-China,C6_Stay at home requirements,0.0
-China,H5_Investment in vaccines,0.0
-China,C5_Close public transport,0.0
-China,C2_Workplace closing,0.0
-China,H3_Contact tracing,0.0
-China,C3_Cancel public events,0.0
+Chile,C4_Restrictions on gatherings,0.0
+Chile,C3_Cancel public events,0.0
+Chile,H8_Protection of elderly people,0.0
+China,C8_International travel controls,0.9830419120644001
+China,H2_Testing policy,0.009717817332297731
+China,H6_Facial Coverings,0.005630464283300007
+China,C6_Stay at home requirements,0.0005289179930099001
+China,H4_Emergency investment in healthcare,0.0004611576173275203
+China,C2_Workplace closing,0.00018223849298564996
+China,C1_School closing,0.00016494756111012655
+China,C4_Restrictions on gatherings,6.494981503004929e-05
+China,E3_Fiscal measures,6.452079016173223e-05
+China,E2_Debt/contract relief,4.855941913971748e-05
+China,E1_Income support,3.07558078826812e-05
+China,C5_Close public transport,2.3603776433408562e-05
+China,C7_Restrictions on internal movement,1.7470428609482453e-05
+China,H3_Contact tracing,1.618776508784823e-05
+China,E4_International support,5.580431974355813e-06
+China,H8_Protection of elderly people,4.484709856569433e-07
+China,H7_Vaccination policy,4.451757577378443e-07
+China,C3_Cancel public events,2.277450626920609e-08
 China,H1_Public information campaigns,0.0
-China,H8_Protection of elderly people,0.0
-Colombia,StringencyLegacyIndexForDisplay,0.5437731674710071
-Colombia,StringencyIndexForDisplay,0.3437908054844589
-Colombia,C4_Restrictions on gatherings,0.058615946578343875
-Colombia,ContainmentHealthIndexForDisplay,0.04971034991991411
-Colombia,StringencyLegacyIndex,0.0026430784131931
-Colombia,ContainmentHealthIndex,0.00044042340107294776
-Colombia,C2_Workplace closing,0.00036239997706914387
-Colombia,H6_Facial Coverings,0.000268917505408787
-Colombia,E3_Fiscal measures,0.0001700676959546893
-Colombia,H4_Emergency investment in healthcare,0.00016959651361333713
-Colombia,GovernmentResponseIndex,2.5753604631042877e-05
-Colombia,StringencyIndex,1.2449991557023365e-05
-Colombia,EconomicSupportIndex,1.2054446407115925e-05
-Colombia,E4_International support,3.890614012976857e-06
-Colombia,GovernmentResponseIndexForDisplay,1.0983833558894094e-06
-Colombia,H8_Protection of elderly people,0.0
-Colombia,H7_Vaccination policy,0.0
-Colombia,C1_School closing,0.0
-Colombia,H5_Investment in vaccines,0.0
-Colombia,H3_Contact tracing,0.0
-Colombia,H2_Testing policy,0.0
-Colombia,H1_Public information campaigns,0.0
-Colombia,E2_Debt/contract relief,0.0
-Colombia,E1_Income support,0.0
-Colombia,C8_International travel controls,0.0
-Colombia,C7_Restrictions on internal movement,0.0
+China,H5_Investment in vaccines,0.0
+Colombia,H6_Facial Coverings,0.42866653970106655
+Colombia,E1_Income support,0.3814071143380376
+Colombia,H1_Public information campaigns,0.11827523870403368
+Colombia,C4_Restrictions on gatherings,0.033743614158019686
+Colombia,C2_Workplace closing,0.029019797128213207
+Colombia,H3_Contact tracing,0.005959025711701675
+Colombia,H8_Protection of elderly people,0.00183651509960093
+Colombia,C7_Restrictions on internal movement,0.0006891262776261993
+Colombia,E3_Fiscal measures,0.00017172998304200966
+Colombia,H4_Emergency investment in healthcare,0.00017125419523897662
+Colombia,C1_School closing,3.457090845458049e-05
+Colombia,E2_Debt/contract relief,2.0654255929882246e-05
+Colombia,E4_International support,3.928641913025665e-06
+Colombia,C8_International travel controls,5.452415544707198e-07
+Colombia,H7_Vaccination policy,3.4565556756608165e-07
 Colombia,C6_Stay at home requirements,0.0
+Colombia,H2_Testing policy,0.0
 Colombia,C5_Close public transport,0.0
+Colombia,H5_Investment in vaccines,0.0
 Colombia,C3_Cancel public events,0.0
-Colombia,EconomicSupportIndexForDisplay,0.0
-Costa Rica,H6_Facial Coverings,0.638631243349567
-Costa Rica,C4_Restrictions on gatherings,0.23557912577251616
-Costa Rica,StringencyIndex,0.04999900318283304
-Costa Rica,H7_Vaccination policy,0.03340877911370124
-Costa Rica,C2_Workplace closing,0.014010456844625782
-Costa Rica,C1_School closing,0.008519502754342908
-Costa Rica,C7_Restrictions on internal movement,0.00760206117315631
-Costa Rica,GovernmentResponseIndex,0.006352083142506186
-Costa Rica,C5_Close public transport,0.002566604302312595
-Costa Rica,GovernmentResponseIndexForDisplay,0.0021066308371092747
-Costa Rica,StringencyLegacyIndex,0.0007813119668677463
-Costa Rica,H5_Investment in vaccines,0.00016820217806908582
-Costa Rica,StringencyIndexForDisplay,0.00012743365044335818
-Costa Rica,E4_International support,8.217877103117178e-05
-Costa Rica,E3_Fiscal measures,3.278306119079038e-05
-Costa Rica,ContainmentHealthIndex,2.1953162342739713e-05
-Costa Rica,StringencyLegacyIndexForDisplay,1.064673738460787e-05
-Costa Rica,ContainmentHealthIndexForDisplay,0.0
-Costa Rica,EconomicSupportIndex,0.0
-Costa Rica,H4_Emergency investment in healthcare,0.0
-Costa Rica,H8_Protection of elderly people,0.0
-Costa Rica,H3_Contact tracing,0.0
+Costa Rica,H6_Facial Coverings,0.64616151302295
+Costa Rica,C4_Restrictions on gatherings,0.22990004995710173
+Costa Rica,H7_Vaccination policy,0.034334476590402514
+Costa Rica,C7_Restrictions on internal movement,0.03387925831995178
+Costa Rica,C8_International travel controls,0.02375952114540045
+Costa Rica,C2_Workplace closing,0.013663038292228447
+Costa Rica,C1_School closing,0.008716523950672631
+Costa Rica,H3_Contact tracing,0.005838006082109156
+Costa Rica,C5_Close public transport,0.0025929111699428643
+Costa Rica,E1_Income support,0.0005875688163664893
+Costa Rica,C6_Stay at home requirements,0.00018042456272546317
+Costa Rica,H5_Investment in vaccines,0.00016365046738900317
+Costa Rica,H8_Protection of elderly people,9.632002085699629e-05
+Costa Rica,E4_International support,7.995493544292904e-05
+Costa Rica,E3_Fiscal measures,4.678266645932194e-05
 Costa Rica,H2_Testing policy,0.0
 Costa Rica,H1_Public information campaigns,0.0
+Costa Rica,H4_Emergency investment in healthcare,0.0
 Costa Rica,E2_Debt/contract relief,0.0
-Costa Rica,E1_Income support,0.0
-Costa Rica,C8_International travel controls,0.0
-Costa Rica,C6_Stay at home requirements,0.0
 Costa Rica,C3_Cancel public events,0.0
-Costa Rica,EconomicSupportIndexForDisplay,0.0
-Cuba,H3_Contact tracing,0.9095794090905167
-Cuba,StringencyLegacyIndexForDisplay,0.04352227041886896
-Cuba,StringencyLegacyIndex,0.01792071737166054
-Cuba,C4_Restrictions on gatherings,0.010612702717862767
-Cuba,StringencyIndexForDisplay,0.008374937177597195
-Cuba,GovernmentResponseIndex,0.004698436700797895
-Cuba,ContainmentHealthIndexForDisplay,0.0022819713722373697
-Cuba,E1_Income support,0.0012071610619414084
-Cuba,H2_Testing policy,0.0008757892510432438
-Cuba,C1_School closing,0.0006688567781081002
-Cuba,H8_Protection of elderly people,0.00015131630944336985
-Cuba,GovernmentResponseIndexForDisplay,4.6566367957139754e-05
-Cuba,H7_Vaccination policy,3.0480990013230283e-05
-Cuba,StringencyIndex,2.2779732734894885e-05
-Cuba,C2_Workplace closing,3.7129482962439446e-06
-Cuba,E2_Debt/contract relief,2.8917109210631598e-06
-Cuba,ContainmentHealthIndex,0.0
-Cuba,EconomicSupportIndex,0.0
-Cuba,H4_Emergency investment in healthcare,0.0
-Cuba,H6_Facial Coverings,0.0
-Cuba,H5_Investment in vaccines,0.0
-Cuba,H1_Public information campaigns,0.0
-Cuba,E4_International support,0.0
-Cuba,E3_Fiscal measures,0.0
-Cuba,C8_International travel controls,0.0
+Cuba,H3_Contact tracing,0.7887005976851257
+Cuba,H2_Testing policy,0.12370515877691018
+Cuba,C2_Workplace closing,0.042591544147159925
+Cuba,C4_Restrictions on gatherings,0.015201773776752857
+Cuba,H8_Protection of elderly people,0.01421345369148644
+Cuba,C8_International travel controls,0.005754004281909036
+Cuba,C6_Stay at home requirements,0.003926999813924142
+Cuba,E2_Debt/contract relief,0.0031913282339842853
+Cuba,E1_Income support,0.0013732563167030162
+Cuba,C1_School closing,0.0010276653960673205
+Cuba,C5_Close public transport,0.0001772633647672796
+Cuba,H6_Facial Coverings,0.00010689696043295199
+Cuba,H7_Vaccination policy,3.0057554776894332e-05
 Cuba,C7_Restrictions on internal movement,0.0
-Cuba,C6_Stay at home requirements,0.0
-Cuba,C5_Close public transport,0.0
+Cuba,E4_International support,0.0
+Cuba,H1_Public information campaigns,0.0
 Cuba,C3_Cancel public events,0.0
-Cuba,EconomicSupportIndexForDisplay,0.0
-Dominican Republic,StringencyLegacyIndex,0.5653929343149579
-Dominican Republic,GovernmentResponseIndexForDisplay,0.2919554798740885
-Dominican Republic,ContainmentHealthIndex,0.08982542513587703
-Dominican Republic,GovernmentResponseIndex,0.027363605413579288
-Dominican Republic,C6_Stay at home requirements,0.010308882205411912
-Dominican Republic,H8_Protection of elderly people,0.005799366892335203
-Dominican Republic,StringencyIndexForDisplay,0.004311694973339959
-Dominican Republic,E3_Fiscal measures,0.002516348786645276
-Dominican Republic,StringencyIndex,0.0020552861896839985
-Dominican Republic,ContainmentHealthIndexForDisplay,0.00019252184984446964
-Dominican Republic,StringencyLegacyIndexForDisplay,0.00016591290746072055
-Dominican Republic,EconomicSupportIndex,0.00010755296906090745
-Dominican Republic,H4_Emergency investment in healthcare,4.988487714661473e-06
-Dominican Republic,H5_Investment in vaccines,0.0
-Dominican Republic,H7_Vaccination policy,0.0
-Dominican Republic,H6_Facial Coverings,0.0
-Dominican Republic,C1_School closing,0.0
-Dominican Republic,C2_Workplace closing,0.0
-Dominican Republic,H3_Contact tracing,0.0
-Dominican Republic,H2_Testing policy,0.0
-Dominican Republic,H1_Public information campaigns,0.0
-Dominican Republic,E4_International support,0.0
-Dominican Republic,E2_Debt/contract relief,0.0
-Dominican Republic,E1_Income support,0.0
-Dominican Republic,C8_International travel controls,0.0
-Dominican Republic,C7_Restrictions on internal movement,0.0
+Cuba,H4_Emergency investment in healthcare,0.0
+Cuba,H5_Investment in vaccines,0.0
+Cuba,E3_Fiscal measures,0.0
+Dominican Republic,H6_Facial Coverings,0.767813314348189
+Dominican Republic,C7_Restrictions on internal movement,0.1438467496073137
+Dominican Republic,C6_Stay at home requirements,0.07773473280457054
+Dominican Republic,H8_Protection of elderly people,0.006306041321248309
+Dominican Republic,E3_Fiscal measures,0.002263250672606081
+Dominican Republic,C8_International travel controls,0.001392648614076579
+Dominican Republic,C2_Workplace closing,0.00030911867305193536
+Dominican Republic,E1_Income support,0.0002509401329731954
+Dominican Republic,C4_Restrictions on gatherings,7.532188612206069e-05
+Dominican Republic,H4_Emergency investment in healthcare,4.828970165612947e-06
+Dominican Republic,H2_Testing policy,3.052969683002076e-06
 Dominican Republic,C5_Close public transport,0.0
-Dominican Republic,C4_Restrictions on gatherings,0.0
+Dominican Republic,E2_Debt/contract relief,0.0
+Dominican Republic,E4_International support,0.0
+Dominican Republic,H1_Public information campaigns,0.0
+Dominican Republic,H3_Contact tracing,0.0
+Dominican Republic,H5_Investment in vaccines,0.0
 Dominican Republic,C3_Cancel public events,0.0
-Dominican Republic,EconomicSupportIndexForDisplay,0.0
-Ecuador,C5_Close public transport,0.6199593482289804
-Ecuador,ContainmentHealthIndexForDisplay,0.2267794020870717
-Ecuador,C8_International travel controls,0.10414696116469657
-Ecuador,GovernmentResponseIndexForDisplay,0.0345885981685417
-Ecuador,StringencyLegacyIndex,0.012111966561618243
-Ecuador,H4_Emergency investment in healthcare,0.0021418707058693805
-Ecuador,H7_Vaccination policy,0.0001597177521523992
-Ecuador,GovernmentResponseIndex,3.850797843343769e-05
-Ecuador,ContainmentHealthIndex,3.428621764674476e-05
-Ecuador,StringencyIndexForDisplay,2.9287005158890743e-05
-Ecuador,E3_Fiscal measures,8.822528019610892e-06
-Ecuador,StringencyIndex,1.1917560913047894e-06
-Ecuador,E2_Debt/contract relief,3.9845719669451396e-08
-Ecuador,H6_Facial Coverings,0.0
-Ecuador,EconomicSupportIndex,0.0
-Ecuador,H8_Protection of elderly people,0.0
-Ecuador,StringencyLegacyIndexForDisplay,0.0
-Ecuador,C1_School closing,0.0
-Ecuador,H5_Investment in vaccines,0.0
-Ecuador,C2_Workplace closing,0.0
-Ecuador,H3_Contact tracing,0.0
-Ecuador,H2_Testing policy,0.0
-Ecuador,H1_Public information campaigns,0.0
+Dominican Republic,H7_Vaccination policy,0.0
+Dominican Republic,C1_School closing,0.0
+Ecuador,C5_Close public transport,0.6358686666330525
+Ecuador,H8_Protection of elderly people,0.14455559622890132
+Ecuador,C8_International travel controls,0.12605654231542693
+Ecuador,H1_Public information campaigns,0.08279265188617599
+Ecuador,H6_Facial Coverings,0.006846240053684511
+Ecuador,H4_Emergency investment in healthcare,0.002911619967812924
+Ecuador,C2_Workplace closing,0.0002484580380336059
+Ecuador,C4_Restrictions on gatherings,0.00017731694393756793
+Ecuador,E3_Fiscal measures,0.00013840544312863985
+Ecuador,H2_Testing policy,0.0001377665619378912
+Ecuador,H7_Vaccination policy,0.00012600791083686017
+Ecuador,C7_Restrictions on internal movement,8.771889779833198e-05
+Ecuador,E1_Income support,3.964271632305251e-05
+Ecuador,C6_Stay at home requirements,1.023695949911661e-05
+Ecuador,C1_School closing,3.129443451051001e-06
+Ecuador,E2_Debt/contract relief,0.0
 Ecuador,E4_International support,0.0
-Ecuador,E1_Income support,0.0
-Ecuador,C7_Restrictions on internal movement,0.0
-Ecuador,C6_Stay at home requirements,0.0
-Ecuador,C4_Restrictions on gatherings,0.0
+Ecuador,H3_Contact tracing,0.0
+Ecuador,H5_Investment in vaccines,0.0
 Ecuador,C3_Cancel public events,0.0
-Ecuador,EconomicSupportIndexForDisplay,0.0
-El Salvador,C7_Restrictions on internal movement,0.7696227990302846
-El Salvador,EconomicSupportIndexForDisplay,0.16402071433560078
-El Salvador,StringencyIndexForDisplay,0.027999010575291593
-El Salvador,ContainmentHealthIndexForDisplay,0.019293971865839716
-El Salvador,StringencyIndex,0.007353265569223234
-El Salvador,StringencyLegacyIndexForDisplay,0.003820996883336204
-El Salvador,C4_Restrictions on gatherings,0.003106504923630054
-El Salvador,C2_Workplace closing,0.0024592944340825805
-El Salvador,GovernmentResponseIndexForDisplay,0.0015392768000495878
-El Salvador,H7_Vaccination policy,0.00024232288125929425
-El Salvador,GovernmentResponseIndex,0.00014967111712633455
-El Salvador,E1_Income support,0.00013355643582098814
-El Salvador,ContainmentHealthIndex,0.00011693013174147742
-El Salvador,E3_Fiscal measures,6.941944223483101e-05
-El Salvador,H4_Emergency investment in healthcare,3.5632173126042846e-05
-El Salvador,H6_Facial Coverings,3.485026836092797e-05
-El Salvador,C1_School closing,1.783132991566493e-06
-El Salvador,H3_Contact tracing,0.0
-El Salvador,H5_Investment in vaccines,0.0
-El Salvador,H2_Testing policy,0.0
-El Salvador,H8_Protection of elderly people,0.0
+El Salvador,C7_Restrictions on internal movement,0.7707152899860634
+El Salvador,E2_Debt/contract relief,0.16290835245157984
+El Salvador,C6_Stay at home requirements,0.028090762128424027
+El Salvador,H6_Facial Coverings,0.01913199706201843
+El Salvador,C4_Restrictions on gatherings,0.008911416042198247
+El Salvador,C5_Close public transport,0.0054772121269752215
+El Salvador,C2_Workplace closing,0.0024424175223995625
+El Salvador,H8_Protection of elderly people,0.0015572456991147811
+El Salvador,H7_Vaccination policy,0.00023600706133121297
+El Salvador,H2_Testing policy,0.00014865607188340103
+El Salvador,E1_Income support,0.0001326506777332148
+El Salvador,H3_Contact tracing,0.00011613713055133406
+El Salvador,E3_Fiscal measures,6.471928059919273e-05
+El Salvador,H4_Emergency investment in healthcare,3.5390521507228764e-05
+El Salvador,C8_International travel controls,2.9545972529305435e-05
+El Salvador,C1_School closing,2.2002650916502096e-06
 El Salvador,H1_Public information campaigns,0.0
 El Salvador,E4_International support,0.0
-El Salvador,E2_Debt/contract relief,0.0
-El Salvador,StringencyLegacyIndex,0.0
-El Salvador,C8_International travel controls,0.0
-El Salvador,C6_Stay at home requirements,0.0
-El Salvador,C5_Close public transport,0.0
+El Salvador,H5_Investment in vaccines,0.0
 El Salvador,C3_Cancel public events,0.0
-El Salvador,EconomicSupportIndex,0.0
-Guatemala,StringencyLegacyIndex,0.9316523122290927
-Guatemala,ContainmentHealthIndexForDisplay,0.0585815114782421
-Guatemala,GovernmentResponseIndex,0.005023719704668392
-Guatemala,EconomicSupportIndexForDisplay,0.0015389055563476274
-Guatemala,ContainmentHealthIndex,0.0012215033826865956
-Guatemala,GovernmentResponseIndexForDisplay,0.001166917605126818
-Guatemala,E3_Fiscal measures,0.00045736349900830957
-Guatemala,C8_International travel controls,0.0001663688476130634
-Guatemala,C4_Restrictions on gatherings,8.343862616596292e-05
-Guatemala,C7_Restrictions on internal movement,7.383696097196216e-05
-Guatemala,H4_Emergency investment in healthcare,2.3475686602064813e-05
-Guatemala,C3_Cancel public events,7.5550360714796305e-06
-Guatemala,H7_Vaccination policy,2.026205462332729e-06
-Guatemala,C1_School closing,1.0651819405835446e-06
-Guatemala,E2_Debt/contract relief,0.0
-Guatemala,EconomicSupportIndex,0.0
-Guatemala,C5_Close public transport,0.0
-Guatemala,C6_Stay at home requirements,0.0
-Guatemala,StringencyLegacyIndexForDisplay,0.0
-Guatemala,E1_Income support,0.0
-Guatemala,StringencyIndexForDisplay,0.0
-Guatemala,E4_International support,0.0
+Guatemala,C2_Workplace closing,0.9322918801007595
+Guatemala,C8_International travel controls,0.039403275424051296
+Guatemala,H3_Contact tracing,0.017570442520999076
+Guatemala,H2_Testing policy,0.0049645927868824736
+Guatemala,C6_Stay at home requirements,0.0028490764498541733
+Guatemala,H6_Facial Coverings,0.001209777531948255
+Guatemala,E1_Income support,0.0010698800050550643
+Guatemala,E3_Fiscal measures,0.00036839263078354757
+Guatemala,H4_Emergency investment in healthcare,0.00010783072764233213
+Guatemala,C4_Restrictions on gatherings,8.263765509160793e-05
+Guatemala,C7_Restrictions on internal movement,7.312816130225312e-05
+Guatemala,H7_Vaccination policy,5.327983567833975e-06
+Guatemala,C3_Cancel public events,2.703065361413436e-06
+Guatemala,C1_School closing,1.054956701213497e-06
 Guatemala,H1_Public information campaigns,0.0
-Guatemala,H8_Protection of elderly people,0.0
-Guatemala,H6_Facial Coverings,0.0
+Guatemala,E4_International support,0.0
 Guatemala,H5_Investment in vaccines,0.0
-Guatemala,C2_Workplace closing,0.0
-Guatemala,H3_Contact tracing,0.0
-Guatemala,H2_Testing policy,0.0
-Guatemala,StringencyIndex,0.0
-Guyana,H2_Testing policy,0.7259949053467748
-Guyana,H6_Facial Coverings,0.13390180977141927
-Guyana,C1_School closing,0.06331357113410187
-Guyana,ContainmentHealthIndex,0.05028792356917744
-Guyana,StringencyIndex,0.008996191579127
-Guyana,StringencyLegacyIndex,0.0071620570052723515
-Guyana,EconomicSupportIndexForDisplay,0.005469968086311521
-Guyana,StringencyLegacyIndexForDisplay,0.001988095603556491
-Guyana,ContainmentHealthIndexForDisplay,0.0011074415837340674
-Guyana,GovernmentResponseIndex,0.0006880028523533419
-Guyana,StringencyIndexForDisplay,0.000524384960081332
-Guyana,C2_Workplace closing,0.000336392620519488
-Guyana,E3_Fiscal measures,9.681049757973261e-05
-Guyana,H4_Emergency investment in healthcare,8.866489680795012e-05
-Guyana,H5_Investment in vaccines,2.6813602725122543e-05
-Guyana,GovernmentResponseIndexForDisplay,1.6422014614072616e-05
-Guyana,EconomicSupportIndex,5.448758443202039e-07
-Guyana,C5_Close public transport,0.0
-Guyana,C3_Cancel public events,0.0
-Guyana,C4_Restrictions on gatherings,0.0
-Guyana,C8_International travel controls,0.0
-Guyana,H8_Protection of elderly people,0.0
-Guyana,E1_Income support,0.0
-Guyana,C6_Stay at home requirements,0.0
-Guyana,H3_Contact tracing,0.0
-Guyana,C7_Restrictions on internal movement,0.0
-Guyana,H1_Public information campaigns,0.0
-Guyana,E4_International support,0.0
+Guatemala,E2_Debt/contract relief,0.0
+Guatemala,C5_Close public transport,0.0
+Guatemala,H8_Protection of elderly people,0.0
+Guyana,H2_Testing policy,0.6777991126105782
+Guyana,C1_School closing,0.17542386569217083
+Guyana,H6_Facial Coverings,0.08473772699402386
+Guyana,H3_Contact tracing,0.03295591117661126
+Guyana,C8_International travel controls,0.008856409038915485
+Guyana,C2_Workplace closing,0.005968404755909037
+Guyana,C5_Close public transport,0.005554464573249014
+Guyana,E1_Income support,0.005404553721721819
+Guyana,H8_Protection of elderly people,0.0019748554177753336
+Guyana,C6_Stay at home requirements,0.0007887505301466146
+Guyana,C7_Restrictions on internal movement,0.00028232769637216715
+Guyana,E3_Fiscal measures,9.564323101199105e-05
+Guyana,H4_Emergency investment in healthcare,8.75958436338318e-05
+Guyana,H7_Vaccination policy,4.388841296337716e-05
+Guyana,H5_Investment in vaccines,2.6490304917246466e-05
 Guyana,E2_Debt/contract relief,0.0
-Guyana,H7_Vaccination policy,0.0
-Haiti,StringencyIndexForDisplay,0.9366151986248223
-Haiti,C1_School closing,0.027971649000786282
-Haiti,StringencyLegacyIndexForDisplay,0.027596231777777248
-Haiti,ContainmentHealthIndex,0.002851738983839304
-Haiti,C4_Restrictions on gatherings,0.002111287732899364
-Haiti,StringencyIndex,0.0010282923058827207
-Haiti,H3_Contact tracing,0.0009505164335720685
-Haiti,C6_Stay at home requirements,0.0004870226968347011
-Haiti,StringencyLegacyIndex,0.00022175309576852198
-Haiti,E2_Debt/contract relief,5.7623814423499344e-05
-Haiti,GovernmentResponseIndex,5.374830920367399e-05
-Haiti,H4_Emergency investment in healthcare,2.9925481605496957e-05
-Haiti,E1_Income support,1.5461381744317374e-05
-Haiti,EconomicSupportIndex,9.550360840535373e-06
-Haiti,H2_Testing policy,0.0
-Haiti,ContainmentHealthIndexForDisplay,0.0
-Haiti,GovernmentResponseIndexForDisplay,0.0
-Haiti,C3_Cancel public events,0.0
-Haiti,C5_Close public transport,0.0
-Haiti,C7_Restrictions on internal movement,0.0
-Haiti,C8_International travel controls,0.0
-Haiti,H1_Public information campaigns,0.0
-Haiti,E3_Fiscal measures,0.0
-Haiti,H8_Protection of elderly people,0.0
+Guyana,E4_International support,0.0
+Guyana,H1_Public information campaigns,0.0
+Guyana,C4_Restrictions on gatherings,0.0
+Guyana,C3_Cancel public events,0.0
+Haiti,C7_Restrictions on internal movement,0.9200668063897122
+Haiti,C8_International travel controls,0.04411709784863145
+Haiti,C1_School closing,0.019293841857508622
+Haiti,C4_Restrictions on gatherings,0.008204775568563924
+Haiti,C6_Stay at home requirements,0.004388778026767727
+Haiti,H6_Facial Coverings,0.0013067886955210578
+Haiti,H2_Testing policy,0.0011855273537186163
+Haiti,C2_Workplace closing,0.0007616765338089154
+Haiti,C3_Cancel public events,0.00036226183737753136
+Haiti,C5_Close public transport,0.00019269964179606704
+Haiti,E2_Debt/contract relief,5.68922751969338e-05
+Haiti,H3_Contact tracing,3.3308396326335696e-05
+Haiti,H4_Emergency investment in healthcare,2.9545575070545873e-05
 Haiti,H7_Vaccination policy,0.0
-Haiti,H6_Facial Coverings,0.0
 Haiti,H5_Investment in vaccines,0.0
-Haiti,C2_Workplace closing,0.0
+Haiti,E3_Fiscal measures,0.0
+Haiti,H1_Public information campaigns,0.0
 Haiti,E4_International support,0.0
-Haiti,EconomicSupportIndexForDisplay,0.0
-Honduras,H8_Protection of elderly people,0.7623257426502735
-Honduras,StringencyIndexForDisplay,0.14744530613573636
-Honduras,ContainmentHealthIndex,0.030623070332935157
-Honduras,H3_Contact tracing,0.020387766175352175
-Honduras,E2_Debt/contract relief,0.017577434461609472
-Honduras,H6_Facial Coverings,0.015494591773262335
-Honduras,C7_Restrictions on internal movement,0.003275711479146896
-Honduras,StringencyLegacyIndexForDisplay,0.0011508241235890177
-Honduras,GovernmentResponseIndex,0.001103128266875725
-Honduras,StringencyIndex,0.00031392489417029226
-Honduras,ContainmentHealthIndexForDisplay,0.00017847166691251635
-Honduras,C5_Close public transport,8.043309114749514e-05
-Honduras,E4_International support,2.6155325943505035e-05
-Honduras,E3_Fiscal measures,1.1326686652652665e-05
-Honduras,C8_International travel controls,6.112936392800134e-06
-Honduras,StringencyLegacyIndex,0.0
-Honduras,GovernmentResponseIndexForDisplay,0.0
-Honduras,EconomicSupportIndex,0.0
-Honduras,C1_School closing,0.0
-Honduras,H4_Emergency investment in healthcare,0.0
+Haiti,E1_Income support,0.0
+Haiti,H8_Protection of elderly people,0.0
+Honduras,H8_Protection of elderly people,0.7646458095816722
+Honduras,C8_International travel controls,0.09515058384632502
+Honduras,H1_Public information campaigns,0.035943465750125955
+Honduras,E1_Income support,0.03449847097342711
+Honduras,H3_Contact tracing,0.02930805884350965
+Honduras,H4_Emergency investment in healthcare,0.02306282258420529
+Honduras,H6_Facial Coverings,0.015356669568822416
+Honduras,C5_Close public transport,0.001635632207703997
+Honduras,C2_Workplace closing,0.0002780447909055389
+Honduras,C4_Restrictions on gatherings,9.451934409087676e-05
+Honduras,E4_International support,2.5922509211975127e-05
 Honduras,H7_Vaccination policy,0.0
 Honduras,H5_Investment in vaccines,0.0
-Honduras,C2_Workplace closing,0.0
+Honduras,C1_School closing,0.0
 Honduras,H2_Testing policy,0.0
-Honduras,H1_Public information campaigns,0.0
-Honduras,E1_Income support,0.0
+Honduras,E2_Debt/contract relief,0.0
+Honduras,C7_Restrictions on internal movement,0.0
 Honduras,C6_Stay at home requirements,0.0
-Honduras,C4_Restrictions on gatherings,0.0
 Honduras,C3_Cancel public events,0.0
-Honduras,EconomicSupportIndexForDisplay,0.0
-India,C5_Close public transport,0.4454536455480903
-India,ContainmentHealthIndexForDisplay,0.30756817133459524
-India,StringencyIndex,0.08786203154926799
-India,StringencyLegacyIndexForDisplay,0.0713879535226156
-India,H1_Public information campaigns,0.041346639148345174
-India,C2_Workplace closing,0.01436511243694963
-India,H7_Vaccination policy,0.009944787825630574
-India,EconomicSupportIndexForDisplay,0.008687220076969544
-India,C8_International travel controls,0.004499115910712212
-India,H2_Testing policy,0.004426251222128009
-India,GovernmentResponseIndex,0.002646642939099032
-India,ContainmentHealthIndex,0.0017049682475185333
-India,H4_Emergency investment in healthcare,2.817501350738707e-05
-India,StringencyLegacyIndex,1.8422501168743455e-05
-India,C4_Restrictions on gatherings,1.6711132302570137e-05
-India,C6_Stay at home requirements,1.07457346651201e-05
-India,StringencyIndexForDisplay,8.690482716992163e-06
-India,E3_Fiscal measures,8.537773136233848e-06
-India,E4_International support,8.227022823693111e-06
-India,H5_Investment in vaccines,7.327529730415024e-06
-India,GovernmentResponseIndexForDisplay,6.225506766366896e-07
-India,EconomicSupportIndex,4.973503300929458e-10
-India,C3_Cancel public events,0.0
-India,C7_Restrictions on internal movement,0.0
-India,H3_Contact tracing,0.0
-India,E1_Income support,0.0
-India,H8_Protection of elderly people,0.0
-India,E2_Debt/contract relief,0.0
-India,H6_Facial Coverings,0.0
-India,C1_School closing,0.0
-Indonesia,EconomicSupportIndexForDisplay,0.6994936339816585
-Indonesia,C1_School closing,0.21547019827280584
-Indonesia,H8_Protection of elderly people,0.04031219471847654
-Indonesia,C5_Close public transport,0.019829718045528907
-Indonesia,StringencyLegacyIndexForDisplay,0.010629776264782585
-Indonesia,ContainmentHealthIndex,0.007580058318714283
-Indonesia,ContainmentHealthIndexForDisplay,0.0031179507407360064
-Indonesia,StringencyLegacyIndex,0.001814888259832633
-Indonesia,GovernmentResponseIndexForDisplay,0.0009783810580698553
-Indonesia,H3_Contact tracing,0.0002664991071186946
-Indonesia,E3_Fiscal measures,0.0002036460496736899
-Indonesia,GovernmentResponseIndex,0.00010115866816013397
-Indonesia,StringencyIndexForDisplay,8.01506805511999e-05
-Indonesia,H7_Vaccination policy,4.925601220895817e-05
-Indonesia,EconomicSupportIndex,3.8760883654115126e-05
-Indonesia,StringencyIndex,1.3285047914097729e-05
-Indonesia,H5_Investment in vaccines,1.079536414708785e-05
-Indonesia,H4_Emergency investment in healthcare,5.049674570925437e-06
-Indonesia,C8_International travel controls,4.598851395991816e-06
-Indonesia,H6_Facial Coverings,0.0
-Indonesia,C4_Restrictions on gatherings,0.0
-Indonesia,C2_Workplace closing,0.0
-Indonesia,H2_Testing policy,0.0
-Indonesia,H1_Public information campaigns,0.0
-Indonesia,E4_International support,0.0
-Indonesia,E2_Debt/contract relief,0.0
-Indonesia,E1_Income support,0.0
-Indonesia,C7_Restrictions on internal movement,0.0
+Honduras,E3_Fiscal measures,0.0
+India,C5_Close public transport,0.4494336354577152
+India,C2_Workplace closing,0.2700365882446469
+India,C8_International travel controls,0.13103913881311288
+India,H1_Public information campaigns,0.04505418871367544
+India,C3_Cancel public events,0.04113601721790694
+India,E1_Income support,0.01553304404100339
+India,C7_Restrictions on internal movement,0.014371625312275219
+India,H8_Protection of elderly people,0.011681596909003366
+India,H6_Facial Coverings,0.009298682797681777
+India,H3_Contact tracing,0.005878883584443976
+India,C1_School closing,0.002623232085224896
+India,H2_Testing policy,0.0019546708430501505
+India,E2_Debt/contract relief,0.001150010277075199
+India,C4_Restrictions on gatherings,0.0005283668213343707
+India,H7_Vaccination policy,0.00021847092740544298
+India,H4_Emergency investment in healthcare,2.8030668488963848e-05
+India,E3_Fiscal measures,2.1383955492163348e-05
+India,H5_Investment in vaccines,7.289989645005535e-06
+India,E4_International support,5.143340818849633e-06
+India,C6_Stay at home requirements,0.0
+Indonesia,E1_Income support,0.6775231624931882
+Indonesia,C1_School closing,0.23325169623087041
+Indonesia,C2_Workplace closing,0.034320957894689946
+Indonesia,C5_Close public transport,0.019553732080356084
+Indonesia,H8_Protection of elderly people,0.017435388229055677
+Indonesia,C8_International travel controls,0.013986598840313192
+Indonesia,H3_Contact tracing,0.0032455840341108822
+Indonesia,E3_Fiscal measures,0.00020079872947155054
+Indonesia,H2_Testing policy,0.00015410881641008425
+Indonesia,C7_Restrictions on internal movement,0.00014942692074016668
+Indonesia,E2_Debt/contract relief,9.134161843172307e-05
+Indonesia,H7_Vaccination policy,4.8567328885494065e-05
+Indonesia,C3_Cancel public events,1.7113476521394667e-05
+Indonesia,H5_Investment in vaccines,1.0644426486004019e-05
+Indonesia,H6_Facial Coverings,5.837258960605134e-06
+Indonesia,H4_Emergency investment in healthcare,4.979071480681467e-06
+Indonesia,C4_Restrictions on gatherings,6.255002794159306e-08
 Indonesia,C6_Stay at home requirements,0.0
-Indonesia,C3_Cancel public events,0.0
-Japan,EconomicSupportIndexForDisplay,0.6074301667626566
-Japan,C1_School closing,0.1647440914712493
-Japan,H2_Testing policy,0.11129721741534568
-Japan,GovernmentResponseIndex,0.07653567399980585
-Japan,StringencyLegacyIndexForDisplay,0.010290094360123294
-Japan,H7_Vaccination policy,0.00984254286436525
-Japan,C2_Workplace closing,0.009415337575284854
-Japan,E4_International support,0.0034221357431367173
-Japan,C6_Stay at home requirements,0.0017024449667222372
-Japan,StringencyIndexForDisplay,0.0015067808163972708
-Japan,C8_International travel controls,0.001305086953717687
-Japan,H4_Emergency investment in healthcare,0.0008470644943568362
-Japan,ContainmentHealthIndexForDisplay,0.0006584815120983977
-Japan,GovernmentResponseIndexForDisplay,0.00045987478133262694
-Japan,E3_Fiscal measures,0.00030134688740839793
-Japan,C7_Restrictions on internal movement,8.391936329793065e-05
-Japan,ContainmentHealthIndex,6.593362128393731e-05
-Japan,C5_Close public transport,4.997728148219142e-05
-Japan,EconomicSupportIndex,2.573480955418591e-05
-Japan,H6_Facial Coverings,1.3397946244672384e-05
-Japan,H5_Investment in vaccines,1.9298940035438967e-06
-Japan,StringencyIndex,7.127125164099846e-07
-Japan,StringencyLegacyIndex,5.376761600004644e-08
-Japan,H8_Protection of elderly people,0.0
-Japan,C4_Restrictions on gatherings,0.0
+Indonesia,E4_International support,0.0
+Indonesia,H1_Public information campaigns,0.0
+Japan,E1_Income support,0.7212263915876163
+Japan,C1_School closing,0.17202897400257006
+Japan,C6_Stay at home requirements,0.03415878943692071
+Japan,C8_International travel controls,0.030526290107730357
+Japan,H7_Vaccination policy,0.013308846825777423
+Japan,C2_Workplace closing,0.009300443358389143
+Japan,E4_International support,0.005707146787938593
+Japan,E3_Fiscal measures,0.0033259362165266623
+Japan,E2_Debt/contract relief,0.002421996138129644
+Japan,H4_Emergency investment in healthcare,0.0022672816087449797
+Japan,H1_Public information campaigns,0.001488657735314201
+Japan,C7_Restrictions on internal movement,0.0014545946739231337
+Japan,C5_Close public transport,0.001364351935255669
+Japan,C4_Restrictions on gatherings,0.0010402913054489446
+Japan,H8_Protection of elderly people,0.00028949791489049284
+Japan,H2_Testing policy,4.490685722163971e-05
+Japan,C3_Cancel public events,3.551374526106095e-05
+Japan,H6_Facial Coverings,8.086227973862961e-06
+Japan,H5_Investment in vaccines,2.003534367038854e-06
 Japan,H3_Contact tracing,0.0
-Japan,H1_Public information campaigns,0.0
-Japan,E2_Debt/contract relief,0.0
-Japan,E1_Income support,0.0
-Japan,C3_Cancel public events,0.0
-Laos,C1_School closing,0.8351165871053101
-Laos,EconomicSupportIndexForDisplay,0.11918703522617617
-Laos,StringencyIndexForDisplay,0.01245200801379736
-Laos,EconomicSupportIndex,0.011583823365015086
-Laos,ContainmentHealthIndex,0.007197694476242608
-Laos,C2_Workplace closing,0.004674196887819636
-Laos,StringencyLegacyIndexForDisplay,0.0032282842510036815
-Laos,StringencyLegacyIndex,0.0030272912745142205
-Laos,H4_Emergency investment in healthcare,0.0010680907266065124
-Laos,E3_Fiscal measures,0.0008744357055801608
-Laos,E1_Income support,0.0007596498072194326
-Laos,GovernmentResponseIndex,0.000685527669075714
-Laos,H2_Testing policy,9.386768482011284e-05
-Laos,C8_International travel controls,2.70939720687834e-05
-Laos,StringencyIndex,2.4413834750415192e-05
-Laos,H8_Protection of elderly people,0.0
-Laos,ContainmentHealthIndexForDisplay,0.0
-Laos,GovernmentResponseIndexForDisplay,0.0
-Laos,C3_Cancel public events,0.0
-Laos,H7_Vaccination policy,0.0
-Laos,H6_Facial Coverings,0.0
-Laos,C4_Restrictions on gatherings,0.0
-Laos,H3_Contact tracing,0.0
-Laos,H1_Public information campaigns,0.0
-Laos,E4_International support,0.0
-Laos,E2_Debt/contract relief,0.0
+Laos,C1_School closing,0.8480147882054523
+Laos,E1_Income support,0.1189714417784668
+Laos,C2_Workplace closing,0.010569134195576549
+Laos,H2_Testing policy,0.007184434582923187
+Laos,H3_Contact tracing,0.00715111504197052
+Laos,E2_Debt/contract relief,0.005007103026893642
+Laos,C8_International travel controls,0.0010717600967975998
+Laos,H4_Emergency investment in healthcare,0.0010638564452098397
+Laos,E3_Fiscal measures,0.0008709691397271752
+Laos,H8_Protection of elderly people,7.864370597765983e-05
+Laos,H6_Facial Coverings,1.6753781004709368e-05
 Laos,C7_Restrictions on internal movement,0.0
 Laos,C6_Stay at home requirements,0.0
+Laos,E4_International support,0.0
+Laos,H1_Public information campaigns,0.0
 Laos,C5_Close public transport,0.0
+Laos,C4_Restrictions on gatherings,0.0
+Laos,C3_Cancel public events,0.0
 Laos,H5_Investment in vaccines,0.0
-Malaysia,H2_Testing policy,0.7624122158982951
-Malaysia,C1_School closing,0.10946338315280513
-Malaysia,ContainmentHealthIndex,0.02548806367118117
-Malaysia,GovernmentResponseIndex,0.023010953653816467
-Malaysia,StringencyLegacyIndex,0.022088050649060807
-Malaysia,C4_Restrictions on gatherings,0.01712191801740625
-Malaysia,StringencyIndexForDisplay,0.01683780857570517
-Malaysia,E3_Fiscal measures,0.006622523962320009
-Malaysia,C8_International travel controls,0.005297167715908632
-Malaysia,GovernmentResponseIndexForDisplay,0.0048244964576089535
-Malaysia,ContainmentHealthIndexForDisplay,0.0029146263777242924
-Malaysia,StringencyIndex,0.002856560828188037
-Malaysia,C5_Close public transport,0.0004118865191520728
-Malaysia,StringencyLegacyIndexForDisplay,0.00039207506224391464
-Malaysia,C2_Workplace closing,0.00022500899004383073
-Malaysia,C7_Restrictions on internal movement,3.0103834099849024e-05
-Malaysia,H4_Emergency investment in healthcare,3.15663444019333e-06
-Malaysia,H6_Facial Coverings,0.0
-Malaysia,H7_Vaccination policy,0.0
-Malaysia,H8_Protection of elderly people,0.0
-Malaysia,H5_Investment in vaccines,0.0
-Malaysia,H3_Contact tracing,0.0
-Malaysia,H1_Public information campaigns,0.0
+Laos,H7_Vaccination policy,0.0
+Malaysia,H2_Testing policy,0.6658420716569924
+Malaysia,C1_School closing,0.10864336044016529
+Malaysia,H3_Contact tracing,0.09974593709516719
+Malaysia,C8_International travel controls,0.028383900580236675
+Malaysia,C7_Restrictions on internal movement,0.02553772229107363
+Malaysia,C4_Restrictions on gatherings,0.018367151525401963
+Malaysia,C3_Cancel public events,0.016561595943706854
+Malaysia,C2_Workplace closing,0.011494278418962367
+Malaysia,H6_Facial Coverings,0.011421572964298642
+Malaysia,E3_Fiscal measures,0.006755844837754045
+Malaysia,E2_Debt/contract relief,0.0037636785764696046
+Malaysia,H7_Vaccination policy,0.0020485049044515697
+Malaysia,C5_Close public transport,0.000722746325794684
+Malaysia,E1_Income support,0.0003326352481876901
+Malaysia,C6_Stay at home requirements,0.0002748339155431013
+Malaysia,H8_Protection of elderly people,0.0001041652757941219
 Malaysia,E4_International support,0.0
-Malaysia,E2_Debt/contract relief,0.0
-Malaysia,E1_Income support,0.0
-Malaysia,C6_Stay at home requirements,0.0
-Malaysia,C3_Cancel public events,0.0
-Malaysia,EconomicSupportIndex,0.0
-Malaysia,EconomicSupportIndexForDisplay,0.0
-Mexico,H6_Facial Coverings,0.7387156211294306
-Mexico,H3_Contact tracing,0.13600517741831478
-Mexico,ContainmentHealthIndex,0.09195073686163038
-Mexico,GovernmentResponseIndexForDisplay,0.01179846628789818
-Mexico,H8_Protection of elderly people,0.006619805102076691
-Mexico,StringencyIndex,0.005979929247173487
-Mexico,C5_Close public transport,0.00494518149636328
-Mexico,EconomicSupportIndex,0.0017130630382613163
-Mexico,H7_Vaccination policy,0.0012052749156020563
-Mexico,ContainmentHealthIndexForDisplay,0.000808813681024923
-Mexico,StringencyLegacyIndex,0.00021464896576694212
-Mexico,E3_Fiscal measures,3.997402827361673e-05
-Mexico,H4_Emergency investment in healthcare,3.1960925957424567e-06
-Mexico,C3_Cancel public events,1.1173558798611294e-07
-Mexico,StringencyIndexForDisplay,0.0
-Mexico,GovernmentResponseIndex,0.0
-Mexico,StringencyLegacyIndexForDisplay,0.0
-Mexico,C1_School closing,0.0
-Mexico,H5_Investment in vaccines,0.0
-Mexico,C2_Workplace closing,0.0
-Mexico,H2_Testing policy,0.0
-Mexico,H1_Public information campaigns,0.0
-Mexico,E4_International support,0.0
-Mexico,E2_Debt/contract relief,0.0
+Malaysia,H1_Public information campaigns,0.0
+Malaysia,H4_Emergency investment in healthcare,0.0
+Malaysia,H5_Investment in vaccines,0.0
+Mexico,H6_Facial Coverings,0.9196980819238764
+Mexico,C2_Workplace closing,0.026601520554885967
+Mexico,C8_International travel controls,0.019807384914057004
+Mexico,H2_Testing policy,0.012357133058024142
+Mexico,C6_Stay at home requirements,0.00713316558875687
+Mexico,H8_Protection of elderly people,0.006941150423683939
+Mexico,E2_Debt/contract relief,0.006338329375110525
+Mexico,H7_Vaccination policy,0.0008018447446561209
+Mexico,E3_Fiscal measures,0.00031335437925287217
+Mexico,H4_Emergency investment in healthcare,3.351240577779501e-06
+Mexico,H3_Contact tracing,3.132266806222065e-06
+Mexico,C1_School closing,1.434370741563662e-06
+Mexico,C7_Restrictions on internal movement,1.1715957070202527e-07
 Mexico,E1_Income support,0.0
-Mexico,C8_International travel controls,0.0
-Mexico,C7_Restrictions on internal movement,0.0
-Mexico,C6_Stay at home requirements,0.0
+Mexico,E4_International support,0.0
+Mexico,H1_Public information campaigns,0.0
+Mexico,C5_Close public transport,0.0
+Mexico,H5_Investment in vaccines,0.0
 Mexico,C4_Restrictions on gatherings,0.0
-Mexico,EconomicSupportIndexForDisplay,0.0
-Mongolia,H2_Testing policy,0.606349397439162
-Mongolia,ContainmentHealthIndexForDisplay,0.20143134617013478
-Mongolia,GovernmentResponseIndexForDisplay,0.09321275127886727
-Mongolia,C5_Close public transport,0.03693569825229685
-Mongolia,StringencyIndex,0.03220804855805086
-Mongolia,E1_Income support,0.013604299387718658
-Mongolia,C8_International travel controls,0.008631643725790564
-Mongolia,StringencyLegacyIndexForDisplay,0.003600247788182988
-Mongolia,H4_Emergency investment in healthcare,0.0015935619277753512
-Mongolia,GovernmentResponseIndex,0.001289414709324002
-Mongolia,ContainmentHealthIndex,0.000587356234086431
-Mongolia,E3_Fiscal measures,0.00024826780765368925
-Mongolia,C2_Workplace closing,0.00015648356317359978
-Mongolia,H5_Investment in vaccines,8.65271883315045e-05
-Mongolia,C1_School closing,6.495596945124017e-05
+Mexico,C3_Cancel public events,0.0
+Mongolia,H2_Testing policy,0.5942821562200544
+Mongolia,C4_Restrictions on gatherings,0.1976792362671255
+Mongolia,H6_Facial Coverings,0.08112090008572566
+Mongolia,E2_Debt/contract relief,0.037575093611988866
+Mongolia,C5_Close public transport,0.03183995038649714
+Mongolia,C2_Workplace closing,0.029336489272927833
+Mongolia,E1_Income support,0.01790791421342529
+Mongolia,C6_Stay at home requirements,0.002644278894809964
+Mongolia,C3_Cancel public events,0.0023358917352508937
+Mongolia,H4_Emergency investment in healthcare,0.0015992163339638423
+Mongolia,C8_International travel controls,0.0012947400529456934
+Mongolia,C7_Restrictions on internal movement,0.0011738417926712922
+Mongolia,C1_School closing,0.0006336631675708856
+Mongolia,E3_Fiscal measures,0.00025022024522212424
+Mongolia,H7_Vaccination policy,0.00023952317011750909
+Mongolia,H5_Investment in vaccines,8.688454970303095e-05
 Mongolia,H3_Contact tracing,0.0
 Mongolia,H1_Public information campaigns,0.0
-Mongolia,H6_Facial Coverings,0.0
-Mongolia,H7_Vaccination policy,0.0
-Mongolia,H8_Protection of elderly people,0.0
 Mongolia,E4_International support,0.0
-Mongolia,E2_Debt/contract relief,0.0
-Mongolia,StringencyIndexForDisplay,0.0
-Mongolia,StringencyLegacyIndex,0.0
-Mongolia,C7_Restrictions on internal movement,0.0
-Mongolia,C6_Stay at home requirements,0.0
-Mongolia,C4_Restrictions on gatherings,0.0
-Mongolia,C3_Cancel public events,0.0
-Mongolia,EconomicSupportIndex,0.0
-Mongolia,EconomicSupportIndexForDisplay,0.0
-Nepal,StringencyIndex,0.6623730544052382
-Nepal,GovernmentResponseIndexForDisplay,0.15598118513492354
-Nepal,StringencyIndexForDisplay,0.0915517793431954
-Nepal,GovernmentResponseIndex,0.0787270324197959
-Nepal,C2_Workplace closing,0.009489925538824015
-Nepal,StringencyLegacyIndex,0.0011659596498368133
-Nepal,ContainmentHealthIndexForDisplay,0.0004903353829290739
-Nepal,C4_Restrictions on gatherings,0.00010430778390234298
-Nepal,EconomicSupportIndex,8.760334366546372e-05
-Nepal,H4_Emergency investment in healthcare,2.3172756565900035e-05
-Nepal,ContainmentHealthIndex,2.2401638208372482e-06
-Nepal,H7_Vaccination policy,2.1619446859943157e-06
-Nepal,C6_Stay at home requirements,1.242132616638499e-06
-Nepal,H6_Facial Coverings,0.0
-Nepal,StringencyLegacyIndexForDisplay,0.0
-Nepal,H8_Protection of elderly people,0.0
-Nepal,C1_School closing,0.0
+Mongolia,H8_Protection of elderly people,0.0
+Nepal,E2_Debt/contract relief,0.6555654264129588
+Nepal,H3_Contact tracing,0.12968360412379823
+Nepal,C8_International travel controls,0.10724983401722384
+Nepal,C1_School closing,0.0319620714340846
+Nepal,C6_Stay at home requirements,0.02567687113777809
+Nepal,C3_Cancel public events,0.023677027463789118
+Nepal,E1_Income support,0.016447365976563873
+Nepal,C2_Workplace closing,0.0044455415078521595
+Nepal,C5_Close public transport,0.0038182240599432885
+Nepal,C4_Restrictions on gatherings,0.0005136674403790383
+Nepal,H6_Facial Coverings,0.0005023825768929565
+Nepal,H7_Vaccination policy,0.00039590478540500577
+Nepal,C7_Restrictions on internal movement,2.602760878863914e-05
+Nepal,H4_Emergency investment in healthcare,2.2855352998889875e-05
+Nepal,H2_Testing policy,9.66449613694046e-06
+Nepal,H8_Protection of elderly people,3.5316054064089785e-06
 Nepal,H5_Investment in vaccines,0.0
-Nepal,H3_Contact tracing,0.0
-Nepal,H2_Testing policy,0.0
 Nepal,H1_Public information campaigns,0.0
 Nepal,E4_International support,0.0
 Nepal,E3_Fiscal measures,0.0
-Nepal,E2_Debt/contract relief,0.0
-Nepal,E1_Income support,0.0
-Nepal,C8_International travel controls,0.0
-Nepal,C7_Restrictions on internal movement,0.0
-Nepal,C5_Close public transport,0.0
-Nepal,C3_Cancel public events,0.0
-Nepal,EconomicSupportIndexForDisplay,0.0
-Nicaragua,C1_School closing,0.4963860021451191
-Nicaragua,StringencyIndex,0.4353830833981232
-Nicaragua,GovernmentResponseIndex,0.02877746166588387
-Nicaragua,GovernmentResponseIndexForDisplay,0.014140598328902616
-Nicaragua,H6_Facial Coverings,0.009948977502130127
-Nicaragua,H3_Contact tracing,0.0049677010007131575
-Nicaragua,ContainmentHealthIndexForDisplay,0.003693664608892474
-Nicaragua,ContainmentHealthIndex,0.0029208037802892477
-Nicaragua,StringencyLegacyIndexForDisplay,0.0020598155214888786
-Nicaragua,StringencyLegacyIndex,0.0017218920484572595
-Nicaragua,H5_Investment in vaccines,0.0
-Nicaragua,EconomicSupportIndex,0.0
-Nicaragua,StringencyIndexForDisplay,0.0
-Nicaragua,H8_Protection of elderly people,0.0
-Nicaragua,H7_Vaccination policy,0.0
-Nicaragua,H4_Emergency investment in healthcare,0.0
-Nicaragua,C2_Workplace closing,0.0
-Nicaragua,H2_Testing policy,0.0
-Nicaragua,H1_Public information campaigns,0.0
-Nicaragua,E4_International support,0.0
-Nicaragua,E3_Fiscal measures,0.0
-Nicaragua,E2_Debt/contract relief,0.0
-Nicaragua,E1_Income support,0.0
-Nicaragua,C8_International travel controls,0.0
-Nicaragua,C7_Restrictions on internal movement,0.0
-Nicaragua,C6_Stay at home requirements,0.0
-Nicaragua,C5_Close public transport,0.0
+Nicaragua,C1_School closing,0.5131367659101208
+Nicaragua,H1_Public information campaigns,0.4365839475406519
+Nicaragua,H8_Protection of elderly people,0.016070125230946947
+Nicaragua,H2_Testing policy,0.014129025765503948
+Nicaragua,H6_Facial Coverings,0.01211524569886411
+Nicaragua,H3_Contact tracing,0.004966764221606138
+Nicaragua,C8_International travel controls,0.0029981256323063326
 Nicaragua,C4_Restrictions on gatherings,0.0
 Nicaragua,C3_Cancel public events,0.0
-Nicaragua,EconomicSupportIndexForDisplay,0.0
-Pakistan,C8_International travel controls,0.8795458355129157
-Pakistan,StringencyLegacyIndexForDisplay,0.04544574496319369
-Pakistan,H2_Testing policy,0.03719859303448654
-Pakistan,H3_Contact tracing,0.030155063708875485
-Pakistan,EconomicSupportIndex,0.0033342898890775653
-Pakistan,H6_Facial Coverings,0.001846491916592326
-Pakistan,GovernmentResponseIndexForDisplay,0.0011248025863950454
-Pakistan,EconomicSupportIndexForDisplay,0.0005525099933903085
-Pakistan,ContainmentHealthIndexForDisplay,0.000298773320350186
-Pakistan,E3_Fiscal measures,0.00011913966267480086
-Pakistan,StringencyIndexForDisplay,0.00011474141664485217
-Pakistan,ContainmentHealthIndex,0.00011014424219507756
-Pakistan,C4_Restrictions on gatherings,6.224077754531855e-05
-Pakistan,C1_School closing,2.6054069702484573e-05
-Pakistan,StringencyIndex,2.4760345450945566e-05
-Pakistan,H5_Investment in vaccines,2.2749145904124793e-05
-Pakistan,C3_Cancel public events,6.070155683127349e-06
-Pakistan,C7_Restrictions on internal movement,5.583518095802044e-06
-Pakistan,E4_International support,4.6455223855053865e-06
-Pakistan,GovernmentResponseIndex,1.086980183759395e-06
-Pakistan,H4_Emergency investment in healthcare,6.792382572950209e-07
-Pakistan,H1_Public information campaigns,0.0
-Pakistan,C2_Workplace closing,0.0
-Pakistan,H7_Vaccination policy,0.0
+Nicaragua,H7_Vaccination policy,0.0
+Nicaragua,H5_Investment in vaccines,0.0
+Nicaragua,H4_Emergency investment in healthcare,0.0
+Nicaragua,E4_International support,0.0
+Nicaragua,C5_Close public transport,0.0
+Nicaragua,C2_Workplace closing,0.0
+Nicaragua,E2_Debt/contract relief,0.0
+Nicaragua,E1_Income support,0.0
+Nicaragua,C7_Restrictions on internal movement,0.0
+Nicaragua,C6_Stay at home requirements,0.0
+Nicaragua,E3_Fiscal measures,0.0
+Pakistan,C8_International travel controls,0.8836690086755529
+Pakistan,H2_Testing policy,0.037016249545943715
+Pakistan,H3_Contact tracing,0.028587085314228735
+Pakistan,C1_School closing,0.0217864561062538
+Pakistan,C7_Restrictions on internal movement,0.013117489654977919
+Pakistan,C4_Restrictions on gatherings,0.012550963878991926
+Pakistan,H6_Facial Coverings,0.001837440612502175
+Pakistan,E1_Income support,0.0005498016490301911
+Pakistan,H7_Vaccination policy,0.00021540573104502316
+Pakistan,H1_Public information campaigns,0.0001985012015604814
+Pakistan,E3_Fiscal measures,0.00015275263455480213
+Pakistan,C6_Stay at home requirements,0.00011516047529934067
+Pakistan,C2_Workplace closing,9.306000774348906e-05
+Pakistan,C3_Cancel public events,8.287703172343876e-05
+Pakistan,H5_Investment in vaccines,2.3383323012885085e-05
+Pakistan,E4_International support,2.425175221247561e-06
+Pakistan,E2_Debt/contract relief,1.0697800262968074e-06
+Pakistan,C5_Close public transport,8.692023318119087e-07
+Pakistan,H4_Emergency investment in healthcare,0.0
 Pakistan,H8_Protection of elderly people,0.0
-Pakistan,E2_Debt/contract relief,0.0
-Pakistan,E1_Income support,0.0
-Pakistan,StringencyLegacyIndex,0.0
-Pakistan,C6_Stay at home requirements,0.0
-Pakistan,C5_Close public transport,0.0
-Panama,EconomicSupportIndexForDisplay,0.8791978976016993
-Panama,C2_Workplace closing,0.038710240661345624
-Panama,H8_Protection of elderly people,0.02940812258718679
-Panama,StringencyLegacyIndex,0.02692381419935057
-Panama,StringencyLegacyIndexForDisplay,0.009228759572830285
-Panama,C5_Close public transport,0.004448854495436589
-Panama,ContainmentHealthIndexForDisplay,0.00296162394746149
-Panama,GovernmentResponseIndexForDisplay,0.002752934443205003
-Panama,ContainmentHealthIndex,0.0017590693429782188
-Panama,StringencyIndexForDisplay,0.0013065970140341962
-Panama,H2_Testing policy,0.0012150162090937187
-Panama,E3_Fiscal measures,0.001183378192122641
-Panama,C4_Restrictions on gatherings,0.0004063182051598834
-Panama,GovernmentResponseIndex,0.0003609132413960566
-Panama,H4_Emergency investment in healthcare,0.00011870746830294428
-Panama,H3_Contact tracing,1.3926920959063795e-05
-Panama,H1_Public information campaigns,3.519356374130975e-06
-Panama,E1_Income support,3.065410635369703e-07
-Panama,H5_Investment in vaccines,0.0
-Panama,H6_Facial Coverings,0.0
-Panama,H7_Vaccination policy,0.0
-Panama,StringencyIndex,0.0
+Panama,E1_Income support,0.6620045388731578
+Panama,H3_Contact tracing,0.1971710807766638
+Panama,H1_Public information campaigns,0.05194234403619558
+Panama,C2_Workplace closing,0.043349703518274545
+Panama,H8_Protection of elderly people,0.026758177101459623
+Panama,C7_Restrictions on internal movement,0.004812317385259985
+Panama,C6_Stay at home requirements,0.0044237280430302565
+Panama,H7_Vaccination policy,0.00401584764639697
+Panama,C5_Close public transport,0.002764171242398687
+Panama,C8_International travel controls,0.0012354193158744585
+Panama,E3_Fiscal measures,0.001167749006778956
+Panama,H4_Emergency investment in healthcare,0.0002879900355543462
+Panama,C4_Restrictions on gatherings,3.407971248885016e-05
+Panama,H6_Facial Coverings,3.0070397370886374e-05
+Panama,H2_Testing policy,2.7829090951424296e-06
 Panama,E4_International support,0.0
 Panama,E2_Debt/contract relief,0.0
-Panama,C8_International travel controls,0.0
-Panama,C7_Restrictions on internal movement,0.0
-Panama,C6_Stay at home requirements,0.0
+Panama,H5_Investment in vaccines,0.0
 Panama,C3_Cancel public events,0.0
-Panama,EconomicSupportIndex,0.0
 Panama,C1_School closing,0.0
-Paraguay,H6_Facial Coverings,0.6230977637583438
-Paraguay,C2_Workplace closing,0.1512103365183815
-Paraguay,GovernmentResponseIndexForDisplay,0.07924283783137231
-Paraguay,H2_Testing policy,0.07541761632756382
-Paraguay,EconomicSupportIndexForDisplay,0.05715496666802804
-Paraguay,ContainmentHealthIndexForDisplay,0.004161622249138482
-Paraguay,C7_Restrictions on internal movement,0.003959570763703542
-Paraguay,ContainmentHealthIndex,0.0029849237714878554
-Paraguay,StringencyLegacyIndexForDisplay,0.0011895669023067059
-Paraguay,StringencyIndex,0.0005045896288205213
-Paraguay,StringencyLegacyIndex,0.00038928566251991627
-Paraguay,H4_Emergency investment in healthcare,0.0002962394127643858
-Paraguay,C1_School closing,0.0002592481542154298
-Paraguay,E3_Fiscal measures,0.00010287176402405874
-Paraguay,C6_Stay at home requirements,2.1294403785319704e-05
-Paraguay,H5_Investment in vaccines,4.727028987479111e-06
-Paraguay,C8_International travel controls,2.5391545568310275e-06
-Paraguay,E2_Debt/contract relief,0.0
-Paraguay,H7_Vaccination policy,0.0
-Paraguay,H8_Protection of elderly people,0.0
-Paraguay,E1_Income support,0.0
+Paraguay,H6_Facial Coverings,0.5658425000704046
+Paraguay,C2_Workplace closing,0.22208443626888816
+Paraguay,H2_Testing policy,0.12337709516218301
+Paraguay,C6_Stay at home requirements,0.04670688692820681
+Paraguay,C1_School closing,0.017506472286895298
+Paraguay,C3_Cancel public events,0.009789298989871019
+Paraguay,C7_Restrictions on internal movement,0.00718966888981338
+Paraguay,E2_Debt/contract relief,0.0028043280547535897
+Paraguay,C4_Restrictions on gatherings,0.001744492771017721
+Paraguay,C8_International travel controls,0.0012561720160264305
+Paraguay,H8_Protection of elderly people,0.001012760725829986
+Paraguay,H4_Emergency investment in healthcare,0.00029332452183567496
+Paraguay,H3_Contact tracing,0.00027759704219168746
+Paraguay,E3_Fiscal measures,8.533994054276924e-05
+Paraguay,H7_Vaccination policy,1.4450445812560054e-05
+Paraguay,C5_Close public transport,1.02471775817446e-05
+Paraguay,H5_Investment in vaccines,4.649410927297449e-06
+Paraguay,E1_Income support,2.7929721817704575e-07
 Paraguay,E4_International support,0.0
-Paraguay,StringencyIndexForDisplay,0.0
-Paraguay,H3_Contact tracing,0.0
-Paraguay,C5_Close public transport,0.0
-Paraguay,GovernmentResponseIndex,0.0
-Paraguay,C4_Restrictions on gatherings,0.0
-Paraguay,C3_Cancel public events,0.0
-Paraguay,EconomicSupportIndex,0.0
 Paraguay,H1_Public information campaigns,0.0
-Peru,H3_Contact tracing,0.7632269385611378
-Peru,C8_International travel controls,0.13905824378513154
-Peru,H6_Facial Coverings,0.06884824164122147
-Peru,H2_Testing policy,0.01696898305563057
-Peru,StringencyIndex,0.004078714010330839
-Peru,ContainmentHealthIndex,0.002967992763565376
-Peru,GovernmentResponseIndex,0.0014688987842007434
-Peru,EconomicSupportIndex,0.0014266401844212678
-Peru,H4_Emergency investment in healthcare,0.0012191007833865378
-Peru,E3_Fiscal measures,0.0003147746186156675
-Peru,StringencyIndexForDisplay,0.00020270282111032204
-Peru,H7_Vaccination policy,0.00010407944262670261
-Peru,StringencyLegacyIndexForDisplay,8.074158772884968e-05
-Peru,C1_School closing,1.7223652165971838e-05
-Peru,StringencyLegacyIndex,1.0036557063439165e-05
-Peru,ContainmentHealthIndexForDisplay,6.683203794125967e-06
-Peru,GovernmentResponseIndexForDisplay,4.547868946092689e-09
-Peru,H1_Public information campaigns,0.0
-Peru,C2_Workplace closing,0.0
-Peru,H5_Investment in vaccines,0.0
+Peru,H3_Contact tracing,0.681486396329669
+Peru,C8_International travel controls,0.2239208643732089
+Peru,H6_Facial Coverings,0.06813581981374084
+Peru,H2_Testing policy,0.016923315297576926
+Peru,C5_Close public transport,0.0029319469843146592
+Peru,E2_Debt/contract relief,0.0020864960146112386
+Peru,H4_Emergency investment in healthcare,0.0018403278235321827
+Peru,C6_Stay at home requirements,0.0012367417024226673
+Peru,C7_Restrictions on internal movement,0.0006573453263264851
+Peru,H8_Protection of elderly people,0.00036538998666981994
+Peru,E3_Fiscal measures,0.0003103172487933696
+Peru,H7_Vaccination policy,0.00010495966545965134
+Peru,C2_Workplace closing,7.943367431312995e-08
 Peru,E4_International support,0.0
-Peru,E2_Debt/contract relief,0.0
-Peru,H8_Protection of elderly people,0.0
+Peru,H1_Public information campaigns,0.0
 Peru,E1_Income support,0.0
-Peru,C7_Restrictions on internal movement,0.0
-Peru,C6_Stay at home requirements,0.0
-Peru,C5_Close public transport,0.0
 Peru,C4_Restrictions on gatherings,0.0
+Peru,H5_Investment in vaccines,0.0
 Peru,C3_Cancel public events,0.0
-Peru,EconomicSupportIndexForDisplay,0.0
-Philippines,H6_Facial Coverings,0.8700725291444353
-Philippines,StringencyLegacyIndex,0.057196319343254705
-Philippines,StringencyIndexForDisplay,0.016377433840882437
-Philippines,E2_Debt/contract relief,0.013614723148964605
-Philippines,ContainmentHealthIndex,0.013251768186386565
-Philippines,StringencyIndex,0.010554203265814046
-Philippines,EconomicSupportIndex,0.0038353548931770085
-Philippines,C6_Stay at home requirements,0.0032680774469362244
-Philippines,ContainmentHealthIndexForDisplay,0.0022665220851768274
-Philippines,H8_Protection of elderly people,0.002166194457069212
-Philippines,GovernmentResponseIndex,0.0016062536379285166
-Philippines,E1_Income support,0.0015789727890718767
-Philippines,H5_Investment in vaccines,0.0014003808014100688
-Philippines,C5_Close public transport,0.0013894036386419685
-Philippines,GovernmentResponseIndexForDisplay,0.0006228063830449059
-Philippines,StringencyLegacyIndexForDisplay,0.00034904833556913896
-Philippines,C8_International travel controls,0.00032391886796771964
-Philippines,H7_Vaccination policy,0.00010797438654260609
-Philippines,E3_Fiscal measures,1.266694658366999e-05
-Philippines,EconomicSupportIndexForDisplay,4.422028127296254e-06
-Philippines,H4_Emergency investment in healthcare,8.039084181425952e-07
-Philippines,C2_Workplace closing,2.2246459713806086e-07
-Philippines,H3_Contact tracing,0.0
-Philippines,H2_Testing policy,0.0
+Peru,C1_School closing,0.0
+Philippines,H6_Facial Coverings,0.9064314789632892
+Philippines,E1_Income support,0.03544250861652192
+Philippines,C6_Stay at home requirements,0.015582239372504457
+Philippines,C7_Restrictions on internal movement,0.012276208998194064
+Philippines,C3_Cancel public events,0.011122606566202176
+Philippines,H8_Protection of elderly people,0.0049948177765338185
+Philippines,E2_Debt/contract relief,0.002272339898741785
+Philippines,H2_Testing policy,0.00225582381098763
+Philippines,C8_International travel controls,0.002198016282290101
+Philippines,C5_Close public transport,0.0021414854730129364
+Philippines,C4_Restrictions on gatherings,0.0018649514933829804
+Philippines,C1_School closing,0.0018374309536148435
+Philippines,H5_Investment in vaccines,0.0012924512615623512
+Philippines,H7_Vaccination policy,0.00022699474524940394
+Philippines,E3_Fiscal measures,3.706301893861641e-05
+Philippines,H3_Contact tracing,1.8875031633422923e-05
+Philippines,C2_Workplace closing,3.907450100745149e-06
+Philippines,H4_Emergency investment in healthcare,8.002872394351968e-07
 Philippines,H1_Public information campaigns,0.0
 Philippines,E4_International support,0.0
-Philippines,C7_Restrictions on internal movement,0.0
-Philippines,C4_Restrictions on gatherings,0.0
-Philippines,C3_Cancel public events,0.0
-Philippines,C1_School closing,0.0
-Singapore,EconomicSupportIndex,0.8792175949979228
-Singapore,StringencyIndex,0.07081913378820412
-Singapore,StringencyLegacyIndexForDisplay,0.03276458868047952
-Singapore,ContainmentHealthIndexForDisplay,0.006259272284404339
-Singapore,C3_Cancel public events,0.0060589894205774686
-Singapore,GovernmentResponseIndex,0.0017402367874149072
-Singapore,StringencyLegacyIndex,0.0015185111447778247
-Singapore,EconomicSupportIndexForDisplay,0.0007104362518055024
-Singapore,GovernmentResponseIndexForDisplay,0.00039958366010267853
-Singapore,E3_Fiscal measures,0.00033240514018019886
-Singapore,H4_Emergency investment in healthcare,0.0001762728350764598
-Singapore,H7_Vaccination policy,1.7155899924026744e-06
-Singapore,ContainmentHealthIndex,5.80272310979862e-07
-Singapore,StringencyIndexForDisplay,3.130342452753905e-07
-Singapore,C6_Stay at home requirements,3.1114409750547803e-07
-Singapore,H2_Testing policy,5.496840804543024e-08
-Singapore,E4_International support,0.0
-Singapore,C4_Restrictions on gatherings,0.0
-Singapore,C5_Close public transport,0.0
-Singapore,C7_Restrictions on internal movement,0.0
+Singapore,E1_Income support,0.8586005843945016
+Singapore,H8_Protection of elderly people,0.04548070189681028
+Singapore,H2_Testing policy,0.0364308754448199
+Singapore,C3_Cancel public events,0.032370968002120436
+Singapore,C2_Workplace closing,0.022489802965867247
+Singapore,H6_Facial Coverings,0.002068214265816619
+Singapore,C1_School closing,0.0015078078749359463
+Singapore,E3_Fiscal measures,0.0005163113894025683
+Singapore,E2_Debt/contract relief,0.00039664526853303955
+Singapore,C6_Stay at home requirements,0.00012402252025345682
+Singapore,C7_Restrictions on internal movement,1.16786771821541e-05
+Singapore,H7_Vaccination policy,2.3103076473673095e-06
+Singapore,C4_Restrictions on gatherings,7.699210932520087e-08
 Singapore,C8_International travel controls,0.0
-Singapore,E1_Income support,0.0
-Singapore,E2_Debt/contract relief,0.0
+Singapore,E4_International support,0.0
 Singapore,H1_Public information campaigns,0.0
-Singapore,H8_Protection of elderly people,0.0
-Singapore,H6_Facial Coverings,0.0
-Singapore,H5_Investment in vaccines,0.0
-Singapore,C2_Workplace closing,0.0
+Singapore,C5_Close public transport,0.0
 Singapore,H3_Contact tracing,0.0
-Singapore,C1_School closing,0.0
-Sri Lanka,StringencyLegacyIndex,0.47517609991600884
-Sri Lanka,StringencyIndex,0.22094805918794733
-Sri Lanka,H8_Protection of elderly people,0.09072180698475966
-Sri Lanka,C4_Restrictions on gatherings,0.07601052478219947
-Sri Lanka,GovernmentResponseIndexForDisplay,0.04551933675201959
-Sri Lanka,H3_Contact tracing,0.03992893443550224
-Sri Lanka,C1_School closing,0.027703865221896926
-Sri Lanka,H2_Testing policy,0.01309316732563641
-Sri Lanka,ContainmentHealthIndexForDisplay,0.006571737903702886
-Sri Lanka,StringencyIndexForDisplay,0.0015412171993740482
-Sri Lanka,C6_Stay at home requirements,0.0014185954401458479
-Sri Lanka,GovernmentResponseIndex,0.0008074552711790965
-Sri Lanka,H4_Emergency investment in healthcare,0.0002714682138395841
-Sri Lanka,H6_Facial Coverings,0.00013788678612765428
-Sri Lanka,ContainmentHealthIndex,6.937857087613129e-05
-Sri Lanka,E3_Fiscal measures,4.899518863060511e-05
-Sri Lanka,H5_Investment in vaccines,1.3921239735237075e-05
-Sri Lanka,E2_Debt/contract relief,1.1474570148847844e-05
-Sri Lanka,StringencyLegacyIndexForDisplay,6.069000717540943e-06
-Sri Lanka,E4_International support,6.009552133156427e-09
-Sri Lanka,EconomicSupportIndex,0.0
-Sri Lanka,C3_Cancel public events,0.0
-Sri Lanka,C5_Close public transport,0.0
-Sri Lanka,C7_Restrictions on internal movement,0.0
-Sri Lanka,H1_Public information campaigns,0.0
-Sri Lanka,C8_International travel controls,0.0
+Singapore,H4_Emergency investment in healthcare,0.0
+Singapore,H5_Investment in vaccines,0.0
+Sri Lanka,H6_Facial Coverings,0.288229075523327
+Sri Lanka,C1_School closing,0.28534580392798337
+Sri Lanka,C8_International travel controls,0.1606967975596995
+Sri Lanka,H8_Protection of elderly people,0.09122730777563835
+Sri Lanka,H2_Testing policy,0.07223427849316486
+Sri Lanka,H3_Contact tracing,0.0681388716500436
+Sri Lanka,C6_Stay at home requirements,0.017811271878442732
+Sri Lanka,C4_Restrictions on gatherings,0.00793911514975828
+Sri Lanka,H7_Vaccination policy,0.004826475734469117
+Sri Lanka,C5_Close public transport,0.0013216143319632956
+Sri Lanka,C3_Cancel public events,0.0004705142911469738
+Sri Lanka,H1_Public information campaigns,0.00042816893081932763
+Sri Lanka,C7_Restrictions on internal movement,0.00042635742503399887
+Sri Lanka,H4_Emergency investment in healthcare,0.00026637067787412704
+Sri Lanka,E3_Fiscal measures,0.0002473928066004196
+Sri Lanka,E2_Debt/contract relief,0.0002131348726865417
+Sri Lanka,C2_Workplace closing,0.00014286928910575236
+Sri Lanka,E4_International support,2.0818821525816883e-05
+Sri Lanka,H5_Investment in vaccines,1.3760860717049595e-05
 Sri Lanka,E1_Income support,0.0
-Sri Lanka,H7_Vaccination policy,0.0
-Sri Lanka,C2_Workplace closing,0.0
-Sri Lanka,EconomicSupportIndexForDisplay,0.0
-Suriname,H6_Facial Coverings,0.5388420067476785
-Suriname,StringencyLegacyIndexForDisplay,0.1867437542501305
-Suriname,ContainmentHealthIndex,0.12354287409973129
-Suriname,C5_Close public transport,0.05885198189556052
-Suriname,C4_Restrictions on gatherings,0.03730405485018009
-Suriname,StringencyIndexForDisplay,0.022447981790769785
-Suriname,H4_Emergency investment in healthcare,0.012769510129533984
-Suriname,GovernmentResponseIndexForDisplay,0.007912630046521719
-Suriname,E3_Fiscal measures,0.003777246742303834
-Suriname,GovernmentResponseIndex,0.003319990437399773
-Suriname,StringencyLegacyIndex,0.0026906564435843837
-Suriname,E2_Debt/contract relief,0.001217062527153418
-Suriname,StringencyIndex,0.0004989016247285725
-Suriname,EconomicSupportIndexForDisplay,6.94737196205126e-05
-Suriname,ContainmentHealthIndexForDisplay,7.822255212536128e-06
-Suriname,H7_Vaccination policy,3.4534311016225733e-06
-Suriname,H2_Testing policy,4.3399888151091165e-07
-Suriname,C8_International travel controls,1.6500990749989566e-07
+Suriname,H6_Facial Coverings,0.5023667058687536
+Suriname,C3_Cancel public events,0.1651589383074071
+Suriname,C5_Close public transport,0.1417138993505653
+Suriname,C2_Workplace closing,0.11511032058811907
+Suriname,C4_Restrictions on gatherings,0.0355194961994179
+Suriname,C7_Restrictions on internal movement,0.013373748684386821
+Suriname,H4_Emergency investment in healthcare,0.012674535096229523
+Suriname,C6_Stay at home requirements,0.004959565327615921
+Suriname,E3_Fiscal measures,0.0037363668780253053
+Suriname,C1_School closing,0.0024403631381797537
+Suriname,E2_Debt/contract relief,0.001702324660825217
+Suriname,C8_International travel controls,0.0006295541301384493
+Suriname,H7_Vaccination policy,0.0006137370927217809
+Suriname,H2_Testing policy,4.315269839597346e-07
+Suriname,E1_Income support,1.3150630252384831e-08
+Suriname,E4_International support,0.0
+Suriname,H1_Public information campaigns,0.0
 Suriname,H3_Contact tracing,0.0
-Suriname,C2_Workplace closing,0.0
 Suriname,H5_Investment in vaccines,0.0
 Suriname,H8_Protection of elderly people,0.0
-Suriname,H1_Public information campaigns,0.0
-Suriname,E4_International support,0.0
-Suriname,E1_Income support,0.0
-Suriname,C7_Restrictions on internal movement,0.0
-Suriname,C6_Stay at home requirements,0.0
-Suriname,C3_Cancel public events,0.0
-Suriname,EconomicSupportIndex,0.0
-Suriname,C1_School closing,0.0
-Thailand,H2_Testing policy,0.6128324720644163
-Thailand,C2_Workplace closing,0.11353959752913514
-Thailand,ContainmentHealthIndex,0.09433429865476133
-Thailand,H3_Contact tracing,0.06789980358560582
-Thailand,C4_Restrictions on gatherings,0.04073786890879452
-Thailand,EconomicSupportIndexForDisplay,0.03417989390544482
-Thailand,GovernmentResponseIndexForDisplay,0.015931406056741388
-Thailand,StringencyIndex,0.008217101468616605
-Thailand,GovernmentResponseIndex,0.005251284189828575
-Thailand,C1_School closing,0.0024582971300824747
-Thailand,E3_Fiscal measures,0.0019086716832620394
-Thailand,C8_International travel controls,0.0014088451197660718
-Thailand,H5_Investment in vaccines,0.00039086926197035374
-Thailand,H8_Protection of elderly people,0.00036558444015033086
-Thailand,StringencyLegacyIndex,0.00029929745285366626
-Thailand,E1_Income support,0.0001135326138411511
-Thailand,ContainmentHealthIndexForDisplay,0.00010562920240187902
-Thailand,StringencyIndexForDisplay,1.6314639799708987e-05
-Thailand,C3_Cancel public events,9.155494926964739e-06
-Thailand,C6_Stay at home requirements,7.659760079304467e-08
-Thailand,EconomicSupportIndex,0.0
-Thailand,C5_Close public transport,0.0
-Thailand,StringencyLegacyIndexForDisplay,0.0
-Thailand,C7_Restrictions on internal movement,0.0
+Thailand,H2_Testing policy,0.6469790781118461
+Thailand,C2_Workplace closing,0.09780468876204834
+Thailand,C1_School closing,0.08384967002023859
+Thailand,H3_Contact tracing,0.07491219112143334
+Thailand,C4_Restrictions on gatherings,0.04254654995919697
+Thailand,C5_Close public transport,0.017809563388730694
+Thailand,E2_Debt/contract relief,0.01625863377219701
+Thailand,C3_Cancel public events,0.011123803225413616
+Thailand,H8_Protection of elderly people,0.002250587672925722
+Thailand,H6_Facial Coverings,0.0013926121758236678
+Thailand,C8_International travel controls,0.0013410846599459692
+Thailand,H4_Emergency investment in healthcare,0.001110772257813903
+Thailand,E3_Fiscal measures,0.0008297126600968465
+Thailand,C6_Stay at home requirements,0.000537242381542682
+Thailand,C7_Restrictions on internal movement,0.00040192164323409627
+Thailand,H5_Investment in vaccines,0.00039718956576079926
+Thailand,H1_Public information campaigns,0.0003393302006992929
+Thailand,E1_Income support,0.00011536842105225725
 Thailand,E4_International support,0.0
 Thailand,H7_Vaccination policy,0.0
-Thailand,H6_Facial Coverings,0.0
-Thailand,E2_Debt/contract relief,0.0
-Thailand,H1_Public information campaigns,0.0
-Thailand,H4_Emergency investment in healthcare,0.0
-Uruguay,H8_Protection of elderly people,0.6984885434435161
-Uruguay,GovernmentResponseIndexForDisplay,0.1429680475958921
-Uruguay,ContainmentHealthIndex,0.06639285048004723
-Uruguay,StringencyIndexForDisplay,0.028131349653138845
-Uruguay,C2_Workplace closing,0.021150840649643655
-Uruguay,H6_Facial Coverings,0.015899177359793928
-Uruguay,StringencyLegacyIndexForDisplay,0.011509229049594137
-Uruguay,C1_School closing,0.006762579957967821
-Uruguay,E1_Income support,0.003563838558443703
-Uruguay,ContainmentHealthIndexForDisplay,0.0024490117500156725
-Uruguay,EconomicSupportIndexForDisplay,0.002068670691832688
-Uruguay,H2_Testing policy,0.0002143986636118964
-Uruguay,E3_Fiscal measures,0.00015876078924305582
-Uruguay,GovernmentResponseIndex,8.949369075953776e-05
-Uruguay,C6_Stay at home requirements,8.82339185383152e-05
-Uruguay,H5_Investment in vaccines,3.100956224293171e-05
-Uruguay,C8_International travel controls,1.8003286901458534e-05
-Uruguay,H4_Emergency investment in healthcare,1.0295579365238653e-05
-Uruguay,StringencyLegacyIndex,5.665319451937751e-06
-Uruguay,EconomicSupportIndex,0.0
-Uruguay,C3_Cancel public events,0.0
-Uruguay,C4_Restrictions on gatherings,0.0
-Uruguay,C5_Close public transport,0.0
-Uruguay,E4_International support,0.0
-Uruguay,C7_Restrictions on internal movement,0.0
-Uruguay,H1_Public information campaigns,0.0
-Uruguay,H7_Vaccination policy,0.0
+Uruguay,H8_Protection of elderly people,0.6380751492065794
+Uruguay,C7_Restrictions on internal movement,0.1821724245942489
+Uruguay,C5_Close public transport,0.11539573766607397
+Uruguay,C4_Restrictions on gatherings,0.02154703285179661
+Uruguay,H6_Facial Coverings,0.016128752560940176
+Uruguay,C1_School closing,0.010031792290332322
+Uruguay,C2_Workplace closing,0.00964321617910573
+Uruguay,E1_Income support,0.0027143620234710685
+Uruguay,C6_Stay at home requirements,0.002228614658242174
+Uruguay,H2_Testing policy,0.001033199999039981
+Uruguay,C3_Cancel public events,0.0007402464950549555
+Uruguay,E3_Fiscal measures,0.0001610532059704599
+Uruguay,H7_Vaccination policy,6.110906594237413e-05
+Uruguay,H5_Investment in vaccines,3.1457322919766536e-05
+Uruguay,C8_International travel controls,2.5407638526825834e-05
+Uruguay,H4_Emergency investment in healthcare,1.0444241755261074e-05
 Uruguay,E2_Debt/contract relief,0.0
+Uruguay,E4_International support,0.0
+Uruguay,H1_Public information campaigns,0.0
 Uruguay,H3_Contact tracing,0.0
-Uruguay,StringencyIndex,0.0
-Venezuela,H6_Facial Coverings,0.5162297923214143
-Venezuela,C5_Close public transport,0.21873829518283497
-Venezuela,GovernmentResponseIndexForDisplay,0.19180128714206868
-Venezuela,EconomicSupportIndexForDisplay,0.025943027624999795
-Venezuela,C7_Restrictions on internal movement,0.016711111706966382
-Venezuela,ContainmentHealthIndexForDisplay,0.013669653124359808
-Venezuela,C4_Restrictions on gatherings,0.01289979532933475
-Venezuela,H4_Emergency investment in healthcare,0.003355290563271011
-Venezuela,StringencyLegacyIndexForDisplay,0.0005985952860549856
-Venezuela,GovernmentResponseIndex,5.310206461188736e-05
-Venezuela,ContainmentHealthIndex,4.965408344422354e-08
-Venezuela,E1_Income support,0.0
-Venezuela,E2_Debt/contract relief,0.0
-Venezuela,EconomicSupportIndex,0.0
-Venezuela,C3_Cancel public events,0.0
-Venezuela,C6_Stay at home requirements,0.0
-Venezuela,StringencyLegacyIndex,0.0
-Venezuela,StringencyIndexForDisplay,0.0
-Venezuela,StringencyIndex,0.0
-Venezuela,H8_Protection of elderly people,0.0
-Venezuela,H7_Vaccination policy,0.0
-Venezuela,C8_International travel controls,0.0
+Venezuela,H6_Facial Coverings,0.5101716263377075
+Venezuela,C5_Close public transport,0.23586740908995557
+Venezuela,C7_Restrictions on internal movement,0.1324193372431309
+Venezuela,H2_Testing policy,0.06750949358423838
+Venezuela,E2_Debt/contract relief,0.031807683874596614
+Venezuela,C2_Workplace closing,0.010733637261035354
+Venezuela,C4_Restrictions on gatherings,0.006913814921043941
+Venezuela,H4_Emergency investment in healthcare,0.0044869682984728055
+Venezuela,H7_Vaccination policy,9.002938981881688e-05
+Venezuela,C1_School closing,0.0
 Venezuela,H5_Investment in vaccines,0.0
-Venezuela,C2_Workplace closing,0.0
 Venezuela,H3_Contact tracing,0.0
-Venezuela,H2_Testing policy,0.0
+Venezuela,E3_Fiscal measures,0.0
 Venezuela,H1_Public information campaigns,0.0
 Venezuela,E4_International support,0.0
-Venezuela,E3_Fiscal measures,0.0
-Venezuela,C1_School closing,0.0
+Venezuela,E1_Income support,0.0
+Venezuela,C8_International travel controls,0.0
+Venezuela,C6_Stay at home requirements,0.0
+Venezuela,C3_Cancel public events,0.0
+Venezuela,H8_Protection of elderly people,0.0

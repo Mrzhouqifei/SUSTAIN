@@ -158,7 +158,7 @@ def policy_indicator_analysis(confirmed, deaths, recovered, policies, indicators
                 'importance', ascending=False)
             importance = importance[importance['Indicator'] != policy_name]
             importance['Policy'] = policy_name
-            res = pd.concat((res, importance[['Policy', 'Indicator', 'importance']][:10]))
+            res = pd.concat((res, importance[['Policy', 'Indicator', 'importance']][:1000])) # 抽取几个因子
         return res
 
     policy_indicators(policies, recovery).to_csv('output/step_two/policy_indicator.csv', index=False)
@@ -176,7 +176,7 @@ if __name__ == '__main__':
     deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
     recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
 
-    indicator_analysis(confirmed, deaths, recovered, indicators_all_countries)
-    policy_analysis(confirmed, deaths, recovered, policies_all_countries)
-    policy_country_analysis(confirmed, deaths, recovered, policies)
+    # indicator_analysis(confirmed, deaths, recovered, indicators_all_countries)
+    # policy_analysis(confirmed, deaths, recovered, policies_all_countries)
+    # policy_country_analysis(confirmed, deaths, recovered, policies)
     policy_indicator_analysis(confirmed, deaths, recovered, policies_all_countries, indicators_all_countries)

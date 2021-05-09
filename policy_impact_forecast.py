@@ -84,11 +84,27 @@ def calculate_rate(numerator, denominator, res_name):
         tmp.to_csv('output/step_three/' + res_name + '/' + name + '.csv')
 
 
+def contagion(res_name, population_year):
+    population = pd.read_excel('raw_data/PopulationData.xls', skiprows=[0, 1, 2])[['Country', population_year]]
+    population[population_year] = population[population_year] * 1000
+    population = population.set_index('Country').T
+    numerator_dict = result_read('confirmed')
+
+    intersection_country = list(set(numerator_dict['history'].columns).intersection(population.columns))
+    population = population[intersection_country]
+
+    names = ['history', 'prediction']
+    for name in names:
+        numerator_dict[name] = numerator_dict[name][intersection_country]
+        contagion = numerator_dict[name].values / population.values
+        contagion = pd.DataFrame(contagion, columns=[intersection_country], index=numerator_dict[name].index)
+        contagion.to_csv('output/step_three/' + res_name + '/' + name + '.csv')
+
+
 if __name__ == '__main__':
-    # update indicator and policy
+    indicator_year, population_year = 2019, 2020
 
     # 'confirmed', 'deaths', 'recovered'
-    indicator_year = 2019
     main(series_category='confirmed', indicator_year=indicator_year)
     main(series_category='deaths', indicator_year=indicator_year)
     main(series_category='recovered', indicator_year=indicator_year)
@@ -96,6 +112,9 @@ if __name__ == '__main__':
     # mortality/recovery rate 死亡率恢复率
     calculate_rate('deaths', 'confirmed', 'mortality')
     calculate_rate('recovered', 'confirmed', 'recovery')
+
+    # contagion rate 传染率
+    contagion('contagion', population_year=population_year)
 
     # pip install pipreqs
     # pipreqs . --encoding=utf8 --force

@@ -1,0 +1,21 @@
+Policy,importance
+H7_Vaccination policy,0.25834030028598987
+H2_Testing policy,0.10580412729484333
+E1_Income support,0.09754687989447093
+H6_Facial Coverings,0.0865762343861929
+H3_Contact tracing,0.07570995610576714
+C5_Close public transport,0.07421527936033495
+C8_International travel controls,0.06850623067650011
+C7_Restrictions on internal movement,0.04639250377130757
+C2_Workplace closing,0.04325824944428162
+C6_Stay at home requirements,0.041263892409679516
+C4_Restrictions on gatherings,0.03358562049819678
+H8_Protection of elderly people,0.028783955601664423
+E2_Debt/contract relief,0.018921914903798222
+C1_School closing,0.011396848589329992
+C3_Cancel public events,0.005566434860420744
+H1_Public information campaigns,0.00398451104734494
+H4_Emergency investment in healthcare,0.00010415329538220012
+E3_Fiscal measures,1.969819101308196e-05
+E4_International support,1.5355040306219328e-05
+H5_Investment in vaccines,7.85434317533927e-06

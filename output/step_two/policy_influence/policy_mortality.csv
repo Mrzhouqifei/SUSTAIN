@@ -1,21 +1,21 @@
 Policy,importance
-C8_International travel controls,0.12522970349187282
-H1_Public information campaigns,0.12210392415966101
-C3_Cancel public events,0.09955761662222705
-H2_Testing policy,0.07621651505400333
-C2_Workplace closing,0.07373460479272612
-H6_Facial Coverings,0.054469164028463045
-C6_Stay at home requirements,0.0544344526687727
-H3_Contact tracing,0.05119215762849059
-E1_Income support,0.04879652831312741
-H8_Protection of elderly people,0.0479040347774294
-E2_Debt/contract relief,0.04544058170628586
-C7_Restrictions on internal movement,0.041663665061260215
-C5_Close public transport,0.04154734349916636
-C4_Restrictions on gatherings,0.03502720209258933
-C1_School closing,0.03442660350756944
-H7_Vaccination policy,0.0304567274755639
-E3_Fiscal measures,0.010259413289464558
-H4_Emergency investment in healthcare,0.004380874577777737
-H5_Investment in vaccines,0.002800088044741828
-E4_International support,0.0003587992088073769
+C8_International travel controls,0.19815996516359083
+C1_School closing,0.1250846264560131
+H8_Protection of elderly people,0.1143132884874656
+H3_Contact tracing,0.10556618442882705
+C3_Cancel public events,0.09168009221190346
+H6_Facial Coverings,0.08863233551232731
+C4_Restrictions on gatherings,0.06689777125358112
+E2_Debt/contract relief,0.029058204590990577
+C7_Restrictions on internal movement,0.02829170902573262
+H2_Testing policy,0.028133175049956965
+C5_Close public transport,0.027943939862524587
+C2_Workplace closing,0.02383748797650678
+C6_Stay at home requirements,0.02338485858087682
+E1_Income support,0.02319767789866965
+H7_Vaccination policy,0.017698004483305177
+H1_Public information campaigns,0.006102646358434533
+E3_Fiscal measures,0.0013776125939940612
+H4_Emergency investment in healthcare,0.0005860645385874067
+E4_International support,5.17365666176334e-05
+H5_Investment in vaccines,2.6189600947592974e-06

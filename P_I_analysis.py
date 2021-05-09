@@ -13,8 +13,11 @@ def pre_series(series, countries):
     return process_series
 
 
-def indicator_analysis(confirmed, deaths, recovered, indicators):
-    countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(indicators['Country']))))
+def indicator_analysis(population, confirmed, deaths, recovered, indicators):
+    countries = sorted(list((set(confirmed['Country/Region'])).intersection(
+        set(indicators['Country'])).intersection(population.columns)))
+
+    population = population[countries]
     confirmed = pre_series(confirmed, countries)
     deaths = pre_series(deaths, countries)
     recovered = pre_series(recovered, countries)
@@ -22,6 +25,11 @@ def indicator_analysis(confirmed, deaths, recovered, indicators):
     # mortality/recovery rate 死亡率恢复率
     mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all')
     recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all')
+
+    # contagion rate
+    contagion = confirmed.values / population.values
+    contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index)
+
 
     def indicator_influence(indicators, rates):
         """
@@ -42,10 +50,14 @@ def indicator_analysis(confirmed, deaths, recovered, indicators):
                                                       index=False)
     indicator_influence(indicators, recovery).to_csv('output/step_two/indicator_influence/indicator_recovery.csv',
                                                      index=False)
+    indicator_influence(indicators, contagion).to_csv('output/step_two/indicator_influence/indicator_contagion.csv',
+                                                     index=False)
 
 
-def policy_analysis(confirmed, deaths, recovered, policies):
-    countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity))))
+def policy_analysis(population, confirmed, deaths, recovered, policies):
+    countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(population.columns)))
+
+    population = population[countries]
     confirmed = pre_series(confirmed, countries)
     deaths = pre_series(deaths, countries)
     recovered = pre_series(recovered, countries)
@@ -55,6 +67,11 @@ def policy_analysis(confirmed, deaths, recovered, policies):
     recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
     mortality.columns = ['date', 'country', 'y']
     recovery.columns = ['date', 'country', 'y']
+
+    # contagion rate
+    contagion = confirmed.values / population.values
+    contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index).stack().reset_index()
+    contagion.columns = ['date', 'country', 'y']
 
     def policy_influence(policies, rates):
         policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
@@ -76,10 +93,13 @@ def policy_analysis(confirmed, deaths, recovered, policies):
 
     policy_influence(policies, mortality).to_csv('output/step_two/policy_influence/policy_mortality.csv', index=False)
     policy_influence(policies, recovery).to_csv('output/step_two/policy_influence/policy_recovery.csv', index=False)
+    policy_influence(policies, contagion).to_csv('output/step_two/policy_influence/policy_contagion.csv', index=False)
 
 
-def policy_country_analysis(confirmed, deaths, recovered, policies):
-    countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity))))
+def policy_country_analysis(population, confirmed, deaths, recovered, policies):
+    countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(population.columns)))
+
+    population = population[countries]
     confirmed = pre_series(confirmed, countries)
     deaths = pre_series(deaths, countries)
     recovered = pre_series(recovered, countries)
@@ -89,6 +109,11 @@ def policy_country_analysis(confirmed, deaths, recovered, policies):
     recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
     mortality.columns = ['date', 'country', 'y']
     recovery.columns = ['date', 'country', 'y']
+
+    # contagion rate
+    contagion = confirmed.values / population.values
+    contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index).stack().reset_index()
+    contagion.columns = ['date', 'country', 'y']
 
     def policy_influence(policies, rates):
         policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
@@ -116,11 +141,16 @@ def policy_country_analysis(confirmed, deaths, recovered, policies):
                                                  index=False)
     policy_influence(policies, recovery).to_csv('output/step_two/country_policy_influence/policy_recovery.csv',
                                                 index=False)
+    policy_influence(policies, contagion).to_csv('output/step_two/country_policy_influence/policy_contagion.csv',
+                                                index=False)
 
 
-def policy_indicator_analysis(confirmed, deaths, recovered, policies, indicators):
+def policy_indicator_analysis(population, confirmed, deaths, recovered, policies, indicators):
     countries = sorted(list(
-        (set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(set(indicators['Country']))))
+        (set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(
+            set(indicators['Country'])).intersection(population.columns)))
+
+    population = population[countries]
     confirmed = pre_series(confirmed, countries)
     deaths = pre_series(deaths, countries)
     recovered = pre_series(recovered, countries)
@@ -130,6 +160,11 @@ def policy_indicator_analysis(confirmed, deaths, recovered, policies, indicators
     recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
     mortality.columns = ['date', 'country', 'y']
     recovery.columns = ['date', 'country', 'y']
+
+    # contagion rate
+    contagion = confirmed.values / population.values
+    contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index).stack().reset_index()
+    contagion.columns = ['date', 'country', 'y']
 
     def policy_indicators(policies, rates):
         rates = mortality.copy()
@@ -158,25 +193,29 @@ def policy_indicator_analysis(confirmed, deaths, recovered, policies, indicators
                 'importance', ascending=False)
             importance = importance[importance['Indicator'] != policy_name]
             importance['Policy'] = policy_name
-            res = pd.concat((res, importance[['Policy', 'Indicator', 'importance']][:1000])) # 抽取几个因子
+            res = pd.concat((res, importance[['Policy', 'Indicator', 'importance']][:10])) # 抽取几个因子
         return res
 
-    policy_indicators(policies, recovery).to_csv('output/step_two/policy_indicator.csv', index=False)
+    policy_indicators(policies, contagion).to_csv('output/step_two/policy_indicator.csv', index=False)
 
 
 if __name__ == '__main__':
-    indicator_year = 2019
+    indicator_year, population_year = 2019, 2020
     indicators_all_countries = pd.read_excel('raw_data/indicators_all_countries.xlsx')[
         ['Country', 'Indicator', 'Unit', indicator_year]]
     policies = pd.read_csv('raw_data/policies.csv')
     policies_all_countries = pd.read_csv('raw_data/policies_all_countries.csv')
+
+    population = pd.read_excel('raw_data/PopulationData.xls', skiprows=[0, 1, 2])[['Country', population_year]]
+    population[population_year] = population[population_year] * 1000
+    population = population.set_index('Country').T
 
     # 'confirmed', 'deaths', 'recovered'
     confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'confirmed' + '_global.csv')
     deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
     recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
 
-    # indicator_analysis(confirmed, deaths, recovered, indicators_all_countries)
-    # policy_analysis(confirmed, deaths, recovered, policies_all_countries)
-    # policy_country_analysis(confirmed, deaths, recovered, policies)
-    policy_indicator_analysis(confirmed, deaths, recovered, policies_all_countries, indicators_all_countries)
+    indicator_analysis(population, confirmed, deaths, recovered, indicators_all_countries)
+    policy_analysis(population, confirmed, deaths, recovered, policies_all_countries)
+    policy_country_analysis(population, confirmed, deaths, recovered, policies)
+    policy_indicator_analysis(population, confirmed, deaths, recovered, policies_all_countries, indicators_all_countries)

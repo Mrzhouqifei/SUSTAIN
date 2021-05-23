@@ -87,8 +87,8 @@ def policy_analysis(population, confirmed, deaths, recovered, policies):
 
 
         model = DecisionTreeRegressor().fit(rates[policy_names], rates['y'])
-        model_importance = model.tree_.compute_feature_importances(normalize=True)
-        return pd.DataFrame({'Policy': policy_names, 'importance': model_importance}).sort_values('importance',
+        model_score = model.tree_.compute_feature_importances(normalize=True)
+        return pd.DataFrame({'Policy': policy_names, 'score': model_score}).sort_values('score',
                                                                                                   ascending=False)
 
     policy_influence(policies, mortality).to_csv('output/step_two/policy_influence/policy_mortality.csv', index=False)
@@ -130,11 +130,11 @@ def policy_country_analysis(population, confirmed, deaths, recovered, policies):
         for key, rate in rates.groupby('country'):
             if len(rate) > 50:
                 model = DecisionTreeRegressor().fit(rate[policy_names], rate['y'])
-                model_importance = model.tree_.compute_feature_importances(normalize=True)
-                importance = pd.DataFrame({'Policy': policy_names, 'importance': model_importance}).sort_values(
-                    'importance', ascending=False)
-                importance['Country'] = key
-                res = pd.concat((res, importance[['Country', 'Policy', 'importance']])) # [:10]
+                model_score = model.tree_.compute_feature_importances(normalize=True)
+                score = pd.DataFrame({'Policy': policy_names, 'score': model_score}).sort_values(
+                    'score', ascending=False)
+                score['Country'] = key
+                res = pd.concat((res, score[['Country', 'Policy', 'score']])) # [:10]
         return res
 
     policy_influence(policies, mortality).to_csv('output/step_two/country_policy_influence/policy_mortality.csv',
@@ -188,12 +188,12 @@ def policy_indicator_analysis(population, confirmed, deaths, recovered, policies
                                             right_on='country')
             train_columns = [x for x in train.columns if x not in ['date', 'country', 'y']]
             model = DecisionTreeRegressor().fit(train[train_columns], train['y'])
-            model_importance = model.tree_.compute_feature_importances(normalize=True)
-            importance = pd.DataFrame({'Indicator': train_columns, 'importance': model_importance}).sort_values(
-                'importance', ascending=False)
-            importance = importance[importance['Indicator'] != policy_name]
-            importance['Policy'] = policy_name
-            res = pd.concat((res, importance[['Policy', 'Indicator', 'importance']][:10])) # 抽取几个因子
+            model_score = model.tree_.compute_feature_importances(normalize=True)
+            score = pd.DataFrame({'Indicator': train_columns, 'score': model_score}).sort_values(
+                'score', ascending=False)
+            score = score[score['Indicator'] != policy_name]
+            score['Policy'] = policy_name
+            res = pd.concat((res, score[['Policy', 'Indicator', 'score']][:10])) # 抽取几个因子
         return res
 
     policy_indicators(policies, contagion).to_csv('output/step_two/policy_indicator.csv', index=False)

@@ -14,16 +14,19 @@ def series_place_holding(series, prediction_length):
     return series
 
 
-def get_target(series, countries):
+def get_target(series, countries, predict_len):
     # series (should def a function)，最后添加place holding用来预测
-    process_series = series.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).loc[countries, :].T[
-        countries].fillna(0)
+    # process_series = series.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).loc[countries, :].T[
+    #     countries].fillna(0)
+    process_series = series[countries]
     process_series.index = pd.to_datetime(process_series.index)
+
     # prediction place holding
-    prediction_length = 10
+    prediction_length = predict_len
     process_series = series_place_holding(process_series, prediction_length)
 
     process_series_diff = process_series.diff()[1:]  # 预测增量
+    # process_series_diff = 1 + process_series_diff.pct_change().fillna(0).replace([np.inf, -np.inf], 0)[1:]  # 预测比例
 
     # define the parameters of the dataset
     metadata = {'num_series': len(countries),
@@ -35,10 +38,12 @@ def get_target(series, countries):
                                     for _ in range(len(countries))]
                           }
     # scaler， 对每一个国家的不同日期进行sacle，column=国家
-    target_scaler = StandardScaler().fit(process_series_diff.iloc[:-metadata['prediction_length']])
+    # target_scaler = StandardScaler().fit(process_series_diff.iloc[:-metadata['prediction_length']])
     # 在这里构造代预测的数据
     # num_series, series length
-    target = target_scaler.transform(process_series_diff).T
+    # target = target_scaler.transform(process_series_diff).T
+    target = process_series_diff.values.T
+    target_scaler = None
 
     return metadata, target_scaler, target, process_series, process_series_diff
 
@@ -81,6 +86,7 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
 def get_train_data(
         series_category: str = 'confirmed',
         indicator_year: int = 2019,
+        predict_len: int = 10,
 ):
     """
     :param series_category: 'confirmed', 'deaths', 'recovered'
@@ -91,14 +97,14 @@ def get_train_data(
     indicators = pd.read_excel('raw_data/indicators.xlsx')[
         ['Country', 'Indicator', 'Unit', indicator_year]]
     policies = pd.read_csv('raw_data/policies.csv')
-    series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
+    series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv', index_col=0)
 
     countries = sorted(list(
-        set(policies.entity).intersection(set(series['Country/Region'])).intersection(set(indicators['Country']))))
+        set(policies.entity).intersection(set(series.columns)).intersection(set(indicators['Country']))))
     indicator_names = list(set(indicators.Indicator))
     policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
 
-    metadata, target_scaler, target, process_series, process_series_diff = get_target(series, countries)
+    metadata, target_scaler, target, process_series, process_series_diff = get_target(series, countries, predict_len)
     covariate_s = get_static(indicators, countries, indicator_year=indicator_year)
     covariate_d = get_dynamic(policies, policy_names, countries, process_series_diff)
 

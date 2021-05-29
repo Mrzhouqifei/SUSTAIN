@@ -1,201 +1,201 @@
 Policy,Indicator,score
-C1_School closing,"('Urban population (% of total population)', 'total')",0.2565869963127167
-C1_School closing,"('Rule of law estimate ', 'score')",0.1549882637803655
-C1_School closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.141492854973927
-C1_School closing,"('Prevalence of chronic kidney disease', 'percent')",0.1356290834702895
-C1_School closing,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",0.054961521507564434
-C1_School closing,"('Prevalence of Hypertensive heart disease', 'percent')",0.05217912144425897
-C1_School closing,"('Lending interest rates, percent per annum', 'percent per annum')",0.037037039490889274
-C1_School closing,"('Population in urban agglomerations of more than 1 million (% of total population)', 'proportion')",0.009468123736877145
-C1_School closing,"('Prevalence of Depressive disorders', 'percent')",0.00923912858790545
-C1_School closing,"('Primary completion rate, female (% of relevant age group)', 'proportion')",0.009016114889519648
-C2_Workplace closing,"('Rule of law estimate ', 'score')",0.17985611734373255
-C2_Workplace closing,"('Prevalence of chronic kidney disease', 'percent')",0.17619262494750768
-C2_Workplace closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.16417755547669244
-C2_Workplace closing,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.11234240364461104
-C2_Workplace closing,"('Prevalence of Hypertensive heart disease', 'percent')",0.060551256982096624
-C2_Workplace closing,"('Lending interest rates, percent per annum', 'percent per annum')",0.04297962928456373
-C2_Workplace closing,"('Urban population (% of total population)', 'total')",0.018334766385133754
-C2_Workplace closing,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",0.01800530419741725
-C2_Workplace closing,"('Prevalence of Depressive disorders', 'percent')",0.01072154597341014
-C2_Workplace closing,"('Population ages 15-19, female (% of female population)', 'proportion')",0.010462749746331398
-C3_Cancel public events,"('Volume of imports', 'percent change')",0.21758993699786874
-C3_Cancel public events,"('Rule of law estimate ', 'score')",0.16715735474445667
-C3_Cancel public events,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.1523158126564055
-C3_Cancel public events,"('Prevalence of chronic kidney disease', 'percent')",0.14601935796606605
-C3_Cancel public events,"('Prevalence of Hypertensive heart disease', 'percent')",0.05617646022206303
-C3_Cancel public events,"('Lending interest rates, percent per annum', 'percent per annum')",0.03987437346805219
-C3_Cancel public events,"('Rural population (% of total population)', 'proportion')",0.01790331974826647
-C3_Cancel public events,"('Prevalence of Depressive disorders', 'percent')",0.009946919864480694
-C3_Cancel public events,"('Primary completion rate, male (% of relevant age group)', 'proportion')",0.009706821529950269
-C3_Cancel public events,"('Fixed broadband subscriptions', 'number')",0.009034314350597707
-C4_Restrictions on gatherings,"('Population ages 15-19, male (% of male population)', 'proportion')",0.22080837622345167
-C4_Restrictions on gatherings,"('Rule of law estimate ', 'score')",0.1742430178528396
-C4_Restrictions on gatherings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.15905376560135912
-C4_Restrictions on gatherings,"('Prevalence of chronic kidney disease', 'percent')",0.15247877636700344
-C4_Restrictions on gatherings,"('Prevalence of Hypertensive heart disease', 'percent')",0.05866152292823531
-C4_Restrictions on gatherings,"('Lending interest rates, percent per annum', 'percent per annum')",0.04163828522121062
-C4_Restrictions on gatherings,"('Population, male (% of total population)', 'proportion')",0.019560060585103824
-C4_Restrictions on gatherings,"('Prevalence of Depressive disorders', 'percent')",0.010386939037967575
-C4_Restrictions on gatherings,"('Primary completion rate, female (% of relevant age group)', 'proportion')",0.010136219539077878
-C4_Restrictions on gatherings,"('Population, female', 'proportion')",0.009433962843572072
-C5_Close public transport,"('Rule of law estimate ', 'score')",0.21124294768882576
-C5_Close public transport,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.1928283078465132
-C5_Close public transport,"('Prevalence of chronic kidney disease', 'percent')",0.1848571413458439
-C5_Close public transport,"('Volume of exports', 'percent change')",0.07697189405833316
-C5_Close public transport,"('Prevalence of Hypertensive heart disease', 'percent')",0.07216481306772257
-C5_Close public transport,"('Lending interest rates, percent per annum', 'percent per annum')",0.05048003768085844
-C5_Close public transport,"('Population aged 65+ years (% of total population)', 'percent of total population')",0.0162974412905893
-C5_Close public transport,"('Primary completion rate, total (% of relevant age group)', 'proportion')",0.012288612308491277
-C5_Close public transport,"('Population, total', 'total')",0.011437233721158561
-C5_Close public transport,"('Age dependency ratio, old (% of working-age population)', 'proportion')",0.010723909461193287
-C6_Stay at home requirements,"('Population ages 20-24, female (% of female population)', 'proportion')",0.21234068937374811
-C6_Stay at home requirements,"('Rule of law estimate ', 'score')",0.1709365099582351
-C6_Stay at home requirements,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.15607364285154482
-C6_Stay at home requirements,"('Prevalence of chronic kidney disease', 'percent')",0.15120951669595048
-C6_Stay at home requirements,"('Prevalence of Hypertensive heart disease', 'percent')",0.05754833749869668
-C6_Stay at home requirements,"('Lending interest rates, percent per annum', 'percent per annum')",0.041740318447646294
-C6_Stay at home requirements,"('Population ages 05-09, female (% of female population)', 'proportion')",0.01235143664584041
-C6_Stay at home requirements,"('Prevalence of Depressive disorders', 'percent')",0.01021340891069542
-C6_Stay at home requirements,"('Volume of imports', 'percent change')",0.009943870426088559
-C6_Stay at home requirements,"('Population ages 15-64, total', 'proportion')",0.009254940045390535
-C7_Restrictions on internal movement,"('Rule of law estimate ', 'score')",0.17653917197305455
-C7_Restrictions on internal movement,"('Urban population (% of total)', 'percent of total population')",0.17239696820464132
-C7_Restrictions on internal movement,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.16114975753103064
-C7_Restrictions on internal movement,"('Prevalence of chronic kidney disease', 'percent')",0.15448812385716318
-C7_Restrictions on internal movement,"('Prevalence of Hypertensive heart disease', 'percent')",0.059434557619839574
-C7_Restrictions on internal movement,"('Population ages 65 and above, female', 'proportion')",0.054826073803712676
-C7_Restrictions on internal movement,"('Lending interest rates, percent per annum', 'percent per annum')",0.04218698967633717
-C7_Restrictions on internal movement,"('Press freedom ranking', 'rank')",0.027070383490034437
-C7_Restrictions on internal movement,"('Urban population (% of total population)', 'total')",0.013359771777773557
-C7_Restrictions on internal movement,"('Voice and accountability estimate', 'score')",0.01052381690637432
-C8_International travel controls,"('Rule of law estimate ', 'score')",0.2161312412710939
-C8_International travel controls,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.19273655358765193
-C8_International travel controls,"('Prevalence of chronic kidney disease', 'percent')",0.1847691800387771
-C8_International travel controls,"('Prevalence of Hypertensive heart disease', 'percent')",0.07109271318387986
-C8_International travel controls,"('Lending interest rates, percent per annum', 'percent per annum')",0.05045601756423221
-C8_International travel controls,"('Fixed broadband subscriptions', 'number')",0.03754206670605774
-C8_International travel controls,"('Primary completion rate, total (% of relevant age group)', 'proportion')",0.03174736996005801
-C8_International travel controls,"('Prevalence of down syndrome', 'percent')",0.027376278483277904
-C8_International travel controls,"('Prevalence of Depressive disorders', 'percent')",0.012586579292443245
-C8_International travel controls,"('Population, male', 'proportion')",0.011431791496852495
-E1_Income support,"('Rule of law estimate ', 'score')",0.23231562530514585
-E1_Income support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.21806769779723326
-E1_Income support,"('Prevalence of chronic kidney disease', 'percent')",0.2032976856919456
-E1_Income support,"('Prevalence of Hypertensive heart disease', 'percent')",0.07821253642388863
-E1_Income support,"('Volume of imports', 'percent change')",0.05954050655274806
-E1_Income support,"('Lending interest rates, percent per annum', 'percent per annum')",0.05551570666648016
-E1_Income support,"('Fixed broadband subscriptions', 'number')",0.01394317796515348
-E1_Income support,"('Prevalence of Depressive disorders', 'percent')",0.013848751401045018
-E1_Income support,"('Population ages 20-24, female (% of female population)', 'proportion')",0.013514470820518897
-E1_Income support,"('Prevalence of anxiety disorders', 'percent')",0.011793680023168334
-E2_Debt/contract relief,"('Rule of law estimate ', 'score')",0.20326754217293705
-E2_Debt/contract relief,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.1855481407836901
-E2_Debt/contract relief,"('Prevalence of chronic kidney disease', 'percent')",0.17840901375695975
-E2_Debt/contract relief,"('CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)', 'rating')",0.08203886370703148
-E2_Debt/contract relief,"('Prevalence of Hypertensive heart disease', 'percent')",0.06843306396252344
-E2_Debt/contract relief,"('Lending interest rates, percent per annum', 'percent per annum')",0.04857418105761521
-E2_Debt/contract relief,"('Population ages 25-29, female (% of female population)', 'proportion')",0.021178032595014846
-E2_Debt/contract relief,"('Population growth (annual %)', 'proportion')",0.01877557210438493
-E2_Debt/contract relief,"('Population aged 0-14 years (% of total population)', 'percent of total population')",0.017815590832253515
-E2_Debt/contract relief,"('Prevalence of Depressive disorders', 'percent')",0.012146182107163684
-E3_Fiscal measures,"('Rule of law estimate ', 'score')",0.2619340398300612
-E3_Fiscal measures,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.2391005154038663
-E3_Fiscal measures,"('Prevalence of chronic kidney disease', 'percent')",0.2292165412096369
-E3_Fiscal measures,"('Prevalence of Hypertensive heart disease', 'percent')",0.0881880524323543
-E3_Fiscal measures,"('Lending interest rates, percent per annum', 'percent per annum')",0.06259352250658984
-E3_Fiscal measures,"('Immunization, measles (% of children ages 12-23 months)', 'percent')",0.01561435825211224
-E3_Fiscal measures,"('Primary completion rate, total (% of relevant age group)', 'proportion')",0.015237459527434511
-E3_Fiscal measures,"('Population ages 0-14, male', 'proportion')",0.014181779159212636
-E3_Fiscal measures,"('Prevalence of total cancers', 'percent')",0.01329728144146119
-E3_Fiscal measures,"('Population ages 45-49, female (% of female population)', 'proportion')",0.012076871850439376
-E4_International support,"('Rule of law estimate ', 'score')",0.2647493202951355
-E4_International support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.24167037997984814
-E4_International support,"('Prevalence of chronic kidney disease', 'percent')",0.231680172325155
-E4_International support,"('Prevalence of Hypertensive heart disease', 'percent')",0.0891318258494079
-E4_International support,"('Lending interest rates, percent per annum', 'percent per annum')",0.06326628088983782
-E4_International support,"('Prevalence of Depressive disorders', 'percent')",0.015782182173701025
-E4_International support,"('Population growth (annual %)', 'proportion')",0.015401232522252251
-E4_International support,"('Population ages 15-64, male', 'proportion')",0.014476719058707814
-E4_International support,"('Unemployment, total (% of total labor force) (modeled ILO estimate)', 'percent of total labor force')",0.013440201302908116
-E4_International support,"('Population ages 45-49, female (% of female population)', 'proportion')",0.01220667468713123
-H1_Public information campaigns,"('Rule of law estimate ', 'score')",0.24654660573516285
-H1_Public information campaigns,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.22508121424751934
-H1_Public information campaigns,"('Prevalence of chronic kidney disease', 'percent')",0.2157511114258059
-H1_Public information campaigns,"('Prevalence of Hypertensive heart disease', 'percent')",0.08302383008630475
-H1_Public information campaigns,"('Lending interest rates, percent per annum', 'percent per annum')",0.05891643760779876
-H1_Public information campaigns,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",0.02090869539583968
-H1_Public information campaigns,"('General government net lending/borrowing', 'percent of GDP')",0.014697085687254264
-H1_Public information campaigns,"('Population ages 15-19, male (% of male population)', 'proportion')",0.014342328049295252
-H1_Public information campaigns,"('Population, female', 'proportion')",0.013348664103595524
-H1_Public information campaigns,"('Urban population (% of total population)', 'total')",0.012955300904691032
-H2_Testing policy,"('Rule of law estimate ', 'score')",0.18264201672717872
-H2_Testing policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.16672060020230386
-H2_Testing policy,"('Prevalence of chronic kidney disease', 'percent')",0.1598286781699419
-H2_Testing policy,"('Interest rate on loans and discounts', 'percent per annum')",0.06765508808917087
-H2_Testing policy,"('Prevalence of Hypertensive heart disease', 'percent')",0.06166005744225784
-H2_Testing policy,"('Lending interest rates, percent per annum', 'percent per annum')",0.04364536656664074
-H2_Testing policy,"('Control of corruption estimate', 'score')",0.03296507946980996
-H2_Testing policy,"('Net migration', 'net total / data are 5 year estimates')",0.020929793443586586
-H2_Testing policy,"('Immunization, DPT (% of children ages 12-23 months)', 'percent')",0.010887618435987487
-H2_Testing policy,"('Population ages 30-34, male (% of male population)', 'proportion')",0.010722806244162456
-H3_Contact tracing,"('Rule of law estimate ', 'score')",0.24796819459809374
-H3_Contact tracing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.2263521120456164
-H3_Contact tracing,"('Prevalence of chronic kidney disease', 'percent')",0.21699513332687134
-H3_Contact tracing,"('Prevalence of Hypertensive heart disease', 'percent')",0.08348220842441635
-H3_Contact tracing,"('Lending interest rates, percent per annum', 'percent per annum')",0.059256150058104036
-H3_Contact tracing,"('Prevalence of Depressive disorders', 'percent')",0.016477117033876387
-H3_Contact tracing,"('Population ages 25-29, female (% of female population)', 'proportion')",0.014425025978829397
-H3_Contact tracing,"('Population, total', 'total')",0.013463326633759744
-H3_Contact tracing,"('Population ages 15-64, female', 'proportion')",0.01342563256222804
-H3_Contact tracing,"('Population ages 45-49, female (% of female population)', 'proportion')",0.011432955071756044
-H4_Emergency investment in healthcare,"('Rule of law estimate ', 'score')",0.26263674083341604
-H4_Emergency investment in healthcare,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.23974195999117945
-H4_Emergency investment in healthcare,"('Prevalence of chronic kidney disease', 'percent')",0.2298314696610734
-H4_Emergency investment in healthcare,"('Prevalence of Hypertensive heart disease', 'percent')",0.08842059431731127
-H4_Emergency investment in healthcare,"('Lending interest rates, percent per annum', 'percent per annum')",0.06276144467164527
-H4_Emergency investment in healthcare,"('Population in the largest city (% of urban population)', 'proportion')",0.01565624752018003
-H4_Emergency investment in healthcare,"('Primary completion rate, male (% of relevant age group)', 'proportion')",0.015278337674153854
-H4_Emergency investment in healthcare,"('Population ages 15-64, male', 'proportion')",0.014223504699672727
-H4_Emergency investment in healthcare,"('Population, male (% of total population)', 'proportion')",0.013332954594201722
-H4_Emergency investment in healthcare,"('Population ages 15-64 (% of total population)', 'proportion')",0.012109270961189699
-H5_Investment in vaccines,"('Rule of law estimate ', 'score')",0.26488193389531045
-H5_Investment in vaccines,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.24215379588885666
-H5_Investment in vaccines,"('Prevalence of chronic kidney disease', 'percent')",0.2317962215059689
-H5_Investment in vaccines,"('Prevalence of Hypertensive heart disease', 'percent')",0.08917647220503326
-H5_Investment in vaccines,"('Lending interest rates, percent per annum', 'percent per annum')",0.06329797112898997
-H5_Investment in vaccines,"('General government net lending/borrowing', 'percent of GDP')",0.01579008750843154
-H5_Investment in vaccines,"('Population ages 15-19, male (% of male population)', 'proportion')",0.01540894703835452
-H5_Investment in vaccines,"('Population, male', 'proportion')",0.014341385687043708
-H5_Investment in vaccines,"('Population, male (% of total population)', 'proportion')",0.013446933533532334
-H5_Investment in vaccines,"('Balance on goods (% of GDP)', 'percent')",0.012212789041171384
-H6_Facial Coverings,"('Rule of law estimate ', 'score')",0.1808646425528531
-H6_Facial Coverings,"('Prevalence of chronic kidney disease', 'percent')",0.15818068676870614
-H6_Facial Coverings,"('Volume of imports', 'percent change')",0.14041639938861844
-H6_Facial Coverings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.10389206091635861
-H6_Facial Coverings,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.05398277187737859
-H6_Facial Coverings,"('Lending interest rates, percent per annum', 'percent per annum')",0.04319533976524804
-H6_Facial Coverings,"('Urban population (% of total population)', 'total')",0.03819828439059323
-H6_Facial Coverings,"('Prevalence of anxiety disorders', 'percent')",0.03494894570829807
-H6_Facial Coverings,"('Age dependency ratio (% of working-age population)', 'proportion')",0.019113562492294726
-H6_Facial Coverings,"('Regulatory quality estimate', 'score')",0.015762135518619144
-H7_Vaccination policy,"('Rule of law estimate ', 'score')",0.2506952658688559
-H7_Vaccination policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.2294525221023622
-H7_Vaccination policy,"('Prevalence of chronic kidney disease', 'percent')",0.219381573228765
-H7_Vaccination policy,"('Prevalence of Hypertensive heart disease', 'percent')",0.08440031783187182
-H7_Vaccination policy,"('Lending interest rates, percent per annum', 'percent per annum')",0.0599078293781143
-H7_Vaccination policy,"('Prevalence of Depressive disorders', 'percent')",0.014944394764134599
-H7_Vaccination policy,"('Population growth (annual %)', 'proportion')",0.014723519838266794
-H7_Vaccination policy,"('Age dependency ratio, old (% of working-age population)', 'proportion')",0.014256883365667617
-H7_Vaccination policy,"('Production index: Manufacturing', 'index')",0.013573283178918203
-H7_Vaccination policy,"('Rural population', 'proportion')",0.012746823763725388
-H8_Protection of elderly people,"('Rule of law estimate ', 'score')",0.16701608921771488
-H8_Protection of elderly people,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.15284763614387345
-H8_Protection of elderly people,"('Prevalence of chronic kidney disease', 'percent')",0.1461233330841182
-H8_Protection of elderly people,"('Urban population (% of total population)', 'total')",0.14024727461720757
-H8_Protection of elderly people,"('Prevalence of Hypertensive heart disease', 'percent')",0.05621646145321678
-H8_Protection of elderly people,"('Lending interest rates, percent per annum', 'percent per annum')",0.03990276657117171
-H8_Protection of elderly people,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",0.02037970157296858
-H8_Protection of elderly people,"('Mobile cellular subscriptions', 'number')",0.01944722883445892
-H8_Protection of elderly people,"('Prevalence of Depressive disorders', 'percent')",0.009954002707341595
-H8_Protection of elderly people,"('Primary completion rate, total (% of relevant age group)', 'proportion')",0.009713733407428963
+C1_School closing,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",90
+C1_School closing,"('Rule of law estimate ', 'score')",90
+C1_School closing,"('Prevalence of chronic kidney disease', 'percent')",70
+C1_School closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",70
+C1_School closing,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C1_School closing,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",50
+C1_School closing,"('Lending interest rates, percent per annum', 'percent per annum')",30
+C1_School closing,"('Population ages 15-64, female', 'proportion')",30
+C1_School closing,"('Population ages 35-39, male (% of male population)', 'proportion')",10
+C1_School closing,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",10
+C2_Workplace closing,"('Rule of law estimate ', 'score')",90
+C2_Workplace closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+C2_Workplace closing,"('Prevalence of chronic kidney disease', 'percent')",70
+C2_Workplace closing,"('Age dependency ratio (% of working-age population)', 'proportion')",70
+C2_Workplace closing,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C2_Workplace closing,"('Lending interest rates, percent per annum', 'percent per annum')",50
+C2_Workplace closing,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",30
+C2_Workplace closing,"('Population ages 30-34, male (% of male population)', 'proportion')",30
+C2_Workplace closing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",10
+C2_Workplace closing,"('Population ages 25-29, female (% of female population)', 'proportion')",10
+C3_Cancel public events,"('Population ages 15-19, male (% of male population)', 'proportion')",90
+C3_Cancel public events,"('Rule of law estimate ', 'score')",90
+C3_Cancel public events,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",70
+C3_Cancel public events,"('Prevalence of chronic kidney disease', 'percent')",70
+C3_Cancel public events,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C3_Cancel public events,"('Lending interest rates, percent per annum', 'percent per annum')",50
+C3_Cancel public events,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",30
+C3_Cancel public events,"('Prevalence of Depressive disorders', 'percent')",30
+C3_Cancel public events,"('Primary completion rate, female (% of relevant age group)', 'proportion')",10
+C3_Cancel public events,"('Fixed telephone subscriptions', 'number')",10
+C4_Restrictions on gatherings,"('Volume of imports', 'percent change')",90
+C4_Restrictions on gatherings,"('Rule of law estimate ', 'score')",90
+C4_Restrictions on gatherings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",70
+C4_Restrictions on gatherings,"('Prevalence of chronic kidney disease', 'percent')",70
+C4_Restrictions on gatherings,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C4_Restrictions on gatherings,"('Lending interest rates, percent per annum', 'percent per annum')",50
+C4_Restrictions on gatherings,"('Total investment', 'percent of GDP')",30
+C4_Restrictions on gatherings,"('Primary completion rate, female (% of relevant age group)', 'proportion')",30
+C4_Restrictions on gatherings,"('Refugee population by country or territory of asylum', 'proportion')",10
+C4_Restrictions on gatherings,"('Urban population', 'total')",10
+C5_Close public transport,"('Rule of law estimate ', 'score')",90
+C5_Close public transport,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+C5_Close public transport,"('Prevalence of chronic kidney disease', 'percent')",70
+C5_Close public transport,"('Mobile cellular subscriptions', 'per 100 people')",70
+C5_Close public transport,"('Lending interest rates, percent per annum', 'percent per annum')",50
+C5_Close public transport,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C5_Close public transport,"('Population growth (annual %)', 'proportion')",30
+C5_Close public transport,"('Fixed telephone subscriptions', 'number')",30
+C5_Close public transport,"('Population, female', 'proportion')",10
+C5_Close public transport,"('Prevalence of Depressive disorders', 'percent')",10
+C6_Stay at home requirements,"('Population ages 20-24, female (% of female population)', 'proportion')",90
+C6_Stay at home requirements,"('Rule of law estimate ', 'score')",90
+C6_Stay at home requirements,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",70
+C6_Stay at home requirements,"('Prevalence of chronic kidney disease', 'percent')",70
+C6_Stay at home requirements,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C6_Stay at home requirements,"('Lending interest rates, percent per annum', 'percent per annum')",50
+C6_Stay at home requirements,"('Population ages 15-64, total', 'proportion')",30
+C6_Stay at home requirements,"('Population ages 10-14, female (% of female population)', 'proportion')",30
+C6_Stay at home requirements,"('Prevalence of Depressive disorders', 'percent')",10
+C6_Stay at home requirements,"('Secure Internet servers ', 'per 1 million people')",10
+C7_Restrictions on internal movement,"('Rule of law estimate ', 'score')",90
+C7_Restrictions on internal movement,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",90
+C7_Restrictions on internal movement,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",70
+C7_Restrictions on internal movement,"('Prevalence of chronic kidney disease', 'percent')",70
+C7_Restrictions on internal movement,"('Prevalence of Hypertensive heart disease', 'percent')",50
+C7_Restrictions on internal movement,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",50
+C7_Restrictions on internal movement,"('Lending interest rates, percent per annum', 'percent per annum')",30
+C7_Restrictions on internal movement,"('Net migration', 'net total / data are 5 year estimates')",30
+C7_Restrictions on internal movement,"('Population in urban agglomerations of more than 1 million (% of total population)', 'proportion')",10
+C7_Restrictions on internal movement,"('Prevalence of Depressive disorders', 'percent')",10
+C8_International travel controls,"('Rule of law estimate ', 'score')",90
+C8_International travel controls,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+C8_International travel controls,"('Prevalence of chronic kidney disease', 'percent')",70
+C8_International travel controls,"('Prevalence of Hypertensive heart disease', 'percent')",70
+C8_International travel controls,"('Lending interest rates, percent per annum', 'percent per annum')",50
+C8_International travel controls,"('Population ages 15-19, female (% of female population)', 'proportion')",50
+C8_International travel controls,"('Total investment', 'percent of GDP')",30
+C8_International travel controls,"('Prevalence of HIV, total (% of population ages 15-49)', 'percent')",30
+C8_International travel controls,"('Prevalence of Depressive disorders', 'percent')",10
+C8_International travel controls,"('Population ages 0-14, total', 'proportion')",10
+E1_Income support,"('Rule of law estimate ', 'score')",90
+E1_Income support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+E1_Income support,"('Prevalence of chronic kidney disease', 'percent')",70
+E1_Income support,"('Prevalence of Hypertensive heart disease', 'percent')",70
+E1_Income support,"('Lending interest rates, percent per annum', 'percent per annum')",50
+E1_Income support,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",50
+E1_Income support,"('Population ages 35-39, female (% of female population)', 'proportion')",30
+E1_Income support,"('Prevalence of Depressive disorders', 'percent')",30
+E1_Income support,"('Population, male', 'proportion')",10
+E1_Income support,"('Population ages 20-24, female (% of female population)', 'proportion')",10
+E2_Debt/contract relief,"('Rule of law estimate ', 'score')",90
+E2_Debt/contract relief,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+E2_Debt/contract relief,"('Prevalence of chronic kidney disease', 'percent')",70
+E2_Debt/contract relief,"('Control of corruption estimate', 'score')",70
+E2_Debt/contract relief,"('Prevalence of Hypertensive heart disease', 'percent')",50
+E2_Debt/contract relief,"('Lending interest rates, percent per annum', 'percent per annum')",50
+E2_Debt/contract relief,"('Rural population (% of total population)', 'proportion')",30
+E2_Debt/contract relief,"('Interest rate on savings deposits', 'percent per annum')",30
+E2_Debt/contract relief,"('Prevalence of Depressive disorders', 'percent')",10
+E2_Debt/contract relief,"('Secure Internet servers ', 'per 1 million people')",10
+E3_Fiscal measures,"('Rule of law estimate ', 'score')",90
+E3_Fiscal measures,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+E3_Fiscal measures,"('Prevalence of chronic kidney disease', 'percent')",70
+E3_Fiscal measures,"('Prevalence of Hypertensive heart disease', 'percent')",70
+E3_Fiscal measures,"('Lending interest rates, percent per annum', 'percent per annum')",50
+E3_Fiscal measures,"('Prevalence of Depressive disorders', 'percent')",50
+E3_Fiscal measures,"('Population ages 15-19, male (% of male population)', 'proportion')",30
+E3_Fiscal measures,"('Fixed telephone subscriptions', 'number')",30
+E3_Fiscal measures,"('Population ages 65 and above, male', 'proportion')",10
+E3_Fiscal measures,"('Population ages 45-49, female (% of female population)', 'proportion')",10
+E4_International support,"('Rule of law estimate ', 'score')",90
+E4_International support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+E4_International support,"('Prevalence of chronic kidney disease', 'percent')",70
+E4_International support,"('Prevalence of Hypertensive heart disease', 'percent')",70
+E4_International support,"('Lending interest rates, percent per annum', 'percent per annum')",50
+E4_International support,"('Prevalence of Depressive disorders', 'percent')",50
+E4_International support,"('Secure Internet servers ', 'per 1 million people')",30
+E4_International support,"('Population ages 15-64, total', 'proportion')",30
+E4_International support,"('Population ages 50-54, female (% of female population)', 'proportion')",10
+E4_International support,"('Population ages 55-59, male (% of male population)', 'proportion')",10
+H1_Public information campaigns,"('Rule of law estimate ', 'score')",90
+H1_Public information campaigns,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H1_Public information campaigns,"('Prevalence of chronic kidney disease', 'percent')",70
+H1_Public information campaigns,"('Prevalence of Hypertensive heart disease', 'percent')",70
+H1_Public information campaigns,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H1_Public information campaigns,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",50
+H1_Public information campaigns,"('Prevalence of Depressive disorders', 'percent')",30
+H1_Public information campaigns,"('Population ages 20-24, female (% of female population)', 'proportion')",30
+H1_Public information campaigns,"('Population ages 65 and above, male', 'proportion')",10
+H1_Public information campaigns,"('Population ages 0-14, male', 'proportion')",10
+H2_Testing policy,"('Rule of law estimate ', 'score')",90
+H2_Testing policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H2_Testing policy,"('Prevalence of chronic kidney disease', 'percent')",70
+H2_Testing policy,"('Population ages 15-64 (% of total population)', 'proportion')",70
+H2_Testing policy,"('Prevalence of Hypertensive heart disease', 'percent')",50
+H2_Testing policy,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H2_Testing policy,"('Rural population (% of total population)', 'proportion')",30
+H2_Testing policy,"('Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)', 'Percentage of total population')",30
+H2_Testing policy,"('Population ages 15-19, female (% of female population)', 'proportion')",10
+H2_Testing policy,"('Prevalence of Depressive disorders', 'percent')",10
+H3_Contact tracing,"('Rule of law estimate ', 'score')",90
+H3_Contact tracing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H3_Contact tracing,"('Prevalence of chronic kidney disease', 'percent')",70
+H3_Contact tracing,"('Prevalence of Hypertensive heart disease', 'percent')",70
+H3_Contact tracing,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H3_Contact tracing,"('Prevalence of Depressive disorders', 'percent')",50
+H3_Contact tracing,"('Population ages 15-19, female (% of female population)', 'proportion')",30
+H3_Contact tracing,"('Fixed broadband subscriptions', 'number')",30
+H3_Contact tracing,"('Population ages 65 and above, total', 'proportion')",10
+H3_Contact tracing,"('Balance on goods (% of GDP)', 'percent')",10
+H4_Emergency investment in healthcare,"('Rule of law estimate ', 'score')",90
+H4_Emergency investment in healthcare,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H4_Emergency investment in healthcare,"('Prevalence of chronic kidney disease', 'percent')",70
+H4_Emergency investment in healthcare,"('Prevalence of Hypertensive heart disease', 'percent')",70
+H4_Emergency investment in healthcare,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H4_Emergency investment in healthcare,"('Prevalence of Depressive disorders', 'percent')",50
+H4_Emergency investment in healthcare,"('Rural population growth (annual %)', 'proportion')",30
+H4_Emergency investment in healthcare,"('Population in urban agglomerations of more than 1 million', 'proportion')",30
+H4_Emergency investment in healthcare,"('Primary completion rate, female (% of relevant age group)', 'proportion')",10
+H4_Emergency investment in healthcare,"('Population ages 15-64 (% of total population)', 'proportion')",10
+H5_Investment in vaccines,"('Rule of law estimate ', 'score')",90
+H5_Investment in vaccines,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H5_Investment in vaccines,"('Prevalence of chronic kidney disease', 'percent')",70
+H5_Investment in vaccines,"('Prevalence of Hypertensive heart disease', 'percent')",70
+H5_Investment in vaccines,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H5_Investment in vaccines,"('Population ages 20-24, male (% of male population)', 'proportion')",50
+H5_Investment in vaccines,"('Population ages 25-29, female (% of female population)', 'proportion')",30
+H5_Investment in vaccines,"('Fixed telephone subscriptions', 'number')",30
+H5_Investment in vaccines,"('Rural population growth (annual %)', 'proportion')",10
+H5_Investment in vaccines,"('Summary exposure value tobacco', 'Rate (risk-weighted prevalence)')",10
+H6_Facial Coverings,"('Rule of law estimate ', 'score')",90
+H6_Facial Coverings,"('Prevalence of chronic kidney disease', 'percent')",90
+H6_Facial Coverings,"('Volume of imports', 'percent change')",70
+H6_Facial Coverings,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",70
+H6_Facial Coverings,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",50
+H6_Facial Coverings,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H6_Facial Coverings,"('Population ages 40-44, female (% of female population)', 'proportion')",30
+H6_Facial Coverings,"('Prevalence of anxiety disorders', 'percent')",30
+H6_Facial Coverings,"('Population growth (annual %)', 'proportion')",10
+H6_Facial Coverings,"('Prevalence of Depressive disorders', 'percent')",10
+H7_Vaccination policy,"('Rule of law estimate ', 'score')",90
+H7_Vaccination policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H7_Vaccination policy,"('Prevalence of chronic kidney disease', 'percent')",70
+H7_Vaccination policy,"('Prevalence of Hypertensive heart disease', 'percent')",70
+H7_Vaccination policy,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H7_Vaccination policy,"('Population ages 25-29, female (% of female population)', 'proportion')",50
+H7_Vaccination policy,"('Population ages 20-24, male (% of male population)', 'proportion')",30
+H7_Vaccination policy,"('Rural population (% of total population)', 'proportion')",30
+H7_Vaccination policy,"('Population ages 0-14, total', 'proportion')",10
+H7_Vaccination policy,"('Population in urban agglomerations of more than 1 million', 'proportion')",10
+H8_Protection of elderly people,"('Rule of law estimate ', 'score')",90
+H8_Protection of elderly people,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",90
+H8_Protection of elderly people,"('Prevalence of chronic kidney disease', 'percent')",70
+H8_Protection of elderly people,"('Labour force participation rate (Male) - Youth, adults: 15-64', 'percent')",70
+H8_Protection of elderly people,"('Prevalence of Hypertensive heart disease', 'percent')",50
+H8_Protection of elderly people,"('Lending interest rates, percent per annum', 'percent per annum')",50
+H8_Protection of elderly people,"('Volume of imports', 'percent change')",30
+H8_Protection of elderly people,"('Population ages 0-14, male', 'proportion')",30
+H8_Protection of elderly people,"('Prevalence of Respiratory infections and tuberculosis', 'percent')",10
+H8_Protection of elderly people,"('Primary completion rate, total (% of relevant age group)', 'proportion')",10

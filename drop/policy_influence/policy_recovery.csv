@@ -1,0 +1,21 @@
+Policy,score
+H6_Facial Coverings,90
+C8_International travel controls,90
+C1_School closing,90
+H2_Testing policy,90
+H8_Protection of elderly people,70
+H3_Contact tracing,70
+C2_Workplace closing,70
+E1_Income support,70
+C4_Restrictions on gatherings,50
+C7_Restrictions on internal movement,50
+E2_Debt/contract relief,50
+C6_Stay at home requirements,50
+C5_Close public transport,30
+C3_Cancel public events,30
+H7_Vaccination policy,30
+H1_Public information campaigns,30
+H4_Emergency investment in healthcare,10
+E4_International support,10
+E3_Fiscal measures,10
+H5_Investment in vaccines,10

@@ -3,7 +3,7 @@ import time
 
 
 def covid_update():
-    for series_category in ['confirmed', 'deaths', 'recovered']:
+    for series_category in ['recovered', 'confirmed', 'deaths']:
         try:
             download_covid_data(series_category)
             print('download success for %s' % series_category)

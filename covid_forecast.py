@@ -8,7 +8,8 @@ from preprocess.get_data import get_train_data
 from update_data import covid_update
 from preprocess.download_data import download_policy_indicator
 
-def main(series_category, indicator_year, predict_len):
+def main(series_category, indicator_year, predict_len, type='business'):
+    res_prefix = 'covid_forecast' if type == 'business' else 'covid_forecast_policy'
     # 'confirmed', 'deaths', 'recovered'
     metadata, history_series, train_ds, test_ds, target_scaler, countries = get_train_data(series_category=series_category,
                                                                                            indicator_year=indicator_year,
@@ -41,7 +42,7 @@ def main(series_category, indicator_year, predict_len):
     forecasts = list(forecast_it)
 
     history_series = history_series.iloc[:-metadata['prediction_length']]  # filter placehold data
-    history_series.to_csv('output/step_one/'+series_category+'/history.csv')  # save history data
+    history_series.to_csv('output/' + res_prefix + '/'+series_category+'/history.csv')  # save history data
     predict_dict = {
         'prediction_median': 0.5,
         'prediction_lower': 0.35,
@@ -64,16 +65,16 @@ def main(series_category, indicator_year, predict_len):
 
         median.loc[history_series.index[-1]] = history_series.iloc[-1]
         median = median.sort_index().cumsum().iloc[1:]  #
-        median.to_csv('output/step_one/'+series_category+'/' + key + '.csv')
+        median.to_csv('output/' + res_prefix + '/'+series_category+'/' + key + '.csv')
 
 
 def result_read(series_category):
-    history = pd.read_csv('output/step_one/' + series_category + '/' + 'history.csv', index_col=0)
-    median = pd.read_csv('output/step_one/' + series_category + '/' + 'prediction_median.csv', index_col=0)
-    # quantile10 = pd.read_csv('output/step_one/' + series_category + '/' + 'quantile10.csv', index_col=0)
-    # quantile90 = pd.read_csv('output/step_one/' + series_category + '/' + 'quantile90.csv', index_col=0)
-    quantile35 = pd.read_csv('output/step_one/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
-    quantile65 = pd.read_csv('output/step_one/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
+    history = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'history.csv', index_col=0)
+    median = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'prediction_median.csv', index_col=0)
+    # quantile10 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'quantile10.csv', index_col=0)
+    # quantile90 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'quantile90.csv', index_col=0)
+    quantile35 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
+    quantile65 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
 
     history.index = pd.to_datetime(history.index)
     median.index = pd.to_datetime(median.index)
@@ -102,7 +103,7 @@ def calculate_rate(numerator, denominator, res_name):
     names = ['history', 'quantile10', 'quantile35', 'median', 'quantile65', 'quantile90']
     for name in names[:1]:  # history
         tmp = (numerator_dict[name] / denominator_dict[name]).replace([float('inf'), np.nan]).dropna(how='all')
-        tmp.to_csv('output/step_one/' + res_name + '/' + name + '.csv')
+        tmp.to_csv('output/covid_forecast/' + res_name + '/' + name + '.csv')
 
     columns = list(numerator_dict['median'].columns)
     index = list(numerator_dict['median'].index)
@@ -114,7 +115,7 @@ def calculate_rate(numerator, denominator, res_name):
     for i, name in enumerate(names[1:]):  # future prediction
         tmp = pd.DataFrame(res[i, :, :], columns=columns)
         tmp.index = index
-        tmp.to_csv('output/step_one/' + res_name + '/' + name + '.csv')
+        tmp.to_csv('output/covid_forecast/' + res_name + '/' + name + '.csv')
 
 
 def contagion(res_name, population_year):
@@ -131,7 +132,7 @@ def contagion(res_name, population_year):
         numerator_dict[name] = numerator_dict[name][intersection_country]
         contagion = numerator_dict[name].values / population.values
         contagion = pd.DataFrame(contagion, columns=[intersection_country], index=numerator_dict[name].index)
-        contagion.to_csv('output/step_one/' + res_name + '/' + name + '.csv')
+        contagion.to_csv('output/covid_forecast/' + res_name + '/' + name + '.csv')
 
 
 def calculate_contagion_with_popultation(series_category, target, population_year):
@@ -187,11 +188,23 @@ def business_as_usual(indicator_year, population_year, predict_len):
     # contagion('contagion', population_year=population_year)
 
 
+def covid_forecast_policy(indicator_year, population_year, predict_len):
+    calculate_contagion_with_popultation('confirmed', 'contagion', population_year)
+    cal_raw_rate('deaths', 'mortality')
+    cal_raw_rate('recovered', 'recovery')
+
+    main(series_category='contagion', indicator_year=indicator_year, predict_len=predict_len, type='policy')
+    main(series_category='mortality', indicator_year=indicator_year, predict_len=predict_len, type='policy')
+    main(series_category='recovery', indicator_year=indicator_year, predict_len=predict_len, type='policy')
+
+
 if __name__ == '__main__':
     # covid_update()  # update data
     indicator_year, population_year = 2019, 2020
     predict_len = 30
-    business_as_usual(indicator_year, population_year, predict_len)
+    # business_as_usual(indicator_year, population_year, predict_len)
+
+    covid_forecast_policy(indicator_year, population_year, predict_len)
 
     # pip install pipreqs
     # pipreqs . --encoding=utf8 --force

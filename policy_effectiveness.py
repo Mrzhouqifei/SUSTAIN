@@ -21,18 +21,18 @@ def pre_series(series, countries):
     return process_series
 
 
-def indicator_analysis(population, confirmed, deaths, recovered, indicators):
+def indicator_analysis(population, confirmed, indicators):
     countries = sorted(list((set(confirmed['Country/Region'])).intersection(
         set(indicators['Country'])).intersection(population.columns)))
 
     population = population[countries]
     confirmed = pre_series(confirmed, countries)
-    deaths = pre_series(deaths, countries)
-    recovered = pre_series(recovered, countries)
+    # deaths = pre_series(deaths, countries)
+    # recovered = pre_series(recovered, countries)
 
     # mortality/recovery rate 死亡率恢复率
-    mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all')
-    recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all')
+    # mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all')
+    # recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all')
 
     # contagion rate
     contagion = confirmed.values / population.values
@@ -53,27 +53,27 @@ def indicator_analysis(population, confirmed, deaths, recovered, indicators):
             rate.append([x[0][0], x[0][1], x[1]])
         return pd.DataFrame(rate, columns=['Indicator', 'Unit', 'Correlation'])
 
-    indicator_influence(indicators, mortality).to_csv('output/step_two/indicator_influence/indicator_mortality.csv',
-                                                      index=False)
-    indicator_influence(indicators, recovery).to_csv('output/step_two/indicator_influence/indicator_recovery.csv',
-                                                     index=False)
-    indicator_influence(indicators, contagion).to_csv('output/step_two/indicator_influence/indicator_contagion.csv',
+    # indicator_influence(indicators, mortality).to_csv('output/policy_effectiveness/indicator_influence/indicator_mortality.csv',
+    #                                                   index=False)
+    # indicator_influence(indicators, recovery).to_csv('output/policy_effectiveness/indicator_influence/indicator_recovery.csv',
+    #                                                  index=False)
+    indicator_influence(indicators, contagion).to_csv('output/policy_effectiveness/indicator_global.csv',
                                                      index=False)
 
 
-def policy_analysis(population, confirmed, deaths, recovered, policies):
+def policy_analysis(population, confirmed, policies):
     countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(population.columns)))
 
     population = population[countries]
     confirmed = pre_series(confirmed, countries)
-    deaths = pre_series(deaths, countries)
-    recovered = pre_series(recovered, countries)
+    # deaths = pre_series(deaths, countries)
+    # recovered = pre_series(recovered, countries)
 
     # mortality/recovery rate 死亡率恢复率
-    mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
-    recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
-    mortality.columns = ['date', 'country', 'y']
-    recovery.columns = ['date', 'country', 'y']
+    # mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
+    # recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
+    # mortality.columns = ['date', 'country', 'y']
+    # recovery.columns = ['date', 'country', 'y']
 
     # contagion rate
     contagion = confirmed.values / population.values
@@ -98,24 +98,24 @@ def policy_analysis(population, confirmed, deaths, recovered, policies):
         res = discrete_score(res)
         return res
 
-    policy_influence(policies, mortality).to_csv('output/step_two/policy_influence/policy_mortality.csv', index=False)
-    policy_influence(policies, recovery).to_csv('output/step_two/policy_influence/policy_recovery.csv', index=False)
-    policy_influence(policies, contagion).to_csv('output/step_two/policy_influence/policy_contagion.csv', index=False)
+    # policy_influence(policies, mortality).to_csv('output/policy_effectiveness/policy_influence/policy_mortality.csv', index=False)
+    # policy_influence(policies, recovery).to_csv('output/policy_effectiveness/policy_influence/policy_recovery.csv', index=False)
+    policy_influence(policies, contagion).to_csv('output/policy_effectiveness/policy_global.csv', index=False)
 
 
-def policy_country_analysis(population, confirmed, deaths, recovered, policies):
+def policy_country_analysis(population, confirmed, policies):  # deaths, recovered,
     countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(population.columns)))
 
     population = population[countries]
     confirmed = pre_series(confirmed, countries)
-    deaths = pre_series(deaths, countries)
-    recovered = pre_series(recovered, countries)
+    # deaths = pre_series(deaths, countries)
+    # recovered = pre_series(recovered, countries)
 
     # mortality/recovery rate 死亡率恢复率
-    mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
-    recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
-    mortality.columns = ['date', 'country', 'y']
-    recovery.columns = ['date', 'country', 'y']
+    # mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
+    # recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
+    # mortality.columns = ['date', 'country', 'y']
+    # recovery.columns = ['date', 'country', 'y']
 
     # contagion rate
     contagion = confirmed.values / population.values
@@ -145,15 +145,15 @@ def policy_country_analysis(population, confirmed, deaths, recovered, policies):
                 res = pd.concat((res, score[['Country', 'Policy', 'score']]))  # [:10]
         return res
 
-    policy_influence(policies, mortality).to_csv('output/step_two/country_policy_influence/policy_mortality.csv',
-                                                 index=False)
-    policy_influence(policies, recovery).to_csv('output/step_two/country_policy_influence/policy_recovery.csv',
-                                                index=False)
-    policy_influence(policies, contagion).to_csv('output/step_two/country_policy_influence/policy_contagion.csv',
+    # policy_influence(policies, mortality).to_csv('output/policy_effectiveness/country_policy_influence/policy_mortality.csv',
+    #                                              index=False)
+    # policy_influence(policies, recovery).to_csv('output/policy_effectiveness/country_policy_influence/policy_recovery.csv',
+    #                                             index=False)
+    policy_influence(policies, contagion).to_csv('output/policy_effectiveness/policy_score.csv',
                                                 index=False)
 
 
-def policy_indicator_analysis(population, confirmed, deaths, recovered, policies, indicators):
+def policy_indicator_analysis(population, confirmed, policies, indicators):
     leading_indicators = [
         'CO2 emissions (metric tons per capita)',
         'Starting a Business (Score)',
@@ -169,22 +169,44 @@ def policy_indicator_analysis(population, confirmed, deaths, recovered, policies
         'Interest rate on loans and discounts',
         'Unemployment, total (% of total labor force) (modeled ILO estimate)',
         'CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)',
-        'Age dependency ratio',
-    ] + topofme
+        'Age dependency ratio (% of working-age population)',
+    ]
+    top_indicators = [
+        'Employment in services (% of total employment) (modeled ILO estimate)',
+        'Individuals using the Internet',
+        'Interest rate on loans and discounts - public',
+        'Incidence of tuberculosis (per 100,000 people)',
+        'Net migration',
+        'Fixed broadband subscriptions',
+        'Labor force participation rate, male (% of male population ages 15+) (national estimate)',
+        'Population ages 15-64 (% of total population)',
+        'International tourism, receipts',
+        'Mobile cellular subscriptions',
+        'Population aged 65+ years (% of total population)',
+        'Doctors per 1 000 inhabitants.',
+        'Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019',
+        'Foreign direct investment, net',
+        'Political stability and absence of violence/terrorism estimate',
+        'Labour force participation rate (Total) - Youth, adults: 15-64'
+    ]
+
+    leading_indicators = pd.DataFrame(list(set(leading_indicators + top_indicators)), columns=['Indicator'])
+    # indicators = indicators[indicators.Indicator in leading_indicators]
+    indicators = indicators.merge(leading_indicators, on=['Indicator'])
     countries = sorted(list(
         (set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(
             set(indicators['Country'])).intersection(population.columns)))
 
     population = population[countries]
     confirmed = pre_series(confirmed, countries)
-    deaths = pre_series(deaths, countries)
-    recovered = pre_series(recovered, countries)
+    # deaths = pre_series(deaths, countries)
+    # recovered = pre_series(recovered, countries)
 
     # mortality/recovery rate 死亡率恢复率
-    mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
-    recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
-    mortality.columns = ['date', 'country', 'y']
-    recovery.columns = ['date', 'country', 'y']
+    # mortality = (deaths / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
+    # recovery = (recovered / confirmed).replace([float('inf'), np.nan]).dropna(how='all').stack().reset_index()
+    # mortality.columns = ['date', 'country', 'y']
+    # recovery.columns = ['date', 'country', 'y']
 
     # contagion rate
     contagion = confirmed.values / population.values
@@ -192,7 +214,6 @@ def policy_indicator_analysis(population, confirmed, deaths, recovered, policies
     contagion.columns = ['date', 'country', 'y']
 
     def policy_indicators(policies, rates):
-        rates = mortality.copy()
         policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
         for policy_name in policy_names:
             """
@@ -214,15 +235,16 @@ def policy_indicator_analysis(population, confirmed, deaths, recovered, policies
             train_columns = [x for x in train.columns if x not in ['date', 'country', 'y']]
             model = DecisionTreeRegressor().fit(train[train_columns], train['y'])
             model_score = model.tree_.compute_feature_importances(normalize=True)
-            score = pd.DataFrame({'Indicator': train_columns, 'score': model_score}).sort_values(
-                'score', ascending=False)
+            score = pd.DataFrame({'Indicator': train_columns, 'rank': model_score}).sort_values(
+                'rank', ascending=False)
             score = score[score['Indicator'] != policy_name][:10]
             score['Policy'] = policy_name
-            score = discrete_score(score)
-            res = pd.concat((res, score[['Policy', 'Indicator', 'score']]))  # 抽取几个因子
+            score['rank'] = list(range(1, len(score) + 1))
+            # score = discrete_score(score)
+            res = pd.concat((res, score[['Policy', 'Indicator', 'rank']]))  # 抽取几个因子
         return res
 
-    policy_indicators(policies, contagion).to_csv('output/step_two/policy_indicator.csv', index=False)
+    policy_indicators(policies, contagion).to_csv('output/policy_effectiveness/policy_top_indicator.csv', index=False)
 
 
 if __name__ == '__main__':
@@ -238,10 +260,10 @@ if __name__ == '__main__':
 
     # 'confirmed', 'deaths', 'recovered'
     confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'confirmed' + '_global.csv')
-    deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
-    recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
+    # deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
+    # recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
 
-    indicator_analysis(population, confirmed, deaths, recovered, indicators_all_countries)
-    policy_analysis(population, confirmed, deaths, recovered, policies_all_countries)
-    policy_country_analysis(population, confirmed, deaths, recovered, policies)
-    policy_indicator_analysis(population, confirmed, deaths, recovered, policies_all_countries, indicators_all_countries)
+    # indicator_analysis(population, confirmed, indicators_all_countries)
+    # policy_analysis(population, confirmed, policies_all_countries)
+    policy_country_analysis(population, confirmed, policies)
+    policy_indicator_analysis(population, confirmed, policies_all_countries, indicators_all_countries)

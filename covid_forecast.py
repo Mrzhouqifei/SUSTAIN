@@ -9,9 +9,10 @@ from update_data import covid_update
 from preprocess.download_data import download_policy_indicator
 
 def main(series_category, indicator_year, predict_len, type='business'):
-    res_prefix = 'covid_forecast' if type == 'business' else 'covid_forecast_policy'
+    res_prefix = 'covid_forecast' if type == 'business' else 'covid_forecast_with_future_policy'
     # 'confirmed', 'deaths', 'recovered'
-    metadata, history_series, train_ds, test_ds, target_scaler, countries = get_train_data(series_category=series_category,
+    metadata, history_series, train_ds, test_ds, target_scaler, countries = get_train_data(type=type,
+                                                                                           series_category=series_category,
                                                                                            indicator_year=indicator_year,
                                                                                            predict_len=predict_len)
 
@@ -57,7 +58,11 @@ def main(series_category, indicator_year, predict_len, type='business'):
             median.append(forecasts[i].quantile_ts(predict_dict[key]))
         median = pd.concat(median, axis=1)
         median.columns = countries
-        if series_category == 'contagion':
+        # 'confirmed', 'deaths', 'recovered'
+        if series_category == 'contagion' or \
+                series_category == 'confirmed_number' or \
+                series_category == 'dead_number' or \
+                series_category == 'recovered_number':
             median.loc[:, :] = np.maximum(median, 0)
         # 比例
         # median.loc[history_series.index[-1]] = history_series.diff().iloc[-1]
@@ -68,13 +73,14 @@ def main(series_category, indicator_year, predict_len, type='business'):
         median.to_csv('output/' + res_prefix + '/'+series_category+'/' + key + '.csv')
 
 
-def result_read(series_category):
-    history = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'history.csv', index_col=0)
-    median = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'prediction_median.csv', index_col=0)
+def result_read(series_category, type='business'):
+    res_prefix = 'covid_forecast' if type == 'business' else 'covid_forecast_with_future_policy'
+    history = pd.read_csv('output/' + res_prefix + '/' + series_category + '/' + 'history.csv', index_col=0)
+    median = pd.read_csv('output/' + res_prefix + '/' + series_category + '/' + 'prediction_median.csv', index_col=0)
     # quantile10 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'quantile10.csv', index_col=0)
     # quantile90 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'quantile90.csv', index_col=0)
-    quantile35 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
-    quantile65 = pd.read_csv('output/covid_forecast/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
+    quantile35 = pd.read_csv('output/' + res_prefix + '/' + series_category + '/' + 'prediction_lower.csv', index_col=0)
+    quantile65 = pd.read_csv('output/' + res_prefix + '/' + series_category + '/' + 'prediction_upper.csv', index_col=0)
 
     history.index = pd.to_datetime(history.index)
     median.index = pd.to_datetime(median.index)
@@ -83,12 +89,12 @@ def result_read(series_category):
     quantile35.index = pd.to_datetime(quantile35.index)
     quantile65.index = pd.to_datetime(quantile65.index)
     res_dict = {}
-    res_dict['history'] = history
-    res_dict['prediction_median'] = median
+    res_dict['history'] = history.fillna(0)
+    res_dict['prediction_median'] = median.fillna(0)
     # res_dict['quantile10'] = quantile10
     # res_dict['quantile90'] = quantile90
-    res_dict['prediction_lower'] = quantile35
-    res_dict['prediction_upper'] = quantile65
+    res_dict['prediction_lower'] = quantile35.fillna(0)
+    res_dict['prediction_upper'] = quantile65.fillna(0)
     return res_dict
 
 
@@ -116,6 +122,54 @@ def calculate_rate(numerator, denominator, res_name):
         tmp = pd.DataFrame(res[i, :, :], columns=columns)
         tmp.index = index
         tmp.to_csv('output/covid_forecast/' + res_name + '/' + name + '.csv')
+
+
+def calculate_confirmed_number(type='business'):
+    res_prefix = 'covid_forecast' if type == 'business' else 'covid_forecast_with_future_policy'
+    population = pd.read_excel('raw_data/PopulationData.xls', skiprows=[0, 1, 2])[['Country', population_year]]
+    population[population_year] = population[population_year] * 1000
+    population = population.set_index('Country').T
+    numerator_dict = result_read('contagion', type)
+
+    intersection_country = list(set(numerator_dict['history'].columns).intersection(population.columns))
+    population = population[intersection_country]
+
+    names = ['history', 'prediction_lower', 'prediction_median', 'prediction_upper']
+    for name in names:
+        numerator_dict[name] = numerator_dict[name][intersection_country]
+        confirmed_number = (numerator_dict[name].values * population.values).astype(int)
+        confirmed_number = pd.DataFrame(confirmed_number, columns=[intersection_country], index=numerator_dict[name].index)
+        confirmed_number.to_csv('output/' + res_prefix + '/confirmed_number/' + name + '.csv')
+
+
+def calculate_dead_recovered_number(target, type='business'):
+    res_prefix = 'covid_forecast' if type == 'business' else 'covid_forecast_with_future_policy'
+    confirmed_number = result_read('confirmed_number')
+    if target == 'dead':
+        mortality = result_read('mortality', type)
+        res = 'dead_number/'
+    elif target == 'recovered':
+        mortality = result_read('recovery', type)
+        res = 'recovered_number/'
+
+    intersection_country = list(set(confirmed_number['history'].columns).intersection(set(mortality['history'].columns)))
+
+    names = ['history', 'prediction_lower', 'prediction_median', 'prediction_upper']
+    for name in names:
+        confirmed_number[name] = confirmed_number[name][intersection_country]
+        mortality[name] = mortality[name][intersection_country]
+
+        dead_number = (confirmed_number[name].values * mortality[name].values).astype(int)
+        dead_number = pd.DataFrame(dead_number, columns=[intersection_country], index=confirmed_number[name].index)
+        if name == 'history':
+            for column in dead_number.columns:
+                dead_number[column] = np.sort(dead_number[column])
+            tmp = dead_number.iloc[-1, :]
+        else:
+            for column in dead_number.columns:
+                dead_number[column] = np.maximum(dead_number[column], tmp[column])
+                dead_number[column] = np.sort(dead_number[column])
+        dead_number.to_csv('output/' + res_prefix + '/' + res + name + '.csv')
 
 
 def contagion(res_name, population_year):
@@ -166,6 +220,19 @@ def cal_raw_rate(series_category, target):
     target_series.to_csv('raw_data/COVID/time_series_covid19_' + target + '_global.csv')
 
 
+def process_number_series(series_category):
+    confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv')
+    confirmed_series = confirmed.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).T.fillna(0)
+    confirmed_series.index = pd.to_datetime(confirmed_series.index)
+
+    series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv')
+    process_series = series.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).T.fillna(0)
+    process_series.index = pd.to_datetime(process_series.index)
+    if series_category == 'deaths':
+        series_category = 'dead'
+    process_series.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_number' + '_global.csv')
+
+
 def business_as_usual(indicator_year, population_year, predict_len):
     calculate_contagion_with_popultation('confirmed', 'contagion', population_year)
     cal_raw_rate('deaths', 'mortality')
@@ -174,6 +241,15 @@ def business_as_usual(indicator_year, population_year, predict_len):
     main(series_category='contagion', indicator_year=indicator_year, predict_len=predict_len)
     main(series_category='mortality', indicator_year=indicator_year, predict_len=predict_len)
     main(series_category='recovery', indicator_year=indicator_year, predict_len=predict_len)
+    calculate_confirmed_number()
+    main(series_category='dead_number', indicator_year=indicator_year, predict_len=predict_len)
+    main(series_category='recovered_number', indicator_year=indicator_year, predict_len=predict_len)
+
+    # calculate_dead_recovered_number('dead')
+    # calculate_dead_recovered_number('recovered')
+    # main(series_category='confirmed_number', indicator_year=indicator_year, predict_len=predict_len)
+
+
 
     # # 'confirmed', 'deaths', 'recovered'
     # main(series_category='confirmed', indicator_year=indicator_year, predict_len=predict_len)
@@ -188,7 +264,7 @@ def business_as_usual(indicator_year, population_year, predict_len):
     # contagion('contagion', population_year=population_year)
 
 
-def covid_forecast_policy(indicator_year, population_year, predict_len):
+def covid_forecast_with_future_policy(indicator_year, population_year, predict_len):
     calculate_contagion_with_popultation('confirmed', 'contagion', population_year)
     cal_raw_rate('deaths', 'mortality')
     cal_raw_rate('recovered', 'recovery')
@@ -196,15 +272,24 @@ def covid_forecast_policy(indicator_year, population_year, predict_len):
     main(series_category='contagion', indicator_year=indicator_year, predict_len=predict_len, type='policy')
     main(series_category='mortality', indicator_year=indicator_year, predict_len=predict_len, type='policy')
     main(series_category='recovery', indicator_year=indicator_year, predict_len=predict_len, type='policy')
+    calculate_confirmed_number(type='policy')
+    main(series_category='dead_number', indicator_year=indicator_year, predict_len=predict_len, type='policy')
+    main(series_category='recovered_number', indicator_year=indicator_year, predict_len=predict_len, type='policy')
+
 
 
 if __name__ == '__main__':
     # covid_update()  # update data
     indicator_year, population_year = 2019, 2020
     predict_len = 30
-    # business_as_usual(indicator_year, population_year, predict_len)
+    # 'confirmed', 'deaths', 'recovered'
+    # process_number_series('confirmed')
 
-    covid_forecast_policy(indicator_year, population_year, predict_len)
+    process_number_series('deaths')
+    process_number_series('recovered')
+    business_as_usual(indicator_year, population_year, predict_len)
+    covid_forecast_with_future_policy(indicator_year, population_year, predict_len)
+
 
     # pip install pipreqs
     # pipreqs . --encoding=utf8 --force

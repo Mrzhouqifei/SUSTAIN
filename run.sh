@@ -1,4 +1,4 @@
-python update_data.py
-python prob_forecast.py
-python P_I_analysis.py
-python policy_impact_forecast.py
+
+cd ..
+git pull https://github.com/CSSEGISandData/COVID-19.git
+git pull

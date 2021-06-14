@@ -1,0 +1,21 @@
+Policy,score,score_level
+H7_Vaccination policy,0.28980909112047515,very high
+C5_Close public transport,0.0976480147470506,very high
+H2_Testing policy,0.07752829720149784,very high
+C8_International travel controls,0.07290354921356262,very high
+H6_Facial Coverings,0.06499276065102269,high
+C4_Restrictions on gatherings,0.06440501383551381,high
+E1_Income support,0.06116076587811189,high
+H3_Contact tracing,0.06086394694726561,high
+H8_Protection of elderly people,0.04641285132250146,medium
+C2_Workplace closing,0.03651727294642002,medium
+E2_Debt/contract relief,0.03240834659999498,medium
+C7_Restrictions on internal movement,0.030479188932164263,medium
+C6_Stay at home requirements,0.02537190198547251,low
+C3_Cancel public events,0.02491292403553745,low
+H1_Public information campaigns,0.009816168734477536,low
+C1_School closing,0.004671843313544697,low
+H4_Emergency investment in healthcare,4.907430817488211e-05,very low
+E3_Fiscal measures,3.021973606555055e-05,very low
+E4_International support,1.2412949542014504e-05,very low
+H5_Investment in vaccines,6.355541604473452e-06,very low

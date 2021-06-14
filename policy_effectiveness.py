@@ -10,8 +10,19 @@ def discrete_score(data):
     nums = len(data) // 5
     discrete_score = []
     for i in range(4, -1, -1):
-        discrete_score.extend([i * 20 + 10] * nums)
-    data['score'] = discrete_score[:len(data)]
+        num = i * 20 + 10
+        if num == 90:
+            score_level = 'very high'
+        elif num == 70:
+            score_level = 'high'
+        elif num == 50:
+            score_level = 'medium'
+        elif num == 30:
+            score_level = 'low'
+        elif num == 10:
+            score_level = 'very low'
+        discrete_score.extend([score_level] * nums)
+    data['score_level'] = discrete_score[:len(data)]
     return data
 
 def pre_series(series, countries):
@@ -57,7 +68,7 @@ def indicator_analysis(population, confirmed, indicators):
     #                                                   index=False)
     # indicator_influence(indicators, recovery).to_csv('output/policy_effectiveness/indicator_influence/indicator_recovery.csv',
     #                                                  index=False)
-    indicator_influence(indicators, contagion).to_csv('output/policy_effectiveness/indicator_global.csv',
+    indicator_influence(indicators, contagion).to_csv('output/policy_effectiveness/indicator_coefficient_global.csv',
                                                      index=False)
 
 
@@ -100,7 +111,7 @@ def policy_analysis(population, confirmed, policies):
 
     # policy_influence(policies, mortality).to_csv('output/policy_effectiveness/policy_influence/policy_mortality.csv', index=False)
     # policy_influence(policies, recovery).to_csv('output/policy_effectiveness/policy_influence/policy_recovery.csv', index=False)
-    policy_influence(policies, contagion).to_csv('output/policy_effectiveness/policy_global.csv', index=False)
+    policy_influence(policies, contagion).to_csv('output/policy_effectiveness/policy_score_global.csv', index=False)
 
 
 def policy_country_analysis(population, confirmed, policies):  # deaths, recovered,
@@ -142,34 +153,21 @@ def policy_country_analysis(population, confirmed, policies):  # deaths, recover
                     'score', ascending=False)
                 score['Country'] = key
                 score = discrete_score(score)
-                res = pd.concat((res, score[['Country', 'Policy', 'score']]))  # [:10]
+                res = pd.concat((res, score[['Country', 'Policy', 'score', 'score_level']]))  # [:10]
         return res
 
     # policy_influence(policies, mortality).to_csv('output/policy_effectiveness/country_policy_influence/policy_mortality.csv',
     #                                              index=False)
     # policy_influence(policies, recovery).to_csv('output/policy_effectiveness/country_policy_influence/policy_recovery.csv',
     #                                             index=False)
-    policy_influence(policies, contagion).to_csv('output/policy_effectiveness/policy_score.csv',
+    policy_influence(policies, contagion).to_csv('output/policy_effectiveness/policy_score_per_country.csv',
                                                 index=False)
 
 
 def policy_indicator_analysis(population, confirmed, policies, indicators):
     leading_indicators = [
         'CO2 emissions (metric tons per capita)',
-        'Starting a Business (Score)',
-        'Expenditure on health (% of GDP)',
-        'Educational attainment, at least Bachelor\'s or equivalent, population 25+, total (%) (cumulative)',
-        'Proportion of seats held by women in national parliaments (%)',
-        'Gini index (World Bank estimate)',
-        'Proportion of Unemployment in Non-agricultural Employment (total)',
-        'Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)',
-        'Volume of exports',
-        'Volume of imports',
-        'Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019',
-        'Interest rate on loans and discounts',
-        'Unemployment, total (% of total labor force) (modeled ILO estimate)',
-        'CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)',
-        'Age dependency ratio (% of working-age population)',
+        'Starting a Business (Score)'
     ]
     top_indicators = [
         'Employment in services (% of total employment) (modeled ILO estimate)',
@@ -187,7 +185,20 @@ def policy_indicator_analysis(population, confirmed, policies, indicators):
         'Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019',
         'Foreign direct investment, net',
         'Political stability and absence of violence/terrorism estimate',
-        'Labour force participation rate (Total) - Youth, adults: 15-64'
+        'Labour force participation rate (Total) - Youth, adults: 15-64',
+        'Expenditure on health (% of GDP)',
+        'Educational attainment, at least Bachelor\'s or equivalent, population 25+, total (%) (cumulative)',
+        'Proportion of seats held by women in national parliaments (%)',
+        'Gini index (World Bank estimate)',
+        'Proportion of Unemployment in Non-agricultural Employment (total)',
+        'Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)',
+        'Volume of exports',
+        'Volume of imports',
+        'Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019',
+        'Interest rate on loans and discounts',
+        'Unemployment, total (% of total labor force) (modeled ILO estimate)',
+        'CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)',
+        'Age dependency ratio (% of working-age population)',
     ]
 
     leading_indicators = pd.DataFrame(list(set(leading_indicators + top_indicators)), columns=['Indicator'])
@@ -235,16 +246,16 @@ def policy_indicator_analysis(population, confirmed, policies, indicators):
             train_columns = [x for x in train.columns if x not in ['date', 'country', 'y']]
             model = DecisionTreeRegressor().fit(train[train_columns], train['y'])
             model_score = model.tree_.compute_feature_importances(normalize=True)
-            score = pd.DataFrame({'Indicator': train_columns, 'rank': model_score}).sort_values(
-                'rank', ascending=False)
+            score = pd.DataFrame({'Indicator': train_columns, 'score': model_score}).sort_values(
+                'score', ascending=False)
             score = score[score['Indicator'] != policy_name][:10]
             score['Policy'] = policy_name
             score['rank'] = list(range(1, len(score) + 1))
             # score = discrete_score(score)
-            res = pd.concat((res, score[['Policy', 'Indicator', 'rank']]))  # 抽取几个因子
+            res = pd.concat((res, score[['Policy', 'Indicator', 'score', 'rank']]))  # 抽取几个因子
         return res
 
-    policy_indicators(policies, contagion).to_csv('output/policy_effectiveness/policy_top_indicator.csv', index=False)
+    policy_indicators(policies, contagion).to_csv('output/policy_effectiveness/top_indicators_per_policy.csv', index=False)
 
 
 if __name__ == '__main__':
@@ -263,7 +274,7 @@ if __name__ == '__main__':
     # deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
     # recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
 
-    # indicator_analysis(population, confirmed, indicators_all_countries)
-    # policy_analysis(population, confirmed, policies_all_countries)
+    indicator_analysis(population, confirmed, indicators_all_countries)
+    policy_analysis(population, confirmed, policies_all_countries)
     policy_country_analysis(population, confirmed, policies)
     policy_indicator_analysis(population, confirmed, policies_all_countries, indicators_all_countries)

@@ -84,6 +84,7 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
 
 
 def get_train_data(
+        type,
         series_category: str = 'confirmed',
         indicator_year: int = 2019,
         predict_len: int = 10,
@@ -96,7 +97,10 @@ def get_train_data(
     # 拿2019年的indicators
     indicators = pd.read_excel('raw_data/indicators.xlsx')[
         ['Country', 'Indicator', 'Unit', indicator_year]]
-    policies = pd.read_csv('raw_data/policies.csv')
+    if type == 'business':
+        policies = pd.read_csv('raw_data/policies.csv')
+    else:
+        policies = pd.read_csv('raw_data/future_policies.csv')
     series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv', index_col=0)
 
     countries = sorted(list(

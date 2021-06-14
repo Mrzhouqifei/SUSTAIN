@@ -1,0 +1,201 @@
+Policy,Indicator,score,rank
+C1_School closing,"('Net migration', 'net total / data are 5 year estimates')",0.25659295862141246,1
+C1_School closing,"('International tourism, receipts', 'US Dollar')",0.2519463066072809,2
+C1_School closing,"('Mobile cellular subscriptions', 'per 100 people')",0.0776691634482175,3
+C1_School closing,"('Mobile cellular subscriptions', 'number')",0.06332543590502643,4
+C1_School closing,"('Individuals using the Internet', 'percent of population')",0.04547158746320797,5
+C1_School closing,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.02970898965034232,6
+C1_School closing,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.012006433418144388,7
+C1_School closing,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.01177352869291117,8
+C1_School closing,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.006950694670379659,9
+C1_School closing,"('Volume of imports', 'percent change')",0.005662227882739119,10
+C2_Workplace closing,"('Net migration', 'net total / data are 5 year estimates')",0.26318420209619153,1
+C2_Workplace closing,"('International tourism, receipts', 'US Dollar')",0.2584254704326729,2
+C2_Workplace closing,"('Individuals using the Internet', 'percent of population')",0.12293088117262473,3
+C2_Workplace closing,"('Mobile cellular subscriptions', 'per 100 people')",0.03320098905589934,4
+C2_Workplace closing,"('Age dependency ratio (% of working-age population)', 'proportion')",0.030756756192647117,5
+C2_Workplace closing,"('Fixed broadband subscriptions', 'number')",0.030274895205121607,6
+C2_Workplace closing,"('Mobile cellular subscriptions', 'number')",0.02524223450173279,7
+C2_Workplace closing,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.02009452179218341,8
+C2_Workplace closing,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.013305994358881428,9
+C2_Workplace closing,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.011520823980048571,10
+C3_Cancel public events,"('Net migration', 'net total / data are 5 year estimates')",0.31883036616458865,1
+C3_Cancel public events,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.31191795412718515,2
+C3_Cancel public events,"('Individuals using the Internet', 'percent of population')",0.14147278115231102,3
+C3_Cancel public events,"('Fixed broadband subscriptions', 'number')",0.03452736625651787,4
+C3_Cancel public events,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.016069038717443293,5
+C3_Cancel public events,"('Mobile cellular subscriptions', 'number')",0.013487675057317293,6
+C3_Cancel public events,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",0.011441882781362635,7
+C3_Cancel public events,"('Volume of imports', 'percent change')",0.0077661711685806925,8
+C3_Cancel public events,"('Volume of exports', 'percent change')",0.0073104069887535116,9
+C3_Cancel public events,"('Fixed broadband subscriptions', 'per 100 people')",0.006395127003887589,10
+C4_Restrictions on gatherings,"('Net migration', 'net total / data are 5 year estimates')",0.2822208243683306,1
+C4_Restrictions on gatherings,"('International tourism, receipts', 'US Dollar')",0.277175266395441,2
+C4_Restrictions on gatherings,"('Mobile cellular subscriptions', 'per 100 people')",0.10443717152692805,3
+C4_Restrictions on gatherings,"('Individuals using the Internet', 'percent of population')",0.05644020470326887,4
+C4_Restrictions on gatherings,"('Fixed broadband subscriptions', 'number')",0.021673860783250513,5
+C4_Restrictions on gatherings,"('Volume of exports', 'percent change')",0.019502742113528173,6
+C4_Restrictions on gatherings,"('Mobile cellular subscriptions', 'number')",0.017231396526357922,7
+C4_Restrictions on gatherings,"('Unemployment, total (% of total labor force) (modeled ILO estimate)', 'percent of total labor force')",0.015441011095643595,8
+C4_Restrictions on gatherings,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.012639307642910776,9
+C4_Restrictions on gatherings,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.012007272544474479,10
+C5_Close public transport,"('Net migration', 'net total / data are 5 year estimates')",0.24551167241228267,1
+C5_Close public transport,"('International tourism, receipts', 'US Dollar')",0.24102487976144032,2
+C5_Close public transport,"('Individuals using the Internet', 'percent of population')",0.12540197326422067,3
+C5_Close public transport,"('Population ages 15-64 (% of total population)', 'proportion')",0.056018385001685427,4
+C5_Close public transport,"('Fixed broadband subscriptions', 'number')",0.04310903734579598,5
+C5_Close public transport,"('Mobile cellular subscriptions', 'number')",0.031505135594274127,6
+C5_Close public transport,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.020419499071294107,7
+C5_Close public transport,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.017006499895953243,8
+C5_Close public transport,"('Volume of imports', 'percent change')",0.006524280782777764,9
+C5_Close public transport,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.005856242614746407,10
+C6_Stay at home requirements,"('Net migration', 'net total / data are 5 year estimates')",0.28300627957047286,1
+C6_Stay at home requirements,"('International tourism, receipts', 'US Dollar')",0.248681164735637,2
+C6_Stay at home requirements,"('Individuals using the Internet', 'percent of population')",0.10555921545564308,3
+C6_Stay at home requirements,"('Volume of exports', 'percent change')",0.029678826807229178,4
+C6_Stay at home requirements,"('Mobile cellular subscriptions', 'number')",0.025165870340287038,5
+C6_Stay at home requirements,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.024254839130941085,6
+C6_Stay at home requirements,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.012348132785632904,7
+C6_Stay at home requirements,"('Population ages 15-64 (% of total population)', 'proportion')",0.008744193497288916,8
+C6_Stay at home requirements,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.007699466769446231,9
+C6_Stay at home requirements,"('Volume of imports', 'percent change')",0.005873832949355841,10
+C7_Restrictions on internal movement,"('Net migration', 'net total / data are 5 year estimates')",0.31412566009814247,1
+C7_Restrictions on internal movement,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.30703398411138916,2
+C7_Restrictions on internal movement,"('Mobile cellular subscriptions', 'per 100 people')",0.0951784222690476,3
+C7_Restrictions on internal movement,"('Individuals using the Internet', 'percent of population')",0.056119827405388734,4
+C7_Restrictions on internal movement,"('Fixed broadband subscriptions', 'number')",0.049306421160425995,5
+C7_Restrictions on internal movement,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.01735198772825982,6
+C7_Restrictions on internal movement,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",0.011526135841444197,7
+C7_Restrictions on internal movement,"('Fixed broadband subscriptions', 'per 100 people')",0.0092085761345342,8
+C7_Restrictions on internal movement,"('Volume of exports', 'percent change')",0.00787027589876584,9
+C7_Restrictions on internal movement,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.007684545745102166,10
+C8_International travel controls,"('Net migration', 'net total / data are 5 year estimates')",0.25302371652496775,1
+C8_International travel controls,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.19984098204576928,2
+C8_International travel controls,"('Individuals using the Internet', 'percent of population')",0.10341137878348397,3
+C8_International travel controls,"('Fixed broadband subscriptions', 'number')",0.05083003102250561,4
+C8_International travel controls,"('Mobile cellular subscriptions', 'per 100 people')",0.039343672689883785,5
+C8_International travel controls,"('Mobile cellular subscriptions', 'number')",0.022437881763634857,6
+C8_International travel controls,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.019696036382389585,7
+C8_International travel controls,"('Unemployment, total (% of total labor force) (modeled ILO estimate)', 'percent of total labor force')",0.012691705145991276,8
+C8_International travel controls,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",0.012060050246063818,9
+C8_International travel controls,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.01050853629082483,10
+E1_Income support,"('Net migration', 'net total / data are 5 year estimates')",0.2954738980104402,1
+E1_Income support,"('International tourism, receipts', 'US Dollar')",0.29008183590876646,2
+E1_Income support,"('Mobile cellular subscriptions', 'per 100 people')",0.08827954157124879,3
+E1_Income support,"('Individuals using the Internet', 'percent of population')",0.0537286468015867,4
+E1_Income support,"('Mobile cellular subscriptions', 'number')",0.04753520985053461,5
+E1_Income support,"('Population ages 15-64 (% of total population)', 'proportion')",0.034531344833470014,6
+E1_Income support,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",0.01910469402162863,7
+E1_Income support,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.013929928119903501,8
+E1_Income support,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.007060541241889989,9
+E1_Income support,"('Volume of imports', 'percent change')",0.006586535548075174,10
+E2_Debt/contract relief,"('Net migration', 'net total / data are 5 year estimates')",0.2411196346907658,1
+E2_Debt/contract relief,"('International tourism, receipts', 'US Dollar')",0.2300875555675648,2
+E2_Debt/contract relief,"('Mobile cellular subscriptions', 'per 100 people')",0.0699664662146739,3
+E2_Debt/contract relief,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.05118985476523187,4
+E2_Debt/contract relief,"('Individuals using the Internet', 'percent of population')",0.04366265269657373,5
+E2_Debt/contract relief,"('Age dependency ratio (% of working-age population)', 'proportion')",0.02952995323425656,6
+E2_Debt/contract relief,"('Mobile cellular subscriptions', 'number')",0.028800396520271155,7
+E2_Debt/contract relief,"('Fixed broadband subscriptions', 'per 100 people')",0.021777812636260222,8
+E2_Debt/contract relief,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.01568476384837356,9
+E2_Debt/contract relief,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.01534003905948674,10
+E3_Fiscal measures,"('Net migration', 'net total / data are 5 year estimates')",0.3579624979989557,1
+E3_Fiscal measures,"('International tourism, receipts', 'US Dollar')",0.3513143279089565,2
+E3_Fiscal measures,"('Individuals using the Internet', 'percent of population')",0.16095867440761086,3
+E3_Fiscal measures,"('Mobile cellular subscriptions', 'number')",0.05252646041500107,4
+E3_Fiscal measures,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.015989282913235925,5
+E3_Fiscal measures,"('Volume of imports', 'percent change')",0.008834082302347203,6
+E3_Fiscal measures,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.008368520575653071,7
+E3_Fiscal measures,"('Fixed broadband subscriptions', 'per 100 people')",0.007268344621960722,8
+E3_Fiscal measures,"('Age dependency ratio (% of working-age population)', 'proportion')",0.006299371759357842,9
+E3_Fiscal measures,"('Mobile cellular subscriptions', 'per 100 people')",0.004205192305965926,10
+E4_International support,"('Net migration', 'net total / data are 5 year estimates')",0.36566222283896815,1
+E4_International support,"('International tourism, receipts', 'US Dollar')",0.35887355381851727,2
+E4_International support,"('Mobile cellular subscriptions', 'per 100 people')",0.10911958590359377,3
+E4_International support,"('Individuals using the Internet', 'percent of population')",0.06476995202048344,4
+E4_International support,"('Fixed broadband subscriptions', 'number')",0.053185643885185714,5
+E4_International support,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.020660153452081654,6
+E4_International support,"('Volume of imports', 'percent change')",0.010444659612218255,7
+E4_International support,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.007514692978136469,8
+E4_International support,"('Population ages 15-64 (% of total population)', 'proportion')",0.002657598016020129,9
+E4_International support,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.0016823620820979226,10
+H1_Public information campaigns,"('Net migration', 'net total / data are 5 year estimates')",0.310290907414949,1
+H1_Public information campaigns,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.30467358044094317,2
+H1_Public information campaigns,"('Mobile cellular subscriptions', 'per 100 people')",0.09249135398609991,3
+H1_Public information campaigns,"('Individuals using the Internet', 'percent of population')",0.05748935447027574,4
+H1_Public information campaigns,"('Fixed broadband subscriptions', 'number')",0.04519053631161533,5
+H1_Public information campaigns,"('Population ages 15-64 (% of total population)', 'proportion')",0.019780031286720068,6
+H1_Public information campaigns,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.013866606209688517,7
+H1_Public information campaigns,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.01112067678037107,8
+H1_Public information campaigns,"('Volume of imports', 'percent change')",0.009103367157767672,9
+H1_Public information campaigns,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.007930351732251822,10
+H2_Testing policy,"('Net migration', 'net total / data are 5 year estimates')",0.23218755326997295,1
+H2_Testing policy,"('International tourism, receipts', 'US Dollar')",0.225585865315523,2
+H2_Testing policy,"('Individuals using the Internet', 'percent of population')",0.07504919094467181,3
+H2_Testing policy,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.059550415040152634,4
+H2_Testing policy,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.04535440353630788,5
+H2_Testing policy,"('Fixed broadband subscriptions', 'number')",0.04118533754601825,6
+H2_Testing policy,"('Mobile cellular subscriptions', 'number')",0.019857916364011848,7
+H2_Testing policy,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.015411135729818153,8
+H2_Testing policy,"('Volume of imports', 'percent change')",0.010264968669325077,9
+H2_Testing policy,"('Labor force participation rate, male (% of male population ages 15+) (national estimate)', 'Percentage of males of the total population')",0.004855505906371211,10
+H3_Contact tracing,"('Net migration', 'net total / data are 5 year estimates')",0.25752990286729266,1
+H3_Contact tracing,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.25262548297000365,2
+H3_Contact tracing,"('Individuals using the Internet', 'percent of population')",0.11939433235789472,3
+H3_Contact tracing,"('Mobile cellular subscriptions', 'number')",0.03563143034255665,4
+H3_Contact tracing,"('Fixed broadband subscriptions', 'per 100 people')",0.027668568506598445,5
+H3_Contact tracing,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.01502325778365146,6
+H3_Contact tracing,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.012848301094606301,7
+H3_Contact tracing,"('Unemployment, total (% of total labor force) (modeled ILO estimate)', 'percent of total labor force')",0.010665438991611013,8
+H3_Contact tracing,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.01042379943419862,9
+H3_Contact tracing,"('Volume of imports', 'percent change')",0.009219078386609642,10
+H4_Emergency investment in healthcare,"('Net migration', 'net total / data are 5 year estimates')",0.3560437207144089,1
+H4_Emergency investment in healthcare,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.34954111326718695,2
+H4_Emergency investment in healthcare,"('Individuals using the Internet', 'percent of population')",0.1654466476403404,3
+H4_Emergency investment in healthcare,"('Mobile cellular subscriptions', 'number')",0.045053349586012106,4
+H4_Emergency investment in healthcare,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.01590858064887667,5
+H4_Emergency investment in healthcare,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.009105643273383365,6
+H4_Emergency investment in healthcare,"('Volume of imports', 'percent change')",0.007938740373567186,7
+H4_Emergency investment in healthcare,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.0072655627783972925,8
+H4_Emergency investment in healthcare,"('Mobile cellular subscriptions', 'per 100 people')",0.0040356151088860965,9
+H4_Emergency investment in healthcare,"('Employment in services (% of total employment) (modeled ILO estimate)', 'Percentage of total employment')",0.003959864459156195,10
+H5_Investment in vaccines,"('Net migration', 'net total / data are 5 year estimates')",0.3650093350386819,1
+H5_Investment in vaccines,"('International tourism, receipts', 'US Dollar')",0.3582938295050335,2
+H5_Investment in vaccines,"('Individuals using the Internet', 'percent of population')",0.16934636287084948,3
+H5_Investment in vaccines,"('Fixed broadband subscriptions', 'number')",0.04686314056769342,4
+H5_Investment in vaccines,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.016309279749300756,5
+H5_Investment in vaccines,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.010392098180953725,6
+H5_Investment in vaccines,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.009333690347199738,7
+H5_Investment in vaccines,"('Volume of imports', 'percent change')",0.008109748332880182,8
+H5_Investment in vaccines,"('Mobile cellular subscriptions', 'per 100 people')",0.004197106587469807,9
+H5_Investment in vaccines,"('Population ages 15-64 (% of total population)', 'proportion')",0.003973122639453585,10
+H6_Facial Coverings,"('Net migration', 'net total / data are 5 year estimates')",0.2731126240319717,1
+H6_Facial Coverings,"('International tourism, receipts', 'US Dollar')",0.23151122487365916,2
+H6_Facial Coverings,"('Mobile cellular subscriptions', 'per 100 people')",0.12016053355990876,3
+H6_Facial Coverings,"('Fixed broadband subscriptions', 'number')",0.04662772431256504,4
+H6_Facial Coverings,"('Individuals using the Internet', 'percent of population')",0.04006971244650491,5
+H6_Facial Coverings,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.011921827672146047,6
+H6_Facial Coverings,"('Age dependency ratio (% of working-age population)', 'proportion')",0.007043586357782999,7
+H6_Facial Coverings,"('Mobile cellular subscriptions', 'number')",0.0064917203297469315,8
+H6_Facial Coverings,"('Volume of imports', 'percent change')",0.004082010199054838,9
+H6_Facial Coverings,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.0017853693164534543,10
+H7_Vaccination policy,"('Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019', 'international $ in PPP')",0.29449410045346325,1
+H7_Vaccination policy,"('Labour force participation rate (Total) - Youth, adults: 15-64', 'percent')",0.13108926481617206,2
+H7_Vaccination policy,"('Net migration', 'net total / data are 5 year estimates')",0.06269652092519151,3
+H7_Vaccination policy,"('Individuals using the Internet', 'percent of population')",0.050360518826886226,4
+H7_Vaccination policy,"('Fixed broadband subscriptions', 'number')",0.03333303591841934,5
+H7_Vaccination policy,"('Mobile cellular subscriptions', 'number')",0.019300799654651993,6
+H7_Vaccination policy,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.015115395654610215,7
+H7_Vaccination policy,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.010218286836752967,8
+H7_Vaccination policy,"('Volume of imports', 'percent change')",0.01020380352304443,9
+H7_Vaccination policy,"('Proportion of Unemployment in Non-agricultural Employment (total)', 'percent')",0.006347096181732342,10
+H8_Protection of elderly people,"('Net migration', 'net total / data are 5 year estimates')",0.22672632453997632,1
+H8_Protection of elderly people,"('International tourism, receipts', 'US Dollar')",0.21282512589631686,2
+H8_Protection of elderly people,"('Mobile cellular subscriptions', 'per 100 people')",0.09954036883937843,3
+H8_Protection of elderly people,"('Volume of imports', 'percent change')",0.09366523275135952,4
+H8_Protection of elderly people,"('Fixed broadband subscriptions', 'number')",0.04845356029359056,5
+H8_Protection of elderly people,"('Individuals using the Internet', 'percent of population')",0.03978891598149529,6
+H8_Protection of elderly people,"('Age dependency ratio (% of working-age population)', 'proportion')",0.01965087855026415,7
+H8_Protection of elderly people,"('Incidence of tuberculosis (per 100,000 people)', 'Cases')",0.011619568146027005,8
+H8_Protection of elderly people,"('Proportion of seats held by women in national parliaments (%)', 'proportion')",0.011149437668406474,9
+H8_Protection of elderly people,"('Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)', 'Percentage of females of the total population')",0.006155761677074917,10

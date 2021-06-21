@@ -277,9 +277,54 @@ def covid_forecast_with_future_policy(indicator_year, population_year, predict_l
     main(series_category='recovered_number', indicator_year=indicator_year, predict_len=predict_len, type='policy')
 
 
+def mixed_policies_forecast(business_policy_intensity, mixed_policy_intensity,
+                            newest_real_contagion, business_contagion_series):
+    """
+    intensity 1-5
+    :param business_policy_intensity: dict, {'H7_Vaccination policy': 2, 'C5_Close public transport':3, ...}
+    :param mixed_policy_intensity: dict, {'H7_Vaccination policy': 2, 'C5_Close public transport':3, ...}
+    :param newest_real_contagion: float, the newest contagion rate now
+    :param business_contagion_series: list, the "business as usual" contagion series of a specific country.
+    :return: mixed_policies_contagion_series
+    """
+    policy_alphas = {
+        'H7_Vaccination policy': 1,
+        'C5_Close public transport': 1,
+        'H6_Facial Coverings': 1,
+        'H2_Testing policy': 1,
+        'C8_International travel controls': 1,
+        'E1_Income support': 1,
+        'H3_Contact tracing': 1,
+        'H8_Protection of elderly people': 1,
+        'C4_Restrictions on gatherings': 1,
+        'C2_Workplace closing': 1,
+        'E2_Debt/contract relief': 1,
+        'C7_Restrictions on internal movement': 1,
+        'C3_Cancel public events': 1,
+        'C6_Stay at home requirements': 1,
+        'H1_Public information campaigns': 1,
+        'C1_School closing': 1,
+        'H4_Emergency investment in healthcare': 1,
+        'E3_Fiscal measures': 1,
+        'E4_International support': 1,
+        'H5_Investment in vaccines': 1
+    }
+
+    series_length = len(business_contagion_series)
+    delta_y = []
+    pre_y = newest_real_contagion
+    for y in business_contagion_series:
+        delta_y.append(y - pre_y)
+        pre_y = y
+
+    policy_names = list(business_policy_intensity.keys())
+
+
+
+
 
 if __name__ == '__main__':
-    # covid_update()  # update data
+    covid_update()  # update data
     indicator_year, population_year = 2019, 2020
     predict_len = 30
     # 'confirmed', 'deaths', 'recovered'
@@ -289,7 +334,6 @@ if __name__ == '__main__':
     process_number_series('recovered')
     business_as_usual(indicator_year, population_year, predict_len)
     covid_forecast_with_future_policy(indicator_year, population_year, predict_len)
-
 
     # pip install pipreqs
     # pipreqs . --encoding=utf8 --force

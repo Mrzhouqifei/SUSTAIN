@@ -167,7 +167,8 @@ def policy_country_analysis(population, confirmed, policies):  # deaths, recover
 def policy_indicator_analysis(population, confirmed, policies, indicators):
     leading_indicators = [
         'CO2 emissions (metric tons per capita)',
-        'Starting a Business (Score)'
+        'Starting a Business (Score)',
+        'CPI score',
     ]
     top_indicators = [
         'Employment in services (% of total employment) (modeled ILO estimate)',
@@ -200,10 +201,16 @@ def policy_indicator_analysis(population, confirmed, policies, indicators):
         'CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)',
         'Age dependency ratio (% of working-age population)',
     ]
-
     leading_indicators = pd.DataFrame(list(set(leading_indicators + top_indicators)), columns=['Indicator'])
     # indicators = indicators[indicators.Indicator in leading_indicators]
     indicators = indicators.merge(leading_indicators, on=['Indicator'])
+    # 根据单位进行group by去重
+    res = []
+    for key, group in indicators.groupby(['Indicator', 'Country']):
+        group = group.sort_values('Unit')
+        res.append(pd.DataFrame(group.iloc[0]).T)
+    indicators = pd.concat(res).fillna(0)
+
     countries = sorted(list(
         (set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(
             set(indicators['Country'])).intersection(population.columns)))
@@ -260,7 +267,7 @@ def policy_indicator_analysis(population, confirmed, policies, indicators):
 
 if __name__ == '__main__':
     indicator_year, population_year = 2019, 2020
-    indicators_all_countries = pd.read_excel('raw_data/indicators_all_countries.xlsx')[
+    indicators_all_countries = pd.read_excel('raw_data/indicators.xlsx')[  # indicators_all_countries
         ['Country', 'Indicator', 'Unit', indicator_year]]
     policies = pd.read_csv('raw_data/policies.csv')
     policies_all_countries = pd.read_csv('raw_data/policies_all_countries.csv')

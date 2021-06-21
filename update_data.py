@@ -18,3 +18,7 @@ def covid_update():
         policy_preprocess()
     except:
         print('download false for policy')
+
+
+if __name__ == '__main__':
+    covid_update()  # update data

@@ -69,10 +69,11 @@ def get_dynamic(policy, policy_names, countries, process_series_diff):
         tmp = tmp[countries]
         tmp.index = pd.to_datetime(tmp.index)
 
-        # if the policy data can not be update
+        # if the policy data can not be update, ffill it
         for index in process_series_diff.index:
             if index not in tmp.index:
-                tmp.loc[index] = 0
+                tmp.loc[index] = np.nan
+        tmp = tmp.ffill()
 
         tmp = tmp.sort_index()
         tmp = tmp.loc[process_series_diff.index[0]:process_series_diff.index[-1]].fillna(0)

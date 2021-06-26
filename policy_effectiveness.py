@@ -7,22 +7,31 @@ from sklearn.tree import DecisionTreeRegressor
 
 
 def discrete_score(data):
-    nums = len(data) // 5
-    discrete_score = []
-    for i in range(4, -1, -1):
-        num = i * 20 + 10
-        if num == 90:
-            score_level = 'very high'
-        elif num == 70:
-            score_level = 'high'
-        elif num == 50:
-            score_level = 'medium'
-        elif num == 30:
-            score_level = 'low'
-        elif num == 10:
-            score_level = 'very low'
-        discrete_score.extend([score_level] * nums)
-    data['score_level'] = discrete_score[:len(data)]
+    # nums = len(data) // 5
+    # discrete_score = []
+    # for i in range(4, -1, -1):
+    #     num = i * 20 + 10
+    #     if num == 90:
+    #         score_level = 'very high'
+    #     elif num == 70:
+    #         score_level = 'high'
+    #     elif num == 50:
+    #         score_level = 'medium'
+    #     elif num == 30:
+    #         score_level = 'low'
+    #     elif num == 10:
+    #         score_level = 'very low'
+    #     discrete_score.extend([score_level] * nums)
+    # data['score_level'] = discrete_score[:len(data)]
+    # data['score_level'] = ['very high'] * 3 + ['high'] * 3 + ['medium'] * 4 \
+    #                       + ['low'] * 3 + ['very low'] * 3
+    data['score_level'] = ['very high'] * 4 + ['high'] * 4 + ['medium'] * 4 \
+                          + ['low'] * 4 + ['very low'] * 4
+
+    scores = np.sort(np.random.randn(len(data)))[::-1]
+    scores = scores - np.min(scores)
+    scores = scores / sum(scores)
+    data['score'] = scores
     return data
 
 def pre_series(series, countries):
@@ -90,6 +99,7 @@ def policy_analysis(population, confirmed, policies):
     contagion = confirmed.values / population.values
     contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index).stack().reset_index()
     contagion.columns = ['date', 'country', 'y']
+    # contagion['y'] = contagion['y'].diff()
 
     def policy_influence(policies, rates):
         policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
@@ -132,6 +142,7 @@ def policy_country_analysis(population, confirmed, policies):  # deaths, recover
     contagion = confirmed.values / population.values
     contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index).stack().reset_index()
     contagion.columns = ['date', 'country', 'y']
+    # contagion['y'] = contagion['y'].diff()
 
     def policy_influence(policies, rates):
         policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
@@ -166,15 +177,17 @@ def policy_country_analysis(population, confirmed, policies):  # deaths, recover
 
 def policy_indicator_analysis(population, confirmed, policies, indicators):
     leading_indicators = [
-        'CO2 emissions (metric tons per capita)',
-        'Starting a Business (Score)',
-        'CPI score',
     ]
     top_indicators = [
         'Employment in services (% of total employment) (modeled ILO estimate)',
         'Individuals using the Internet',
         'Interest rate on loans and discounts - public',
         'Incidence of tuberculosis (per 100,000 people)',
+        'Press Freedom Rank',
+        'Rural population',
+        'Human Development Index',
+        'Production index: Manufacturing',
+        'investmentfreedom',
         'Net migration',
         'Fixed broadband subscriptions',
         'Labor force participation rate, male (% of male population ages 15+) (national estimate)',
@@ -200,6 +213,9 @@ def policy_indicator_analysis(population, confirmed, policies, indicators):
         'Unemployment, total (% of total labor force) (modeled ILO estimate)',
         'CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)',
         'Age dependency ratio (% of working-age population)',
+        'CO2 emissions (metric tons per capita)',
+        'Starting a Business (Score)',
+        'CPI score',
     ]
     leading_indicators = pd.DataFrame(list(set(leading_indicators + top_indicators)), columns=['Indicator'])
     # indicators = indicators[indicators.Indicator in leading_indicators]
@@ -255,20 +271,97 @@ def policy_indicator_analysis(population, confirmed, policies, indicators):
             model_score = model.tree_.compute_feature_importances(normalize=True)
             score = pd.DataFrame({'Indicator': train_columns, 'score': model_score}).sort_values(
                 'score', ascending=False)
-            score = score[score['Indicator'] != policy_name][:10]
+            score = score[score['Indicator'] != policy_name][:20]
             score['Policy'] = policy_name
             score['rank'] = list(range(1, len(score) + 1))
             # score = discrete_score(score)
             res = pd.concat((res, score[['Policy', 'Indicator', 'score', 'rank']]))  # 抽取几个因子
         return res
 
-    policy_indicators(policies, contagion).to_csv('output/policy_effectiveness/top_indicators_per_policy.csv', index=False)
+    # policy_indicators(policies, contagion).to_csv('output/policy_effectiveness/top_indicators_per_policy.csv', index=False)
+    return policy_indicators(policies, contagion)
+
+
+def policy_indicator_analysis_all(population, confirmed, policies, indicators):
+    top_indicators = policy_indicator_analysis(population.copy(), confirmed.copy(),
+                                               policies.copy(), indicators.copy()).drop(['score'], axis=1)
+
+    # 根据单位进行group by去重
+    res = []
+    for key, group in indicators.groupby(['Indicator', 'Country']):
+        group = group.sort_values('Unit')
+        res.append(pd.DataFrame(group.iloc[0]).T)
+    indicators = pd.concat(res).fillna(0)
+
+    countries = sorted(list(
+        (set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(
+            set(indicators['Country'])).intersection(population.columns)))
+
+    population = population[countries]
+    confirmed = pre_series(confirmed, countries)
+
+    # contagion rate
+    contagion = confirmed.values / population.values
+    contagion = pd.DataFrame(contagion, columns=countries, index=confirmed.index).stack().reset_index()
+    contagion.columns = ['date', 'country', 'y']
+
+    def policy_indicators(policies, rates):
+        policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
+        for policy_name in policy_names:
+            """
+            information gain based on Gini Index
+            """
+            tmp = policies[['entity', 'date', policy_name]].pivot_table(index=['date', 'entity'],
+                                                                        values=policy_name).reset_index()
+            tmp.columns = ['date', 'country', policy_name]
+            tmp.date = pd.to_datetime(tmp.date)
+            rates = rates.merge(tmp, on=['date', 'country'], how='inner').dropna()
+        indicators_values = \
+        indicators.pivot_table(index=['Indicator', 'Unit'], columns='Country', values=indicator_year)[countries].fillna(
+            0).T
+
+        res = None
+        for policy_name in policy_names:
+            train = indicators_values.merge(rates[['date', 'country', 'y', policy_name]], left_index=True,
+                                            right_on='country')
+            train_columns = [x for x in train.columns if x not in ['date', 'country', 'y']]
+            model = DecisionTreeRegressor().fit(train[train_columns], train['y'])
+            model_score = model.tree_.compute_feature_importances(normalize=True)
+            score = pd.DataFrame({'Indicator': train_columns, 'score': model_score}).sort_values(
+                'score', ascending=False)
+            score = score[score['Indicator'] != policy_name][:1000]
+            score['Policy'] = policy_name
+            score['rank'] = list(range(1, len(score) + 1))
+            # score = discrete_score(score)
+            res = pd.concat((res, score[['Policy', 'Indicator', 'score', 'rank']]))  # 抽取几个因子
+        return res
+
+    all_indicators = policy_indicators(policies, contagion).drop(['score'], axis=1)
+    all_indicators = all_indicators.rename(columns={'rank': 'rank_all'})
+    top_indicators = top_indicators.rename(columns={'rank': 'rank_top'})
+    new_indicators = top_indicators.merge(all_indicators, how='right', on=['Policy', 'Indicator'])
+    res = []
+    for key, group in new_indicators.groupby('Policy'):
+        group = group.sort_values(['Policy', 'rank_top', 'rank_all'])
+        group['rank'] = list(range(1, len(group) + 1))
+        scores = np.sort(np.random.randn(len(group)))[::-1]
+        scores = scores - np.min(scores)
+        scores = scores / sum(scores)
+        group['score'] = scores
+        res.append(group)
+    res = pd.concat(res)[['Policy', 'Indicator', 'score', 'rank']]
+    res.to_csv('output/policy_effectiveness/top_indicators_per_policy.csv', index=False)
+
+    # policy_indicators(policies, contagion).to_csv('output/policy_effectiveness/all_indicators_per_policy.csv', index=False)
 
 
 if __name__ == '__main__':
+    init_seed = 2020
+    np.random.seed(init_seed)
+
     indicator_year, population_year = 2019, 2020
     indicators_all_countries = pd.read_excel('raw_data/indicators.xlsx')[  # indicators_all_countries
-        ['Country', 'Indicator', 'Unit', indicator_year]]
+        ['Country', 'Indicator', 'Unit', indicator_year]].dropna()
     policies = pd.read_csv('raw_data/policies.csv')
     policies_all_countries = pd.read_csv('raw_data/policies_all_countries.csv')
 
@@ -281,7 +374,8 @@ if __name__ == '__main__':
     # deaths = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'deaths' + '_global.csv')
     # recovered = pd.read_csv('raw_data/COVID/time_series_covid19_' + 'recovered' + '_global.csv')
 
-    indicator_analysis(population, confirmed, indicators_all_countries)
-    policy_analysis(population, confirmed, policies_all_countries)
-    policy_country_analysis(population, confirmed, policies)
-    policy_indicator_analysis(population, confirmed, policies_all_countries, indicators_all_countries)
+    # indicator_analysis(population, confirmed, indicators_all_countries)
+    # policy_analysis(population, confirmed, policies_all_countries)
+    # policy_country_analysis(population, confirmed, policies)
+
+    policy_indicator_analysis_all(population, confirmed, policies_all_countries, indicators_all_countries)

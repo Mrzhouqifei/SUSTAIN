@@ -1,21 +1,21 @@
 Policy,score,score_level
-H7_Vaccination policy,0.3023368378363852,very high
-C8_International travel controls,0.12336006007943497,very high
-E1_Income support,0.08877809783926784,very high
-C4_Restrictions on gatherings,0.08790721670481234,very high
-C5_Close public transport,0.07001359266616708,high
-H2_Testing policy,0.06219049938430758,high
-H6_Facial Coverings,0.05920024641007407,high
-C2_Workplace closing,0.041825307118129144,high
-H3_Contact tracing,0.036232250385999504,medium
-E2_Debt/contract relief,0.03284137825342909,medium
-C7_Restrictions on internal movement,0.03149274384881315,medium
-H8_Protection of elderly people,0.030565481627266702,medium
-C6_Stay at home requirements,0.01327109389329039,low
-C1_School closing,0.010702748929098867,low
-H1_Public information campaigns,0.008905041515315171,low
-C3_Cancel public events,0.00029604509697507883,low
-H4_Emergency investment in healthcare,4.780663741809606e-05,very low
-E3_Fiscal measures,1.7921785789699995e-05,very low
-E4_International support,9.880834825234255e-06,very low
-H5_Investment in vaccines,5.749153200909629e-06,very low
+H7_Vaccination policy,0.3023870337989728,very high
+C8_International travel controls,0.12569634125631252,very high
+E1_Income support,0.0873903987977898,very high
+H6_Facial Coverings,0.07424311246003985,very high
+C5_Close public transport,0.06760294683814203,high
+H2_Testing policy,0.061823049767701074,high
+C4_Restrictions on gatherings,0.05850398973527986,high
+C2_Workplace closing,0.04171816682755077,high
+H3_Contact tracing,0.03734595045330928,medium
+H8_Protection of elderly people,0.03505003073406484,medium
+E2_Debt/contract relief,0.03432705671459774,medium
+C7_Restrictions on internal movement,0.03166776836229199,medium
+C6_Stay at home requirements,0.01624490790223577,low
+C3_Cancel public events,0.010014917348916675,low
+H1_Public information campaigns,0.008839956721504465,low
+C1_School closing,0.007063040815767719,low
+H4_Emergency investment in healthcare,4.8225277837337826e-05,very low
+E3_Fiscal measures,1.7900205698312843e-05,very low
+E4_International support,9.88083482432593e-06,very low
+H5_Investment in vaccines,5.325147162821067e-06,very low

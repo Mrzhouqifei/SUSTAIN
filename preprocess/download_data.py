@@ -105,7 +105,9 @@ def policy_preprocess():
     df = df[policy_column]
     df = df.rename(columns={'CountryName': 'entity', 'CountryCode': 'iso', 'Date': 'date'})
     df['date'] = pd.to_datetime(df.date.apply(str))
-    df = df.fillna(0)
+    # df = df.fillna(0)
+    df = df.dropna()
+
     df.to_csv('raw_data/policies_all_countries.csv', index=False)
     indicators = pd.read_excel('raw_data/indicators.xlsx')
     country = pd.DataFrame(list(set(indicators.Country)), columns=['entity'])

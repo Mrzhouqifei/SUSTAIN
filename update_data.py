@@ -22,3 +22,4 @@ def covid_update():
 
 if __name__ == '__main__':
     covid_update()  # update data
+    # policy_preprocess()

@@ -96,8 +96,15 @@ def get_train_data(
     :return:
     """
     # 拿2019年的indicators
-    indicators = pd.read_excel('raw_data/indicators.xlsx')[
-        ['Country', 'Indicator', 'Unit', indicator_year]]
+    # indicators = pd.read_excel('raw_data/indicators.xlsx')[
+    #     ['Country', 'Indicator', 'Unit', indicator_year]]
+    indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of June 27, 2021_OVERALL.xlsx')
+    indicator_years = ['x2014', 'x2015', 'x2016', 'x2017', 'x2018', 'x2019', 'x2020', 'x2021']
+    indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
+
+    indicators = indicators[['indicator_clean_name', 'country', 'unit', indicator_year]].dropna()
+    indicators = indicators.rename(columns={'country': 'Country', 'indicator_clean_name': 'Indicator', 'unit': 'Unit'})
+
     if type == 'business':
         policies = pd.read_csv('raw_data/policies.csv')
     else:

@@ -1,3 +1,5 @@
+import pandas as pd
+
 from preprocess.download_data import download_covid_data, download_policy, policy_preprocess
 import time
 
@@ -29,6 +31,19 @@ def covid_update():
         retry -= 1
 
 
+def fix_countries_name():
+    df = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global_raw.csv')
+    df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace('Russia', 'Russian Federation')
+    # df = df.rename(columns={'Taiwan*': 'Taiwan', 'Russia': 'Russian Federation'})
+    df.to_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv', index=False)
+
+    df1 = pd.read_csv('raw_data/policies_all_countries_raw.csv')
+    df1['entity'] = df1['entity'].str.replace('Russia', 'Russian Federation')
+    # df1 = df1.rename(columns={'Russia': 'Russian Federation'})
+    df1.to_csv('raw_data/policies_all_countries.csv', index=False)
+
+
 if __name__ == '__main__':
-    covid_update()  # update data
+    # covid_update()  # update data
     # policy_preprocess()
+    fix_countries_name()

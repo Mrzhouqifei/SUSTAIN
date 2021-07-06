@@ -98,7 +98,7 @@ def get_train_data(
     # 拿2019年的indicators
     # indicators = pd.read_excel('raw_data/indicators.xlsx')[
     #     ['Country', 'Indicator', 'Unit', indicator_year]]
-    indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of June 27, 2021_OVERALL.xlsx')
+    indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
     indicator_years = ['x2014', 'x2015', 'x2016', 'x2017', 'x2018', 'x2019', 'x2020', 'x2021']
     indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
 

@@ -81,7 +81,7 @@ def download_covid_data(series_category):
     df_usa['Long'] = 0
 
     df = pd.concat([df, df_usa])
-    df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv', index=False)
+    df.to_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global_raw.csv', index=False)
     return df
 
 
@@ -124,15 +124,15 @@ def policy_preprocess():
     # df = df.fillna(0)
     df = df.dropna()
 
-    df.to_csv('raw_data/policies_all_countries.csv', index=False)
+    df.to_csv('raw_data/policies_all_countries_raw.csv', index=False)
     # indicators = pd.read_excel('raw_data/indicators.xlsx')
-    indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of June 27, 2021_OVERALL.xlsx')
-    indicator_years = ['x2014', 'x2015', 'x2016', 'x2017', 'x2018', 'x2019', 'x2020', 'x2021']
-    indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
-    indicators = indicators[['category', 'indicator_clean_name', 'country', 'unit', 'x2021']].dropna()
-    indicators = indicators.rename(columns={'country': 'Country', 'indicator_clean_name': 'Indicator',
-                                            'category': 'Category', 'unit': 'Unit'})
-
-    country = pd.DataFrame(list(set(indicators.Country)), columns=['entity'])
-    df = df.merge(country, on='entity')
-    df.to_csv('raw_data/policies.csv', index=False)
+    # indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
+    # indicator_years = ['x2014', 'x2015', 'x2016', 'x2017', 'x2018', 'x2019', 'x2020', 'x2021']
+    # indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
+    # indicators = indicators[['category', 'indicator_clean_name', 'country', 'unit', 'x2021']].dropna()
+    # indicators = indicators.rename(columns={'country': 'Country', 'indicator_clean_name': 'Indicator',
+    #                                         'category': 'Category', 'unit': 'Unit'})
+    #
+    # country = pd.DataFrame(list(set(indicators.Country)), columns=['entity'])
+    # df = df.merge(country, on='entity')
+    # df.to_csv('raw_data/policies.csv', index=False)

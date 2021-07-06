@@ -58,7 +58,8 @@ def mixed_policies_forecast(business_policy_intensity, mixed_policy_intensity,
 
 
 def re_construct_heap_map():
-    policy_score_per_country=pd.read_csv('output/policy_effectiveness/asia_latin_america/policy_score_per_country.csv')
+    policy_score_per_country=pd.read_csv('output/policy_effectiveness/policy_score_per_country.csv')
+    policy_score_per_country=population.merge(policy_score_per_country, on='Country')
     for key, group in policy_score_per_country.groupby('Policy'):
         if not os.path.exists('output/Roland/policy_heap_map'):
             os.makedirs('output/Roland/policy_heap_map')
@@ -78,7 +79,7 @@ def re_construct_covid_forecast():
     upper = pd.read_csv('output/covid_forecast/contagion/prediction_upper.csv',
                         index_col=0).unstack().reset_index().rename(
         columns={'level_0': 'Country', 'level_1': 'Date', 0: 'upper'})
-    policies = pd.read_csv('raw_data/policies_all_countries.csv').drop('iso', axis=1).rename(
+    policies = pd.read_csv('raw_data/policies_all_countries_raw.csv').drop('iso', axis=1).rename(
         columns={'entity': 'Country', 'date': 'Date'})
     population_year = 2020
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
@@ -117,6 +118,10 @@ def re_construct_top_indicator():
                 group3.to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '/' + key3 + '.csv', index=False)
 
 if __name__ == '__main__':
-    # re_construct_heap_map()
+    population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
+        ['country', 'iso']]
+    population = population.rename(columns={'country': 'Country', 'iso': 'ISO'})
+
+    re_construct_heap_map()
     # re_construct_covid_forecast()
-    re_construct_top_indicator()
+    # re_construct_top_indicator()

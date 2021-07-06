@@ -127,7 +127,6 @@ def policy_analysis(population, confirmed, policies):
 
 def policy_country_analysis(population, confirmed, policies):  # deaths, recovered,
     countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(population.columns)))
-    print(countries)
 
     population = population[countries]
     confirmed = pre_series(confirmed, countries)
@@ -483,40 +482,22 @@ if __name__ == '__main__':
     np.random.seed(init_seed)
 
     population_year = 2020
-
-    # population = pd.read_excel('raw_data/PopulationData.xls', skiprows=[0, 1, 2])[['Country', population_year]]
-    # population[population_year] = population[population_year] * 1000
-    # population = population.set_index('Country').T
-    # indicator_year = 'x2021'
-    # indicator_years = ['x2014', 'x2015', 'x2016', 'x2017', 'x2018', 'x2019', 'x2020', 'x2021']
-    # indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of June 27, 2021_OVERALL.xlsx')
-    # indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
-    # indicators = indicators[['category', 'indicator_clean_name', 'country', 'unit', 'x2021']].dropna()
-    # indicators = indicators.rename(columns={'country': 'Country', 'indicator_clean_name': 'Indicator',
-    #                                         'category': 'Category', 'unit': 'Unit'})
-    # indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of June 27, 2021_CATEGORY.xlsx')
-    # indicators_category[indicator_years] = indicators_category[indicator_years].ffill(axis=1)
-    # indicators_category = indicators_category[['category', 'indicator_clean_name', 'country', 'unit', 'x2021']].dropna()
-    # indicators_category = indicators_category.rename(columns={'country': 'Country', 'indicator_clean_name': 'Indicator',
-    #                                         'category': 'Category', 'unit': 'Unit'})
-    # policies = pd.read_csv('raw_data/policies.csv')
-
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[['country', population_year]]
     population[population_year] = population[population_year] * 1000
     population = population.rename(columns={'country': 'Country'})
     population = population.set_index('Country').T
     indicator_year = 2021
     indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
-    indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 3, 2021_OVERALL_World.xlsx')
+    indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
     indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
     indicators = indicators[['category', 'indicator', 'country', 'unit', 2021]].dropna()
     indicators = indicators.rename(columns={'country': 'Country', 'indicator': 'Indicator',
                                             'category': 'Category', 'unit': 'Unit'})
-    indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 3, 2021_CATEGORY_World.xlsx')
-    indicators_category[indicator_years] = indicators_category[indicator_years].ffill(axis=1)
-    indicators_category = indicators_category[['category', 'indicator', 'country', 'unit', 2021]].dropna()
-    indicators_category = indicators_category.rename(columns={'country': 'Country', 'indicator': 'Indicator',
-                                            'category': 'Category', 'unit': 'Unit'})
+    # indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_CATEGORY_World.xlsx')
+    # indicators_category[indicator_years] = indicators_category[indicator_years].ffill(axis=1)
+    # indicators_category = indicators_category[['category', 'indicator', 'country', 'unit', 2021]].dropna()
+    # indicators_category = indicators_category.rename(columns={'country': 'Country', 'indicator': 'Indicator',
+    #                                         'category': 'Category', 'unit': 'Unit'})
     policies = pd.read_csv('raw_data/policies_all_countries.csv')
 
     # 'confirmed', 'deaths', 'recovered'
@@ -526,7 +507,8 @@ if __name__ == '__main__':
 
     # indicator_analysis(population, confirmed, indicators)
     # policy_analysis(population, confirmed, policies)
-    # policy_country_analysis(population, confirmed, policies)
+    # policy_indicator_analysis_category(population, confirmed, policies, indicators_category)
+
+    policy_country_analysis(population, confirmed, policies)
 
     policy_indicator_analysis_overall(population, confirmed, policies, indicators)
-    policy_indicator_analysis_category(population, confirmed, policies, indicators_category)

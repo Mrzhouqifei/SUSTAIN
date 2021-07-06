@@ -209,7 +209,7 @@ def calculate_contagion_with_popultation(series_category, target, population_yea
 
 
 def cal_raw_rate(series_category, target):
-    confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv')
+    confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global_raw.csv')
     confirmed_series = confirmed.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).T.fillna(0)
     confirmed_series.index = pd.to_datetime(confirmed_series.index)
 
@@ -222,7 +222,7 @@ def cal_raw_rate(series_category, target):
 
 
 def process_number_series(series_category):
-    confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv')
+    confirmed = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global_raw.csv')
     confirmed_series = confirmed.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).T.fillna(0)
     confirmed_series.index = pd.to_datetime(confirmed_series.index)
 

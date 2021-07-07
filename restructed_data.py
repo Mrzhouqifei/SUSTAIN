@@ -65,6 +65,7 @@ def re_construct_heap_map():
             os.makedirs('output/Roland/policy_heap_map')
         key = key.replace('/', '_')
         group.to_csv('output/Roland/policy_heap_map/' + key +'.csv', index=False)
+        group[['ISO','score','score_level']].to_json('output/Roland/policy_heap_map/' + key + '.json', orient='records')
 
 
 def re_construct_covid_forecast():
@@ -100,22 +101,26 @@ def re_construct_covid_forecast():
 
 
 def re_construct_top_indicator():
-    policy_indicator = pd.read_excel('output/policy_effectiveness/top_indicators_per_policy_category.xls').drop('Unit',
-                                                                                                                axis=1)
+    policy_indicator = pd.read_csv('output/policy_effectiveness/top_indicators_per_policy_overall.csv')
     indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
-    indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 3, 2021_CATEGORY_World.xlsx')
+    indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
     indicators_category[indicator_years] = indicators_category[indicator_years].ffill(axis=1)
     indicators_category = indicators_category[['category', 'indicator', 'country', 'unit', 2021]].dropna()
     indicators_category = indicators_category.rename(columns={'country': 'Country', 'indicator': 'Indicator',
                                             'category': 'Category', 'unit': 'Unit', 2021:'value'})
-    data = indicators_category.merge(policy_indicator, on=['Category', 'Indicator'])
+    indicators_category = indicators_category.merge(population, on=['Country'])
+    data = indicators_category.merge(policy_indicator, on=['Indicator'])
 
     for key1, group1 in data.groupby('Policy'):
-        for key2, group2 in group1.groupby('Country'):
-            if not os.path.exists('output/Roland/top_indicator/' + key1 + '/' + key2):
-                os.makedirs('output/Roland/top_indicator/' + key1 + '/' + key2)
-            for key3, group3 in group2.groupby('Category'):
-                group3.to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '/' + key3 + '.csv', index=False)
+        key1 = key1.replace('/', '_')
+        if not os.path.exists('output/Roland/top_indicator/' + key1):
+            os.makedirs('output/Roland/top_indicator/' + key1)
+        for key2, group2 in group1.groupby('ISO'):
+            group2[['Category','Indicator','Policy','Country','ISO','rank','value']].to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '.csv', index=False)
+            group2[['Category', 'Indicator', 'Policy', 'Country', 'ISO', 'rank', 'value']].to_json('output/Roland/top_indicator/' + key1 + '/' + key2 + '.json', orient='records')
+            # for key3, group3 in group2.groupby('Category'):
+            #     group3.to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '/' + key3 + '.csv', index=False)
+
 
 if __name__ == '__main__':
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
@@ -124,4 +129,4 @@ if __name__ == '__main__':
 
     re_construct_heap_map()
     # re_construct_covid_forecast()
-    # re_construct_top_indicator()
+    re_construct_top_indicator()

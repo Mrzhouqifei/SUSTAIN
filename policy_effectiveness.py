@@ -387,9 +387,13 @@ def policy_indicator_analysis_overall(population, confirmed, policies, indicator
             tmp.columns = ['date', 'country', policy_name]
             tmp.date = pd.to_datetime(tmp.date)
             rates = rates.merge(tmp, on=['date', 'country'], how='inner').dropna()
+        # indicators_values = \
+        # indicators.pivot_table(index=['Category', 'Indicator', 'Unit'], columns='Country', values=indicator_year)[countries].fillna(
+        #     0).T
         indicators_values = \
-        indicators.pivot_table(index=['Category', 'Indicator', 'Unit'], columns='Country', values=indicator_year)[countries].fillna(
+        indicators.pivot_table(index=['Indicator'], columns='Country', values=indicator_year)[countries].fillna(
             0).T
+
         res = None
         for policy_name in policy_names:
             train = indicators_values.merge(rates[['date', 'country', 'y', policy_name]], left_index=True,
@@ -406,14 +410,16 @@ def policy_indicator_analysis_overall(population, confirmed, policies, indicator
             res = pd.concat((res, score[['Policy', 'Category_Indicator_Unit', 'score', 'rank']]))  # 抽取几个因子
         return res
     # 字符处理
-    res = policy_indicators(policies, contagion)
-    res['Category_Indicator_Unit'] = res['Category_Indicator_Unit'].astype(dtype=str)
-    res[['Category', 'Indicator', 'Unit']] = res['Category_Indicator_Unit'].str.split('\',', expand=True)
-    res['Category'] = res['Category'].str.replace("\(\'", "")
-    res['Unit'] = res['Unit'].str.replace("\'\)", "").str.replace(" \'", "").str.replace("\'", "")
-    res['Indicator'] = res['Indicator'].str.replace(" \'", "").str.replace("\'", "")
-    res[['Policy', 'Category', 'Indicator', 'Unit', 'rank', 'score']].to_excel('output/policy_effectiveness/'
-                                                                             'top_indicators_per_policy_overall.xls', index=False)
+    res = policy_indicators(policies, contagion).rename(columns={'Category_Indicator_Unit': 'Indicator'})
+    res.to_csv('output/policy_effectiveness/top_indicators_per_policy_overall.csv', index=False)
+    # res['Category_Indicator_Unit'] = res['Category_Indicator_Unit'].astype(dtype=str)
+    # res[['Category', 'Indicator', 'Unit']] = res['Category_Indicator_Unit'].str.split('\',', expand=True)
+    # res['Category'] = res['Category'].str.replace("\(\'", "")
+    # res['Unit'] = res['Unit'].str.replace("\'\)", "").str.replace(" \'", "").str.replace("\'", "")
+    # res['Indicator'] = res['Indicator'].str.replace(" \'", "").str.replace("\'", "")
+    # res[['Policy', 'Category', 'Indicator', 'Unit', 'rank', 'score']].to_excel('output/policy_effectiveness/'
+    #                                                                          'top_indicators_per_policy_overall.xls', index=False)
+
 
 def policy_indicator_analysis_category(population, confirmed, policies, indicators):
     # 根据单位进行group by去重
@@ -510,5 +516,4 @@ if __name__ == '__main__':
     # policy_indicator_analysis_category(population, confirmed, policies, indicators_category)
 
     policy_country_analysis(population, confirmed, policies)
-
     policy_indicator_analysis_overall(population, confirmed, policies, indicators)

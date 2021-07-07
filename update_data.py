@@ -4,6 +4,19 @@ from preprocess.download_data import download_covid_data, download_policy, polic
 import time
 
 
+def fix_countries_name():
+    df = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global_raw.csv')
+    df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace(
+        'Russia', 'Russian Federation').str.replace('Burma', 'Myanmar').str.replace('Korea, South', 'South Korea')
+    # df = df.rename(columns={'Taiwan*': 'Taiwan', 'Russia': 'Russian Federation'})
+    df.to_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv', index=False)
+
+    df1 = pd.read_csv('raw_data/policies_all_countries_raw.csv')
+    df1['entity'] = df1['entity'].str.replace('Russia', 'Russian Federation')
+    # df1 = df1.rename(columns={'Russia': 'Russian Federation'})
+    df1.to_csv('raw_data/policies_all_countries.csv', index=False)
+
+
 def covid_update():
     for series_category in ['confirmed']:   # ['recovered', 'confirmed', 'deaths']:
         retry = 3
@@ -29,18 +42,8 @@ def covid_update():
             print('download false for policy')
         time.sleep(60)
         retry -= 1
+    fix_countries_name()
 
-
-def fix_countries_name():
-    df = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global_raw.csv')
-    df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace('Russia', 'Russian Federation')
-    # df = df.rename(columns={'Taiwan*': 'Taiwan', 'Russia': 'Russian Federation'})
-    df.to_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv', index=False)
-
-    df1 = pd.read_csv('raw_data/policies_all_countries_raw.csv')
-    df1['entity'] = df1['entity'].str.replace('Russia', 'Russian Federation')
-    # df1 = df1.rename(columns={'Russia': 'Russian Federation'})
-    df1.to_csv('raw_data/policies_all_countries.csv', index=False)
 
 
 if __name__ == '__main__':

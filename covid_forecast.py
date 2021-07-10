@@ -22,12 +22,12 @@ def main(series_category, indicator_year, predict_len, type='business'):
         context_length=metadata['context_length'],
         freq=metadata['freq'],
         distr_output=StudentTOutput(),
-        num_cells=[8, 16, 64],  # [static dim, dynamic dim, target dim]
+        num_cells=[8, 16, 256],  # [static dim, dynamic dim, target dim]
         scaling=True,
         trainer=Trainer(ctx="cpu",  # gpu(0),
-                        epochs=10,
+                        epochs=100,
                         learning_rate=1e-3,
-                        num_batches_per_epoch=100,
+                        # num_batches_per_epoch=100,
                         batch_size=32,
                         hybridize=False,
                        )
@@ -195,9 +195,9 @@ def calculate_contagion_with_popultation(series_category, target, population_yea
     process_series = series.groupby('Country/Region').sum().drop(['Lat', 'Long'], axis=1).T.fillna(0)
     process_series.index = pd.to_datetime(process_series.index)
 
-    population = pd.read_excel('raw_data/PopulationData.xls', skiprows=[0, 1, 2])[['Country', population_year]]
+    population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[['country', population_year]]
     population[population_year] = population[population_year] * 1000
-    population = population.set_index('Country').T
+    population = population.set_index('country').T
 
     intersection_country = list(set(process_series.columns).intersection(population.columns))
     population = population[intersection_country]
@@ -236,13 +236,13 @@ def process_number_series(series_category):
 
 def business_as_usual(indicator_year, population_year, predict_len):
     calculate_contagion_with_popultation('confirmed', 'contagion', population_year)
-    cal_raw_rate('deaths', 'mortality')
-    cal_raw_rate('recovered', 'recovery')
+    # cal_raw_rate('deaths', 'mortality')
+    # cal_raw_rate('recovered', 'recovery')
 
     main(series_category='contagion', indicator_year=indicator_year, predict_len=predict_len)
     # main(series_category='mortality', indicator_year=indicator_year, predict_len=predict_len)
     # main(series_category='recovery', indicator_year=indicator_year, predict_len=predict_len)
-    calculate_confirmed_number()
+    # calculate_confirmed_number()
     # main(series_category='dead_number', indicator_year=indicator_year, predict_len=predict_len)
     # main(series_category='recovered_number', indicator_year=indicator_year, predict_len=predict_len)
 
@@ -284,13 +284,13 @@ if __name__ == '__main__':
     mxnet.random.seed(init_seed)
 
     # covid_update()  # update data
-    indicator_year, population_year = 'x2021', 2020
+    indicator_year, population_year = 2021, 2020
     predict_len = 30
     # 'confirmed', 'deaths', 'recovered'
     # process_number_series('confirmed')
 
-    process_number_series('deaths')
-    process_number_series('recovered')
+    # process_number_series('deaths')
+    # process_number_series('recovered')
     business_as_usual(indicator_year, population_year, predict_len)
     # covid_forecast_with_future_policy(indicator_year, population_year, predict_len)
 

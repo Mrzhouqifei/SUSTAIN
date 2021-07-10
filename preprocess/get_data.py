@@ -99,20 +99,22 @@ def get_train_data(
     # indicators = pd.read_excel('raw_data/indicators.xlsx')[
     #     ['Country', 'Indicator', 'Unit', indicator_year]]
     indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
-    indicator_years = ['x2014', 'x2015', 'x2016', 'x2017', 'x2018', 'x2019', 'x2020', 'x2021']
+    indicators['country'] = indicators['country'].str.replace('United States of America', 'United States')
+    indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
     indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
 
-    indicators = indicators[['indicator_clean_name', 'country', 'unit', indicator_year]].dropna()
-    indicators = indicators.rename(columns={'country': 'Country', 'indicator_clean_name': 'Indicator', 'unit': 'Unit'})
+    indicators = indicators[['indicator', 'country', 'unit', indicator_year]].dropna()
+    indicators = indicators.rename(columns={'country': 'Country', 'indicator': 'Indicator', 'unit': 'Unit'})
 
     if type == 'business':
-        policies = pd.read_csv('raw_data/policies.csv')
+        policies = pd.read_csv('raw_data/policies_all_countries.csv')
     else:
         policies = pd.read_csv('raw_data/future_policies.csv')
     series = pd.read_csv('raw_data/COVID/time_series_covid19_' + series_category + '_global.csv', index_col=0)
 
     countries = sorted(list(
         set(policies.entity).intersection(set(series.columns)).intersection(set(indicators['Country']))))
+    print(countries)
     indicator_names = list(set(indicators.Indicator))
     policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
 

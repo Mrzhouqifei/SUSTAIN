@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import os
 
 
@@ -57,15 +58,23 @@ def mixed_policies_forecast(business_policy_intensity, mixed_policy_intensity,
     return mixed_policy_series
 
 
-def re_construct_heap_map():
+def re_construct_top_policy():
     policy_score_per_country=pd.read_csv('output/policy_effectiveness/policy_score_per_country.csv')
+    policy_score_per_country=policy_score_per_country[(policy_score_per_country['Policy'] != 'H8_Protection of elderly people')
+                                                      & (policy_score_per_country['Policy'] != 'E4_International support')
+                                                      & (policy_score_per_country['Policy'] != 'H5_Investment in vaccines')
+                                                      & (policy_score_per_country['Policy'] != 'E3_Fiscal measures')
+                                                      & (policy_score_per_country['Policy'] != 'H4_Emergency investment in healthcare')]
+
     policy_score_per_country=population.merge(policy_score_per_country, on='Country')
-    for key, group in policy_score_per_country.groupby('Policy'):
-        if not os.path.exists('output/Roland/policy_heap_map'):
-            os.makedirs('output/Roland/policy_heap_map')
+    for key, group in policy_score_per_country.groupby('ISO'):
+        if not os.path.exists('output/Roland/top_policy'):
+            os.makedirs('output/Roland/top_policy')
         key = key.replace('/', '_')
-        group.to_csv('output/Roland/policy_heap_map/' + key +'.csv', index=False)
-        group[['ISO','score','score_level']].to_json('output/Roland/policy_heap_map/' + key + '.json', orient='records')
+        group = group.sort_values('score', ascending=False)
+        group['rank'] = range(1, len(group) + 1)
+        group[['ISO', 'Policy', 'score', 'rank']].to_csv('output/Roland/top_policy/' + key +'.csv', index=False)
+        group[['ISO', 'Policy', 'rank']].to_json('output/Roland/top_policy/' + key + '.json', orient='records')
 
 
 def re_construct_covid_forecast():
@@ -84,9 +93,9 @@ def re_construct_covid_forecast():
         columns={'entity': 'Country', 'date': 'Date'})
     population_year = 2020
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
-        ['country', population_year]]
+        ['country', 'iso', population_year]]
     population[population_year] = population[population_year] * 1000
-    population = population.rename(columns={'country': 'Country', 2020: 'Population'})
+    population = population.rename(columns={'country': 'Country', 'iso': 'ISO', 2020: 'Population'})
 
     data = policies.merge(history, on=['Country', 'Date'], how='right').ffill()
     data = data.merge(lower, on=['Country', 'Date'], how='outer')
@@ -94,32 +103,56 @@ def re_construct_covid_forecast():
     data = data.merge(upper, on=['Country', 'Date'], how='outer')
     data = data.merge(population, on=['Country'])
 
-    for key, group in data.groupby('Country'):
+    for key, group in data.groupby('ISO'):
         if not os.path.exists('output/Roland/covid_forecast'):
             os.makedirs('output/Roland/covid_forecast')
         group.to_csv('output/Roland/covid_forecast/' + key + '.csv', index=False)
+        group.to_json('output/Roland/covid_forecast/' + key + '.json', orient='records')
 
 
 def re_construct_top_indicator():
     policy_indicator = pd.read_csv('output/policy_effectiveness/top_indicators_per_policy_overall.csv')
-    indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
+    policy_indicator=policy_indicator[(policy_indicator['Policy'] != 'H8_Protection of elderly people')
+                                                      & (policy_indicator['Policy'] != 'E4_International support')
+                                                      & (policy_indicator['Policy'] != 'H5_Investment in vaccines')
+                                                      & (policy_indicator['Policy'] != 'E3_Fiscal measures')
+                                                      & (policy_indicator['Policy'] != 'H4_Emergency investment in healthcare')]
+
+    indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021][::-1]
     indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
+    indicators_category['country'] = indicators_category['country'].str.replace('United States of America', 'United States')
+    # 根据单位进行group by去重
+    res = []
+    for key, group in indicators_category.groupby(['indicator', 'country']):
+        group = group.sort_values('unit', ascending=False)
+        res.append(pd.DataFrame(group.iloc[0]).T)
+    indicators_category = pd.concat(res)
+
+    indicator_array = indicators_category[indicator_years].values
+    years = [np.nan] * indicator_array.shape[0]
+    for i, year in enumerate(indicator_years):
+        flag = pd.isna(indicator_array[:, i])
+        for j in range(indicator_array.shape[0]):
+            if np.isnan(years[j]) and not flag[j]:
+                years[j] = int(year)
+    indicators_category['year'] = years
+
+    indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
     indicators_category[indicator_years] = indicators_category[indicator_years].ffill(axis=1)
-    indicators_category = indicators_category[['category', 'indicator', 'country', 'unit', 2021]].dropna()
+    indicators_category = indicators_category[['category', 'indicator', 'country', 'unit', 'year', 2021]]
+
     indicators_category = indicators_category.rename(columns={'country': 'Country', 'indicator': 'Indicator',
-                                            'category': 'Category', 'unit': 'Unit', 2021:'value'})
+                                            'category': 'Category', 2021: 'value'})
     indicators_category = indicators_category.merge(population, on=['Country'])
-    data = indicators_category.merge(policy_indicator, on=['Indicator'])
+    data = indicators_category.merge(policy_indicator, on=['Indicator']).dropna(axis=0, subset=['value'])
 
     for key1, group1 in data.groupby('Policy'):
         key1 = key1.replace('/', '_')
         if not os.path.exists('output/Roland/top_indicator/' + key1):
             os.makedirs('output/Roland/top_indicator/' + key1)
         for key2, group2 in group1.groupby('ISO'):
-            group2[['Category','Indicator','Policy','Country','ISO','rank','value']].to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '.csv', index=False)
-            group2[['Category', 'Indicator', 'Policy', 'Country', 'ISO', 'rank', 'value']].to_json('output/Roland/top_indicator/' + key1 + '/' + key2 + '.json', orient='records')
-            # for key3, group3 in group2.groupby('Category'):
-            #     group3.to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '/' + key3 + '.csv', index=False)
+            group2[['rank', 'Category', 'Indicator', 'Policy', 'Country', 'ISO', 'value', 'unit', 'year']].sort_values('rank').to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '.csv', index=False)
+            group2[['rank', 'Category', 'Indicator', 'Policy', 'Country', 'ISO', 'value', 'unit', 'year']].sort_values('rank').to_json('output/Roland/top_indicator/' + key1 + '/' + key2 + '.json', orient='records')
 
 
 if __name__ == '__main__':
@@ -127,6 +160,6 @@ if __name__ == '__main__':
         ['country', 'iso']]
     population = population.rename(columns={'country': 'Country', 'iso': 'ISO'})
 
-    re_construct_heap_map()
-    # re_construct_covid_forecast()
-    re_construct_top_indicator()
+    re_construct_covid_forecast()
+    # re_construct_top_policy()
+    # re_construct_top_indicator()

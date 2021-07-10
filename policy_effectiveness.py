@@ -360,7 +360,7 @@ def policy_indicator_analysis_overall(population, confirmed, policies, indicator
     # 根据单位进行group by去重
     res = []
     for key, group in indicators.groupby(['Indicator', 'Country']):
-        group = group.sort_values('Unit')
+        group = group.sort_values('Unit', ascending=False)
         res.append(pd.DataFrame(group.iloc[0]).T)
     indicators = pd.concat(res).fillna(0)
 
@@ -495,8 +495,9 @@ if __name__ == '__main__':
     indicator_year = 2021
     indicator_years = [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
     indicators = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_OVERALL_World.xlsx')
+    indicators['country'] = indicators['country'].str.replace('United States of America', 'United States')
     indicators[indicator_years] = indicators[indicator_years].ffill(axis=1)
-    indicators = indicators[['category', 'indicator', 'country', 'unit', 2021]].dropna()
+    indicators = indicators[['category', 'indicator', 'country', 'unit', 2021]]#.dropna()
     indicators = indicators.rename(columns={'country': 'Country', 'indicator': 'Indicator',
                                             'category': 'Category', 'unit': 'Unit'})
     # indicators_category = pd.read_excel('raw_data/SUSTAIN model indicator data, as of July 5, 2021_CATEGORY_World.xlsx')
@@ -515,5 +516,5 @@ if __name__ == '__main__':
     # policy_analysis(population, confirmed, policies)
     # policy_indicator_analysis_category(population, confirmed, policies, indicators_category)
 
-    policy_country_analysis(population, confirmed, policies)
+    # policy_country_analysis(population, confirmed, policies)
     policy_indicator_analysis_overall(population, confirmed, policies, indicators)

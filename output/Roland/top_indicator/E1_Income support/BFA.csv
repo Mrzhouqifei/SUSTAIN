@@ -1,0 +1,61 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E1_Income support,Burkina Faso,BFA,16.0,percent of population,2019.0
+2,Economics,Volume of exports,E1_Income support,Burkina Faso,BFA,7.444,percent change,2020.0
+3,Health,Prevalence of COVID-19,E1_Income support,Burkina Faso,BFA,4832.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,E1_Income support,Burkina Faso,BFA,3.395439029774457,per 1 million people,2019.0
+6,Governance,Total freedom in the world score ,E1_Income support,Burkina Faso,BFA,54.0,score,2021.0
+7,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Burkina Faso,BFA,1.2504405198,"proportion, pero 100,000 people",2017.0
+8,Health,Summary exposure value tobacco,E1_Income support,Burkina Faso,BFA,12.75539,Rate (risk-weighted prevalence),2019.0
+9,Social issues ,Net migration,E1_Income support,Burkina Faso,BFA,-125000.0,net total / data are 5 year estimates,2019.0
+10,Environment,CO2 emissions (kt),E1_Income support,Burkina Faso,BFA,3417.644,kt,2016.0
+11,Governance,Economic Freedom Score,E1_Income support,Burkina Faso,BFA,5.85,score,2018.0
+12,Social issues ,Life Ladder ,E1_Income support,Burkina Faso,BFA,4.833799839019775,score,2021.0
+13,Health,Prevalence of Depressive disorders,E1_Income support,Burkina Faso,BFA,0.03069,percent,2019.0
+15,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Burkina Faso,BFA,0.572294123623985,percent of GNI,2018.0
+17,Health,Prevalence of obesity,E1_Income support,Burkina Faso,BFA,5.6,percent,2016.0
+18,Demographics,Fixed broadband subscriptions,E1_Income support,Burkina Faso,BFA,0.0591249,per 100 people,2019.0
+19,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Burkina Faso,BFA,91.0,percent,2019.0
+20,Governance,Human Development Index,E1_Income support,Burkina Faso,BFA,0.452,index,2019.0
+21,Governance,Rule of law estimate ,E1_Income support,Burkina Faso,BFA,-0.4262591,score,2019.0
+22,Demographics,Fixed telephone subscriptions,E1_Income support,Burkina Faso,BFA,75291.0,number,2019.0
+25,Social issues ,Gini index (World Bank estimate),E1_Income support,Burkina Faso,BFA,35.3,index ,2014.0
+27,Health,Prevalence of anxiety disorders,E1_Income support,Burkina Faso,BFA,0.028168,percent,2019.0
+28,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Burkina Faso,BFA,41.4199982,Percentage of total employment,2020.0
+30,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Burkina Faso,BFA,66.2860031,Percentage of total population,2020.0
+31,Health,Prevalence of Hypertensive heart disease,E1_Income support,Burkina Faso,BFA,0.000681,percent,2019.0
+32,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Burkina Faso,BFA,47.0,Cases,2019.0
+33,Social issues ,Press freedom score,E1_Income support,Burkina Faso,BFA,23.47,score,2020.0
+34,Governance,Corruption Perceptions Index,E1_Income support,Burkina Faso,BFA,40.0,score,2020.0
+35,Health,Prevalence of chronic kidney disease,E1_Income support,Burkina Faso,BFA,0.036143,percent,2019.0
+36,Governance,Government effectiveness estimate,E1_Income support,Burkina Faso,BFA,-0.7585109,score,2019.0
+38,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Burkina Faso,BFA,42.93559,micrograms per cubic meter,2017.0
+39,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Burkina Faso,BFA,31.0,score,2021.0
+41,Environment,Renewable energy consumption ,E1_Income support,Burkina Faso,BFA,74.1671878585048,percent of total final energy consumption,2015.0
+42,Health,"Prevalence of HIV, total (% of population ages 15-49)",E1_Income support,Burkina Faso,BFA,0.7,percent,2019.0
+44,Governance,Fragile States Index Total ,E1_Income support,Burkina Faso,BFA,85.92852306050814,score,2020.0
+45,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Burkina Faso,BFA,58.1520004,Percentage of females of the total population,2020.0
+46,Environment,CO2 emissions (metric tons per capita),E1_Income support,Burkina Faso,BFA,0.183287,metric tons per capita,2016.0
+47,Health,Mortality due to COVID-19,E1_Income support,Burkina Faso,BFA,74.0,"Number (cumulative total by Dec 26,2020)",2020.0
+49,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E1_Income support,Burkina Faso,BFA,25.5,percent,2020.0
+50,Health,Prevalence of total cancers,E1_Income support,Burkina Faso,BFA,0.001999,percent,2019.0
+51,Economics,Volume of imports,E1_Income support,Burkina Faso,BFA,6.679,percent change,2020.0
+52,Environment,Access to electricity ,E1_Income support,Burkina Faso,BFA,14.4,percent of population,2018.0
+53,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Burkina Faso,BFA,6.41400003,percent of total labor force,2020.0
+54,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E1_Income support,Burkina Faso,BFA,2.6,percent,2020.0
+55,Governance,Human Freedom Score ,E1_Income support,Burkina Faso,BFA,6.6,score,2018.0
+56,Health,"Physicians (per 1,000 people)",E1_Income support,Burkina Faso,BFA,0.0847,Ones,2017.0
+58,Governance,Personal Freedom Score ,E1_Income support,Burkina Faso,BFA,7.34,score,2018.0
+61,Health,Prevalence of Diabetes,E1_Income support,Burkina Faso,BFA,0.019556,percent,2019.0
+66,Governance,Control of corruption estimate,E1_Income support,Burkina Faso,BFA,-0.1886562,score,2019.0
+68,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Burkina Faso,BFA,0.8829,Ones,2017.0
+70,Governance,Aggregate score for the Political Rights category,E1_Income support,Burkina Faso,BFA,23.0,score,2021.0
+72,Health,Prevalence of down syndrome,E1_Income support,Burkina Faso,BFA,0.000188,percent,2019.0
+73,Governance,Regulatory quality estimate,E1_Income support,Burkina Faso,BFA,-0.376492,score,2019.0
+75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Burkina Faso,BFA,-1.188618,score,2019.0
+78,Demographics,Mobile cellular subscriptions,E1_Income support,Burkina Faso,BFA,100.212,per 100 people,2019.0
+80,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E1_Income support,Burkina Faso,BFA,3.5,rating,2019.0
+81,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Burkina Faso,BFA,0.238655,percent,2019.0
+82,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Burkina Faso,BFA,88.0,percent,2019.0
+85,Governance,Voice and accountability estimate,E1_Income support,Burkina Faso,BFA,-0.1800907,score,2019.0
+110,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Burkina Faso,BFA,100.0,percent of total,2017.0
+112,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Burkina Faso,BFA,2.4,percent,2018.0

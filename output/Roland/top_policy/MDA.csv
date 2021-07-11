@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+MDA,H6_Facial Coverings,0.10623363723992944,1
+MDA,H7_Vaccination policy,0.08580317343066793,2
+MDA,H1_Public information campaigns,0.08457552153744127,3
+MDA,C7_Restrictions on internal movement,0.08394005364726062,4
+MDA,H3_Contact tracing,0.07514348416604627,5
+MDA,C1_School closing,0.07388176574617898,6
+MDA,C3_Cancel public events,0.06190193650794546,7
+MDA,C8_International travel controls,0.061069024264159825,8
+MDA,H2_Testing policy,0.05380089378651397,9
+MDA,C2_Workplace closing,0.048135825930095036,10
+MDA,C6_Stay at home requirements,0.045320586354017436,11
+MDA,E2_Debt/contract relief,0.03928881456541206,12
+MDA,C4_Restrictions on gatherings,0.03809458146248803,13
+MDA,C5_Close public transport,0.007637964257962983,14
+MDA,E1_Income support,0.0,15

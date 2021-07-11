@@ -1,0 +1,83 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,Haiti,HTI,32.4736,percent of population,2019.0
+2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Haiti,HTI,13.915,percent of total labor force,2020.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Haiti,HTI,9648.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Voice and accountability estimate,C2_Workplace closing,Haiti,HTI,-0.7263224,score,2019.0
+5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Haiti,HTI,0.9,percent,2018.0
+6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Haiti,HTI,65.0350037,Percentage of total employment,2020.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,Haiti,HTI,2977.604,kt,2016.0
+8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Haiti,HTI,0.6798,Ones,2018.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,Haiti,HTI,-2.015388,score,2019.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Haiti,HTI,0.279596,per 100 people,2019.0
+12,Economics,Volume of exports,C2_Workplace closing,Haiti,HTI,3.721,percent change,2020.0
+13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Haiti,HTI,22.0,score,2021.0
+14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Haiti,HTI,20.4,percent,2020.0
+15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Haiti,HTI,100.0,percent of total,2017.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Haiti,HTI,0.274687,metric tons per capita,2016.0
+17,Social issues ,Life Ladder ,C2_Workplace closing,Haiti,HTI,3.6149001121520996,score,2021.0
+18,Governance,Economic Freedom Score,C2_Workplace closing,Haiti,HTI,6.58,score,2018.0
+19,Health,Prevalence of total cancers,C2_Workplace closing,Haiti,HTI,0.004328,percent,2019.0
+20,Social issues ,Net migration,C2_Workplace closing,Haiti,HTI,-175000.0,net total / data are 5 year estimates,2019.0
+21,Health,Summary exposure value tobacco,C2_Workplace closing,Haiti,HTI,8.862276,Rate (risk-weighted prevalence),2019.0
+22,Governance,Total freedom in the world score ,C2_Workplace closing,Haiti,HTI,37.0,score,2021.0
+23,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Haiti,HTI,34.7044542884675,proportion,2017.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,Haiti,HTI,-0.9711014,score,2019.0
+26,Economics,Volume of imports,C2_Workplace closing,Haiti,HTI,-3.524,percent change,2020.0
+27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Haiti,HTI,0.0,kWh,2015.0
+28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Haiti,HTI,0.045431,percent,2019.0
+29,Health,Prevalence of Diabetes,C2_Workplace closing,Haiti,HTI,0.062037,percent,2019.0
+30,Demographics,Urban population (% of total population),C2_Workplace closing,Haiti,HTI,56.192,total,2019.0
+32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Haiti,HTI,0.033338,percent,2019.0
+33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Haiti,HTI,92.00385356454721,percent of total,2015.0
+34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Haiti,HTI,51.0,percent,2019.0
+35,Environment,Electricity production from coal sources ,C2_Workplace closing,Haiti,HTI,0.0,percent of total,2015.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Haiti,HTI,234.0,"Number (cumulative total by Dec 26,2020)",2020.0
+37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Haiti,HTI,0.057989,percent,2019.0
+39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Haiti,HTI,393.674646943106,kg of oil equivalent per capita,2014.0
+40,Governance,Serious assault (rate),C2_Workplace closing,Haiti,HTI,11.49,rate,2018.0
+41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Haiti,HTI,170.0,Cases,2019.0
+42,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Haiti,HTI,15.4344494088793,percent of GNI,2018.0
+43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Haiti,HTI,3.7,percent,2020.0
+44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Haiti,HTI,0.2343,Ones,2018.0
+45,Environment,Electricity production from oil sources,C2_Workplace closing,Haiti,HTI,92.00385356454721,percent of total,2015.0
+46,Health,Prevalence of obesity,C2_Workplace closing,Haiti,HTI,22.7,percent,2016.0
+48,Social issues ,Press freedom score,C2_Workplace closing,Haiti,HTI,30.2,score,2020.0
+50,Governance,Human Freedom Score ,C2_Workplace closing,Haiti,HTI,6.68,score,2018.0
+51,Environment,Access to electricity ,C2_Workplace closing,Haiti,HTI,45.277889251709,percent of population,2018.0
+52,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Haiti,HTI,2.5,rating,2019.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,Haiti,HTI,5.327141064559889,per 1 million people,2019.0
+54,Environment,Fossil fuel energy consumption,C2_Workplace closing,Haiti,HTI,22.01589,percent of total,2014.0
+55,Governance,Fragile States Index Total ,C2_Workplace closing,Haiti,HTI,97.67900000000002,score,2020.0
+56,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C2_Workplace closing,Haiti,HTI,61.691349029541,proportion,2016.0
+57,Environment,Electric power consumption ,C2_Workplace closing,Haiti,HTI,39.05580505768884,kWh per capita,2014.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Haiti,HTI,2.542372881,proportion,2019.0
+61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Haiti,HTI,67.3580017,Percentage of total population,2020.0
+62,Demographics,Age dependency ratio (% of working-age population),C2_Workplace closing,Haiti,HTI,61.08833066547062,proportion,2019.0
+63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Haiti,HTI,15.0,score,2021.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Haiti,HTI,5922.0,number,2019.0
+65,Governance,Human Development Index,C2_Workplace closing,Haiti,HTI,0.51,index,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Haiti,HTI,65.0,percent,2019.0
+68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Haiti,HTI,0.371009,percent,2019.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Haiti,HTI,-0.7778878,score,2019.0
+70,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C2_Workplace closing,Haiti,HTI,16.6,proportion,2017.0
+71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Haiti,HTI,62.0789986,Percentage of females of the total population,2020.0
+72,Governance,Personal Freedom Score ,C2_Workplace closing,Haiti,HTI,6.78,score,2018.0
+73,Demographics,"Age dependency ratio, old (% of working-age population)",C2_Workplace closing,Haiti,HTI,8.156980742188349,proportion,2019.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,Haiti,HTI,-1.339183,score,2019.0
+75,Demographics,Refugee population by country or territory of asylum,C2_Workplace closing,Haiti,HTI,5.0,proportion,2018.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,Haiti,HTI,-1.260672,score,2019.0
+77,Health,Prevalence of down syndrome,C2_Workplace closing,Haiti,HTI,0.000516,percent,2019.0
+82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Haiti,HTI,0.000928,percent,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Haiti,HTI,57.5289,per 100 people,2019.0
+84,Environment,Combustible renewables and waste,C2_Workplace closing,Haiti,HTI,58.97003,percent of total energy,2014.0
+85,Demographics,"Population, total",C2_Workplace closing,Haiti,HTI,11263077.0,total,2019.0
+86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Haiti,HTI,6.67974266,"proportion, pero 100,000 people",2018.0
+87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Haiti,HTI,1.9,percent,2019.0
+89,Environment,Energy use ,C2_Workplace closing,Haiti,HTI,134.1210179428563,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Haiti,HTI,15.01982,micrograms per cubic meter,2017.0
+94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Haiti,HTI,0.0,percent of total,2014.0
+95,Demographics,People with basic handwashing facilities including soap and water (% of population),C2_Workplace closing,Haiti,HTI,22.8627462636951,proportion,2017.0
+96,Demographics,Rural population (% of total population),C2_Workplace closing,Haiti,HTI,43.808,proportion,2019.0
+97,Governance,Corruption Perceptions Index,C2_Workplace closing,Haiti,HTI,18.0,score,2020.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,Haiti,HTI,76.0722132337506,percent of total final energy consumption,2015.0
+117,Environment,"Energy imports, net ",C2_Workplace closing,Haiti,HTI,22.0158699619565,percent of energy use,2014.0

@@ -1,0 +1,8 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Martinique,MTQ,5601.0,"Number (cumulative total by Dec 26,2020)",2020.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,Martinique,MTQ,1.089055,score,2019.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,Martinique,MTQ,0.6005772,score,2019.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Martinique,MTQ,42.0,"Number (cumulative total by Dec 26,2020)",2020.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Martinique,MTQ,0.7850212,score,2019.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,Martinique,MTQ,1.234392,score,2019.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,Martinique,MTQ,1.228176,score,2019.0

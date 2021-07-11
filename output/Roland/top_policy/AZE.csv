@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+AZE,H7_Vaccination policy,0.19877496869681996,1
+AZE,H6_Facial Coverings,0.1135977629508136,2
+AZE,E1_Income support,0.08942397652175682,3
+AZE,C7_Restrictions on internal movement,0.08889765632064041,4
+AZE,C2_Workplace closing,0.07374437725665504,5
+AZE,H2_Testing policy,0.06831469844593745,6
+AZE,C5_Close public transport,0.057055695523714825,7
+AZE,C1_School closing,0.05367507126928377,8
+AZE,C6_Stay at home requirements,0.03496637920352131,9
+AZE,C8_International travel controls,0.032558653852769875,10
+AZE,E2_Debt/contract relief,0.02874668918596945,11
+AZE,C3_Cancel public events,0.025388866379085814,12
+AZE,H1_Public information campaigns,0.017142165988584104,13
+AZE,H3_Contact tracing,0.014232724269020253,14
+AZE,C4_Restrictions on gatherings,0.0,15

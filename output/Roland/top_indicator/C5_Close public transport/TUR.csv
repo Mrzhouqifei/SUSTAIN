@@ -1,0 +1,74 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C5_Close public transport,Turkey,TUR,73.9767,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C5_Close public transport,Turkey,TUR,40.0,score,2020.0
+3,Health,Prevalence of COVID-19,C5_Close public transport,Turkey,TUR,1167752.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Turkey,TUR,5438.188825394915,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,C5_Close public transport,Turkey,TUR,17610.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Social issues ,Net migration,C5_Close public transport,Turkey,TUR,1419610.0,net total / data are 5 year estimates,2019.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Turkey,TUR,16.0,score,2021.0
+9,Social issues ,Life Ladder ,C5_Close public transport,Turkey,TUR,4.9475998878479,score,2021.0
+10,Health,Prevalence of anxiety disorders,C5_Close public transport,Turkey,TUR,0.05017,percent,2019.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Turkey,TUR,17.0587,per 100 people,2019.0
+12,Social issues ,Gini index (World Bank estimate),C5_Close public transport,Turkey,TUR,41.9,index ,2018.0
+13,Health,Summary exposure value tobacco,C5_Close public transport,Turkey,TUR,31.46364,Rate (risk-weighted prevalence),2019.0
+14,Health,Prevalence of Diabetes,C5_Close public transport,Turkey,TUR,0.063307,percent,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Turkey,TUR,16.0,score,2021.0
+16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Turkey,TUR,1.8492,Ones,2017.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Turkey,TUR,372724.9,kt,2016.0
+18,Environment,Electricity production from coal sources ,C5_Close public transport,Turkey,TUR,29.0950902083023,percent of total,2015.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Turkey,TUR,0.233601,percent,2019.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Turkey,TUR,13.3742300375217,percent of total final energy consumption,2015.0
+21,Environment,"Energy imports, net ",C5_Close public transport,Turkey,TUR,75.2078800411834,percent of energy use,2015.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Turkey,TUR,16.0,Cases,2019.0
+23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Turkey,TUR,12.1491291431677,percent of GNI,2018.0
+24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Turkey,TUR,17.31748727,proportion,2020.0
+25,Economics,"Central government debt, total",C5_Close public transport,Turkey,TUR,31.65334649503345,percent of GDP,2016.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Turkey,TUR,44.31153,micrograms per cubic meter,2017.0
+27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Turkey,TUR,2.7107,Ones,2017.0
+28,Environment,Electric power consumption ,C5_Close public transport,Turkey,TUR,2847.126382623182,kWh per capita,2014.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Turkey,TUR,96.8372,per 100 people,2019.0
+30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Turkey,TUR,0.113174,percent,2019.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Turkey,TUR,55.9059982,Percentage of total employment,2020.0
+32,Environment,Electricity production from oil sources,C5_Close public transport,Turkey,TUR,0.8495586038818411,percent of total,2015.0
+33,Social issues ,Proportion of women in managerial positions (%),C5_Close public transport,Turkey,TUR,14.81,percent,2018.0
+34,Economics,Volume of imports,C5_Close public transport,Turkey,TUR,7.8,percent change,2020.0
+35,Health,Prevalence of total cancers,C5_Close public transport,Turkey,TUR,0.01005,percent,2019.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Turkey,TUR,-0.2829632,score,2019.0
+37,Health,Prevalence of down syndrome,C5_Close public transport,Turkey,TUR,0.000243,percent,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Turkey,TUR,-1.342829,score,2019.0
+41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Turkey,TUR,0.003368,percent,2019.0
+42,Health,Prevalence of Depressive disorders,C5_Close public transport,Turkey,TUR,0.045968,percent,2019.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Turkey,TUR,12.941,percent of total labor force,2020.0
+44,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C5_Close public transport,Turkey,TUR,73020.0,international $ in PPP,2020.0
+45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Turkey,TUR,100.0,percent of total,2017.0
+46,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Turkey,TUR,1651.361453643437,kg of oil equivalent per capita,2015.0
+47,Governance,Serious assault (rate),C5_Close public transport,Turkey,TUR,102.82,rate,2014.0
+48,Governance,Personal Freedom Score ,C5_Close public transport,Turkey,TUR,5.92,score,2018.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Turkey,TUR,-0.0073169,score,2019.0
+51,Health,Prevalence of obesity,C5_Close public transport,Turkey,TUR,32.1,percent,2016.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Turkey,TUR,0.048386,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Turkey,TUR,-0.814703,score,2019.0
+54,Governance,Human Freedom Score ,C5_Close public transport,Turkey,TUR,6.27,score,2018.0
+55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Turkey,TUR,99.0,percent,2019.0
+56,Social issues ,Press freedom score,C5_Close public transport,Turkey,TUR,50.02,score,2020.0
+57,Governance,Economic Freedom Score,C5_Close public transport,Turkey,TUR,6.62,score,2018.0
+58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Turkey,TUR,52.7179985,Percentage of total population,2020.0
+59,Environment,Energy use ,C5_Close public transport,Turkey,TUR,63.11241707922158,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+60,Governance,Human Development Index,C5_Close public transport,Turkey,TUR,0.82,index,2019.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Turkey,TUR,32.0,score,2021.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Turkey,TUR,-0.2909701,score,2019.0
+65,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Turkey,TUR,67.84588762448287,percent of total,2015.0
+67,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Turkey,TUR,2.5904756723,"proportion, pero 100,000 people",2018.0
+68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Turkey,TUR,33.9339981,Percentage of females of the total population,2020.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Turkey,TUR,11532900.0,number,2019.0
+72,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Turkey,TUR,16511000000.0,kWh,2015.0
+73,Environment,Fossil fuel energy consumption,C5_Close public transport,Turkey,TUR,86.84319,percent of total,2015.0
+76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Turkey,TUR,97.0,percent,2019.0
+79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Turkey,TUR,3.2,percent,2018.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Turkey,TUR,4.669467,metric tons per capita,2016.0
+82,Governance,Fragile States Index Total ,C5_Close public transport,Turkey,TUR,79.14739400388918,score,2020.0
+88,Economics,Volume of exports,C5_Close public transport,Turkey,TUR,3.299,percent change,2020.0
+90,Economics,Unemployment rate (%) - Annual,C5_Close public transport,Turkey,TUR,14.0,percent,2019.0
+98,Environment,Electricity production from nuclear sources ,C5_Close public transport,Turkey,TUR,0.0,percent of total,2015.0
+112,Environment,Combustible renewables and waste,C5_Close public transport,Turkey,TUR,2.262969,percent of total energy,2015.0
+117,Environment,Access to electricity ,C5_Close public transport,Turkey,TUR,100.0,percent of population,2018.0

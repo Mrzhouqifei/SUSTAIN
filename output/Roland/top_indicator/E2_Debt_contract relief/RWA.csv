@@ -1,0 +1,63 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Rwanda,RWA,21.7676,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Rwanda,RWA,54.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Rwanda,RWA,7105.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Rwanda,RWA,71.276119728042,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Rwanda,RWA,3.4147000312805176,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Rwanda,RWA,57.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Rwanda,RWA,13.14421,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Rwanda,RWA,0.0703654,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Rwanda,RWA,96.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Rwanda,RWA,100.0,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Rwanda,RWA,57.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Rwanda,RWA,2.4,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Rwanda,RWA,50.34,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Rwanda,RWA,29.2329998,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Rwanda,RWA,1114.768,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Rwanda,RWA,0.564346,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Rwanda,RWA,0.246744,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Rwanda,RWA,-44998.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Rwanda,RWA,0.035126,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Rwanda,RWA,7.39,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Rwanda,RWA,0.018783,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Rwanda,RWA,8.0,score,2021.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Rwanda,RWA,0.001064,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Rwanda,RWA,8.842,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Rwanda,RWA,83.9499969,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Rwanda,RWA,-2.82916073005318,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Rwanda,RWA,0.134,Ones,2018.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Rwanda,RWA,6.54,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Rwanda,RWA,0.543,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Rwanda,RWA,86.6553742907747,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Rwanda,RWA,5.2,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Rwanda,RWA,0.1156722,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Rwanda,RWA,2.6,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Rwanda,RWA,-1.079368,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Rwanda,RWA,2.5771686082,"proportion, pero 100,000 people",2015.0
+42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Rwanda,RWA,31.94,percent,2018.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Rwanda,RWA,43.21022,micrograms per cubic meter,2017.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Rwanda,RWA,0.038569,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Rwanda,RWA,13.0,score,2021.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Rwanda,RWA,43.7,index ,2016.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Rwanda,RWA,0.041987,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Rwanda,RWA,76.4915,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Rwanda,RWA,0.1850227,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Rwanda,RWA,0.0761882,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Rwanda,RWA,0.095534,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Rwanda,RWA,0.002791,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Rwanda,RWA,0.000161,percent,2019.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Rwanda,RWA,21.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Rwanda,RWA,1.04100001,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Rwanda,RWA,61.25,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Rwanda,RWA,98.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Rwanda,RWA,11393.0,number,2019.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Rwanda,RWA,7.152,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Rwanda,RWA,32.6,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Rwanda,RWA,0.0773843,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Rwanda,RWA,86.02952230051775,score,2020.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Rwanda,RWA,83.6309967,Percentage of total population,2020.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Rwanda,RWA,3.5,rating,2019.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Rwanda,RWA,6.97,score,2018.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Rwanda,RWA,5.8,percent,2016.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Rwanda,RWA,1.2044,Ones,2018.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Rwanda,RWA,34.7165718078613,percent of population,2018.0

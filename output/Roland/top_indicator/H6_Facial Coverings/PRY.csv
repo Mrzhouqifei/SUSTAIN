@@ -1,0 +1,90 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H6_Facial Coverings,Paraguay,PRY,68.5176,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Paraguay,PRY,0.284057,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Paraguay,PRY,302754.0,number,2019.0
+4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Paraguay,PRY,62.1100006,Percentage of total employment,2020.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Paraguay,PRY,97028.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Paraguay,PRY,0.038819,percent,2019.0
+7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Paraguay,PRY,59.4099998,Percentage of females of the total population,2020.0
+8,Governance,Economic Freedom Score,H6_Facial Coverings,Paraguay,PRY,7.23,score,2018.0
+9,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H6_Facial Coverings,Paraguay,PRY,13.0230398178101,proportion,2018.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Paraguay,PRY,106.953,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Paraguay,PRY,12.0,percent,2020.0
+12,Governance,Personal Freedom Score ,H6_Facial Coverings,Paraguay,PRY,7.14,score,2018.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Paraguay,PRY,4.61036,per 100 people,2019.0
+14,Social issues ,Net migration,H6_Facial Coverings,Paraguay,PRY,-82780.0,net total / data are 5 year estimates,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Paraguay,PRY,0.001175,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Paraguay,PRY,2032.0,"Number (cumulative total by Dec 26,2020)",2020.0
+17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Paraguay,PRY,1.3544,Ones,2018.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Paraguay,PRY,0.006721,percent,2019.0
+19,Environment,Combustible renewables and waste,H6_Facial Coverings,Paraguay,PRY,40.36902,percent of total energy,2014.0
+20,Governance,Total freedom in the world score ,H6_Facial Coverings,Paraguay,PRY,65.0,score,2021.0
+21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Paraguay,PRY,72.1470032,Percentage of total population,2020.0
+22,Environment,"Adjusted net savings, including particulate emission damage",H6_Facial Coverings,Paraguay,PRY,7.20848839407264,percent of GNI,2018.0
+23,Health,Prevalence of obesity,H6_Facial Coverings,Paraguay,PRY,20.3,percent,2016.0
+24,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,Paraguay,PRY,46.2,index ,2018.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Paraguay,PRY,0.000326,percent,2019.0
+26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Paraguay,PRY,0.0,kWh,2015.0
+27,Social issues ,Life Ladder ,H6_Facial Coverings,Paraguay,PRY,5.652599811553955,score,2021.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,Paraguay,PRY,-0.8293102,score,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Paraguay,PRY,20.36974,Rate (risk-weighted prevalence),2019.0
+30,Governance,Fragile States Index Total ,H6_Facial Coverings,Paraguay,PRY,65.17819421791758,score,2020.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Paraguay,PRY,2.9,percent,2018.0
+32,Social issues ,Proportion of people living below 50 percent of median income (%),H6_Facial Coverings,Paraguay,PRY,18.6,proportion,2018.0
+33,Governance,Serious assault (rate),H6_Facial Coverings,Paraguay,PRY,8.34,rate,2018.0
+34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Paraguay,PRY,33.70331,percent of total,2014.0
+35,Environment,Electricity production from coal sources ,H6_Facial Coverings,Paraguay,PRY,0.0,percent of total,2015.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Paraguay,PRY,11.90908,micrograms per cubic meter,2017.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,Paraguay,PRY,61.6769945886019,percent of total final energy consumption,2015.0
+38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Paraguay,PRY,4.6,percent,2020.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Paraguay,PRY,46.0,Cases,2019.0
+40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Paraguay,PRY,0.0017939150401837,percent of total,2015.0
+41,Demographics,Urban population (% of total population),H6_Facial Coverings,Paraguay,PRY,61.879,total,2019.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,Paraguay,PRY,7407.34,kt,2016.0
+43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Paraguay,PRY,87.0,percent,2019.0
+44,Economics,Volume of imports,H6_Facial Coverings,Paraguay,PRY,3.929,percent change,2020.0
+45,Demographics,People using safely managed drinking water services (% of population),H6_Facial Coverings,Paraguay,PRY,63.894569280344,proportion,2017.0
+46,Social issues ,Press freedom score,H6_Facial Coverings,Paraguay,PRY,32.97,score,2020.0
+47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Paraguay,PRY,1.6604,Ones,2018.0
+48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Paraguay,PRY,16.25,proportion,2020.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Paraguay,PRY,0.067006,percent,2019.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Paraguay,PRY,1.092871,metric tons per capita,2016.0
+51,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Paraguay,PRY,1014.0,proportion,2019.0
+52,Governance,Human Development Index,H6_Facial Coverings,Paraguay,PRY,0.728,index,2019.0
+53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Paraguay,PRY,28.0,score,2020.0
+55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Paraguay,PRY,99.0583082497181,percent of total,2017.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Paraguay,PRY,-0.0019132,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,Paraguay,PRY,0.0821425,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,Paraguay,PRY,348.3501489644036,per 1 million people,2019.0
+59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Paraguay,PRY,86.0,percent,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,Paraguay,PRY,-0.203458,score,2019.0
+61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Paraguay,PRY,28.0,score,2021.0
+62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Paraguay,PRY,7.1448399951,"proportion, pero 100,000 people",2018.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Paraguay,PRY,0.047666,percent,2019.0
+65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Paraguay,PRY,0.5,percent,2019.0
+66,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,Paraguay,PRY,10.31283684657982,proportion,2019.0
+67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Paraguay,PRY,37.0,score,2021.0
+68,Governance,Human Freedom Score ,H6_Facial Coverings,Paraguay,PRY,7.19,score,2018.0
+69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Paraguay,PRY,0.0,percent of total,2014.0
+70,Economics,Volume of exports,H6_Facial Coverings,Paraguay,PRY,5.57,percent change,2020.0
+71,Environment,"Energy imports, net ",H6_Facial Coverings,Paraguay,PRY,-36.93956313474093,percent of energy use,2014.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,Paraguay,PRY,-0.5337567,score,2019.0
+75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Paraguay,PRY,4.83599997,percent of total labor force,2020.0
+78,Environment,Access to electricity ,H6_Facial Coverings,Paraguay,PRY,100.0,percent of population,2018.0
+80,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H6_Facial Coverings,Paraguay,PRY,1.26545680686831,proportion,2014.0
+82,Environment,Electricity production from oil sources,H6_Facial Coverings,Paraguay,PRY,0.0017939150401837,percent of total,2015.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Paraguay,PRY,0.075459,percent,2019.0
+84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Paraguay,PRY,89.7836914311379,proportion,2017.0
+85,Demographics,"Population, total",H6_Facial Coverings,Paraguay,PRY,7044636.0,total,2019.0
+86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Paraguay,PRY,37.35,percent,2018.0
+87,Health,Hospital beds (per 10 000 population),H6_Facial Coverings,Paraguay,PRY,8.3,Ones,2016.0
+88,Demographics,Rural population (% of total population),H6_Facial Coverings,Paraguay,PRY,38.121,proportion,2019.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,Paraguay,PRY,-0.5564034,score,2019.0
+92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Paraguay,PRY,783.0797242104964,kg of oil equivalent per capita,2014.0
+93,Environment,Energy use ,H6_Facial Coverings,Paraguay,PRY,67.43484590485127,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+94,Demographics,People with basic handwashing facilities including soap and water (% of population),H6_Facial Coverings,Paraguay,PRY,79.6015253008444,proportion,2017.0
+96,Environment,Electric power consumption ,H6_Facial Coverings,Paraguay,PRY,1552.384216684653,kWh per capita,2014.0
+98,Social issues ,Coverage of social safety net programs (% of population),H6_Facial Coverings,Paraguay,PRY,64.8169918974294,proportion,2017.0
+100,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,Paraguay,PRY,55.76362946903858,proportion,2019.0
+107,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H6_Facial Coverings,Paraguay,PRY,94.0207977294922,proportion,2018.0
+115,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H6_Facial Coverings,Paraguay,PRY,7.10147619247437,proportion,2014.0

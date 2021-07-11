@@ -1,0 +1,91 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Ecuador,ECU,57.2722,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Ecuador,ECU,39.0,score,2020.0
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Ecuador,ECU,204249.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Ecuador,ECU,313.5781046045445,per 1 million people,2019.0
+6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Ecuador,ECU,91.2479,per 100 people,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Ecuador,ECU,5.763999938964844,score,2021.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Ecuador,ECU,13932.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Ecuador,ECU,9.03723,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Ecuador,ECU,0.000217,percent,2019.0
+11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Ecuador,ECU,41154.74,kt,2016.0
+12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Ecuador,ECU,1376.393115326272,kWh per capita,2014.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Ecuador,ECU,32.62,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Ecuador,ECU,0.034556,percent,2019.0
+15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Ecuador,ECU,0.0,percent of total,2014.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Ecuador,ECU,0.052854,percent,2019.0
+17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Ecuador,ECU,85.0,percent,2019.0
+18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Ecuador,ECU,12.0439,per 100 people,2019.0
+19,Social issues ,Net migration,C7_Restrictions on internal movement,Ecuador,ECU,182000.0,net total / data are 5 year estimates,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Ecuador,ECU,0.195278,percent,2019.0
+21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Ecuador,ECU,0.4,percent,2019.0
+22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Ecuador,ECU,47.19705768486256,percent of total,2015.0
+23,Economics,Volume of imports,C7_Restrictions on internal movement,Ecuador,ECU,-0.571,percent change,2020.0
+24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Ecuador,ECU,-114.7121381964574,percent of energy use,2014.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Ecuador,ECU,14.8861,micrograms per cubic meter,2017.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Ecuador,ECU,0.055426,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Ecuador,ECU,0.001905,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Ecuador,ECU,-0.3985842,score,2019.0
+30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Ecuador,ECU,55.3050003,Percentage of females of the total population,2020.0
+31,Economics,Volume of exports,C7_Restrictions on internal movement,Ecuador,ECU,3.536,percent change,2020.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Ecuador,ECU,6.46,score,2018.0
+33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Ecuador,ECU,888.9648954559342,kg of oil equivalent per capita,2014.0
+34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Ecuador,ECU,34.52961672473867,percent of total,2015.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Ecuador,ECU,-0.5773571,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Ecuador,ECU,0.0609436,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Ecuador,ECU,7.82,score,2018.0
+38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Ecuador,ECU,2195840.0,number,2019.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Ecuador,ECU,0.007116,percent,2019.0
+40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Ecuador,ECU,13.8166859421647,percent of total final energy consumption,2015.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Ecuador,ECU,0.082729,percent,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Ecuador,ECU,98.3156239365569,percent of total,2017.0
+43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Ecuador,ECU,543000000.0,kWh,2015.0
+44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Ecuador,ECU,19.9,percent,2016.0
+45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Ecuador,ECU,9.8,percent,2020.0
+46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Ecuador,ECU,68.0490036,Percentage of total population,2020.0
+47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Ecuador,ECU,4.115853,percent of total energy,2014.0
+48,Demographics,People with basic handwashing facilities including soap and water (% of population),C7_Restrictions on internal movement,Ecuador,ECU,80.6347784463545,proportion,2017.0
+50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Ecuador,ECU,2.5059,Ones,2018.0
+51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Ecuador,ECU,2.495571,metric tons per capita,2016.0
+52,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Ecuador,ECU,104560.0,proportion,2019.0
+53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Ecuador,ECU,52.4609985,Percentage of total employment,2020.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Ecuador,ECU,-0.1890175,score,2019.0
+55,Demographics,People using safely managed drinking water services (% of population),C7_Restrictions on internal movement,Ecuador,ECU,75.0680124163761,proportion,2017.0
+56,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Ecuador,ECU,87.9887160353163,proportion,2017.0
+57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Ecuador,ECU,69.40303455188986,score,2020.0
+58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Ecuador,ECU,12.1632699966431,proportion,2017.0
+59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Ecuador,ECU,23.1,percent,2020.0
+60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Ecuador,ECU,46.0,Cases,2019.0
+61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Ecuador,ECU,2.0368,Ones,2016.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Ecuador,ECU,67.0,score,2021.0
+63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Ecuador,ECU,45.4,index ,2018.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Ecuador,ECU,40.0,score,2021.0
+66,Governance,Human Development Index,C7_Restrictions on internal movement,Ecuador,ECU,0.759,index,2019.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Ecuador,ECU,-0.4964109,score,2019.0
+68,Environment,Energy use ,C7_Restrictions on internal movement,Ecuador,ECU,73.5991319243388,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Ecuador,ECU,0.0,percent of total,2015.0
+70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Ecuador,ECU,4.2,percent,2018.0
+72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Ecuador,ECU,4.23799992,percent of total labor force,2020.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Ecuador,ECU,5.8006273457,"proportion, pero 100,000 people",2018.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Ecuador,ECU,7.14,score,2018.0
+75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Ecuador,ECU,3.64586104840398,percent of GNI,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Ecuador,ECU,27.0,score,2021.0
+77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Ecuador,ECU,35.66,percent,2018.0
+78,Environment,Access to electricity ,C7_Restrictions on internal movement,Ecuador,ECU,100.0,percent of population,2018.0
+79,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Ecuador,ECU,13.9,Ones,2016.0
+80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Ecuador,ECU,37.61,rate,2018.0
+81,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Ecuador,ECU,36.014,proportion,2019.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Ecuador,ECU,39.41605839,proportion,2020.0
+86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Ecuador,ECU,83.0,percent,2019.0
+88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Ecuador,ECU,86.88466,percent of total,2014.0
+89,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Ecuador,ECU,63.986,total,2019.0
+94,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C7_Restrictions on internal movement,Ecuador,ECU,1.499647962,proportion,2017.0
+95,Social issues ,Coverage of social safety net programs (% of population),C7_Restrictions on internal movement,Ecuador,ECU,68.51710889,proportion,2017.0
+101,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Ecuador,ECU,54.033761126527,proportion,2019.0
+103,Demographics,"Population, total",C7_Restrictions on internal movement,Ecuador,ECU,17373662.0,total,2019.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Ecuador,ECU,-0.8236187,score,2019.0
+107,Social issues ,Proportion of people living below 50 percent of median income (%),C7_Restrictions on internal movement,Ecuador,ECU,19.3,proportion,2018.0
+108,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Ecuador,ECU,99.59274,proportion,2017.0
+109,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Ecuador,ECU,104.43367767334,proportion,2018.0
+110,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Ecuador,ECU,11.35567596283613,proportion,2019.0
+113,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C7_Restrictions on internal movement,Ecuador,ECU,92.8297882080078,proportion,2017.0

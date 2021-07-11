@@ -1,0 +1,71 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Qatar,QAT,99.6528,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Qatar,QAT,63.0,score,2020.0
+3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Qatar,QAT,436.0772538220318,per 1 million people,2019.0
+4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Qatar,QAT,10.052,per 100 people,2019.0
+6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Qatar,QAT,42.51,score,2020.0
+7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Qatar,QAT,29.2744559223069,percent of GNI,2018.0
+8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Qatar,QAT,6.88,score,2018.0
+9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Qatar,QAT,43.73987834909789,score,2020.0
+10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Qatar,QAT,103259.1,kt,2016.0
+11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Qatar,QAT,-1.290618,score,2019.0
+12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Qatar,QAT,44.4510002,Percentage of total employment,2020.0
+13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Qatar,QAT,23.17234,Rate (risk-weighted prevalence),2019.0
+14,Economics,Volume of imports,C4_Restrictions on gatherings,Qatar,QAT,-0.356,percent change,2020.0
+15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Qatar,QAT,1.9,percent,2018.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Qatar,QAT,35.0,Cases,2019.0
+18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Qatar,QAT,98.0,percent,2019.0
+19,Governance,Human Development Index,C4_Restrictions on gatherings,Qatar,QAT,0.848,index,2019.0
+20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Qatar,QAT,87.0350037,Percentage of total population,2020.0
+21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Qatar,QAT,0.048487,percent,2019.0
+22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Qatar,QAT,0.0,kWh,2015.0
+23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Qatar,QAT,25.0,score,2021.0
+24,Social issues ,Net migration,C4_Restrictions on gatherings,Qatar,QAT,200000.0,net total / data are 5 year estimates,2019.0
+25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Qatar,QAT,9.756097561,proportion,2020.0
+26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Qatar,QAT,99.0,percent,2019.0
+27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Qatar,QAT,0.166511,percent,2019.0
+28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Qatar,QAT,7.2628,Ones,2018.0
+29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Qatar,QAT,138.329,per 100 people,2019.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Qatar,QAT,0.7046954,score,2019.0
+31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Qatar,QAT,141716.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Qatar,QAT,18.0,score,2021.0
+34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Qatar,QAT,0.36597237641,"proportion, pero 100,000 people",2014.0
+35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Qatar,QAT,100.0,percent of total,2015.0
+36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Qatar,QAT,17922.73293976329,kg of oil equivalent per capita,2014.0
+37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Qatar,QAT,6.07,score,2018.0
+38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Qatar,QAT,0.7343184,score,2019.0
+39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Qatar,QAT,0.0,percent of total,2015.0
+40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Qatar,QAT,-398.9911867008169,percent of energy use,2014.0
+41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Qatar,QAT,4.6,percent,2020.0
+42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Qatar,QAT,2.4852,Ones,2018.0
+43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Qatar,QAT,0.0,percent of total,2015.0
+45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Qatar,QAT,15.09,percent,2017.0
+46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Qatar,QAT,242.0,"Number (cumulative total by Dec 26,2020)",2020.0
+47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Qatar,QAT,99.99503,percent of total,2014.0
+48,Environment,Access to electricity ,C4_Restrictions on gatherings,Qatar,QAT,100.0,percent of population,2018.0
+49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Qatar,QAT,38.90147,metric tons per capita,2016.0
+50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Qatar,QAT,0.082,percent of total labor force,2020.0
+51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Qatar,QAT,6.3745293617248535,score,2015.0
+53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Qatar,QAT,0.6793299,score,2019.0
+54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Qatar,QAT,0.000312,percent,2019.0
+55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Qatar,QAT,0.0,percent of total energy,2014.0
+56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Qatar,QAT,0.049155,percent,2019.0
+57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Qatar,QAT,461289.0,number,2019.0
+58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Qatar,QAT,0.0,percent of total final energy consumption,2015.0
+59,Economics,Volume of exports,C4_Restrictions on gatherings,Qatar,QAT,0.031,percent change,2020.0
+60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Qatar,QAT,0.8489959,score,2019.0
+64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Qatar,QAT,35.1,percent,2016.0
+65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Qatar,QAT,13.9,percent,2020.0
+68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Qatar,QAT,5.26,score,2018.0
+69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Qatar,QAT,7.0,score,2021.0
+70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Qatar,QAT,0.000466,percent,2019.0
+71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Qatar,QAT,0.005064,percent,2019.0
+72,Environment,Energy use ,C4_Restrictions on gatherings,Qatar,QAT,187.5186209116441,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Qatar,QAT,14781.64832599896,kWh per capita,2014.0
+74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Qatar,QAT,0.068027,percent,2019.0
+76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Qatar,QAT,0.104982,percent,2019.0
+78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Qatar,QAT,0.7052068,score,2019.0
+79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Qatar,QAT,56.762001,Percentage of females of the total population,2020.0
+80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Qatar,QAT,91.18733,micrograms per cubic meter,2017.0
+88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Qatar,QAT,100.0,percent of total,2017.0
+89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Qatar,QAT,0.0,percent of total,2014.0

@@ -1,0 +1,4 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Vatican City,VAT,26.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Governance,Serious assault (rate),C6_Stay at home requirements,Vatican City,VAT,0.0,rate,2015.0
+32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Vatican City,VAT,0.0,"Number (cumulative total by Dec 26,2020)",2020.0

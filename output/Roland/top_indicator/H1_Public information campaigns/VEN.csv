@@ -1,0 +1,78 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H1_Public information campaigns,Venezuela,VEN,72.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H1_Public information campaigns,Venezuela,VEN,15.0,score,2020.0
+3,Demographics,Secure Internet servers ,H1_Public information campaigns,Venezuela,VEN,217.10748791487,per 1 million people,2019.0
+4,Health,Prevalence of COVID-19,H1_Public information campaigns,Venezuela,VEN,109081.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H1_Public information campaigns,Venezuela,VEN,975.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Summary exposure value tobacco,H1_Public information campaigns,Venezuela,VEN,15.05829,Rate (risk-weighted prevalence),2019.0
+8,Social issues ,Net migration,H1_Public information campaigns,Venezuela,VEN,-3266243.0,net total / data are 5 year estimates,2019.0
+10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Venezuela,VEN,58.0682,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Venezuela,VEN,6.7,percent,2020.0
+12,Social issues ,Life Ladder ,H1_Public information campaigns,Venezuela,VEN,4.892199993133545,score,2021.0
+13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Venezuela,VEN,8.98171,per 100 people,2019.0
+14,Economics,Volume of imports,H1_Public information campaigns,Venezuela,VEN,-14.038,percent change,2020.0
+15,Environment,Electric power consumption ,H1_Public information campaigns,Venezuela,VEN,2718.942774560433,kWh per capita,2014.0
+16,Governance,Serious assault (rate),H1_Public information campaigns,Venezuela,VEN,6.51,rate,2018.0
+17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Venezuela,VEN,93.0,percent,2019.0
+18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Venezuela,VEN,0.043047,percent,2019.0
+20,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Venezuela,VEN,45.1450005,Percentage of females of the total population,2020.0
+21,Environment,CO2 emissions (kt),H1_Public information campaigns,Venezuela,VEN,164175.3,kt,2016.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Venezuela,VEN,45.0,Cases,2019.0
+23,Environment,Renewable energy consumption ,H1_Public information campaigns,Venezuela,VEN,12.8415785518796,percent of total final energy consumption,2015.0
+24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Venezuela,VEN,1.0,score,2021.0
+25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Venezuela,VEN,0.9416,Ones,2018.0
+26,Health,"Prevalence of HIV, total (% of population ages 15-49)",H1_Public information campaigns,Venezuela,VEN,0.6,percent,2019.0
+27,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Venezuela,VEN,7.44088033456572,percent of GNI,2014.0
+28,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Venezuela,VEN,75.4919968,Percentage of total employment,2020.0
+29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Venezuela,VEN,17.00855,micrograms per cubic meter,2017.0
+30,Environment,Electricity production from oil sources,H1_Public information campaigns,Venezuela,VEN,16.88578960795986,percent of total,2015.0
+31,Governance,Human Freedom Score ,H1_Public information campaigns,Venezuela,VEN,4.08,score,2018.0
+32,Environment,Access to electricity ,H1_Public information campaigns,Venezuela,VEN,100.0,percent of population,2018.0
+34,Health,Prevalence of down syndrome,H1_Public information campaigns,Venezuela,VEN,0.000287,percent,2019.0
+36,Environment,"Electricity production from oil, gas and coal sources",H1_Public information campaigns,Venezuela,VEN,36.30495790458372,percent of total,2015.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Venezuela,VEN,-2.359116,score,2019.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Venezuela,VEN,64.0,percent,2019.0
+40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Venezuela,VEN,0.283983,percent,2019.0
+43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Venezuela,VEN,99.9336624316864,percent of total,2017.0
+44,Social issues ,"Primary completion rate, total (% of relevant age group)",H1_Public information campaigns,Venezuela,VEN,92.588737487793,proportion,2017.0
+45,Social issues ,Press freedom score,H1_Public information campaigns,Venezuela,VEN,45.66,score,2020.0
+46,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Venezuela,VEN,22.15568862,proportion,2020.0
+47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Venezuela,VEN,13.0,score,2021.0
+48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Venezuela,VEN,0.001971,percent,2019.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Venezuela,VEN,9.38099957,percent of total labor force,2020.0
+50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Venezuela,VEN,0.035285,percent,2019.0
+51,Governance,Human Development Index,H1_Public information campaigns,Venezuela,VEN,0.711,index,2019.0
+52,Governance,Total freedom in the world score ,H1_Public information campaigns,Venezuela,VEN,14.0,score,2021.0
+53,Health,Prevalence of obesity,H1_Public information campaigns,Venezuela,VEN,25.6,percent,2016.0
+54,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Venezuela,VEN,93.9350190169228,proportion,2017.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Venezuela,VEN,-1.445485,score,2019.0
+56,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Venezuela,VEN,10.6,percent,2020.0
+57,Demographics,Urban population (% of total population),H1_Public information campaigns,Venezuela,VEN,88.24,total,2019.0
+58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H1_Public information campaigns,Venezuela,VEN,25.1461696624756,proportion,2016.0
+59,Health,Prevalence of total cancers,H1_Public information campaigns,Venezuela,VEN,0.012026,percent,2019.0
+60,Governance,Economic Freedom Score,H1_Public information campaigns,Venezuela,VEN,3.34,score,2018.0
+61,Governance,Personal Freedom Score ,H1_Public information campaigns,Venezuela,VEN,4.81,score,2018.0
+63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Venezuela,VEN,5467040.0,number,2019.0
+64,Economics,Volume of exports,H1_Public information campaigns,Venezuela,VEN,-11.942,percent change,2020.0
+65,Governance,Fragile States Index Total ,H1_Public information campaigns,Venezuela,VEN,91.15759122974585,score,2020.0
+67,Demographics,Refugee population by country or territory of asylum,H1_Public information campaigns,Venezuela,VEN,67749.0,proportion,2019.0
+68,Health,Prevalence of Diabetes,H1_Public information campaigns,Venezuela,VEN,0.081675,percent,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Venezuela,VEN,-1.50984,score,2019.0
+71,Governance,Voice and accountability estimate,H1_Public information campaigns,Venezuela,VEN,-1.409431,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Venezuela,VEN,-2.320054,score,2019.0
+73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Venezuela,VEN,5.500713,metric tons per capita,2016.0
+77,Environment,Electricity production from coal sources ,H1_Public information campaigns,Venezuela,VEN,0.0,percent of total,2015.0
+78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Venezuela,VEN,0.122755,percent,2019.0
+80,Environment,Electricity production from nuclear sources ,H1_Public information campaigns,Venezuela,VEN,0.0,percent of total,2014.0
+85,Demographics,Rural population (% of total population),H1_Public information campaigns,Venezuela,VEN,11.76000000000001,proportion,2019.0
+87,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Venezuela,VEN,11.71195756288803,proportion,2019.0
+90,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Venezuela,VEN,53.88217549558981,proportion,2019.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Venezuela,VEN,-1.658307,score,2019.0
+100,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H1_Public information campaigns,Venezuela,VEN,97.1270904541016,proportion,2016.0
+103,Demographics,"Population, total",H1_Public information campaigns,Venezuela,VEN,28515829.0,total,2019.0
+104,Environment,"Electricity production from renewable sources, excluding hydroelectric",H1_Public information campaigns,Venezuela,VEN,0.0,kWh,2015.0
+105,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Venezuela,VEN,59.2709999,Percentage of total population,2020.0
+109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Venezuela,VEN,1.7,percent,2018.0
+110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Venezuela,VEN,36.687634837,"proportion, pero 100,000 people",2018.0
+113,Health,Hospital beds (per 10 000 population),H1_Public information campaigns,Venezuela,VEN,8.7,Ones,2017.0
+116,Social issues ,Progression to secondary school (%),H1_Public information campaigns,Venezuela,VEN,98.55073,proportion,2016.0

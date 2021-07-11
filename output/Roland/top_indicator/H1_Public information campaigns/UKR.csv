@@ -1,0 +1,75 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H1_Public information campaigns,Ukraine,UKR,58.8895,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H1_Public information campaigns,Ukraine,UKR,33.0,score,2020.0
+3,Demographics,Secure Internet servers ,H1_Public information campaigns,Ukraine,UKR,7867.202446403532,per 1 million people,2019.0
+4,Health,Prevalence of COVID-19,H1_Public information campaigns,Ukraine,UKR,956123.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H1_Public information campaigns,Ukraine,UKR,16469.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Summary exposure value tobacco,H1_Public information campaigns,Ukraine,UKR,27.58052,Rate (risk-weighted prevalence),2019.0
+8,Social issues ,Net migration,H1_Public information campaigns,Ukraine,UKR,50001.0,net total / data are 5 year estimates,2019.0
+9,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Ukraine,UKR,2.9923,Ones,2014.0
+10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Ukraine,UKR,130.629,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Ukraine,UKR,17.0,percent,2020.0
+12,Social issues ,Life Ladder ,H1_Public information campaigns,Ukraine,UKR,4.874800205230713,score,2021.0
+13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Ukraine,UKR,16.1591,per 100 people,2019.0
+14,Economics,Volume of imports,H1_Public information campaigns,Ukraine,UKR,6.135,percent change,2020.0
+15,Environment,Electric power consumption ,H1_Public information campaigns,Ukraine,UKR,3418.569241544406,kWh per capita,2014.0
+16,Governance,Serious assault (rate),H1_Public information campaigns,Ukraine,UKR,3.63,rate,2017.0
+17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Ukraine,UKR,93.0,percent,2019.0
+18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Ukraine,UKR,0.036456,percent,2019.0
+19,Economics,"Central government debt, total",H1_Public information campaigns,Ukraine,UKR,71.80954544940045,percent of GDP,2016.0
+20,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Ukraine,UKR,46.4599991,Percentage of females of the total population,2020.0
+21,Environment,CO2 emissions (kt),H1_Public information campaigns,Ukraine,UKR,202249.7,kt,2016.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Ukraine,UKR,77.0,Cases,2019.0
+23,Environment,Renewable energy consumption ,H1_Public information campaigns,Ukraine,UKR,4.14431803937237,percent of total final energy consumption,2015.0
+24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Ukraine,UKR,26.0,score,2021.0
+25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Ukraine,UKR,6.661,Ones,2014.0
+26,Health,"Prevalence of HIV, total (% of population ages 15-49)",H1_Public information campaigns,Ukraine,UKR,1.0,percent,2019.0
+27,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Ukraine,UKR,1.55325743707198,percent of GNI,2018.0
+28,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Ukraine,UKR,61.125,Percentage of total employment,2020.0
+29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Ukraine,UKR,20.30978,micrograms per cubic meter,2017.0
+30,Environment,Electricity production from oil sources,H1_Public information campaigns,Ukraine,UKR,0.4601870358032916,percent of total,2015.0
+31,Governance,Human Freedom Score ,H1_Public information campaigns,Ukraine,UKR,6.45,score,2018.0
+32,Environment,Access to electricity ,H1_Public information campaigns,Ukraine,UKR,100.0,percent of population,2018.0
+33,Social issues ,Proportion of women in managerial positions (%),H1_Public information campaigns,Ukraine,UKR,40.43,percent,2018.0
+34,Health,Prevalence of down syndrome,H1_Public information campaigns,Ukraine,UKR,0.000183,percent,2019.0
+35,Environment,"Energy imports, net ",H1_Public information campaigns,Ukraine,UKR,27.20850821652672,percent of energy use,2014.0
+36,Environment,"Electricity production from oil, gas and coal sources",H1_Public information campaigns,Ukraine,UKR,41.27001751918474,percent of total,2015.0
+37,Environment,Combustible renewables and waste,H1_Public information campaigns,Ukraine,UKR,1.342186,percent of total energy,2014.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Ukraine,UKR,-0.2586701,score,2019.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Ukraine,UKR,80.0,percent,2019.0
+40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Ukraine,UKR,0.248717,percent,2019.0
+43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Ukraine,UKR,100.0,percent of total,2017.0
+45,Social issues ,Press freedom score,H1_Public information campaigns,Ukraine,UKR,32.52,score,2020.0
+46,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Ukraine,UKR,20.80378251,proportion,2020.0
+47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Ukraine,UKR,34.0,score,2021.0
+48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Ukraine,UKR,0.000218,percent,2019.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Ukraine,UKR,8.93400002,percent of total labor force,2020.0
+50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Ukraine,UKR,0.052466,percent,2019.0
+51,Governance,Human Development Index,H1_Public information campaigns,Ukraine,UKR,0.779,index,2019.0
+52,Governance,Total freedom in the world score ,H1_Public information campaigns,Ukraine,UKR,60.0,score,2021.0
+53,Health,Prevalence of obesity,H1_Public information campaigns,Ukraine,UKR,24.1,percent,2016.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Ukraine,UKR,-1.52387,score,2019.0
+56,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Ukraine,UKR,15.9,percent,2020.0
+59,Health,Prevalence of total cancers,H1_Public information campaigns,Ukraine,UKR,0.016935,percent,2019.0
+60,Governance,Economic Freedom Score,H1_Public information campaigns,Ukraine,UKR,6.06,score,2018.0
+61,Governance,Personal Freedom Score ,H1_Public information campaigns,Ukraine,UKR,6.83,score,2018.0
+62,Environment,Fossil fuel energy consumption,H1_Public information campaigns,Ukraine,UKR,75.34951,percent of total,2014.0
+63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Ukraine,UKR,4182990.0,number,2019.0
+64,Economics,Volume of exports,H1_Public information campaigns,Ukraine,UKR,3.886,percent change,2020.0
+65,Governance,Fragile States Index Total ,H1_Public information campaigns,Ukraine,UKR,69.00704175599185,score,2020.0
+68,Health,Prevalence of Diabetes,H1_Public information campaigns,Ukraine,UKR,0.054418,percent,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Ukraine,UKR,-0.7095972,score,2019.0
+71,Governance,Voice and accountability estimate,H1_Public information campaigns,Ukraine,UKR,0.0552378,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Ukraine,UKR,-0.6983514,score,2019.0
+73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Ukraine,UKR,4.493971,metric tons per capita,2016.0
+77,Environment,Electricity production from coal sources ,H1_Public information campaigns,Ukraine,UKR,34.57818244627039,percent of total,2015.0
+78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Ukraine,UKR,0.137878,percent,2019.0
+79,Social issues ,Gini index (World Bank estimate),H1_Public information campaigns,Ukraine,UKR,26.1,index ,2018.0
+80,Environment,Electricity production from nuclear sources ,H1_Public information campaigns,Ukraine,UKR,48.57205660118148,percent of total,2014.0
+81,Environment,Energy use (kg of oil equivalent per capita),H1_Public information campaigns,Ukraine,UKR,2334.396422383772,kg of oil equivalent per capita,2014.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Ukraine,UKR,-0.2965825,score,2019.0
+98,Environment,Energy use ,H1_Public information campaigns,Ukraine,UKR,198.0569239484071,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+104,Environment,"Electricity production from renewable sources, excluding hydroelectric",H1_Public information campaigns,Ukraine,UKR,1706000000.0,kWh,2015.0
+105,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Ukraine,UKR,53.8720016,Percentage of total population,2020.0
+109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Ukraine,UKR,3.7,percent,2018.0
+110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Ukraine,UKR,6.1837305712,"proportion, pero 100,000 people",2017.0

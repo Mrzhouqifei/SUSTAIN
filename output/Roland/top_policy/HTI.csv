@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+HTI,H3_Contact tracing,0.09929534612777616,1
+HTI,C7_Restrictions on internal movement,0.09315132252660847,2
+HTI,C2_Workplace closing,0.08109835506598632,3
+HTI,H2_Testing policy,0.07307463008547192,4
+HTI,C8_International travel controls,0.07237807038981459,5
+HTI,C3_Cancel public events,0.06792569018463546,6
+HTI,C6_Stay at home requirements,0.059346877518882825,7
+HTI,H6_Facial Coverings,0.058442315962783674,8
+HTI,C1_School closing,0.05421633736627764,9
+HTI,C4_Restrictions on gatherings,0.048892636157798965,10
+HTI,C5_Close public transport,0.04571767093853766,11
+HTI,E2_Debt/contract relief,0.045104466009065806,12
+HTI,H1_Public information campaigns,0.033109457991303166,13
+HTI,E1_Income support,0.022836812430450867,14
+HTI,H7_Vaccination policy,0.008201053407734443,15

@@ -1,0 +1,71 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Norway,NOR,98.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Norway,NOR,84.0,score,2020.0
+3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Norway,NOR,36180.95789446915,per 1 million people,2019.0
+4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Norway,NOR,41.3363,per 100 people,2019.0
+6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Norway,NOR,7.84,score,2020.0
+7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Norway,NOR,18.2084208652648,percent of GNI,2018.0
+8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Norway,NOR,7.6,score,2018.0
+9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Norway,NOR,16.19121048702654,score,2020.0
+10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Norway,NOR,41022.73,kt,2016.0
+11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Norway,NOR,1.686955,score,2019.0
+12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Norway,NOR,78.8899994,Percentage of total employment,2020.0
+13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Norway,NOR,21.4042,Rate (risk-weighted prevalence),2019.0
+14,Economics,Volume of imports,C4_Restrictions on gatherings,Norway,NOR,2.696,percent change,2020.0
+15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Norway,NOR,8.6,percent,2018.0
+16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Norway,NOR,36.87,rate,2018.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Norway,NOR,3.3,Cases,2019.0
+18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Norway,NOR,97.0,percent,2019.0
+19,Governance,Human Development Index,C4_Restrictions on gatherings,Norway,NOR,0.957,index,2019.0
+20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Norway,NOR,63.6570015,Percentage of total population,2020.0
+21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Norway,NOR,0.075064,percent,2019.0
+22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Norway,NOR,2712000000.0,kWh,2015.0
+23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Norway,NOR,100.0,score,2021.0
+24,Social issues ,Net migration,C4_Restrictions on gatherings,Norway,NOR,140000.0,net total / data are 5 year estimates,2019.0
+25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Norway,NOR,41.42011834,proportion,2020.0
+26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Norway,NOR,97.0,percent,2019.0
+27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Norway,NOR,0.121841,percent,2019.0
+28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Norway,NOR,18.2248,Ones,2018.0
+29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Norway,NOR,107.174,per 100 people,2019.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Norway,NOR,1.186128,score,2019.0
+31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Norway,NOR,42775.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Norway,NOR,60.0,score,2021.0
+34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Norway,NOR,0.46834371183,"proportion, pero 100,000 people",2018.0
+35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Norway,NOR,1.930212198274065,percent of total,2015.0
+36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Norway,NOR,5817.636602656552,kg of oil equivalent per capita,2015.0
+37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Norway,NOR,8.45,score,2018.0
+38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Norway,NOR,1.984915,score,2019.0
+39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Norway,NOR,0.020149803365712,percent of total,2015.0
+40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Norway,NOR,-581.3465734958886,percent of energy use,2015.0
+42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Norway,NOR,2.9164,Ones,2018.0
+43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Norway,NOR,0.1049179416628452,percent of total,2015.0
+45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Norway,NOR,35.6,percent,2018.0
+46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Norway,NOR,404.0,"Number (cumulative total by Dec 26,2020)",2020.0
+47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Norway,NOR,56.95163,percent of total,2015.0
+48,Environment,Access to electricity ,C4_Restrictions on gatherings,Norway,NOR,100.0,percent of population,2018.0
+49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Norway,NOR,7.836962,metric tons per capita,2016.0
+50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Norway,NOR,3.30999994,percent of total labor force,2020.0
+51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Norway,NOR,7.392499923706055,score,2021.0
+53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Norway,NOR,1.804055,score,2019.0
+54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Norway,NOR,0.000527,percent,2019.0
+55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Norway,NOR,3.250989,percent of total energy,2015.0
+56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Norway,NOR,0.038506,percent,2019.0
+57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Norway,NOR,563250.0,number,2019.0
+58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Norway,NOR,57.7720015985381,percent of total final energy consumption,2015.0
+59,Economics,Volume of exports,C4_Restrictions on gatherings,Norway,NOR,3.056,percent change,2020.0
+60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Norway,NOR,2.073468,score,2019.0
+64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Norway,NOR,23.1,percent,2016.0
+68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Norway,NOR,9.29,score,2018.0
+69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Norway,NOR,40.0,score,2021.0
+70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Norway,NOR,0.001247,percent,2019.0
+71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Norway,NOR,0.036531,percent,2019.0
+72,Environment,Energy use ,C4_Restrictions on gatherings,Norway,NOR,93.99082030250499,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Norway,NOR,22999.93459512827,kWh per capita,2014.0
+74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Norway,NOR,0.088152,percent,2019.0
+76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Norway,NOR,0.089124,percent,2019.0
+78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Norway,NOR,1.862292,score,2019.0
+79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Norway,NOR,60.2770004,Percentage of females of the total population,2020.0
+80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Norway,NOR,6.95652,micrograms per cubic meter,2017.0
+88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Norway,NOR,2.04383779996992,percent of total,2017.0
+89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Norway,NOR,0.0,percent of total,2015.0
+106,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Norway,NOR,27.0,index ,2017.0

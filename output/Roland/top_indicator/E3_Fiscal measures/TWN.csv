@@ -1,0 +1,28 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Governance,Corruption Perceptions Index,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+4,Economics,"Foreign direct investment, net",E3_Fiscal measures,Taiwan,TWN,0.0,US Dollar,2021
+8,Health,Summary exposure value tobacco,E3_Fiscal measures,Taiwan,TWN,0.0,Rate (risk-weighted prevalence),2021
+14,Economics,"Trade, total as % of GDP",E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+21,Governance,Rule of law estimate ,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+22,Governance,Regulatory quality estimate,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+27,Health,Prevalence of Hypertensive heart disease,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+30,Health,Prevalence of down syndrome,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+39,Governance,Political stability and absence of violence/terrorism estimate,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+44,Governance,Control of corruption estimate,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+45,Social issues ,Press freedom score,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+47,Health,Prevalence of Depressive disorders,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+48,Health,Prevalence of anxiety disorders,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+52,Economics,Expenditure on education (% of GDP),E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+53,Health,Prevalence of Respiratory infections and tuberculosis,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+54,Governance,Government effectiveness estimate,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+56,Health,Prevalence of chronic kidney disease,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+62,Governance,Voice and accountability estimate,E3_Fiscal measures,Taiwan,TWN,0.0,score,2021
+64,Health,Prevalence of total cancers,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+67,Health,Prevalence of Diabetes,E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+70,Economics,"Lending interest rates, percent per annum",E3_Fiscal measures,Taiwan,TWN,0.0,percent per annum,2021
+89,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E3_Fiscal measures,Taiwan,TWN,0.0,international $ in PPP,2021
+91,Economics,Stock market capitalization (US$ million),E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+96,Economics,Expenditure on health (% of GDP),E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+97,Economics,Expenditure on social protection (% of GDP),E3_Fiscal measures,Taiwan,TWN,0.0,percent,2021
+100,Economics,"International tourism, receipts",E3_Fiscal measures,Taiwan,TWN,0.0,US Dollar,2021
+104,Health,Hospital beds (per 10 000 population),E3_Fiscal measures,Taiwan,TWN,0.0,Ones,2021

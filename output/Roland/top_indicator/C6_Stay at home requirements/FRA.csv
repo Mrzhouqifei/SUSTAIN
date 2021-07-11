@@ -1,0 +1,72 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C6_Stay at home requirements,France,FRA,83.3397,percent of population,2019.0
+2,Health,Prevalence of COVID-19,C6_Stay at home requirements,France,FRA,2401113.0,"Number (cumulative total by Dec 26,2020)",2020.0
+3,Governance,Corruption Perceptions Index,C6_Stay at home requirements,France,FRA,69.0,score,2020.0
+4,Demographics,Secure Internet servers ,C6_Stay at home requirements,France,FRA,29396.27679360689,per 1 million people,2019.0
+6,Governance,Serious assault (rate),C6_Stay at home requirements,France,FRA,375.63,rate,2016.0
+7,Social issues ,Press freedom score,C6_Stay at home requirements,France,FRA,22.92,score,2020.0
+8,Economics,Volume of exports,C6_Stay at home requirements,France,FRA,3.698,percent change,2020.0
+9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,France,FRA,110.615,per 100 people,2019.0
+10,Health,Summary exposure value tobacco,C6_Stay at home requirements,France,FRA,23.79618,Rate (risk-weighted prevalence),2019.0
+11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,France,FRA,45.6934,per 100 people,2019.0
+12,Health,Prevalence of down syndrome,C6_Stay at home requirements,France,FRA,0.000543,percent,2019.0
+13,Social issues ,Net migration,C6_Stay at home requirements,France,FRA,182636.0,net total / data are 5 year estimates,2019.0
+14,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,France,FRA,90.0,percent,2019.0
+15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,France,FRA,37797000.0,number,2019.0
+16,Social issues ,Life Ladder ,C6_Stay at home requirements,France,FRA,6.689899921417236,score,2021.0
+17,Health,Prevalence of total cancers,C6_Stay at home requirements,France,FRA,0.036774,percent,2019.0
+18,Health,Prevalence of obesity,C6_Stay at home requirements,France,FRA,21.6,percent,2016.0
+19,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,France,FRA,3.2672,Ones,2018.0
+20,Governance,Control of corruption estimate,C6_Stay at home requirements,France,FRA,1.300968,score,2019.0
+21,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,France,FRA,39.51473137,proportion,2020.0
+22,Health,Prevalence of Diabetes,C6_Stay at home requirements,France,FRA,0.053335,percent,2019.0
+23,Governance,Government effectiveness estimate,C6_Stay at home requirements,France,FRA,1.384611,score,2019.0
+24,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,France,FRA,8.3,percent,2018.0
+25,Governance,Human Freedom Score ,C6_Stay at home requirements,France,FRA,8.05,score,2018.0
+26,Governance,Human Development Index,C6_Stay at home requirements,France,FRA,0.901,index,2019.0
+27,Environment,Electricity production from coal sources ,C6_Stay at home requirements,France,FRA,2.160448913386833,percent of total,2015.0
+28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,France,FRA,52.0,score,2021.0
+29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,France,FRA,4.57346,metric tons per capita,2014.0
+30,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,France,FRA,11.81496,micrograms per cubic meter,2017.0
+31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,France,FRA,0.069994,percent,2019.0
+32,Health,Mortality due to COVID-19,C6_Stay at home requirements,France,FRA,59855.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,France,FRA,50.6479988,Percentage of females of the total population,2020.0
+34,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,France,FRA,8.3380003,percent of total labor force,2020.0
+35,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,France,FRA,34.47,percent,2018.0
+36,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,France,FRA,11.4707,Ones,2018.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,France,FRA,8.7,Cases,2019.0
+39,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,France,FRA,8.93840192931033,percent of GNI,2018.0
+41,Environment,Renewable energy consumption ,C6_Stay at home requirements,France,FRA,13.4992623166677,percent of total final energy consumption,2015.0
+42,Governance,Voice and accountability estimate,C6_Stay at home requirements,France,FRA,1.141659,score,2019.0
+43,Health,"Prevalence of HIV, total (% of population ages 15-49)",C6_Stay at home requirements,France,FRA,0.3,percent,2019.0
+45,Governance,Regulatory quality estimate,C6_Stay at home requirements,France,FRA,1.440292,score,2019.0
+46,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,France,FRA,31.6,index ,2017.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,France,FRA,0.313681,score,2019.0
+48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,France,FRA,0.104907,percent,2019.0
+49,Governance,Rule of law estimate ,C6_Stay at home requirements,France,FRA,1.412058,score,2019.0
+51,Environment,"Energy imports, net ",C6_Stay at home requirements,France,FRA,44.11016596524359,percent of energy use,2015.0
+52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,France,FRA,0.002016,percent,2019.0
+53,Environment,Electricity production from oil sources,C6_Stay at home requirements,France,FRA,0.3826127696124537,percent of total,2015.0
+55,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,France,FRA,46.48797,percent of total,2015.0
+56,Governance,Total freedom in the world score ,C6_Stay at home requirements,France,FRA,90.0,score,2021.0
+57,Economics,Volume of imports,C6_Stay at home requirements,France,FRA,2.66,percent change,2020.0
+58,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,France,FRA,78.2135639205549,percent of total,2017.0
+59,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,France,FRA,6.055787639265015,percent of total,2015.0
+60,Environment,CO2 emissions (kt),C6_Stay at home requirements,France,FRA,303275.6,kt,2014.0
+61,Environment,Access to electricity ,C6_Stay at home requirements,France,FRA,100.0,percent of population,2018.0
+63,Governance,Economic Freedom Score,C6_Stay at home requirements,France,FRA,7.4,score,2018.0
+64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,France,FRA,0.047434,percent,2019.0
+66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,France,FRA,38.0,score,2021.0
+68,Environment,Energy use ,C6_Stay at home requirements,France,FRA,84.76991219994481,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+70,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,France,FRA,34917000000.0,kWh,2015.0
+71,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,France,FRA,77.7279968,Percentage of total employment,2020.0
+73,Environment,Combustible renewables and waste,C6_Stay at home requirements,France,FRA,4.812009,percent of total energy,2015.0
+74,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,France,FRA,54.9220009,Percentage of total population,2020.0
+75,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,France,FRA,77.62780082840278,percent of total,2015.0
+77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,France,FRA,0.118459,percent,2019.0
+82,Governance,Fragile States Index Total ,C6_Stay at home requirements,France,FRA,30.481111070323838,score,2020.0
+85,Governance,Personal Freedom Score ,C6_Stay at home requirements,France,FRA,8.7,score,2018.0
+87,Environment,Electric power consumption ,C6_Stay at home requirements,France,FRA,6939.943524909275,kWh per capita,2014.0
+90,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,France,FRA,3692.017833310533,kg of oil equivalent per capita,2015.0
+92,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,France,FRA,96.0,percent,2019.0
+105,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,France,FRA,1.1986365025,"proportion, pero 100,000 people",2018.0

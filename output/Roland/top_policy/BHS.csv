@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+BHS,H7_Vaccination policy,0.1354122117556082,1
+BHS,C3_Cancel public events,0.13078237894391445,2
+BHS,C5_Close public transport,0.10982706248400816,3
+BHS,C8_International travel controls,0.09367442640972408,4
+BHS,H2_Testing policy,0.07586922682992127,5
+BHS,E2_Debt/contract relief,0.07333608135111723,6
+BHS,E1_Income support,0.0717325313424396,7
+BHS,C1_School closing,0.07023647987240436,8
+BHS,C6_Stay at home requirements,0.055713619305368944,9
+BHS,C4_Restrictions on gatherings,0.05321870447447636,10
+BHS,H6_Facial Coverings,0.03192018674839425,11
+BHS,C2_Workplace closing,0.01934591060811876,12
+BHS,C7_Restrictions on internal movement,0.0191573765428438,13
+BHS,H3_Contact tracing,0.004584041544762922,14
+BHS,H1_Public information campaigns,0.0032849379569477345,15

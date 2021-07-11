@@ -1,0 +1,61 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C5_Close public transport,Guinea-Bissau,GNB,3.93051,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C5_Close public transport,Guinea-Bissau,GNB,19.0,score,2020.0
+3,Health,Prevalence of COVID-19,C5_Close public transport,Guinea-Bissau,GNB,2447.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Guinea-Bissau,GNB,3.644083414110515,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,C5_Close public transport,Guinea-Bissau,GNB,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Social issues ,Net migration,C5_Close public transport,Guinea-Bissau,GNB,-6996.0,net total / data are 5 year estimates,2019.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Guinea-Bissau,GNB,17.0,score,2021.0
+10,Health,Prevalence of anxiety disorders,C5_Close public transport,Guinea-Bissau,GNB,0.029601,percent,2019.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Guinea-Bissau,GNB,0.0638756,per 100 people,2019.0
+13,Health,Summary exposure value tobacco,C5_Close public transport,Guinea-Bissau,GNB,13.76451,Rate (risk-weighted prevalence),2019.0
+14,Health,Prevalence of Diabetes,C5_Close public transport,Guinea-Bissau,GNB,0.020877,percent,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Guinea-Bissau,GNB,27.0,score,2021.0
+16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Guinea-Bissau,GNB,0.1274,Ones,2016.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Guinea-Bissau,GNB,293.36,kt,2016.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Guinea-Bissau,GNB,0.26891,percent,2019.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Guinea-Bissau,GNB,86.8517939369185,percent of total final energy consumption,2015.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Guinea-Bissau,GNB,361.0,Cases,2019.0
+23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Guinea-Bissau,GNB,-2.20239855154791,percent of GNI,2018.0
+24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Guinea-Bissau,GNB,13.7254902,proportion,2020.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Guinea-Bissau,GNB,29.7747,micrograms per cubic meter,2017.0
+27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Guinea-Bissau,GNB,0.6851,Ones,2018.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Guinea-Bissau,GNB,82.7926,per 100 people,2019.0
+30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Guinea-Bissau,GNB,0.039581,percent,2019.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Guinea-Bissau,GNB,25.1870003,Percentage of total employment,2020.0
+34,Economics,Volume of imports,C5_Close public transport,Guinea-Bissau,GNB,4.957,percent change,2020.0
+35,Health,Prevalence of total cancers,C5_Close public transport,Guinea-Bissau,GNB,0.002135,percent,2019.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Guinea-Bissau,GNB,-1.264045,score,2019.0
+37,Health,Prevalence of down syndrome,C5_Close public transport,Guinea-Bissau,GNB,0.000217,percent,2019.0
+38,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Guinea-Bissau,GNB,3.4,percent,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Guinea-Bissau,GNB,-0.562632,score,2019.0
+41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Guinea-Bissau,GNB,0.000642,percent,2019.0
+42,Health,Prevalence of Depressive disorders,C5_Close public transport,Guinea-Bissau,GNB,0.033807,percent,2019.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Guinea-Bissau,GNB,2.48699999,percent of total labor force,2020.0
+45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Guinea-Bissau,GNB,100.0,percent of total,2017.0
+47,Governance,Serious assault (rate),C5_Close public transport,Guinea-Bissau,GNB,112.21,rate,2016.0
+48,Governance,Personal Freedom Score ,C5_Close public transport,Guinea-Bissau,GNB,6.84,score,2018.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Guinea-Bissau,GNB,-1.233335,score,2019.0
+51,Health,Prevalence of obesity,C5_Close public transport,Guinea-Bissau,GNB,9.5,percent,2016.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Guinea-Bissau,GNB,-1.514441,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Guinea-Bissau,GNB,-0.4587073,score,2019.0
+54,Governance,Human Freedom Score ,C5_Close public transport,Guinea-Bissau,GNB,6.15,score,2018.0
+55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Guinea-Bissau,GNB,84.0,percent,2019.0
+56,Social issues ,Press freedom score,C5_Close public transport,Guinea-Bissau,GNB,32.06,score,2020.0
+57,Governance,Economic Freedom Score,C5_Close public transport,Guinea-Bissau,GNB,5.46,score,2018.0
+58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Guinea-Bissau,GNB,71.9940033,Percentage of total population,2020.0
+60,Governance,Human Development Index,C5_Close public transport,Guinea-Bissau,GNB,0.48,index,2019.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Guinea-Bissau,GNB,44.0,score,2021.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Guinea-Bissau,GNB,-1.453986,score,2019.0
+67,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Guinea-Bissau,GNB,1.1487047533,"proportion, pero 100,000 people",2017.0
+68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Guinea-Bissau,GNB,65.9110031,Percentage of females of the total population,2020.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Guinea-Bissau,GNB,0.0,number,2019.0
+75,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Guinea-Bissau,GNB,28.0,percent,2020.0
+76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Guinea-Bissau,GNB,86.0,percent,2019.0
+79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Guinea-Bissau,GNB,0.6,percent,2018.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Guinea-Bissau,GNB,0.164584,metric tons per capita,2016.0
+82,Governance,Fragile States Index Total ,C5_Close public transport,Guinea-Bissau,GNB,92.90207550854626,score,2020.0
+85,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Guinea-Bissau,GNB,3.4,percent,2020.0
+88,Economics,Volume of exports,C5_Close public transport,Guinea-Bissau,GNB,6.86,percent change,2020.0
+113,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C5_Close public transport,Guinea-Bissau,GNB,1.5,rating,2019.0
+117,Environment,Access to electricity ,C5_Close public transport,Guinea-Bissau,GNB,28.6620216369629,percent of population,2018.0

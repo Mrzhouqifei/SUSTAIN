@@ -1,0 +1,26 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E1_Income support,Liechtenstein,LIE,98.1,percent of population,2019.0
+3,Health,Prevalence of COVID-19,E1_Income support,Liechtenstein,LIE,1725.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,E1_Income support,Liechtenstein,LIE,48028.61727031221,per 1 million people,2019.0
+6,Governance,Total freedom in the world score ,E1_Income support,Liechtenstein,LIE,90.0,score,2021.0
+7,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Liechtenstein,LIE,2.6372698982,"proportion, pero 100,000 people",2018.0
+10,Environment,CO2 emissions (kt),E1_Income support,Liechtenstein,LIE,51.338,kt,2016.0
+18,Demographics,Fixed broadband subscriptions,E1_Income support,Liechtenstein,LIE,45.3747,per 100 people,2019.0
+20,Governance,Human Development Index,E1_Income support,Liechtenstein,LIE,0.919,index,2019.0
+21,Governance,Rule of law estimate ,E1_Income support,Liechtenstein,LIE,1.679333,score,2019.0
+22,Demographics,Fixed telephone subscriptions,E1_Income support,Liechtenstein,LIE,14032.0,number,2019.0
+33,Social issues ,Press freedom score,E1_Income support,Liechtenstein,LIE,19.52,score,2020.0
+36,Governance,Government effectiveness estimate,E1_Income support,Liechtenstein,LIE,1.696766,score,2019.0
+39,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Liechtenstein,LIE,57.0,score,2021.0
+40,Governance,Serious assault (rate),E1_Income support,Liechtenstein,LIE,208.34,rate,2018.0
+41,Environment,Renewable energy consumption ,E1_Income support,Liechtenstein,LIE,63.1344414422166,percent of total final energy consumption,2015.0
+46,Environment,CO2 emissions (metric tons per capita),E1_Income support,Liechtenstein,LIE,1.363269,metric tons per capita,2016.0
+47,Health,Mortality due to COVID-19,E1_Income support,Liechtenstein,LIE,22.0,"Number (cumulative total by Dec 26,2020)",2020.0
+52,Environment,Access to electricity ,E1_Income support,Liechtenstein,LIE,100.0,percent of population,2018.0
+66,Governance,Control of corruption estimate,E1_Income support,Liechtenstein,LIE,1.968311,score,2019.0
+70,Governance,Aggregate score for the Political Rights category,E1_Income support,Liechtenstein,LIE,33.0,score,2021.0
+73,Governance,Regulatory quality estimate,E1_Income support,Liechtenstein,LIE,1.540814,score,2019.0
+75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Liechtenstein,LIE,1.627746,score,2019.0
+78,Demographics,Mobile cellular subscriptions,E1_Income support,Liechtenstein,LIE,127.06,per 100 people,2019.0
+85,Governance,Voice and accountability estimate,E1_Income support,Liechtenstein,LIE,1.259364,score,2019.0
+91,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Liechtenstein,LIE,12.0,proportion,2020.0

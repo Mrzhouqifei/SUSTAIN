@@ -1,0 +1,9 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+4,Health,Prevalence of COVID-19,H5_Investment in vaccines,Martinique,MTQ,0.0,"Number (cumulative total by Dec 26,2020)",2021
+6,Health,Mortality due to COVID-19,H5_Investment in vaccines,Martinique,MTQ,0.0,"Number (cumulative total by Dec 26,2020)",2021
+22,Governance,Government effectiveness estimate,H5_Investment in vaccines,Martinique,MTQ,0.0,score,2021
+37,Governance,Rule of law estimate ,H5_Investment in vaccines,Martinique,MTQ,0.0,score,2021
+43,Governance,Voice and accountability estimate,H5_Investment in vaccines,Martinique,MTQ,0.0,score,2021
+49,Governance,Political stability and absence of violence/terrorism estimate,H5_Investment in vaccines,Martinique,MTQ,0.0,score,2021
+67,Governance,Regulatory quality estimate,H5_Investment in vaccines,Martinique,MTQ,0.0,score,2021
+90,Governance,Control of corruption estimate,H5_Investment in vaccines,Martinique,MTQ,0.0,score,2021

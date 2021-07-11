@@ -1,0 +1,54 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H1_Public information campaigns,Equatorial Guinea,GNQ,26.24,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H1_Public information campaigns,Equatorial Guinea,GNQ,16.0,score,2020.0
+3,Demographics,Secure Internet servers ,H1_Public information campaigns,Equatorial Guinea,GNQ,19.91171000290563,per 1 million people,2019.0
+4,Health,Prevalence of COVID-19,H1_Public information campaigns,Equatorial Guinea,GNQ,5214.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H1_Public information campaigns,Equatorial Guinea,GNQ,85.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Summary exposure value tobacco,H1_Public information campaigns,Equatorial Guinea,GNQ,13.12533,Rate (risk-weighted prevalence),2019.0
+8,Social issues ,Net migration,H1_Public information campaigns,Equatorial Guinea,GNQ,79998.0,net total / data are 5 year estimates,2019.0
+9,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Equatorial Guinea,GNQ,0.4017,Ones,2017.0
+10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Equatorial Guinea,GNQ,45.1669,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Equatorial Guinea,GNQ,9.3,percent,2020.0
+13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Equatorial Guinea,GNQ,0.123761,per 100 people,2019.0
+14,Economics,Volume of imports,H1_Public information campaigns,Equatorial Guinea,GNQ,-7.256,percent change,2020.0
+17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Equatorial Guinea,GNQ,53.0,percent,2019.0
+18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Equatorial Guinea,GNQ,0.036215,percent,2019.0
+20,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Equatorial Guinea,GNQ,54.9630013,Percentage of females of the total population,2020.0
+21,Environment,CO2 emissions (kt),H1_Public information campaigns,Equatorial Guinea,GNQ,5654.514,kt,2016.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Equatorial Guinea,GNQ,181.0,Cases,2019.0
+23,Environment,Renewable energy consumption ,H1_Public information campaigns,Equatorial Guinea,GNQ,7.82279977697172,percent of total final energy consumption,2015.0
+24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Equatorial Guinea,GNQ,0.0,score,2021.0
+25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Equatorial Guinea,GNQ,0.5024,Ones,2017.0
+26,Health,"Prevalence of HIV, total (% of population ages 15-49)",H1_Public information campaigns,Equatorial Guinea,GNQ,7.2,percent,2019.0
+28,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Equatorial Guinea,GNQ,38.9399986,Percentage of total employment,2020.0
+29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Equatorial Guinea,GNQ,53.24062,micrograms per cubic meter,2017.0
+32,Environment,Access to electricity ,H1_Public information campaigns,Equatorial Guinea,GNQ,67.0325012207031,percent of population,2018.0
+34,Health,Prevalence of down syndrome,H1_Public information campaigns,Equatorial Guinea,GNQ,0.000154,percent,2019.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Equatorial Guinea,GNQ,-1.520516,score,2019.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Equatorial Guinea,GNQ,53.0,percent,2019.0
+40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Equatorial Guinea,GNQ,0.284161,percent,2019.0
+43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Equatorial Guinea,GNQ,100.0,percent of total,2017.0
+45,Social issues ,Press freedom score,H1_Public information campaigns,Equatorial Guinea,GNQ,56.38,score,2020.0
+46,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Equatorial Guinea,GNQ,21.0,proportion,2020.0
+47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Equatorial Guinea,GNQ,5.0,score,2021.0
+48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Equatorial Guinea,GNQ,0.000463,percent,2019.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Equatorial Guinea,GNQ,6.46999979,percent of total labor force,2020.0
+50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Equatorial Guinea,GNQ,0.046348,percent,2019.0
+51,Governance,Human Development Index,H1_Public information campaigns,Equatorial Guinea,GNQ,0.592,index,2019.0
+52,Governance,Total freedom in the world score ,H1_Public information campaigns,Equatorial Guinea,GNQ,5.0,score,2021.0
+53,Health,Prevalence of obesity,H1_Public information campaigns,Equatorial Guinea,GNQ,8.0,percent,2016.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Equatorial Guinea,GNQ,-0.1909256,score,2019.0
+56,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Equatorial Guinea,GNQ,19.7,percent,2020.0
+59,Health,Prevalence of total cancers,H1_Public information campaigns,Equatorial Guinea,GNQ,0.002171,percent,2019.0
+63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Equatorial Guinea,GNQ,10848.0,number,2019.0
+64,Economics,Volume of exports,H1_Public information campaigns,Equatorial Guinea,GNQ,-8.977,percent change,2020.0
+65,Governance,Fragile States Index Total ,H1_Public information campaigns,Equatorial Guinea,GNQ,83.01620385538543,score,2020.0
+68,Health,Prevalence of Diabetes,H1_Public information campaigns,Equatorial Guinea,GNQ,0.026587,percent,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Equatorial Guinea,GNQ,-1.722886,score,2019.0
+71,Governance,Voice and accountability estimate,H1_Public information campaigns,Equatorial Guinea,GNQ,-1.863563,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Equatorial Guinea,GNQ,-1.422315,score,2019.0
+73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Equatorial Guinea,GNQ,4.653235,metric tons per capita,2016.0
+78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Equatorial Guinea,GNQ,0.036612,percent,2019.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Equatorial Guinea,GNQ,-1.342012,score,2019.0
+105,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Equatorial Guinea,GNQ,62.2849998,Percentage of total population,2020.0
+109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Equatorial Guinea,GNQ,0.6,percent,2018.0

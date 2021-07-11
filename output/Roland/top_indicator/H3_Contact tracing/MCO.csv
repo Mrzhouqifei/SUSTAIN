@@ -1,0 +1,32 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H3_Contact tracing,Monaco,MCO,97.053,percent of population,2019.0
+3,Health,Prevalence of COVID-19,H3_Contact tracing,Monaco,MCO,715.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,H3_Contact tracing,Monaco,MCO,13319.98768093625,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,H3_Contact tracing,Monaco,MCO,3.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Social issues ,"Intentional homicides (per 100,000 people)",H3_Contact tracing,Monaco,MCO,0.0,"proportion, pero 100,000 people",2015.0
+8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Monaco,MCO,0.113597,percent,2019.0
+9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Monaco,MCO,86.7031,per 100 people,2019.0
+13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Monaco,MCO,57.0,score,2021.0
+14,Health,Summary exposure value tobacco,H3_Contact tracing,Monaco,MCO,25.30811,Rate (risk-weighted prevalence),2019.0
+19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Monaco,MCO,52.5511,per 100 people,2019.0
+21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Monaco,MCO,20.1609,Ones,2014.0
+29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Monaco,MCO,1.591874,score,2019.0
+31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Monaco,MCO,0.060508,percent,2019.0
+33,Health,Prevalence of Diabetes,H3_Contact tracing,Monaco,MCO,0.096562,percent,2019.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Monaco,MCO,88.0,percent,2019.0
+46,Governance,Voice and accountability estimate,H3_Contact tracing,Monaco,MCO,0.6848723,score,2019.0
+48,Health,Prevalence of total cancers,H3_Contact tracing,Monaco,MCO,0.065458,percent,2019.0
+49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Monaco,MCO,7.5067,Ones,2014.0
+51,Environment,Access to electricity ,H3_Contact tracing,Monaco,MCO,100.0,percent of population,2018.0
+58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Monaco,MCO,0.125618,percent,2019.0
+60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Monaco,MCO,26.0,score,2021.0
+61,Governance,Serious assault (rate),H3_Contact tracing,Monaco,MCO,522.23,rate,2015.0
+66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Monaco,MCO,0.052124,percent,2019.0
+68,Governance,Total freedom in the world score ,H3_Contact tracing,Monaco,MCO,83.0,score,2021.0
+73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Monaco,MCO,0.0,Cases,2019.0
+74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Monaco,MCO,44119.0,number,2019.0
+75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Monaco,MCO,99.0,percent,2019.0
+76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Monaco,MCO,1.4,percent,2018.0
+77,Health,Prevalence of down syndrome,H3_Contact tracing,Monaco,MCO,0.000496,percent,2019.0
+78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Monaco,MCO,0.00228,percent,2019.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Monaco,MCO,33.33333333,proportion,2020.0

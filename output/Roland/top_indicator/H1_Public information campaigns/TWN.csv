@@ -1,0 +1,34 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Governance,Corruption Perceptions Index,H1_Public information campaigns,Taiwan,TWN,65.0,score,2020.0
+5,Economics,Stock market capitalization (US$ million),H1_Public information campaigns,Taiwan,TWN,1177469.684,percent,2019.0
+7,Health,Summary exposure value tobacco,H1_Public information campaigns,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
+12,Social issues ,Life Ladder ,H1_Public information campaigns,Taiwan,TWN,6.584400177001953,score,2021.0
+18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Taiwan,TWN,0.04188,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Taiwan,TWN,38.0,score,2021.0
+31,Governance,Human Freedom Score ,H1_Public information campaigns,Taiwan,TWN,8.42,score,2018.0
+34,Health,Prevalence of down syndrome,H1_Public information campaigns,Taiwan,TWN,8.69e-05,percent,2019.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Taiwan,TWN,1.40276,score,2019.0
+40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Taiwan,TWN,0.400737,percent,2019.0
+42,Economics,Expenditure on education (% of GDP),H1_Public information campaigns,Taiwan,TWN,1.5,percent,2018.0
+45,Social issues ,Press freedom score,H1_Public information campaigns,Taiwan,TWN,23.76,score,2020.0
+47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Taiwan,TWN,56.0,score,2021.0
+48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Taiwan,TWN,0.004969,percent,2019.0
+50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Taiwan,TWN,0.035913,percent,2019.0
+52,Governance,Total freedom in the world score ,H1_Public information campaigns,Taiwan,TWN,94.0,score,2021.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Taiwan,TWN,0.7195977,score,2019.0
+59,Health,Prevalence of total cancers,H1_Public information campaigns,Taiwan,TWN,0.025099,percent,2019.0
+60,Governance,Economic Freedom Score,H1_Public information campaigns,Taiwan,TWN,7.94,score,2018.0
+61,Governance,Personal Freedom Score ,H1_Public information campaigns,Taiwan,TWN,8.9,score,2018.0
+66,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H1_Public information campaigns,Taiwan,TWN,93781.7,international $ in PPP,2020.0
+68,Health,Prevalence of Diabetes,H1_Public information campaigns,Taiwan,TWN,0.084017,percent,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Taiwan,TWN,1.045266,score,2019.0
+71,Governance,Voice and accountability estimate,H1_Public information campaigns,Taiwan,TWN,0.9959083,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Taiwan,TWN,1.141121,score,2019.0
+76,Economics,"Foreign direct investment, net",H1_Public information campaigns,Taiwan,TWN,8245000000.0,US Dollar,2019.0
+78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Taiwan,TWN,0.162673,percent,2019.0
+88,Economics,"Trade, total as % of GDP",H1_Public information campaigns,Taiwan,TWN,100.6416,percent,2019.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Taiwan,TWN,1.436754,score,2019.0
+102,Economics,"Lending interest rates, percent per annum",H1_Public information campaigns,Taiwan,TWN,2.631,percent per annum,2019.0
+108,Economics,"International tourism, receipts",H1_Public information campaigns,Taiwan,TWN,14373000000.0,US Dollar,2019.0
+112,Economics,Expenditure on health (% of GDP),H1_Public information campaigns,Taiwan,TWN,0.1,percent,2018.0
+117,Economics,Expenditure on social protection (% of GDP),H1_Public information campaigns,Taiwan,TWN,3.2,percent,2018.0

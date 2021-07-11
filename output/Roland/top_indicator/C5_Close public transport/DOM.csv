@@ -1,0 +1,90 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C5_Close public transport,Dominican Republic,DOM,74.8243,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C5_Close public transport,Dominican Republic,DOM,28.0,score,2020.0
+3,Health,Prevalence of COVID-19,C5_Close public transport,Dominican Republic,DOM,157929.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Dominican Republic,DOM,113.1394684661212,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,C5_Close public transport,Dominican Republic,DOM,2376.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Social issues ,Net migration,C5_Close public transport,Dominican Republic,DOM,-150000.0,net total / data are 5 year estimates,2019.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Dominican Republic,DOM,26.0,score,2021.0
+9,Social issues ,Life Ladder ,C5_Close public transport,Dominican Republic,DOM,5.545100212097168,score,2021.0
+10,Health,Prevalence of anxiety disorders,C5_Close public transport,Dominican Republic,DOM,0.047396,percent,2019.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Dominican Republic,DOM,8.24921,per 100 people,2019.0
+12,Social issues ,Gini index (World Bank estimate),C5_Close public transport,Dominican Republic,DOM,43.7,index ,2018.0
+13,Health,Summary exposure value tobacco,C5_Close public transport,Dominican Republic,DOM,14.2975,Rate (risk-weighted prevalence),2019.0
+14,Health,Prevalence of Diabetes,C5_Close public transport,Dominican Republic,DOM,0.043365,percent,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Dominican Republic,DOM,41.0,score,2021.0
+16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Dominican Republic,DOM,1.56,Ones,2017.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Dominican Republic,DOM,25258.3,kt,2016.0
+18,Environment,Electricity production from coal sources ,C5_Close public transport,Dominican Republic,DOM,12.85691065720323,percent of total,2015.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Dominican Republic,DOM,0.271518,percent,2019.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Dominican Republic,DOM,16.480109206897,percent of total final energy consumption,2015.0
+21,Environment,"Energy imports, net ",C5_Close public transport,Dominican Republic,DOM,86.7171002235763,percent of energy use,2014.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Dominican Republic,DOM,42.0,Cases,2019.0
+23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Dominican Republic,DOM,19.3499133196743,percent of GNI,2018.0
+24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Dominican Republic,DOM,27.89473684,proportion,2020.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Dominican Republic,DOM,13.72632,micrograms per cubic meter,2017.0
+27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Dominican Republic,DOM,1.3802,Ones,2018.0
+28,Environment,Electric power consumption ,C5_Close public transport,Dominican Republic,DOM,1615.515242330238,kWh per capita,2014.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Dominican Republic,DOM,83.3238,per 100 people,2019.0
+30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Dominican Republic,DOM,0.07603,percent,2019.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Dominican Republic,DOM,71.2689972,Percentage of total employment,2020.0
+32,Environment,Electricity production from oil sources,C5_Close public transport,Dominican Republic,DOM,53.48106409492333,percent of total,2015.0
+33,Social issues ,Proportion of women in managerial positions (%),C5_Close public transport,Dominican Republic,DOM,41.06,percent,2017.0
+34,Economics,Volume of imports,C5_Close public transport,Dominican Republic,DOM,5.548,percent change,2020.0
+35,Health,Prevalence of total cancers,C5_Close public transport,Dominican Republic,DOM,0.007002,percent,2019.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Dominican Republic,DOM,-0.3476975,score,2019.0
+37,Health,Prevalence of down syndrome,C5_Close public transport,Dominican Republic,DOM,0.00041,percent,2019.0
+38,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Dominican Republic,DOM,0.9,percent,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Dominican Republic,DOM,0.0189059,score,2019.0
+41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Dominican Republic,DOM,0.001989,percent,2019.0
+42,Health,Prevalence of Depressive disorders,C5_Close public transport,Dominican Republic,DOM,0.039451,percent,2019.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Dominican Republic,DOM,5.91900015,percent of total labor force,2020.0
+45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Dominican Republic,DOM,99.9134426224712,percent of total,2017.0
+46,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Dominican Republic,DOM,751.7953940403207,kg of oil equivalent per capita,2014.0
+47,Governance,Serious assault (rate),C5_Close public transport,Dominican Republic,DOM,30.22,rate,2016.0
+48,Governance,Personal Freedom Score ,C5_Close public transport,Dominican Republic,DOM,7.16,score,2018.0
+49,Demographics,People with basic handwashing facilities including soap and water (% of population),C5_Close public transport,Dominican Republic,DOM,55.1819809572288,proportion,2017.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Dominican Republic,DOM,-0.0535924,score,2019.0
+51,Health,Prevalence of obesity,C5_Close public transport,Dominican Republic,DOM,27.6,percent,2016.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Dominican Republic,DOM,-0.357478,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Dominican Republic,DOM,0.201905,score,2019.0
+54,Governance,Human Freedom Score ,C5_Close public transport,Dominican Republic,DOM,7.37,score,2018.0
+55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Dominican Republic,DOM,89.0,percent,2019.0
+56,Social issues ,Press freedom score,C5_Close public transport,Dominican Republic,DOM,27.9,score,2020.0
+57,Governance,Economic Freedom Score,C5_Close public transport,Dominican Republic,DOM,7.58,score,2018.0
+58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Dominican Republic,DOM,64.3789978,Percentage of total population,2020.0
+59,Environment,Energy use ,C5_Close public transport,Dominican Republic,DOM,51.84925939066515,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+60,Governance,Human Development Index,C5_Close public transport,Dominican Republic,DOM,0.756,index,2019.0
+61,Health,Hospital beds (per 10 000 population),C5_Close public transport,Dominican Republic,DOM,15.6,Ones,2017.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Dominican Republic,DOM,67.0,score,2021.0
+63,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Dominican Republic,DOM,83.8932063216788,proportion,2017.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Dominican Republic,DOM,-0.763217,score,2019.0
+65,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Dominican Republic,DOM,88.36755702443517,percent of total,2015.0
+66,Demographics,Urban population (% of total population),C5_Close public transport,Dominican Republic,DOM,81.828,total,2019.0
+67,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Dominican Republic,DOM,10.04973395,"proportion, pero 100,000 people",2018.0
+68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Dominican Republic,DOM,51.5999985,Percentage of females of the total population,2020.0
+70,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C5_Close public transport,Dominican Republic,DOM,18.123119354248,proportion,2016.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Dominican Republic,DOM,1210020.0,number,2019.0
+72,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Dominican Republic,DOM,972000000.0,kWh,2015.0
+73,Environment,Fossil fuel energy consumption,C5_Close public transport,Dominican Republic,DOM,86.5636,percent of total,2014.0
+74,Social issues ,Coverage of social safety net programs (% of population),C5_Close public transport,Dominican Republic,DOM,55.2362822496594,proportion,2016.0
+75,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Dominican Republic,DOM,5.9,percent,2020.0
+76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Dominican Republic,DOM,96.0,percent,2019.0
+77,Social issues ,Proportion of people living below 50 percent of median income (%),C5_Close public transport,Dominican Republic,DOM,14.2,proportion,2018.0
+78,Demographics,Rural population (% of total population),C5_Close public transport,Dominican Republic,DOM,18.172,proportion,2019.0
+79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Dominican Republic,DOM,2.5,percent,2018.0
+80,Demographics,Age dependency ratio (% of working-age population),C5_Close public transport,Dominican Republic,DOM,53.86292148418482,proportion,2019.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Dominican Republic,DOM,2.429209,metric tons per capita,2016.0
+82,Governance,Fragile States Index Total ,C5_Close public transport,Dominican Republic,DOM,64.35620204936144,score,2020.0
+84,Demographics,"Age dependency ratio, old (% of working-age population)",C5_Close public transport,Dominican Republic,DOM,11.22951554839688,proportion,2019.0
+85,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Dominican Republic,DOM,7.6,percent,2020.0
+88,Economics,Volume of exports,C5_Close public transport,Dominican Republic,DOM,5.0,percent change,2020.0
+93,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C5_Close public transport,Dominican Republic,DOM,2.0,proportion,2014.0
+94,Demographics,Refugee population by country or territory of asylum,C5_Close public transport,Dominican Republic,DOM,164.0,proportion,2019.0
+96,Demographics,"Population, total",C5_Close public transport,Dominican Republic,DOM,10738958.0,total,2019.0
+98,Environment,Electricity production from nuclear sources ,C5_Close public transport,Dominican Republic,DOM,0.0,percent of total,2014.0
+106,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C5_Close public transport,Dominican Republic,DOM,93.7784576416016,proportion,2016.0
+112,Environment,Combustible renewables and waste,C5_Close public transport,Dominican Republic,DOM,10.04958,percent of total energy,2014.0
+114,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Dominican Republic,DOM,93.3040924072266,proportion,2019.0
+115,Social issues ,Progression to secondary school (%),C5_Close public transport,Dominican Republic,DOM,93.1639,proportion,2017.0
+117,Environment,Access to electricity ,C5_Close public transport,Dominican Republic,DOM,100.0,percent of population,2018.0

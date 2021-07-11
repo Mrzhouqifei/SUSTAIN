@@ -1,0 +1,88 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H2_Testing policy,Argentina,ARG,74.2949,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H2_Testing policy,Argentina,ARG,0.230869,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H2_Testing policy,Argentina,ARG,7737350.0,number,2019.0
+4,Health,Prevalence of COVID-19,H2_Testing policy,Argentina,ARG,1524372.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Argentina,ARG,0.00211,percent,2019.0
+6,Environment,Electricity production from oil sources,H2_Testing policy,Argentina,ARG,15.42319446456535,percent of total,2015.0
+7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Argentina,ARG,5.9,percent,2018.0
+8,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Argentina,ARG,2.5996,Ones,2017.0
+9,Demographics,Fixed broadband subscriptions,H2_Testing policy,Argentina,ARG,19.6361,per 100 people,2019.0
+10,Environment,Electricity production from coal sources ,H2_Testing policy,Argentina,ARG,2.029567388949826,percent of total,2015.0
+11,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H2_Testing policy,Argentina,ARG,99.0038681030273,proportion,2018.0
+12,Economics,Volume of imports,H2_Testing policy,Argentina,ARG,9.393,percent change,2020.0
+13,Governance,Government effectiveness estimate,H2_Testing policy,Argentina,ARG,-0.0864859,score,2019.0
+14,Environment,Combustible renewables and waste,H2_Testing policy,Argentina,ARG,3.245004,percent of total energy,2014.0
+15,Health,Prevalence of total cancers,H2_Testing policy,Argentina,ARG,0.013474,percent,2019.0
+16,Governance,Control of corruption estimate,H2_Testing policy,Argentina,ARG,-0.0710714,score,2019.0
+17,Demographics,Mobile cellular subscriptions,H2_Testing policy,Argentina,ARG,130.874,per 100 people,2019.0
+18,Economics,Employment in services (% of total employment) (modeled ILO estimate),H2_Testing policy,Argentina,ARG,78.8639984,Percentage of total employment,2020.0
+19,Environment,Electricity production from nuclear sources ,H2_Testing policy,Argentina,ARG,4.166726991067163,percent of total,2014.0
+20,Social issues ,Net migration,H2_Testing policy,Argentina,ARG,24000.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of down syndrome,H2_Testing policy,Argentina,ARG,0.000657,percent,2019.0
+22,Social issues ,Gini index (World Bank estimate),H2_Testing policy,Argentina,ARG,41.4,index ,2018.0
+23,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Argentina,ARG,4.619085,metric tons per capita,2016.0
+24,Health,Mortality due to COVID-19,H2_Testing policy,Argentina,ARG,41534.0,"Number (cumulative total by Dec 26,2020)",2020.0
+25,Environment,Energy use ,H2_Testing policy,Argentina,ARG,86.19593574382117,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+26,Health,Prevalence of chronic kidney disease,H2_Testing policy,Argentina,ARG,0.086414,percent,2019.0
+27,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Argentina,ARG,5.3244787387,"proportion, pero 100,000 people",2018.0
+28,Health,"Physicians (per 1,000 people)",H2_Testing policy,Argentina,ARG,3.9901,Ones,2017.0
+29,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H2_Testing policy,Argentina,ARG,50.6150017,Percentage of females of the total population,2020.0
+30,Demographics,Age dependency ratio (% of working-age population),H2_Testing policy,Argentina,ARG,55.85703345483525,proportion,2019.0
+31,Demographics,Secure Internet servers ,H2_Testing policy,Argentina,ARG,3018.488825402917,per 1 million people,2019.0
+33,Health,Prevalence of anxiety disorders,H2_Testing policy,Argentina,ARG,0.054936,percent,2019.0
+34,Health,Prevalence of obesity,H2_Testing policy,Argentina,ARG,28.3,percent,2016.0
+35,Environment,"Adjusted net savings, including particulate emission damage",H2_Testing policy,Argentina,ARG,5.0190320835466,percent of GNI,2018.0
+36,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Argentina,ARG,94.0,percent,2019.0
+38,Governance,Serious assault (rate),H2_Testing policy,Argentina,ARG,306.53,rate,2018.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Argentina,ARG,86.0,percent,2019.0
+40,Health,"Prevalence of HIV, total (% of population ages 15-49)",H2_Testing policy,Argentina,ARG,0.4,percent,2019.0
+41,Economics,Volume of exports,H2_Testing policy,Argentina,ARG,3.559,percent change,2020.0
+42,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H2_Testing policy,Argentina,ARG,10.4359999,percent of total labor force,2020.0
+43,Social issues ,"Primary completion rate, total (% of relevant age group)",H2_Testing policy,Argentina,ARG,99.962760925293,proportion,2017.0
+44,Environment,Fossil fuel energy consumption,H2_Testing policy,Argentina,ARG,87.72241,percent of total,2014.0
+45,Environment,Renewable energy consumption ,H2_Testing policy,Argentina,ARG,10.040077613914,percent of total final energy consumption,2015.0
+46,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Argentina,ARG,35.0,score,2021.0
+47,Environment,"Electricity production from renewable sources, excluding hydroelectric",H2_Testing policy,Argentina,ARG,2752000000.0,kWh,2015.0
+48,Governance,Rule of law estimate ,H2_Testing policy,Argentina,ARG,-0.4307256,score,2019.0
+49,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H2_Testing policy,Argentina,ARG,7.8,percent,2020.0
+50,Health,Prevalence of Depressive disorders,H2_Testing policy,Argentina,ARG,0.027177,percent,2019.0
+51,Governance,Total freedom in the world score ,H2_Testing policy,Argentina,ARG,84.0,score,2021.0
+53,Social issues ,Proportion of women in managerial positions (%),H2_Testing policy,Argentina,ARG,32.56,percent,2018.0
+54,Governance,Fragile States Index Total ,H2_Testing policy,Argentina,ARG,46.087950434265025,score,2020.0
+55,Environment,CO2 emissions (kt),H2_Testing policy,Argentina,ARG,201347.6,kt,2016.0
+56,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Argentina,ARG,13.31183,micrograms per cubic meter,2017.0
+57,Social issues ,Life Ladder ,H2_Testing policy,Argentina,ARG,5.929299831390381,score,2021.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),H2_Testing policy,Argentina,ARG,40.85603113,proportion,2020.0
+59,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Argentina,ARG,29.0,Cases,2019.0
+60,Governance,Human Development Index,H2_Testing policy,Argentina,ARG,0.845,index,2019.0
+61,Social issues ,Coverage of unemployment benefits and ALMP (% of population),H2_Testing policy,Argentina,ARG,0.6104182719,proportion,2018.0
+62,Health,Hospital beds (per 10 000 population),H2_Testing policy,Argentina,ARG,49.9,Ones,2017.0
+63,Governance,Economic Freedom Score,H2_Testing policy,Argentina,ARG,5.78,score,2018.0
+64,Governance,Corruption Perceptions Index,H2_Testing policy,Argentina,ARG,42.0,score,2020.0
+65,Governance,Regulatory quality estimate,H2_Testing policy,Argentina,ARG,-0.4927526,score,2019.0
+68,Governance,Human Freedom Score ,H2_Testing policy,Argentina,ARG,7.05,score,2018.0
+69,Environment,Electric power consumption ,H2_Testing policy,Argentina,ARG,3074.702070565626,kWh per capita,2014.0
+71,Social issues ,Coverage of social safety net programs (% of population),H2_Testing policy,Argentina,ARG,23.58378043,proportion,2018.0
+72,Environment,Access to electricity ,H2_Testing policy,Argentina,ARG,100.0,percent of population,2018.0
+73,Health,Prevalence of Diabetes,H2_Testing policy,Argentina,ARG,0.063938,percent,2019.0
+74,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H2_Testing policy,Argentina,ARG,12.9,percent,2020.0
+75,Social issues ,Proportion of people living below 50 percent of median income (%),H2_Testing policy,Argentina,ARG,20.3,proportion,2018.0
+77,Governance,Voice and accountability estimate,H2_Testing policy,Argentina,ARG,0.6004349,score,2019.0
+79,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Argentina,ARG,49.0,score,2021.0
+80,Health,Summary exposure value tobacco,H2_Testing policy,Argentina,ARG,26.14867,Rate (risk-weighted prevalence),2019.0
+81,Environment,"Energy imports, net ",H2_Testing policy,Argentina,ARG,13.02936074290009,percent of energy use,2014.0
+83,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H2_Testing policy,Argentina,ARG,61.2140007,Percentage of total population,2020.0
+86,Environment,"Electricity production from oil, gas and coal sources",H2_Testing policy,Argentina,ARG,66.93502211000504,percent of total,2015.0
+88,Environment,Energy use (kg of oil equivalent per capita),H2_Testing policy,Argentina,ARG,2029.922825437373,kg of oil equivalent per capita,2014.0
+90,Demographics,Rural population (% of total population),H2_Testing policy,Argentina,ARG,8.009,proportion,2019.0
+91,Social issues ,Press freedom score,H2_Testing policy,Argentina,ARG,28.78,score,2020.0
+92,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Argentina,ARG,-0.1199785,score,2019.0
+93,Demographics,People using at least basic sanitation services (% of population),H2_Testing policy,Argentina,ARG,94.2585054176821,proportion,2016.0
+94,Demographics,"Population, total",H2_Testing policy,Argentina,ARG,44938712.0,total,2019.0
+95,Governance,Personal Freedom Score ,H2_Testing policy,Argentina,ARG,8.32,score,2018.0
+97,Demographics,Urban population (% of total population),H2_Testing policy,Argentina,ARG,91.991,total,2019.0
+103,Demographics,"Age dependency ratio, old (% of working-age population)",H2_Testing policy,Argentina,ARG,17.52317486061511,proportion,2019.0
+108,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Argentina,ARG,93.8528246666324,percent of total,2017.0
+113,Social issues ,Progression to secondary school (%),H2_Testing policy,Argentina,ARG,99.85158,proportion,2016.0
+116,Demographics,Refugee population by country or territory of asylum,H2_Testing policy,Argentina,ARG,3857.0,proportion,2019.0

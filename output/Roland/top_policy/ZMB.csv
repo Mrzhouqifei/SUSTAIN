@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+ZMB,C3_Cancel public events,0.08125128017661556,1
+ZMB,C6_Stay at home requirements,0.07572768691233073,2
+ZMB,H7_Vaccination policy,0.07491459585695216,3
+ZMB,C4_Restrictions on gatherings,0.07385253491356081,4
+ZMB,C1_School closing,0.07151382898166946,5
+ZMB,H2_Testing policy,0.07107261855454627,6
+ZMB,C8_International travel controls,0.062384955019587414,7
+ZMB,H6_Facial Coverings,0.06096238304073447,8
+ZMB,C7_Restrictions on internal movement,0.041734052477951485,9
+ZMB,H3_Contact tracing,0.040592910969559734,10
+ZMB,E1_Income support,0.0380026780919914,11
+ZMB,E2_Debt/contract relief,0.03602063313011252,12
+ZMB,C2_Workplace closing,0.034036762012199434,13
+ZMB,H1_Public information campaigns,0.025355177875649008,14
+ZMB,C5_Close public transport,0.0,15

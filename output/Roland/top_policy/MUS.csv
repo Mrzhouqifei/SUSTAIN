@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+MUS,C4_Restrictions on gatherings,0.08778429407289907,1
+MUS,C2_Workplace closing,0.07033857566063863,2
+MUS,E2_Debt/contract relief,0.06304068725769721,3
+MUS,H7_Vaccination policy,0.06273990821131066,4
+MUS,C8_International travel controls,0.05976659593412247,5
+MUS,H1_Public information campaigns,0.05582521001465725,6
+MUS,H6_Facial Coverings,0.05511609216317875,7
+MUS,C1_School closing,0.05359525993141597,8
+MUS,C6_Stay at home requirements,0.051916735309440736,9
+MUS,C5_Close public transport,0.049396021759406473,10
+MUS,H3_Contact tracing,0.04761600147750555,11
+MUS,H2_Testing policy,0.047499915559346184,12
+MUS,C3_Cancel public events,0.04641991581986196,13
+MUS,E1_Income support,0.038439640697856506,14
+MUS,C7_Restrictions on internal movement,0.034720687013478024,15

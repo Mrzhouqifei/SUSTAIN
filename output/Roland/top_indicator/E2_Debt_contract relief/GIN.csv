@@ -1,0 +1,60 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Guinea,GIN,18.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Guinea,GIN,28.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Guinea,GIN,13511.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Guinea,GIN,4.93295642414217,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Guinea,GIN,4.984300136566162,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Guinea,GIN,176.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Guinea,GIN,15.59517,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Guinea,GIN,0.00978761,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Guinea,GIN,47.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Guinea,GIN,100.0,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Guinea,GIN,80.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Guinea,GIN,0.6,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Guinea,GIN,34.34,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Guinea,GIN,32.5379982,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Guinea,GIN,2995.939,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Guinea,GIN,-0.9049651,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Guinea,GIN,0.258847,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Guinea,GIN,-20000.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Guinea,GIN,0.030662,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Guinea,GIN,5.57,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Guinea,GIN,0.01897,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Guinea,GIN,14.0,score,2021.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Guinea,GIN,0.000958,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Guinea,GIN,9.387,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Guinea,GIN,62.762001,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Guinea,GIN,-10.174708768332,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Guinea,GIN,0.0832,Ones,2016.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Guinea,GIN,5.32,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Guinea,GIN,0.477,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Guinea,GIN,76.2683913195384,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Guinea,GIN,5.7,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Guinea,GIN,-0.8306405,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Guinea,GIN,1.4,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Guinea,GIN,-0.7485375,score,2019.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Guinea,GIN,26.06249,micrograms per cubic meter,2017.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Guinea,GIN,0.038304,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Guinea,GIN,24.0,score,2021.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Guinea,GIN,0.031606,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Guinea,GIN,100.797,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Guinea,GIN,-0.7787458,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Guinea,GIN,-1.209028,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Guinea,GIN,0.255225,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Guinea,GIN,0.002316,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Guinea,GIN,0.000164,percent,2019.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Guinea,GIN,38.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Guinea,GIN,4.32999992,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Guinea,GIN,16.66666667,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Guinea,GIN,47.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Guinea,GIN,0.0,number,2019.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Guinea,GIN,4.261,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Guinea,GIN,29.4,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Guinea,GIN,-0.7698209,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Guinea,GIN,97.16761117146424,score,2020.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Guinea,GIN,61.6049995,Percentage of total population,2020.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Guinea,GIN,2.5,rating,2019.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Guinea,GIN,5.45,score,2018.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Guinea,GIN,7.7,percent,2016.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Guinea,GIN,0.1238,Ones,2016.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Guinea,GIN,44.0,percent of population,2018.0

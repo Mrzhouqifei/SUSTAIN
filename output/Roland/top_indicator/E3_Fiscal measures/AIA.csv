@@ -1,0 +1,9 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,E3_Fiscal measures,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2021
+7,Health,Mortality due to COVID-19,E3_Fiscal measures,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2021
+21,Governance,Rule of law estimate ,E3_Fiscal measures,Anguilla,AIA,0.0,score,2021
+22,Governance,Regulatory quality estimate,E3_Fiscal measures,Anguilla,AIA,0.0,score,2021
+39,Governance,Political stability and absence of violence/terrorism estimate,E3_Fiscal measures,Anguilla,AIA,0.0,score,2021
+44,Governance,Control of corruption estimate,E3_Fiscal measures,Anguilla,AIA,0.0,score,2021
+54,Governance,Government effectiveness estimate,E3_Fiscal measures,Anguilla,AIA,0.0,score,2021
+62,Governance,Voice and accountability estimate,E3_Fiscal measures,Anguilla,AIA,0.0,score,2021

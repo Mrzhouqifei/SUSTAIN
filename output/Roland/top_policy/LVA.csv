@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+LVA,H7_Vaccination policy,0.09044296636619184,1
+LVA,E2_Debt/contract relief,0.08691965428245624,2
+LVA,H6_Facial Coverings,0.08032400364552895,3
+LVA,C2_Workplace closing,0.07367358221041652,4
+LVA,C8_International travel controls,0.06782878493760279,5
+LVA,C6_Stay at home requirements,0.0620575905233576,6
+LVA,C3_Cancel public events,0.05976172473056635,7
+LVA,C5_Close public transport,0.05806689789750305,8
+LVA,C1_School closing,0.05777085686031564,9
+LVA,C4_Restrictions on gatherings,0.040254265223077804,10
+LVA,H3_Contact tracing,0.0359492127106886,11
+LVA,E1_Income support,0.02894203859692755,12
+LVA,H2_Testing policy,0.025620874001197582,13
+LVA,H1_Public information campaigns,0.016305053871374518,14
+LVA,C7_Restrictions on internal movement,0.0,15

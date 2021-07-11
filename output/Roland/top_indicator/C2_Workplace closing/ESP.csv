@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,Spain,ESP,90.7187,percent of population,2019.0
+2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Spain,ESP,13.0150003,percent of total labor force,2020.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Spain,ESP,1797236.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Voice and accountability estimate,C2_Workplace closing,Spain,ESP,1.085453,score,2019.0
+5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Spain,ESP,6.3,percent,2018.0
+6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Spain,ESP,75.8259964,Percentage of total employment,2020.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,Spain,ESP,244002.2,kt,2016.0
+8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Spain,ESP,5.7295,Ones,2017.0
+9,Social issues ,Gini index (World Bank estimate),C2_Workplace closing,Spain,ESP,34.7,index ,2017.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,Spain,ESP,0.9990447,score,2019.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Spain,ESP,33.3577,per 100 people,2019.0
+12,Economics,Volume of exports,C2_Workplace closing,Spain,ESP,3.536,percent change,2020.0
+13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Spain,ESP,53.0,score,2021.0
+15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Spain,ESP,41.115549425172,percent of total,2017.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Spain,ESP,5.249158,metric tons per capita,2016.0
+17,Social issues ,Life Ladder ,C2_Workplace closing,Spain,ESP,6.490699768066406,score,2021.0
+18,Governance,Economic Freedom Score,C2_Workplace closing,Spain,ESP,7.73,score,2018.0
+19,Health,Prevalence of total cancers,C2_Workplace closing,Spain,ESP,0.036166,percent,2019.0
+20,Social issues ,Net migration,C2_Workplace closing,Spain,ESP,200000.0,net total / data are 5 year estimates,2019.0
+21,Health,Summary exposure value tobacco,C2_Workplace closing,Spain,ESP,28.50371,Rate (risk-weighted prevalence),2019.0
+22,Governance,Total freedom in the world score ,C2_Workplace closing,Spain,ESP,90.0,score,2021.0
+24,Economics,"Central government debt, total",C2_Workplace closing,Spain,ESP,104.5729152740223,percent of GDP,2016.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,Spain,ESP,0.9790522,score,2019.0
+26,Economics,Volume of imports,C2_Workplace closing,Spain,ESP,3.188,percent change,2020.0
+27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Spain,ESP,68948000000.0,kWh,2015.0
+28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Spain,ESP,0.054246,percent,2019.0
+29,Health,Prevalence of Diabetes,C2_Workplace closing,Spain,ESP,0.112646,percent,2019.0
+31,Social issues ,Proportion of women in managerial positions (%),C2_Workplace closing,Spain,ESP,32.14,percent,2018.0
+32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Spain,ESP,0.060442,percent,2019.0
+33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Spain,ESP,44.06714376223938,percent of total,2015.0
+34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Spain,ESP,96.0,percent,2019.0
+35,Environment,Electricity production from coal sources ,C2_Workplace closing,Spain,ESP,18.96238912567677,percent of total,2015.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Spain,ESP,48926.0,"Number (cumulative total by Dec 26,2020)",2020.0
+37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Spain,ESP,0.103306,percent,2019.0
+39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Spain,ESP,2571.34096211178,kg of oil equivalent per capita,2015.0
+40,Governance,Serious assault (rate),C2_Workplace closing,Spain,ESP,39.18,rate,2018.0
+41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Spain,ESP,9.3,Cases,2019.0
+42,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Spain,ESP,10.1582548334712,percent of GNI,2018.0
+44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Spain,ESP,3.8723,Ones,2017.0
+45,Environment,Electricity production from oil sources,C2_Workplace closing,Spain,ESP,6.206442230157816,percent of total,2015.0
+46,Health,Prevalence of obesity,C2_Workplace closing,Spain,ESP,23.8,percent,2016.0
+48,Social issues ,Press freedom score,C2_Workplace closing,Spain,ESP,22.16,score,2020.0
+50,Governance,Human Freedom Score ,C2_Workplace closing,Spain,ESP,8.2,score,2018.0
+51,Environment,Access to electricity ,C2_Workplace closing,Spain,ESP,100.0,percent of population,2018.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,Spain,ESP,17716.31327129185,per 1 million people,2019.0
+54,Environment,Fossil fuel energy consumption,C2_Workplace closing,Spain,ESP,72.95555,percent of total,2015.0
+55,Governance,Fragile States Index Total ,C2_Workplace closing,Spain,ESP,40.35163335620069,score,2020.0
+57,Environment,Electric power consumption ,C2_Workplace closing,Spain,ESP,5355.987005582209,kWh per capita,2014.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Spain,ESP,44.0,proportion,2020.0
+61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Spain,ESP,57.1599998,Percentage of total population,2020.0
+63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Spain,ESP,37.0,score,2021.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Spain,ESP,19816900.0,number,2019.0
+65,Governance,Human Development Index,C2_Workplace closing,Spain,ESP,0.904,index,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Spain,ESP,98.0,percent,2019.0
+68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Spain,ESP,0.072095,percent,2019.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Spain,ESP,0.3228728,score,2019.0
+71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Spain,ESP,51.6360016,Percentage of females of the total population,2020.0
+72,Governance,Personal Freedom Score ,C2_Workplace closing,Spain,ESP,8.67,score,2018.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,Spain,ESP,0.6467961,score,2019.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,Spain,ESP,1.05019,score,2019.0
+77,Health,Prevalence of down syndrome,C2_Workplace closing,Spain,ESP,0.000448,percent,2019.0
+82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Spain,ESP,0.001873,percent,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Spain,ESP,118.253,per 100 people,2019.0
+84,Environment,Combustible renewables and waste,C2_Workplace closing,Spain,ESP,4.372693,percent of total energy,2015.0
+86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Spain,ESP,0.62107992821,"proportion, pero 100,000 people",2018.0
+87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Spain,ESP,0.4,percent,2019.0
+89,Environment,Energy use ,C2_Workplace closing,Spain,ESP,68.71424213458437,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Spain,ESP,9.697928,micrograms per cubic meter,2017.0
+94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Spain,ESP,20.61866432438659,percent of total,2015.0
+97,Governance,Corruption Perceptions Index,C2_Workplace closing,Spain,ESP,62.0,score,2020.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,Spain,ESP,16.254097737239,percent of total final energy consumption,2015.0
+117,Environment,"Energy imports, net ",C2_Workplace closing,Spain,ESP,71.43266028974263,percent of energy use,2015.0

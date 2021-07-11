@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+SLB,H2_Testing policy,0.14790845736929426,1
+SLB,C2_Workplace closing,0.08861106912092548,2
+SLB,C5_Close public transport,0.07154585091704578,3
+SLB,H7_Vaccination policy,0.07112553761246393,4
+SLB,C8_International travel controls,0.06463842994869162,5
+SLB,C1_School closing,0.06345224384239233,6
+SLB,H1_Public information campaigns,0.055412333922746936,7
+SLB,H6_Facial Coverings,0.05377937183503932,8
+SLB,H3_Contact tracing,0.04619349153181681,9
+SLB,E2_Debt/contract relief,0.03709590030308515,10
+SLB,E1_Income support,0.03135479293427642,11
+SLB,C7_Restrictions on internal movement,0.02937021243703605,12
+SLB,C6_Stay at home requirements,0.024042371568229026,13
+SLB,C4_Restrictions on gatherings,0.020305620378593497,14
+SLB,C3_Cancel public events,0.020109037329766183,15

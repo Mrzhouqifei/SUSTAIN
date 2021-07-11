@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+QAT,E2_Debt/contract relief,0.12320147590055447,1
+QAT,H2_Testing policy,0.08567493318484586,2
+QAT,C8_International travel controls,0.08432432722367017,3
+QAT,C2_Workplace closing,0.08017306601151111,4
+QAT,C3_Cancel public events,0.0780345512819263,5
+QAT,C6_Stay at home requirements,0.06220726695759773,6
+QAT,H6_Facial Coverings,0.06216644872418321,7
+QAT,C7_Restrictions on internal movement,0.05055277562757493,8
+QAT,H1_Public information campaigns,0.04974419234519074,9
+QAT,C4_Restrictions on gatherings,0.049091371192253236,10
+QAT,H7_Vaccination policy,0.03835658212623184,11
+QAT,C5_Close public transport,0.035690555966024134,12
+QAT,C1_School closing,0.0287224856584856,13
+QAT,H3_Contact tracing,0.017786289492498792,14
+QAT,E1_Income support,0.0,15

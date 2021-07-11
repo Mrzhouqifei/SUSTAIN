@@ -1,0 +1,55 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H6_Facial Coverings,Seychelles,SYC,58.7698,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Seychelles,SYC,0.335134,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Seychelles,SYC,20122.0,number,2019.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Seychelles,SYC,202.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Seychelles,SYC,0.031152,percent,2019.0
+8,Governance,Economic Freedom Score,H6_Facial Coverings,Seychelles,SYC,7.49,score,2018.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Seychelles,SYC,198.152,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Seychelles,SYC,9.8,percent,2020.0
+12,Governance,Personal Freedom Score ,H6_Facial Coverings,Seychelles,SYC,7.18,score,2018.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Seychelles,SYC,27.6031,per 100 people,2019.0
+14,Social issues ,Net migration,H6_Facial Coverings,Seychelles,SYC,-1000.0,net total / data are 5 year estimates,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Seychelles,SYC,0.004769,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Seychelles,SYC,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Seychelles,SYC,2.1212,Ones,2016.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Seychelles,SYC,0.013274,percent,2019.0
+20,Governance,Total freedom in the world score ,H6_Facial Coverings,Seychelles,SYC,77.0,score,2021.0
+23,Health,Prevalence of obesity,H6_Facial Coverings,Seychelles,SYC,14.0,percent,2016.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Seychelles,SYC,0.000143,percent,2019.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,Seychelles,SYC,0.9692127,score,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Seychelles,SYC,22.59532,Rate (risk-weighted prevalence),2019.0
+30,Governance,Fragile States Index Total ,H6_Facial Coverings,Seychelles,SYC,54.6754977355289,score,2020.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Seychelles,SYC,3.8,percent,2018.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Seychelles,SYC,20.17865,micrograms per cubic meter,2017.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,Seychelles,SYC,1.35293554797754,percent of total final energy consumption,2015.0
+38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Seychelles,SYC,7.4,percent,2020.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Seychelles,SYC,16.0,Cases,2019.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,Seychelles,SYC,605.055,kt,2016.0
+43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Seychelles,SYC,99.0,percent,2019.0
+44,Economics,Volume of imports,H6_Facial Coverings,Seychelles,SYC,5.821,percent change,2020.0
+46,Social issues ,Press freedom score,H6_Facial Coverings,Seychelles,SYC,28.66,score,2020.0
+47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Seychelles,SYC,8.0773,Ones,2016.0
+48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Seychelles,SYC,21.21212121,proportion,2020.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Seychelles,SYC,0.041681,percent,2019.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Seychelles,SYC,6.390728,metric tons per capita,2016.0
+52,Governance,Human Development Index,H6_Facial Coverings,Seychelles,SYC,0.796,index,2019.0
+53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Seychelles,SYC,66.0,score,2020.0
+55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Seychelles,SYC,100.0,percent of total,2017.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Seychelles,SYC,0.689437,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,Seychelles,SYC,0.33567,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,Seychelles,SYC,96419.97439180537,per 1 million people,2019.0
+59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Seychelles,SYC,99.0,percent,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,Seychelles,SYC,-0.1530527,score,2019.0
+61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Seychelles,SYC,34.0,score,2021.0
+62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Seychelles,SYC,12.537743833,"proportion, pero 100,000 people",2016.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Seychelles,SYC,0.112827,percent,2019.0
+67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Seychelles,SYC,43.0,score,2021.0
+68,Governance,Human Freedom Score ,H6_Facial Coverings,Seychelles,SYC,7.34,score,2018.0
+70,Economics,Volume of exports,H6_Facial Coverings,Seychelles,SYC,6.072,percent change,2020.0
+72,Economics,"Central government debt, total",H6_Facial Coverings,Seychelles,SYC,63.34039338006128,percent of GDP,2015.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,Seychelles,SYC,0.5179414,score,2019.0
+78,Environment,Access to electricity ,H6_Facial Coverings,Seychelles,SYC,100.0,percent of population,2018.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Seychelles,SYC,0.136328,percent,2019.0
+86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Seychelles,SYC,47.81,percent,2018.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,Seychelles,SYC,0.1714361,score,2019.0

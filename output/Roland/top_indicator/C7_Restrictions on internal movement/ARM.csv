@@ -1,0 +1,83 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Armenia,ARM,64.7449,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Armenia,ARM,49.0,score,2020.0
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Armenia,ARM,153173.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,Armenia,ARM,254483080.0,US Dollar,2019.0
+5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Armenia,ARM,478.7453625769213,per 1 million people,2019.0
+6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Armenia,ARM,122.349,per 100 people,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Armenia,ARM,5.282599925994873,score,2021.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Armenia,ARM,2616.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Armenia,ARM,35.02888,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Armenia,ARM,0.00015,percent,2019.0
+11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Armenia,ARM,5155.802,kt,2016.0
+12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Armenia,ARM,1961.610395264666,kWh per capita,2014.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Armenia,ARM,28.6,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Armenia,ARM,0.036686,percent,2019.0
+15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Armenia,ARM,31.80645161290322,percent of total,2014.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Armenia,ARM,0.078642,percent,2019.0
+17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Armenia,ARM,92.0,percent,2019.0
+18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Armenia,ARM,13.0405,per 100 people,2019.0
+19,Social issues ,Net migration,C7_Restrictions on internal movement,Armenia,ARM,-24989.0,net total / data are 5 year estimates,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Armenia,ARM,0.238689,percent,2019.0
+21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Armenia,ARM,0.2,percent,2019.0
+22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Armenia,ARM,35.91486087959995,percent of total,2015.0
+23,Economics,Volume of imports,C7_Restrictions on internal movement,Armenia,ARM,2.386,percent change,2020.0
+24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Armenia,ARM,71.3413045219602,percent of energy use,2014.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Armenia,ARM,32.52812,micrograms per cubic meter,2017.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Armenia,ARM,0.035694,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Armenia,ARM,0.001701,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Armenia,ARM,-0.0668174,score,2019.0
+30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Armenia,ARM,46.9910011,Percentage of females of the total population,2020.0
+31,Economics,Volume of exports,C7_Restrictions on internal movement,Armenia,ARM,4.622,percent change,2020.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Armenia,ARM,7.92,score,2018.0
+33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Armenia,ARM,1015.909886097494,kg of oil equivalent per capita,2014.0
+34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Armenia,ARM,0.0,percent of total,2015.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Armenia,ARM,-0.1312758,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Armenia,ARM,0.0500427,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Armenia,ARM,7.45,score,2018.0
+38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Armenia,ARM,451571.0,number,2019.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Armenia,ARM,0.013212,percent,2019.0
+40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Armenia,ARM,15.7920038357833,percent of total final energy consumption,2015.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Armenia,ARM,0.121943,percent,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Armenia,ARM,100.0,percent of total,2017.0
+43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Armenia,ARM,4000000.0,kWh,2015.0
+44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Armenia,ARM,20.2,percent,2016.0
+45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Armenia,ARM,10.8,percent,2020.0
+46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Armenia,ARM,55.5320015,Percentage of total population,2020.0
+47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Armenia,ARM,1.145285,percent of total energy,2014.0
+50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Armenia,ARM,6.107,Ones,2017.0
+51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Armenia,ARM,1.755976,metric tons per capita,2016.0
+53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Armenia,ARM,53.5880013,Percentage of total employment,2020.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Armenia,ARM,-0.5064107,score,2019.0
+57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Armenia,ARM,64.2,score,2020.0
+59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Armenia,ARM,9.1,percent,2020.0
+60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Armenia,ARM,26.0,Cases,2019.0
+61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Armenia,ARM,4.4023,Ones,2017.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Armenia,ARM,55.0,score,2021.0
+63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Armenia,ARM,34.4,index ,2018.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Armenia,ARM,33.0,score,2021.0
+66,Governance,Human Development Index,C7_Restrictions on internal movement,Armenia,ARM,0.776,index,2019.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Armenia,ARM,-0.1841683,score,2019.0
+68,Environment,Energy use ,C7_Restrictions on internal movement,Armenia,ARM,92.18917861938355,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Armenia,ARM,0.0,percent of total,2015.0
+70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Armenia,ARM,1.2,percent,2018.0
+71,Economics,"International tourism, receipts",C7_Restrictions on internal movement,Armenia,ARM,1528000000.0,US Dollar,2019.0
+72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Armenia,ARM,16.625,percent of total labor force,2020.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Armenia,ARM,1.693915557,"proportion, pero 100,000 people",2018.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Armenia,ARM,7.69,score,2018.0
+75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Armenia,ARM,-4.18397124218414,percent of GNI,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Armenia,ARM,22.0,score,2021.0
+77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Armenia,ARM,28.71,percent,2017.0
+78,Environment,Access to electricity ,C7_Restrictions on internal movement,Armenia,ARM,100.0,percent of population,2018.0
+80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Armenia,ARM,6.06,rate,2018.0
+82,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,Armenia,ARM,2.42498,percent,2019.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Armenia,ARM,23.48484848,proportion,2020.0
+86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Armenia,ARM,95.0,percent,2019.0
+87,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,Armenia,ARM,59.63738,percent,2019.0
+88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Armenia,ARM,74.56187,percent of total,2014.0
+92,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,Armenia,ARM,1.52049,percent,2019.0
+93,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,Armenia,ARM,6.95527,percent,2019.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Armenia,ARM,0.2495153,score,2019.0
+105,Economics,Growth rates of household expenditure or income per capita (%),C7_Restrictions on internal movement,Armenia,ARM,2.0,percent,2018.0
+112,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,Armenia,ARM,12.14199,percent per annum,2019.0
+116,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,Armenia,ARM,27712.3,international $ in PPP,2020.0

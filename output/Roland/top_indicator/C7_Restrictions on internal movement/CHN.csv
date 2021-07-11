@@ -1,0 +1,91 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,China,CHN,54.3,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,China,CHN,42.0,score,2020.0
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,China,CHN,95580.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,China,CHN,155815344600.0,US Dollar,2019.0
+5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,China,CHN,734.9752989701047,per 1 million people,2019.0
+6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,China,CHN,120.36,per 100 people,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,China,CHN,5.339099884033203,score,2021.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,China,CHN,4770.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,China,CHN,30.52735,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,China,CHN,0.000107,percent,2019.0
+11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,China,CHN,9893038.0,kt,2016.0
+12,Environment,Electric power consumption ,C7_Restrictions on internal movement,China,CHN,3927.044499989005,kWh per capita,2014.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,China,CHN,78.48,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,China,CHN,0.03673,percent,2019.0
+15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,China,CHN,2.339286360399206,percent of total,2014.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,China,CHN,0.06749,percent,2019.0
+17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,China,CHN,99.0,percent,2019.0
+18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,China,CHN,31.3352,per 100 people,2019.0
+19,Social issues ,Net migration,C7_Restrictions on internal movement,China,CHN,-1741996.0,net total / data are 5 year estimates,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,China,CHN,0.344937,percent,2019.0
+22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,China,CHN,72.96207597398976,percent of total,2015.0
+23,Economics,Volume of imports,C7_Restrictions on internal movement,China,CHN,4.83,percent change,2020.0
+24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,China,CHN,15.02180074011391,percent of energy use,2014.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,China,CHN,52.6646,micrograms per cubic meter,2017.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,China,CHN,0.035105,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,China,CHN,0.005799,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,China,CHN,0.5182531,score,2019.0
+30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,China,CHN,59.8419991,Percentage of females of the total population,2020.0
+31,Economics,Volume of exports,C7_Restrictions on internal movement,China,CHN,4.1,percent change,2020.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,China,CHN,6.21,score,2018.0
+33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,China,CHN,2236.729907569616,kg of oil equivalent per capita,2014.0
+34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,China,CHN,0.165618383349663,percent of total,2015.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,China,CHN,-0.2747186,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,China,CHN,-1.612372,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,China,CHN,5.92,score,2018.0
+38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,China,CHN,191033000.0,number,2019.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,China,CHN,0.01378,percent,2019.0
+40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,China,CHN,12.4133525698911,percent of total final energy consumption,2015.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,China,CHN,0.110432,percent,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,China,CHN,99.9982944622564,percent of total,2017.0
+43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,China,CHN,283851000000.0,kWh,2015.0
+44,Health,Prevalence of obesity,C7_Restrictions on internal movement,China,CHN,6.2,percent,2016.0
+45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,China,CHN,8.3,percent,2020.0
+46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,China,CHN,67.4649963,Percentage of total population,2020.0
+47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,China,CHN,2.883354,percent of total energy,2014.0
+50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,China,CHN,2.6621,Ones,2017.0
+51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,China,CHN,7.17581,metric tons per capita,2016.0
+52,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,China,CHN,303379.0,proportion,2019.0
+53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,China,CHN,47.0880013,Percentage of total employment,2020.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,China,CHN,-0.2403826,score,2019.0
+56,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,China,CHN,84.7607877105451,proportion,2017.0
+57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,China,CHN,69.85878789983346,score,2020.0
+59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,China,CHN,4.7,percent,2020.0
+60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,China,CHN,58.0,Cases,2019.0
+61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,China,CHN,1.9798,Ones,2017.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,China,CHN,9.0,score,2021.0
+63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,China,CHN,38.5,index ,2016.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,China,CHN,11.0,score,2021.0
+66,Governance,Human Development Index,C7_Restrictions on internal movement,China,CHN,0.761,index,2019.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,China,CHN,-0.3234968,score,2019.0
+68,Environment,Energy use ,C7_Restrictions on internal movement,China,CHN,187.6870333357631,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,China,CHN,70.3094269525225,percent of total,2015.0
+70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,China,CHN,3.0,percent,2018.0
+71,Economics,"International tourism, receipts",C7_Restrictions on internal movement,China,CHN,35832000000.0,US Dollar,2019.0
+72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,China,CHN,4.36999989,percent of total labor force,2020.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,China,CHN,0.52709078934,"proportion, pero 100,000 people",2018.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,China,CHN,6.07,score,2018.0
+75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,China,CHN,21.1328111797371,percent of GNI,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,China,CHN,-2.0,score,2021.0
+78,Environment,Access to electricity ,C7_Restrictions on internal movement,China,CHN,100.0,percent of population,2018.0
+79,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,China,CHN,43.1,Ones,2017.0
+81,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,China,CHN,39.692,proportion,2019.0
+82,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,China,CHN,3.52349,percent,2019.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,China,CHN,24.94117647,proportion,2020.0
+86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,China,CHN,99.0,percent,2019.0
+87,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,China,CHN,31.90509,percent,2019.0
+88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,China,CHN,87.67043,percent of total,2014.0
+89,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,China,CHN,60.308,total,2019.0
+92,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,China,CHN,1.69517,percent,2019.0
+93,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,China,CHN,2.98531,percent,2019.0
+96,Economics,Stock market capitalization (US$ million),C7_Restrictions on internal movement,China,CHN,8515504380000.001,US Dollar,2019.0
+97,Health,COVID-19 vaccine administered,C7_Restrictions on internal movement,China,CHN,1005510.0,"Number (cumulative total by Dec 26,2020)",2020.0
+101,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,China,CHN,41.39611978269686,proportion,2019.0
+103,Demographics,"Population, total",C7_Restrictions on internal movement,China,CHN,1397715000.0,total,2019.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,China,CHN,-0.2446144,score,2019.0
+105,Economics,Growth rates of household expenditure or income per capita (%),C7_Restrictions on internal movement,China,CHN,7.0,percent,2016.0
+110,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,China,CHN,16.22123581769625,proportion,2019.0
+112,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,China,CHN,4.35,percent per annum,2019.0
+113,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C7_Restrictions on internal movement,China,CHN,96.8408889770508,proportion,2018.0
+116,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,China,CHN,33981.5,international $ in PPP,2020.0

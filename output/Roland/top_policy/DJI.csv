@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+DJI,H6_Facial Coverings,0.11748012294210082,1
+DJI,C8_International travel controls,0.07661767618216865,2
+DJI,H7_Vaccination policy,0.06594898638299425,3
+DJI,C1_School closing,0.0654393600660004,4
+DJI,H3_Contact tracing,0.06500178751394664,5
+DJI,C3_Cancel public events,0.06313360687501501,6
+DJI,E1_Income support,0.061524501868782784,7
+DJI,H2_Testing policy,0.06048475297849345,8
+DJI,C2_Workplace closing,0.06026995661789983,9
+DJI,C5_Close public transport,0.05463842282233092,10
+DJI,H1_Public information campaigns,0.04654384177540364,11
+DJI,E2_Debt/contract relief,0.04315149124415499,12
+DJI,C7_Restrictions on internal movement,0.02776849445412587,13
+DJI,C6_Stay at home requirements,0.018436479051627392,14
+DJI,C4_Restrictions on gatherings,0.009279855474854343,15

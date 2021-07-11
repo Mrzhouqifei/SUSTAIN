@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+ALB,H7_Vaccination policy,0.11204105159174643,1
+ALB,H6_Facial Coverings,0.08889358344849281,2
+ALB,C6_Stay at home requirements,0.08449207440839583,3
+ALB,E2_Debt/contract relief,0.0833304604566972,4
+ALB,C7_Restrictions on internal movement,0.07674091773121455,5
+ALB,H3_Contact tracing,0.07034199695110133,6
+ALB,C8_International travel controls,0.0663068324112209,7
+ALB,C1_School closing,0.06574059341771515,8
+ALB,H2_Testing policy,0.056396710175728136,9
+ALB,C2_Workplace closing,0.04446903299278173,10
+ALB,C5_Close public transport,0.04233812130803381,11
+ALB,E1_Income support,0.040975012858239034,12
+ALB,C4_Restrictions on gatherings,0.035819549178634905,13
+ALB,H1_Public information campaigns,0.005223991969296881,14
+ALB,C3_Cancel public events,0.0,15

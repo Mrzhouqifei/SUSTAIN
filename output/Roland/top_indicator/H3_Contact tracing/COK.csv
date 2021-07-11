@@ -1,0 +1,19 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,H3_Contact tracing,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H3_Contact tracing,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Cook Islands,COK,0.308144,percent,2019.0
+14,Health,Summary exposure value tobacco,H3_Contact tracing,Cook Islands,COK,24.80129,Rate (risk-weighted prevalence),2019.0
+31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Cook Islands,COK,0.044727,percent,2019.0
+33,Health,Prevalence of Diabetes,H3_Contact tracing,Cook Islands,COK,0.170428,percent,2019.0
+48,Health,Prevalence of total cancers,H3_Contact tracing,Cook Islands,COK,0.014771,percent,2019.0
+54,Health,Prevalence of obesity,H3_Contact tracing,Cook Islands,COK,55.9,percent,2016.0
+58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Cook Islands,COK,0.146013,percent,2019.0
+66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Cook Islands,COK,0.036331,percent,2019.0
+76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Cook Islands,COK,2.4,percent,2018.0
+77,Health,Prevalence of down syndrome,H3_Contact tracing,Cook Islands,COK,0.000101,percent,2019.0
+78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Cook Islands,COK,0.009899,percent,2019.0
+85,Economics,"Trade, total as % of GDP",H3_Contact tracing,Cook Islands,COK,40.12978,percent,2019.0
+110,Economics,Expenditure on social protection (% of GDP),H3_Contact tracing,Cook Islands,COK,3.79368,percent,2019.0
+111,Economics,Expenditure on health (% of GDP),H3_Contact tracing,Cook Islands,COK,0.70939,percent,2019.0
+113,Economics,Expenditure on education (% of GDP),H3_Contact tracing,Cook Islands,COK,2.05039,percent,2019.0
+115,Economics,"International tourism, receipts",H3_Contact tracing,Cook Islands,COK,153000000.0,US Dollar,2017.0

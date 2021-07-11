@@ -1,0 +1,8 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,E1_Income support,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
+21,Governance,Rule of law estimate ,E1_Income support,Anguilla,AIA,0.3557367,score,2019.0
+36,Governance,Government effectiveness estimate,E1_Income support,Anguilla,AIA,0.8158239,score,2019.0
+47,Health,Mortality due to COVID-19,E1_Income support,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+66,Governance,Control of corruption estimate,E1_Income support,Anguilla,AIA,1.234392,score,2019.0
+73,Governance,Regulatory quality estimate,E1_Income support,Anguilla,AIA,0.8462311,score,2019.0
+75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Anguilla,AIA,1.367357,score,2019.0

@@ -1,0 +1,66 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C5_Close public transport,Hong Kong,HKG,91.7434,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C5_Close public transport,Hong Kong,HKG,77.0,score,2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Hong Kong,HKG,60546.12782055039,per 1 million people,2019.0
+5,Economics,Stock market capitalization (US$ million),C5_Close public transport,Hong Kong,HKG,4899234580000.0,US Dollar,2019.0
+7,Social issues ,Net migration,C5_Close public transport,Hong Kong,HKG,146542.0,net total / data are 5 year estimates,2019.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Hong Kong,HKG,15.0,score,2021.0
+9,Social issues ,Life Ladder ,C5_Close public transport,Hong Kong,HKG,5.4766998291015625,score,2021.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Hong Kong,HKG,37.4903,per 100 people,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Hong Kong,HKG,37.0,score,2021.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Hong Kong,HKG,43644.63,kt,2016.0
+18,Environment,Electricity production from coal sources ,C5_Close public transport,Hong Kong,HKG,65.44044175650802,percent of total,2015.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Hong Kong,HKG,0.852783452322141,percent of total final energy consumption,2015.0
+21,Environment,"Energy imports, net ",C5_Close public transport,Hong Kong,HKG,98.68032373470714,percent of energy use,2014.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Hong Kong,HKG,63.0,Cases,2019.0
+28,Environment,Electric power consumption ,C5_Close public transport,Hong Kong,HKG,6083.2699356802,kWh per capita,2014.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Hong Kong,HKG,288.533,per 100 people,2019.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Hong Kong,HKG,88.310997,Percentage of total employment,2020.0
+32,Environment,Electricity production from oil sources,C5_Close public transport,Hong Kong,HKG,0.4917170654746253,percent of total,2015.0
+34,Economics,Volume of imports,C5_Close public transport,Hong Kong,HKG,3.062,percent change,2020.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Hong Kong,HKG,1.604144,score,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Hong Kong,HKG,-0.2677673,score,2019.0
+40,Economics,Expenditure on education (% of GDP),C5_Close public transport,Hong Kong,HKG,3.99272,percent,2018.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Hong Kong,HKG,4.26499987,percent of total labor force,2020.0
+44,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C5_Close public transport,Hong Kong,HKG,115045.1,international $ in PPP,2020.0
+46,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Hong Kong,HKG,1970.484127533024,kg of oil equivalent per capita,2014.0
+47,Governance,Serious assault (rate),C5_Close public transport,Hong Kong,HKG,65.05,rate,2018.0
+48,Governance,Personal Freedom Score ,C5_Close public transport,Hong Kong,HKG,8.53,score,2018.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Hong Kong,HKG,1.983408,score,2019.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Hong Kong,HKG,1.741097,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Hong Kong,HKG,0.2093806,score,2019.0
+54,Governance,Human Freedom Score ,C5_Close public transport,Hong Kong,HKG,8.74,score,2018.0
+56,Social issues ,Press freedom score,C5_Close public transport,Hong Kong,HKG,30.01,score,2020.0
+57,Governance,Economic Freedom Score,C5_Close public transport,Hong Kong,HKG,8.94,score,2018.0
+58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Hong Kong,HKG,59.6669998,Percentage of total population,2020.0
+59,Environment,Energy use ,C5_Close public transport,Hong Kong,HKG,34.96287574062381,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+60,Governance,Human Development Index,C5_Close public transport,Hong Kong,HKG,0.949,index,2019.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Hong Kong,HKG,52.0,score,2021.0
+63,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Hong Kong,HKG,96.4362244897959,proportion,2017.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Hong Kong,HKG,1.672441,score,2019.0
+65,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Hong Kong,HKG,99.72127267946358,percent of total,2015.0
+66,Demographics,Urban population (% of total population),C5_Close public transport,Hong Kong,HKG,100.0,total,2019.0
+67,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Hong Kong,HKG,0.65113634144,"proportion, pero 100,000 people",2018.0
+68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Hong Kong,HKG,53.6580009,Percentage of females of the total population,2020.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Hong Kong,HKG,4053510.0,number,2019.0
+72,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Hong Kong,HKG,106000000.0,kWh,2015.0
+73,Environment,Fossil fuel energy consumption,C5_Close public transport,Hong Kong,HKG,93.17288,percent of total,2014.0
+78,Demographics,Rural population (% of total population),C5_Close public transport,Hong Kong,HKG,0.0,proportion,2019.0
+80,Demographics,Age dependency ratio (% of working-age population),C5_Close public transport,Hong Kong,HKG,42.50080813223036,proportion,2019.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Hong Kong,HKG,5.948891,metric tons per capita,2016.0
+83,Economics,"Lending interest rates, percent per annum",C5_Close public transport,Hong Kong,HKG,5.04167,percent per annum,2018.0
+84,Demographics,"Age dependency ratio, old (% of working-age population)",C5_Close public transport,Hong Kong,HKG,24.9351548624315,proportion,2019.0
+86,Economics,"Trade, total as % of GDP",C5_Close public transport,Hong Kong,HKG,293.01339,percent,2019.0
+87,Economics,"International tourism, receipts",C5_Close public transport,Hong Kong,HKG,29043000000.0,US Dollar,2019.0
+88,Economics,Volume of exports,C5_Close public transport,Hong Kong,HKG,2.981,percent change,2020.0
+94,Demographics,Refugee population by country or territory of asylum,C5_Close public transport,Hong Kong,HKG,128.0,proportion,2019.0
+96,Demographics,"Population, total",C5_Close public transport,Hong Kong,HKG,7507400.0,total,2019.0
+98,Environment,Electricity production from nuclear sources ,C5_Close public transport,Hong Kong,HKG,0.0,percent of total,2014.0
+99,Economics,Expenditure on health (% of GDP),C5_Close public transport,Hong Kong,HKG,3.01923,percent,2018.0
+100,Economics,Expenditure on social protection (% of GDP),C5_Close public transport,Hong Kong,HKG,3.43543,percent,2018.0
+102,Economics,"Foreign direct investment, net",C5_Close public transport,Hong Kong,HKG,53171228240.0,US Dollar,2019.0
+110,Demographics,People using safely managed drinking water services (% of population),C5_Close public transport,Hong Kong,HKG,100.0,proportion,2017.0
+112,Environment,Combustible renewables and waste,C5_Close public transport,Hong Kong,HKG,0.465027,percent of total energy,2014.0
+114,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Hong Kong,HKG,106.732749938965,proportion,2019.0
+115,Social issues ,Progression to secondary school (%),C5_Close public transport,Hong Kong,HKG,99.93234,proportion,2017.0
+117,Environment,Access to electricity ,C5_Close public transport,Hong Kong,HKG,100.0,percent of population,2018.0

@@ -1,0 +1,109 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Philippines,PHL,43.0266,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Philippines,PHL,34.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Philippines,PHL,456562.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,Stock market capitalization (US$ million),E2_Debt/contract relief,Philippines,PHL,275302190000.0,US Dollar,2019.0
+5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Philippines,PHL,62.4349,percent of total,2014.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Philippines,PHL,111.3149907625206,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Philippines,PHL,5.880199909210205,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Philippines,PHL,554.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Philippines,PHL,30.19209,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Philippines,PHL,3.86511,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Philippines,PHL,67.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Philippines,PHL,96.3706587650922,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Philippines,PHL,8875.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Philippines,PHL,1.4,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Philippines,PHL,43.54,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Philippines,PHL,57.6349983,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Philippines,PHL,122287.1,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Philippines,PHL,-0.5733455,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Philippines,PHL,0.42233,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Philippines,PHL,-335758.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Philippines,PHL,0.045941,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Philippines,PHL,7.43,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Philippines,PHL,0.035018,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Philippines,PHL,25.0,score,2021.0
+25,Economics,"Central government debt, total",E2_Debt/contract relief,Philippines,PHL,43.42633894146199,percent of GDP,2014.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Philippines,PHL,0.002651,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Philippines,PHL,12.573,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Philippines,PHL,46.1949997,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Philippines,PHL,20.9724077138032,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Philippines,PHL,0.6004,Ones,2017.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Philippines,PHL,6.37,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Philippines,PHL,0.718,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Philippines,PHL,27.4515444500126,percent of total final energy consumption,2015.0
+34,Demographics,Age dependency ratio (% of working-age population),E2_Debt/contract relief,Philippines,PHL,55.74110931993945,proportion,2019.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Philippines,PHL,4.2,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Philippines,PHL,-0.8849657,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Philippines,PHL,0.2,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Philippines,PHL,0.0301842,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Philippines,PHL,6.4649881651,"proportion, pero 100,000 people",2018.0
+40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Philippines,PHL,13.00956,percent of total energy,2014.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Philippines,PHL,12279000000.0,kWh,2015.0
+42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Philippines,PHL,52.65,percent,2018.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Philippines,PHL,18.0698,micrograms per cubic meter,2017.0
+44,Environment,"Energy imports, net ",E2_Debt/contract relief,Philippines,PHL,45.76800308299209,percent of energy use,2014.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Philippines,PHL,0.095396,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Philippines,PHL,31.0,score,2021.0
+47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Philippines,PHL,7.14207709948673,percent of total,2015.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Philippines,PHL,44.4,index ,2015.0
+49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Philippines,PHL,474.2978773580823,kg of oil equivalent per capita,2014.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Philippines,PHL,0.026865,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Philippines,PHL,154.761,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Philippines,PHL,0.0529682,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Philippines,PHL,-0.4773007,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Philippines,PHL,1.17965,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Philippines,PHL,0.00479,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Philippines,PHL,0.000182,percent,2019.0
+57,Environment,Electric power consumption ,E2_Debt/contract relief,Philippines,PHL,696.346780059737,kWh per capita,2014.0
+58,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E2_Debt/contract relief,Philippines,PHL,0.476699369028211,proportion,2015.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Philippines,PHL,56.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Philippines,PHL,2.16400003,percent of total labor force,2020.0
+62,Health,Hospital beds (per 10 000 population),E2_Debt/contract relief,Philippines,PHL,9.9,Ones,2014.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Philippines,PHL,27.96052632,proportion,2020.0
+64,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",E2_Debt/contract relief,Philippines,PHL,16.0239295959473,proportion,2017.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Philippines,PHL,65.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Philippines,PHL,4165210.0,number,2019.0
+67,Social issues ,Progression to secondary school (%),E2_Debt/contract relief,Philippines,PHL,96.59469,proportion,2016.0
+68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Philippines,PHL,44.51482169075267,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Philippines,PHL,74.56347906276922,percent of total,2015.0
+70,Demographics,Urban population (% of total population),E2_Debt/contract relief,Philippines,PHL,47.149,total,2019.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Philippines,PHL,13.351,percent change,2020.0
+72,Demographics,People using safely managed drinking water services (% of population),E2_Debt/contract relief,Philippines,PHL,46.6540190971211,proportion,2017.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Philippines,PHL,28.7,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Philippines,PHL,0.0093082,score,2019.0
+75,Social issues ,Coverage of social safety net programs (% of population),E2_Debt/contract relief,Philippines,PHL,33.8304086704276,proportion,2015.0
+76,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Philippines,PHL,76.5335020674233,proportion,2017.0
+77,Demographics,Rural population (% of total population),E2_Debt/contract relief,Philippines,PHL,52.851,proportion,2019.0
+78,Demographics,Refugee population by country or territory of asylum,E2_Debt/contract relief,Philippines,PHL,680.0,proportion,2019.0
+79,Demographics,People with basic handwashing facilities including soap and water (% of population),E2_Debt/contract relief,Philippines,PHL,78.4629630309315,proportion,2017.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Philippines,PHL,80.99999999999999,score,2020.0
+81,Economics,"International tourism, receipts",E2_Debt/contract relief,Philippines,PHL,9806000000.0,US Dollar,2019.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Philippines,PHL,59.6549988,Percentage of total population,2020.0
+84,Social issues ,"Primary completion rate, total (% of relevant age group)",E2_Debt/contract relief,Philippines,PHL,115.436897277832,proportion,2018.0
+85,Environment,Energy use ,E2_Debt/contract relief,Philippines,PHL,68.01296830065644,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Philippines,PHL,6.9,score,2018.0
+87,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E2_Debt/contract relief,Philippines,PHL,98.1825485229492,proportion,2015.0
+88,Demographics,"Age dependency ratio, old (% of working-age population)",E2_Debt/contract relief,Philippines,PHL,8.277634072704219,proportion,2019.0
+91,Demographics,Age dependency ratio,E2_Debt/contract relief,Philippines,PHL,55.74111,percent of total population,2019.0
+92,Economics,"Trade, total as % of GDP",E2_Debt/contract relief,Philippines,PHL,48.44008,percent,2019.0
+94,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),E2_Debt/contract relief,Philippines,PHL,10.9,proportion,2017.0
+96,Economics,Starting a Business (Score),E2_Debt/contract relief,Philippines,PHL,71.3,Score,2019.0
+97,Demographics,Internet users (per 100 people),E2_Debt/contract relief,Philippines,PHL,60.05476,per 100 population,2017.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Philippines,PHL,6.4,percent,2016.0
+100,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Philippines,PHL,7647487630.0,US Dollar,2019.0
+101,Economics,"Lending interest rates, percent per annum",E2_Debt/contract relief,Philippines,PHL,7.12867,percent per annum,2019.0
+102,Demographics,Mobile cellular (per 100 people),E2_Debt/contract relief,Philippines,PHL,126.1986,per 100 population,2018.0
+103,Economics,Growth rates of household expenditure or income per capita (%),E2_Debt/contract relief,Philippines,PHL,3.0,percent,2015.0
+104,Demographics,"Net migration rate, per 1000 population",E2_Debt/contract relief,Philippines,PHL,-0.634,per thousand persons,2015.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Philippines,PHL,4.9351,Ones,2018.0
+107,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E2_Debt/contract relief,Philippines,PHL,21277.6,international $ in PPP,2020.0
+108,Demographics,Fixed telephone (per 100 people),E2_Debt/contract relief,Philippines,PHL,3.87476,per 100 population,2018.0
+109,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E2_Debt/contract relief,Philippines,PHL,6.31022527813911,proportion,2015.0
+110,Demographics,"Population, total",E2_Debt/contract relief,Philippines,PHL,108116615.0,total,2019.0
+111,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Philippines,PHL,2.22247,percent,2019.0
+112,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Philippines,PHL,0.89042,percent,2019.0
+113,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Philippines,PHL,3.45025,percent,2019.0
+115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Philippines,PHL,0.0,percent of total,2014.0
+116,Social issues ,Proportion of people living below 50 percent of median income (%),E2_Debt/contract relief,Philippines,PHL,14.5,proportion,2015.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Philippines,PHL,94.8572311401367,percent of population,2018.0

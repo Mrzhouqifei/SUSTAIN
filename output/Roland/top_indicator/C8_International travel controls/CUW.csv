@@ -1,0 +1,26 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C8_International travel controls,Curacao,CUW,68.1272,percent of population,2019.0
+3,Health,Prevalence of COVID-19,C8_International travel controls,Curacao,CUW,3823.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C8_International travel controls,Curacao,CUW,4106.945625817263,per 1 million people,2019.0
+8,Health,Mortality due to COVID-19,C8_International travel controls,Curacao,CUW,11.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Environment,"Energy imports, net ",C8_International travel controls,Curacao,CUW,99.86047334620102,percent of energy use,2014.0
+15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Curacao,CUW,30.4623,per 100 people,2019.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Curacao,CUW,7.2,Cases,2019.0
+20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Curacao,CUW,42.41,percent,2018.0
+21,Social issues ,Net migration,C8_International travel controls,Curacao,CUW,2573.0,net total / data are 5 year estimates,2019.0
+32,Environment,Renewable energy consumption ,C8_International travel controls,Curacao,CUW,0.347766267819474,percent of total final energy consumption,2015.0
+37,Environment,Energy use ,C8_International travel controls,Curacao,CUW,471.5791055080478,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Curacao,CUW,115.548,per 100 people,2019.0
+40,Demographics,Urban population (% of total population),C8_International travel controls,Curacao,CUW,89.098,total,2019.0
+47,Environment,Electric power consumption ,C8_International travel controls,Curacao,CUW,4797.670435959438,kWh per capita,2014.0
+50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Curacao,CUW,33.76146,metric tons per capita,2016.0
+54,Demographics,"Age dependency ratio, old (% of working-age population)",C8_International travel controls,Curacao,CUW,26.68541265847763,proportion,2019.0
+58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Curacao,CUW,61709.0,number,2019.0
+61,Demographics,People using at least basic sanitation services (% of population),C8_International travel controls,Curacao,CUW,98.9502751182192,proportion,2017.0
+65,Demographics,Age dependency ratio (% of working-age population),C8_International travel controls,Curacao,CUW,55.43091115386513,proportion,2019.0
+72,Demographics,Refugee population by country or territory of asylum,C8_International travel controls,Curacao,CUW,42.0,proportion,2019.0
+80,Environment,Access to electricity ,C8_International travel controls,Curacao,CUW,100.0,percent of population,2018.0
+81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Curacao,CUW,12650.8604378195,kg of oil equivalent per capita,2014.0
+86,Environment,CO2 emissions (kt),C8_International travel controls,Curacao,CUW,5390.49,kt,2016.0
+90,Demographics,"Population, total",C8_International travel controls,Curacao,CUW,157538.0,total,2019.0
+114,Demographics,Rural population (% of total population),C8_International travel controls,Curacao,CUW,10.902,proportion,2019.0

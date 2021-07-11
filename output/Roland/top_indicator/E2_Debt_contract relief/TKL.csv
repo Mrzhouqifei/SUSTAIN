@@ -1,0 +1,12 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Tokelau,TKL,0.362278,percent,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Tokelau,TKL,0.040476,percent,2019.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Tokelau,TKL,0.111261,percent,2019.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Tokelau,TKL,0.003708,percent,2019.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Tokelau,TKL,0.106118,percent,2019.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Tokelau,TKL,0.030871,percent,2019.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Tokelau,TKL,0.007214,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Tokelau,TKL,0.000145,percent,2019.0

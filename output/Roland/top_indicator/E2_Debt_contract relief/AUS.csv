@@ -1,0 +1,94 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Australia,AUS,86.545,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Australia,AUS,77.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Australia,AUS,28094.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,Stock market capitalization (US$ million),E2_Debt/contract relief,Australia,AUS,1487598500000.0,US Dollar,2019.0
+5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Australia,AUS,89.62563,percent of total,2015.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Australia,AUS,36720.85344180703,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Australia,AUS,7.183499813079834,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Australia,AUS,6.9,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Australia,AUS,21.19674,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Australia,AUS,34.5413,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Australia,AUS,95.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Australia,AUS,24.8935837696774,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Australia,AUS,908.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Australia,AUS,6.4,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Australia,AUS,20.21,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Australia,AUS,77.7330017,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Australia,AUS,375907.8,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Australia,AUS,1.811107,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Australia,AUS,0.155167,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Australia,AUS,791229.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Australia,AUS,0.064051,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Australia,AUS,8.23,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Australia,AUS,0.064669,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Australia,AUS,40.0,score,2021.0
+25,Economics,"Central government debt, total",E2_Debt/contract relief,Australia,AUS,0.054648482520169,percent of GDP,2016.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Australia,AUS,0.001582,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Australia,AUS,2.366,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Australia,AUS,60.2050018,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Australia,AUS,4.42268183065241,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Australia,AUS,3.6778,Ones,2017.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Australia,AUS,9.12,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Australia,AUS,0.944,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Australia,AUS,9.18050295980786,percent of total final energy consumption,2015.0
+34,Demographics,Age dependency ratio (% of working-age population),E2_Debt/contract relief,Australia,AUS,54.3130005917775,proportion,2019.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Australia,AUS,18.5,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Australia,AUS,1.086503,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Australia,AUS,0.1,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Australia,AUS,1.315125,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Australia,AUS,0.89163240342,"proportion, pero 100,000 people",2018.0
+40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Australia,AUS,3.33011,percent of total energy,2015.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Australia,AUS,21044000000.0,kWh,2015.0
+42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Australia,AUS,37.8,percent,2018.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Australia,AUS,8.550324,micrograms per cubic meter,2017.0
+44,Environment,"Energy imports, net ",E2_Debt/contract relief,Australia,AUS,-190.1909475821543,percent of energy use,2015.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Australia,AUS,0.108301,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Australia,AUS,57.0,score,2021.0
+47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Australia,AUS,2.695064136104901,percent of total,2015.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Australia,AUS,34.4,index ,2014.0
+49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Australia,AUS,5483.816401540225,kg of oil equivalent per capita,2015.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Australia,AUS,0.050533,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Australia,AUS,110.621,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Australia,AUS,1.571896,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Australia,AUS,1.734145,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Australia,AUS,15.53922,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Australia,AUS,0.041621,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Australia,AUS,0.000425,percent,2019.0
+57,Environment,Electric power consumption ,E2_Debt/contract relief,Australia,AUS,10071.39897850057,kWh per capita,2014.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Australia,AUS,97.0,score,2021.0
+60,Economics,Unemployment rate (%) - Annual,E2_Debt/contract relief,Australia,AUS,5.3,percent,2019.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Australia,AUS,5.32800007,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Australia,AUS,30.46357616,proportion,2020.0
+64,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",E2_Debt/contract relief,Australia,AUS,31.7493305206299,proportion,2018.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Australia,AUS,95.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Australia,AUS,7820000.0,number,2019.0
+68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Australia,AUS,62.87161680064691,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Australia,AUS,86.36215890532591,percent of total,2015.0
+70,Demographics,Urban population (% of total population),E2_Debt/contract relief,Australia,AUS,86.124,total,2019.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Australia,AUS,2.424,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Australia,AUS,2.1,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Australia,AUS,1.873539,score,2019.0
+76,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Australia,AUS,99.9911523822512,proportion,2017.0
+77,Demographics,Rural population (% of total population),E2_Debt/contract relief,Australia,AUS,13.87600000000001,proportion,2019.0
+78,Demographics,Refugee population by country or territory of asylum,E2_Debt/contract relief,Australia,AUS,76768.0,proportion,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Australia,AUS,19.746408857575208,score,2020.0
+81,Economics,"International tourism, receipts",E2_Debt/contract relief,Australia,AUS,45709000000.0,US Dollar,2019.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Australia,AUS,65.3690033,Percentage of total population,2020.0
+85,Environment,Energy use ,E2_Debt/contract relief,Australia,AUS,114.2045654214777,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Australia,AUS,8.68,score,2018.0
+88,Demographics,"Age dependency ratio, old (% of working-age population)",E2_Debt/contract relief,Australia,AUS,24.5684821384735,proportion,2019.0
+89,Governance,Serious assault (rate),E2_Debt/contract relief,Australia,AUS,292.02,rate,2018.0
+92,Economics,"Trade, total as % of GDP",E2_Debt/contract relief,Australia,AUS,35.81504,percent,2019.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Australia,AUS,29.0,percent,2016.0
+100,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Australia,AUS,38605657230.0,US Dollar,2019.0
+101,Economics,"Lending interest rates, percent per annum",E2_Debt/contract relief,Australia,AUS,5.101,percent per annum,2019.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Australia,AUS,12.5508,Ones,2017.0
+107,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E2_Debt/contract relief,Australia,AUS,92411.2,international $ in PPP,2020.0
+110,Demographics,"Population, total",E2_Debt/contract relief,Australia,AUS,25364307.0,total,2019.0
+111,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Australia,AUS,9.73273,percent,2019.0
+112,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Australia,AUS,7.10948,percent,2019.0
+113,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Australia,AUS,5.39412,percent,2019.0
+115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Australia,AUS,0.0,percent of total,2015.0
+116,Social issues ,Proportion of people living below 50 percent of median income (%),E2_Debt/contract relief,Australia,AUS,10.0,proportion,2014.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Australia,AUS,100.0,percent of population,2018.0

@@ -1,0 +1,52 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Palau,PLW,0.349381,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Palau,PLW,7204.0,number,2019.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Palau,PLW,0.037978,percent,2019.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Palau,PLW,134.407,per 100 people,2019.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Palau,PLW,6.92896,per 100 people,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Palau,PLW,0.000787,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Palau,PLW,1.4205,Ones,2014.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Palau,PLW,0.014518,percent,2019.0
+20,Governance,Total freedom in the world score ,H6_Facial Coverings,Palau,PLW,92.0,score,2021.0
+23,Health,Prevalence of obesity,H6_Facial Coverings,Palau,PLW,55.3,percent,2016.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Palau,PLW,0.000102,percent,2019.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,Palau,PLW,-0.4493027,score,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Palau,PLW,22.78077,Rate (risk-weighted prevalence),2019.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Palau,PLW,6.4,percent,2018.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,Palau,PLW,0.0,percent of total final energy consumption,2015.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Palau,PLW,38.0,Cases,2019.0
+41,Demographics,Urban population (% of total population),H6_Facial Coverings,Palau,PLW,80.47,total,2019.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,Palau,PLW,223.687,kt,2016.0
+43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Palau,PLW,97.0,percent,2019.0
+44,Economics,Volume of imports,H6_Facial Coverings,Palau,PLW,2.265,percent change,2020.0
+47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Palau,PLW,7.2626,Ones,2018.0
+48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Palau,PLW,12.5,proportion,2020.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Palau,PLW,0.044062,percent,2019.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Palau,PLW,12.61986,metric tons per capita,2016.0
+52,Governance,Human Development Index,H6_Facial Coverings,Palau,PLW,0.826,index,2019.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Palau,PLW,0.8625854,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,Palau,PLW,1.094265,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,Palau,PLW,721.901377165704,per 1 million people,2019.0
+59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Palau,PLW,97.0,percent,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,Palau,PLW,-0.007541,score,2019.0
+61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Palau,PLW,37.0,score,2021.0
+62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Palau,PLW,11.166322372,"proportion, pero 100,000 people",2018.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Palau,PLW,0.181243,percent,2019.0
+67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Palau,PLW,55.0,score,2021.0
+70,Economics,Volume of exports,H6_Facial Coverings,Palau,PLW,7.35,percent change,2020.0
+72,Economics,"Central government debt, total",H6_Facial Coverings,Palau,PLW,68.7028397772155,percent of GDP,2016.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,Palau,PLW,-0.0454221,score,2019.0
+77,Economics,"International tourism, receipts",H6_Facial Coverings,Palau,PLW,116000000.0,US Dollar,2017.0
+78,Environment,Access to electricity ,H6_Facial Coverings,Palau,PLW,100.0,percent of population,2018.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Palau,PLW,0.148389,percent,2019.0
+84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Palau,PLW,99.9999978055265,proportion,2017.0
+85,Demographics,"Population, total",H6_Facial Coverings,Palau,PLW,18008.0,total,2019.0
+86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Palau,PLW,29.93,percent,2014.0
+88,Demographics,Rural population (% of total population),H6_Facial Coverings,Palau,PLW,19.53,proportion,2019.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,Palau,PLW,0.3144576,score,2019.0
+104,Economics,"Trade, total as % of GDP",H6_Facial Coverings,Palau,PLW,62.33859,percent,2015.0
+107,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H6_Facial Coverings,Palau,PLW,96.5937423706055,proportion,2015.0
+108,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Palau,PLW,100.429176330566,proportion,2014.0
+113,Economics,"Foreign direct investment, net",H6_Facial Coverings,Palau,PLW,21500000.0,US Dollar,2018.0

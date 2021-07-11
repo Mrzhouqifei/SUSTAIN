@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+BRA,H7_Vaccination policy,0.08626972147174608,1
+BRA,C6_Stay at home requirements,0.08356123063314147,2
+BRA,C8_International travel controls,0.08352589726675833,3
+BRA,C1_School closing,0.07197488395279633,4
+BRA,C5_Close public transport,0.0685924889508778,5
+BRA,E1_Income support,0.06299716537862306,6
+BRA,H2_Testing policy,0.060850783423265775,7
+BRA,C2_Workplace closing,0.05408427935742097,8
+BRA,C4_Restrictions on gatherings,0.05063575446381302,9
+BRA,H3_Contact tracing,0.049843095420461225,10
+BRA,H6_Facial Coverings,0.041555952736362436,11
+BRA,E2_Debt/contract relief,0.03971280616371902,12
+BRA,H1_Public information campaigns,0.02786546985357535,13
+BRA,C3_Cancel public events,0.025963670105444446,14
+BRA,C7_Restrictions on internal movement,0.0,15

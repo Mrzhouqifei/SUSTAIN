@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+ECU,H7_Vaccination policy,0.09744377432038707,1
+ECU,C7_Restrictions on internal movement,0.09515612201551048,2
+ECU,H6_Facial Coverings,0.08668489581913368,3
+ECU,C4_Restrictions on gatherings,0.0713410555962797,4
+ECU,H3_Contact tracing,0.06823691086713117,5
+ECU,H2_Testing policy,0.06603691703377121,6
+ECU,C8_International travel controls,0.06362913587049153,7
+ECU,C6_Stay at home requirements,0.060543638767782834,8
+ECU,C2_Workplace closing,0.055525069037164664,9
+ECU,C1_School closing,0.048743684732364116,10
+ECU,C5_Close public transport,0.04618680991112913,11
+ECU,E1_Income support,0.037739111463844295,12
+ECU,H1_Public information campaigns,0.028393063375345275,13
+ECU,E2_Debt/contract relief,0.015637885838446157,14
+ECU,C3_Cancel public events,0.0,15

@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+TUN,H6_Facial Coverings,0.10943088684035787,1
+TUN,C5_Close public transport,0.10183497251996387,2
+TUN,H7_Vaccination policy,0.08454489228747715,3
+TUN,C6_Stay at home requirements,0.07769362019428235,4
+TUN,C8_International travel controls,0.0773072046980272,5
+TUN,C7_Restrictions on internal movement,0.07491006906977342,6
+TUN,C1_School closing,0.07195792434028789,7
+TUN,H2_Testing policy,0.06578121886477344,8
+TUN,C4_Restrictions on gatherings,0.05031817668732275,9
+TUN,E2_Debt/contract relief,0.04551484359213927,10
+TUN,H3_Contact tracing,0.03952983984799405,11
+TUN,C2_Workplace closing,0.03734195489228996,12
+TUN,C3_Cancel public events,0.03171054091072471,13
+TUN,H1_Public information campaigns,0.030853935733946836,14
+TUN,E1_Income support,0.00030791349790074265,15

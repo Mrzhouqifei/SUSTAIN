@@ -1,0 +1,8 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+4,Health,Prevalence of COVID-19,H1_Public information campaigns,Martinique,MTQ,5601.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H1_Public information campaigns,Martinique,MTQ,42.0,"Number (cumulative total by Dec 26,2020)",2020.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Martinique,MTQ,1.228176,score,2019.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Martinique,MTQ,0.7850212,score,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Martinique,MTQ,1.234392,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Martinique,MTQ,0.6005772,score,2019.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Martinique,MTQ,1.089055,score,2019.0

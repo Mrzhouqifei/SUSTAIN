@@ -1,0 +1,12 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C6_Stay at home requirements,Faroe Islands,FRO,97.582,percent of population,2019.0
+2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Faroe Islands,FRO,534.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C6_Stay at home requirements,Faroe Islands,FRO,4991.98816713916,per 1 million people,2019.0
+9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Faroe Islands,FRO,116.474,per 100 people,2019.0
+11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Faroe Islands,FRO,37.328,per 100 people,2019.0
+15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Faroe Islands,FRO,18021.0,number,2019.0
+29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Faroe Islands,FRO,13.09289,metric tons per capita,2016.0
+32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Faroe Islands,FRO,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+41,Environment,Renewable energy consumption ,C6_Stay at home requirements,Faroe Islands,FRO,7.51358049162428,percent of total final energy consumption,2015.0
+60,Environment,CO2 emissions (kt),C6_Stay at home requirements,Faroe Islands,FRO,630.724,kt,2016.0
+61,Environment,Access to electricity ,C6_Stay at home requirements,Faroe Islands,FRO,100.0,percent of population,2018.0

@@ -1,0 +1,4 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Vatican City,VAT,26.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Vatican City,VAT,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Vatican City,VAT,0.0,rate,2015.0

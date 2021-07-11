@@ -1,0 +1,72 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E1_Income support,Egypt,EGY,57.2829,percent of population,2019.0
+2,Economics,Volume of exports,E1_Income support,Egypt,EGY,8.151,percent change,2020.0
+3,Health,Prevalence of COVID-19,E1_Income support,Egypt,EGY,124280.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,E1_Income support,Egypt,EGY,35.33288262242069,per 1 million people,2019.0
+6,Governance,Total freedom in the world score ,E1_Income support,Egypt,EGY,18.0,score,2021.0
+8,Health,Summary exposure value tobacco,E1_Income support,Egypt,EGY,35.65798,Rate (risk-weighted prevalence),2019.0
+9,Social issues ,Net migration,E1_Income support,Egypt,EGY,-190164.0,net total / data are 5 year estimates,2019.0
+10,Environment,CO2 emissions (kt),E1_Income support,Egypt,EGY,238560.4,kt,2016.0
+11,Governance,Economic Freedom Score,E1_Income support,Egypt,EGY,5.38,score,2018.0
+12,Social issues ,Life Ladder ,E1_Income support,Egypt,EGY,4.282700061798096,score,2021.0
+13,Health,Prevalence of Depressive disorders,E1_Income support,Egypt,EGY,0.038731,percent,2019.0
+14,Environment,Electricity production from coal sources ,E1_Income support,Egypt,EGY,0.0,percent of total,2015.0
+15,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Egypt,EGY,3.55627892719642,percent of GNI,2018.0
+16,Environment,Combustible renewables and waste,E1_Income support,Egypt,EGY,2.288711,percent of total energy,2014.0
+17,Health,Prevalence of obesity,E1_Income support,Egypt,EGY,32.0,percent,2016.0
+18,Demographics,Fixed broadband subscriptions,E1_Income support,Egypt,EGY,7.56957,per 100 people,2019.0
+19,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Egypt,EGY,95.0,percent,2019.0
+20,Governance,Human Development Index,E1_Income support,Egypt,EGY,0.707,index,2019.0
+21,Governance,Rule of law estimate ,E1_Income support,Egypt,EGY,-0.420846,score,2019.0
+22,Demographics,Fixed telephone subscriptions,E1_Income support,Egypt,EGY,8760440.0,number,2019.0
+24,Environment,Energy use (kg of oil equivalent per capita),E1_Income support,Egypt,EGY,827.4971668677881,kg of oil equivalent per capita,2014.0
+25,Social issues ,Gini index (World Bank estimate),E1_Income support,Egypt,EGY,31.5,index ,2017.0
+26,Environment,Electricity production from oil sources,E1_Income support,Egypt,EGY,21.01199602147524,percent of total,2015.0
+27,Health,Prevalence of anxiety disorders,E1_Income support,Egypt,EGY,0.048597,percent,2019.0
+28,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Egypt,EGY,48.5509987,Percentage of total employment,2020.0
+30,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Egypt,EGY,46.4959984,Percentage of total population,2020.0
+31,Health,Prevalence of Hypertensive heart disease,E1_Income support,Egypt,EGY,0.00173,percent,2019.0
+32,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Egypt,EGY,12.0,Cases,2019.0
+33,Social issues ,Press freedom score,E1_Income support,Egypt,EGY,56.82,score,2020.0
+34,Governance,Corruption Perceptions Index,E1_Income support,Egypt,EGY,33.0,score,2020.0
+35,Health,Prevalence of chronic kidney disease,E1_Income support,Egypt,EGY,0.079929,percent,2019.0
+36,Governance,Government effectiveness estimate,E1_Income support,Egypt,EGY,-0.4235377,score,2019.0
+38,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Egypt,EGY,86.99945,micrograms per cubic meter,2017.0
+39,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Egypt,EGY,12.0,score,2021.0
+41,Environment,Renewable energy consumption ,E1_Income support,Egypt,EGY,5.70937726460422,percent of total final energy consumption,2015.0
+42,Health,"Prevalence of HIV, total (% of population ages 15-49)",E1_Income support,Egypt,EGY,0.1,percent,2019.0
+43,Environment,Electric power consumption ,E1_Income support,Egypt,EGY,1683.213518295575,kWh per capita,2014.0
+44,Governance,Fragile States Index Total ,E1_Income support,Egypt,EGY,86.00613825029183,score,2020.0
+45,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Egypt,EGY,22.0760002,Percentage of females of the total population,2020.0
+46,Environment,CO2 emissions (metric tons per capita),E1_Income support,Egypt,EGY,2.525863,metric tons per capita,2016.0
+47,Health,Mortality due to COVID-19,E1_Income support,Egypt,EGY,7041.0,"Number (cumulative total by Dec 26,2020)",2020.0
+48,Social issues ,Proportion of women in managerial positions (%),E1_Income support,Egypt,EGY,6.37,percent,2017.0
+49,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E1_Income support,Egypt,EGY,22.3,percent,2020.0
+50,Health,Prevalence of total cancers,E1_Income support,Egypt,EGY,0.0042,percent,2019.0
+51,Economics,Volume of imports,E1_Income support,Egypt,EGY,3.623,percent change,2020.0
+52,Environment,Access to electricity ,E1_Income support,Egypt,EGY,100.0,percent of population,2018.0
+53,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Egypt,EGY,10.1280003,percent of total labor force,2020.0
+54,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E1_Income support,Egypt,EGY,17.8,percent,2020.0
+55,Governance,Human Freedom Score ,E1_Income support,Egypt,EGY,4.67,score,2018.0
+56,Health,"Physicians (per 1,000 people)",E1_Income support,Egypt,EGY,0.4521,Ones,2018.0
+58,Governance,Personal Freedom Score ,E1_Income support,Egypt,EGY,3.95,score,2018.0
+61,Health,Prevalence of Diabetes,E1_Income support,Egypt,EGY,0.046813,percent,2019.0
+65,Environment,"Electricity production from renewable sources, excluding hydroelectric",E1_Income support,Egypt,EGY,1598000000.0,kWh,2015.0
+66,Governance,Control of corruption estimate,E1_Income support,Egypt,EGY,-0.670213,score,2019.0
+67,Environment,"Energy imports, net ",E1_Income support,Egypt,EGY,-7.391493975802161,percent of energy use,2014.0
+68,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Egypt,EGY,1.9262,Ones,2018.0
+69,Environment,Electricity production from nuclear sources ,E1_Income support,Egypt,EGY,0.0,percent of total,2014.0
+70,Governance,Aggregate score for the Political Rights category,E1_Income support,Egypt,EGY,6.0,score,2021.0
+72,Health,Prevalence of down syndrome,E1_Income support,Egypt,EGY,0.000399,percent,2019.0
+73,Governance,Regulatory quality estimate,E1_Income support,Egypt,EGY,-0.827766,score,2019.0
+74,Environment,"Electricity production from oil, gas and coal sources",E1_Income support,Egypt,EGY,91.74071448589658,percent of total,2015.0
+75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Egypt,EGY,-1.066421,score,2019.0
+78,Demographics,Mobile cellular subscriptions,E1_Income support,Egypt,EGY,94.9717,per 100 people,2019.0
+81,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Egypt,EGY,0.31957,percent,2019.0
+82,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Egypt,EGY,95.0,percent,2019.0
+83,Environment,Fossil fuel energy consumption,E1_Income support,Egypt,EGY,97.92893,percent of total,2014.0
+85,Governance,Voice and accountability estimate,E1_Income support,Egypt,EGY,-1.428673,score,2019.0
+86,Environment,Energy use ,E1_Income support,Egypt,EGY,79.92308951008364,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+91,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Egypt,EGY,15.10067114,proportion,2020.0
+110,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Egypt,EGY,100.0,percent of total,2017.0
+112,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Egypt,EGY,1.4,percent,2018.0

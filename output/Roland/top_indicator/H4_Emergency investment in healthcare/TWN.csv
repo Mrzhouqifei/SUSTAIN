@@ -1,0 +1,28 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Governance,Corruption Perceptions Index,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+4,Economics,"Foreign direct investment, net",H4_Emergency investment in healthcare,Taiwan,TWN,0.0,US Dollar,2021
+6,Governance,Voice and accountability estimate,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+8,Health,Summary exposure value tobacco,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,Rate (risk-weighted prevalence),2021
+15,Economics,"Trade, total as % of GDP",H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+16,Health,Prevalence of chronic kidney disease,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+21,Health,Prevalence of Respiratory infections and tuberculosis,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+24,Governance,Regulatory quality estimate,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+28,Social issues ,Press freedom score,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+30,Health,Prevalence of Diabetes,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+32,Health,Prevalence of Depressive disorders,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+39,Governance,Control of corruption estimate,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+42,Health,Prevalence of Hypertensive heart disease,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+50,Health,Prevalence of anxiety disorders,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+54,Governance,Political stability and absence of violence/terrorism estimate,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+57,Health,Prevalence of down syndrome,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+68,Governance,Rule of law estimate ,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+69,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H4_Emergency investment in healthcare,Taiwan,TWN,0.0,international $ in PPP,2021
+74,Governance,Government effectiveness estimate,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,score,2021
+78,Economics,Expenditure on social protection (% of GDP),H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+80,Economics,Stock market capitalization (US$ million),H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+81,Economics,Expenditure on education (% of GDP),H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+82,Economics,Expenditure on health (% of GDP),H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021
+93,Health,Hospital beds (per 10 000 population),H4_Emergency investment in healthcare,Taiwan,TWN,0.0,Ones,2021
+94,Economics,"International tourism, receipts",H4_Emergency investment in healthcare,Taiwan,TWN,0.0,US Dollar,2021
+97,Economics,"Lending interest rates, percent per annum",H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent per annum,2021
+98,Health,Prevalence of total cancers,H4_Emergency investment in healthcare,Taiwan,TWN,0.0,percent,2021

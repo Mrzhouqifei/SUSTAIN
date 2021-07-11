@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C3_Cancel public events,Estonia,EST,89.5323,percent of population,2019.0
+3,Economics,Volume of exports,C3_Cancel public events,Estonia,EST,3.234,percent change,2020.0
+4,Governance,Regulatory quality estimate,C3_Cancel public events,Estonia,EST,1.591124,score,2019.0
+5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Estonia,EST,38.0,score,2021.0
+6,Health,Prevalence of COVID-19,C3_Cancel public events,Estonia,EST,20635.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Environment,CO2 emissions (kt),C3_Cancel public events,Estonia,EST,16589.51,kt,2016.0
+9,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Estonia,EST,4.4833,Ones,2018.0
+10,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Estonia,EST,5.7,percent,2020.0
+11,Health,Prevalence of down syndrome,C3_Cancel public events,Estonia,EST,0.000187,percent,2019.0
+12,Environment,Electric power consumption ,C3_Cancel public events,Estonia,EST,6732.367473156111,kWh per capita,2014.0
+13,Social issues ,Net migration,C3_Cancel public events,Estonia,EST,19555.0,net total / data are 5 year estimates,2019.0
+14,Economics,Volume of imports,C3_Cancel public events,Estonia,EST,4.775,percent change,2020.0
+15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Estonia,EST,33.8808,per 100 people,2019.0
+16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Estonia,EST,0.039047,percent,2019.0
+17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Estonia,EST,0.004469,percent,2019.0
+18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Estonia,EST,13.0,Cases,2019.0
+19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Estonia,EST,147.177,per 100 people,2019.0
+20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Estonia,EST,88.0,percent,2019.0
+21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Estonia,EST,11.1558,Ones,2018.0
+22,Governance,Serious assault (rate),C3_Cancel public events,Estonia,EST,6.8,rate,2018.0
+23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Estonia,EST,4.9,percent,2018.0
+24,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Estonia,EST,7.151771143323414,percent of total,2015.0
+25,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Estonia,EST,67.5650024,Percentage of total employment,2020.0
+26,Demographics,Secure Internet servers ,C3_Cancel public events,Estonia,EST,83332.45388552605,per 1 million people,2019.0
+27,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Estonia,EST,2.1165412994,"proportion, pero 100,000 people",2018.0
+29,Governance,Government effectiveness estimate,C3_Cancel public events,Estonia,EST,1.174747,score,2019.0
+30,Health,Summary exposure value tobacco,C3_Cancel public events,Estonia,EST,26.83086,Rate (risk-weighted prevalence),2019.0
+31,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Estonia,EST,36.07,percent,2018.0
+32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Estonia,EST,0.190324,percent,2019.0
+33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Estonia,EST,0.6388937,score,2019.0
+35,Environment,Electricity production from coal sources ,C3_Cancel public events,Estonia,EST,5.327829509455698,percent of total,2015.0
+36,Environment,Combustible renewables and waste,C3_Cancel public events,Estonia,EST,12.80269,percent of total energy,2015.0
+37,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Estonia,EST,63.2739983,Percentage of total population,2020.0
+39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Estonia,EST,28.71287129,proportion,2020.0
+40,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Estonia,EST,16.6645118855401,percent of GNI,2018.0
+41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Estonia,EST,0.167794,percent,2019.0
+42,Governance,Human Freedom Score ,C3_Cancel public events,Estonia,EST,8.54,score,2018.0
+43,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Estonia,EST,1.2,percent,2020.0
+45,Social issues ,Life Ladder ,C3_Cancel public events,Estonia,EST,6.188799858093262,score,2021.0
+46,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Estonia,EST,1475000000.0,kWh,2015.0
+47,Environment,"Energy imports, net ",C3_Cancel public events,Estonia,EST,-2.705959953898482,percent of energy use,2015.0
+48,Environment,Energy use ,C3_Cancel public events,Estonia,EST,133.6682535890394,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+49,Governance,Corruption Perceptions Index,C3_Cancel public events,Estonia,EST,75.0,score,2020.0
+51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Estonia,EST,12.60802,metric tons per capita,2016.0
+52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Estonia,EST,5.37900019,percent of total labor force,2020.0
+53,Governance,Human Development Index,C3_Cancel public events,Estonia,EST,0.892,index,2019.0
+54,Governance,Control of corruption estimate,C3_Cancel public events,Estonia,EST,1.542329,score,2019.0
+55,Environment,Access to electricity ,C3_Cancel public events,Estonia,EST,100.0,percent of population,2018.0
+57,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Estonia,EST,4173.326582571021,kg of oil equivalent per capita,2015.0
+59,Governance,Personal Freedom Score ,C3_Cancel public events,Estonia,EST,9.12,score,2018.0
+60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Estonia,EST,6.732124,micrograms per cubic meter,2017.0
+61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Estonia,EST,0.050879,percent,2019.0
+62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Estonia,EST,324388.0,number,2019.0
+63,Governance,Fragile States Index Total ,C3_Cancel public events,Estonia,EST,38.52345451018706,score,2020.0
+64,Health,Prevalence of obesity,C3_Cancel public events,Estonia,EST,21.2,percent,2016.0
+65,Environment,Fossil fuel energy consumption,C3_Cancel public events,Estonia,EST,13.05622,percent of total,2015.0
+66,Governance,Total freedom in the world score ,C3_Cancel public events,Estonia,EST,94.0,score,2021.0
+67,Governance,Rule of law estimate ,C3_Cancel public events,Estonia,EST,1.281257,score,2019.0
+70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Estonia,EST,91.0,percent,2019.0
+71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,Estonia,EST,56.0,score,2021.0
+75,Health,Prevalence of total cancers,C3_Cancel public events,Estonia,EST,0.032599,percent,2019.0
+77,Environment,Renewable energy consumption ,C3_Cancel public events,Estonia,EST,27.4768334658828,percent of total final energy consumption,2015.0
+78,Governance,Voice and accountability estimate,C3_Cancel public events,Estonia,EST,1.210472,score,2019.0
+79,Health,Mortality due to COVID-19,C3_Cancel public events,Estonia,EST,170.0,"Number (cumulative total by Dec 26,2020)",2020.0
+80,Social issues ,Gini index (World Bank estimate),C3_Cancel public events,Estonia,EST,30.4,index ,2017.0
+83,Social issues ,Press freedom score,C3_Cancel public events,Estonia,EST,12.61,score,2020.0
+87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Estonia,EST,0.0,percent of total,2017.0
+89,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Estonia,EST,56.8089981,Percentage of females of the total population,2020.0
+93,Governance,Economic Freedom Score,C3_Cancel public events,Estonia,EST,7.96,score,2018.0
+94,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Estonia,EST,0.0,percent of total,2015.0
+95,Environment,Electricity production from oil sources,C3_Cancel public events,Estonia,EST,1.228760679658251,percent of total,2015.0
+96,Health,Prevalence of Diabetes,C3_Cancel public events,Estonia,EST,0.069427,percent,2019.0

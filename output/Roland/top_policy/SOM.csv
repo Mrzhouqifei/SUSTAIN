@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+SOM,H6_Facial Coverings,0.09894791988587767,1
+SOM,H3_Contact tracing,0.08465768706216655,2
+SOM,C4_Restrictions on gatherings,0.06791715710281775,3
+SOM,H7_Vaccination policy,0.06589945981670847,4
+SOM,C2_Workplace closing,0.062330947827923824,5
+SOM,C1_School closing,0.05849930668653028,6
+SOM,H2_Testing policy,0.05837230508968087,7
+SOM,C6_Stay at home requirements,0.05766169587367629,8
+SOM,E2_Debt/contract relief,0.0544299506299095,9
+SOM,H1_Public information campaigns,0.05249519989186337,10
+SOM,C8_International travel controls,0.048106621297777714,11
+SOM,C7_Restrictions on internal movement,0.04125355198739617,12
+SOM,E1_Income support,0.03594918768619276,13
+SOM,C5_Close public transport,0.018854608424757585,14
+SOM,C3_Cancel public events,0.0,15

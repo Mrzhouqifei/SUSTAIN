@@ -1,0 +1,52 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,C5_Close public transport,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Palau,PLW,721.901377165704,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,C5_Close public transport,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Palau,PLW,37.0,score,2021.0
+10,Health,Prevalence of anxiety disorders,C5_Close public transport,Palau,PLW,0.044062,percent,2019.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Palau,PLW,6.92896,per 100 people,2019.0
+13,Health,Summary exposure value tobacco,C5_Close public transport,Palau,PLW,22.78077,Rate (risk-weighted prevalence),2019.0
+14,Health,Prevalence of Diabetes,C5_Close public transport,Palau,PLW,0.181243,percent,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Palau,PLW,55.0,score,2021.0
+16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Palau,PLW,1.4205,Ones,2014.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Palau,PLW,223.687,kt,2016.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Palau,PLW,0.349381,percent,2019.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Palau,PLW,0.0,percent of total final energy consumption,2015.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Palau,PLW,38.0,Cases,2019.0
+24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Palau,PLW,12.5,proportion,2020.0
+25,Economics,"Central government debt, total",C5_Close public transport,Palau,PLW,68.7028397772155,percent of GDP,2016.0
+27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Palau,PLW,7.2626,Ones,2018.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Palau,PLW,134.407,per 100 people,2019.0
+30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Palau,PLW,0.148389,percent,2019.0
+33,Social issues ,Proportion of women in managerial positions (%),C5_Close public transport,Palau,PLW,29.93,percent,2014.0
+34,Economics,Volume of imports,C5_Close public transport,Palau,PLW,2.265,percent change,2020.0
+35,Health,Prevalence of total cancers,C5_Close public transport,Palau,PLW,0.014518,percent,2019.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Palau,PLW,0.3144576,score,2019.0
+37,Health,Prevalence of down syndrome,C5_Close public transport,Palau,PLW,0.000102,percent,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Palau,PLW,0.8625854,score,2019.0
+41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Palau,PLW,0.000787,percent,2019.0
+42,Health,Prevalence of Depressive disorders,C5_Close public transport,Palau,PLW,0.037978,percent,2019.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Palau,PLW,-0.007541,score,2019.0
+51,Health,Prevalence of obesity,C5_Close public transport,Palau,PLW,55.3,percent,2016.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Palau,PLW,-0.0454221,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Palau,PLW,1.094265,score,2019.0
+55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Palau,PLW,97.0,percent,2019.0
+60,Governance,Human Development Index,C5_Close public transport,Palau,PLW,0.826,index,2019.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Palau,PLW,92.0,score,2021.0
+63,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Palau,PLW,99.9999978055265,proportion,2017.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Palau,PLW,-0.4493027,score,2019.0
+66,Demographics,Urban population (% of total population),C5_Close public transport,Palau,PLW,80.47,total,2019.0
+67,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Palau,PLW,11.166322372,"proportion, pero 100,000 people",2018.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Palau,PLW,7204.0,number,2019.0
+76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Palau,PLW,97.0,percent,2019.0
+78,Demographics,Rural population (% of total population),C5_Close public transport,Palau,PLW,19.53,proportion,2019.0
+79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Palau,PLW,6.4,percent,2018.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Palau,PLW,12.61986,metric tons per capita,2016.0
+86,Economics,"Trade, total as % of GDP",C5_Close public transport,Palau,PLW,62.33859,percent,2015.0
+87,Economics,"International tourism, receipts",C5_Close public transport,Palau,PLW,116000000.0,US Dollar,2017.0
+88,Economics,Volume of exports,C5_Close public transport,Palau,PLW,7.35,percent change,2020.0
+96,Demographics,"Population, total",C5_Close public transport,Palau,PLW,18008.0,total,2019.0
+102,Economics,"Foreign direct investment, net",C5_Close public transport,Palau,PLW,21500000.0,US Dollar,2018.0
+106,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C5_Close public transport,Palau,PLW,96.5937423706055,proportion,2015.0
+114,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Palau,PLW,100.429176330566,proportion,2014.0
+117,Environment,Access to electricity ,C5_Close public transport,Palau,PLW,100.0,percent of population,2018.0

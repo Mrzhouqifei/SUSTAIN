@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+NZL,H2_Testing policy,0.09026417329377473,1
+NZL,E1_Income support,0.08792046069581437,2
+NZL,H7_Vaccination policy,0.08600936143182454,3
+NZL,H6_Facial Coverings,0.08576980748469001,4
+NZL,C5_Close public transport,0.07865687522601582,5
+NZL,C6_Stay at home requirements,0.06532134459511114,6
+NZL,C7_Restrictions on internal movement,0.0544850358719122,7
+NZL,E2_Debt/contract relief,0.052486997540930704,8
+NZL,C3_Cancel public events,0.051068381274974116,9
+NZL,C4_Restrictions on gatherings,0.04544241985464033,10
+NZL,C1_School closing,0.04456769880869672,11
+NZL,C2_Workplace closing,0.0408231052143116,12
+NZL,C8_International travel controls,0.030232973166782237,13
+NZL,H1_Public information campaigns,0.01229648507215488,14
+NZL,H3_Contact tracing,0.0,15

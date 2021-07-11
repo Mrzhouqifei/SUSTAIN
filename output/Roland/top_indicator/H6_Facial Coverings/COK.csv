@@ -1,0 +1,19 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Cook Islands,COK,0.308144,percent,2019.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Cook Islands,COK,0.036331,percent,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Cook Islands,COK,0.009899,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Cook Islands,COK,0.014771,percent,2019.0
+23,Health,Prevalence of obesity,H6_Facial Coverings,Cook Islands,COK,55.9,percent,2016.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Cook Islands,COK,0.000101,percent,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Cook Islands,COK,24.80129,Rate (risk-weighted prevalence),2019.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Cook Islands,COK,2.4,percent,2018.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Cook Islands,COK,0.044727,percent,2019.0
+54,Economics,Expenditure on education (% of GDP),H6_Facial Coverings,Cook Islands,COK,2.05039,percent,2019.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Cook Islands,COK,0.170428,percent,2019.0
+77,Economics,"International tourism, receipts",H6_Facial Coverings,Cook Islands,COK,153000000.0,US Dollar,2017.0
+79,Economics,Expenditure on social protection (% of GDP),H6_Facial Coverings,Cook Islands,COK,3.79368,percent,2019.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Cook Islands,COK,0.146013,percent,2019.0
+89,Economics,Expenditure on health (% of GDP),H6_Facial Coverings,Cook Islands,COK,0.70939,percent,2019.0
+104,Economics,"Trade, total as % of GDP",H6_Facial Coverings,Cook Islands,COK,40.12978,percent,2019.0

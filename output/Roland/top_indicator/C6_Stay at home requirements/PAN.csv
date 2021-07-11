@@ -1,0 +1,88 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C6_Stay at home requirements,Panama,PAN,63.6284,percent of population,2019.0
+2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Panama,PAN,203295.0,"Number (cumulative total by Dec 26,2020)",2020.0
+3,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Panama,PAN,35.0,score,2020.0
+4,Demographics,Secure Internet servers ,C6_Stay at home requirements,Panama,PAN,1893.115619934727,per 1 million people,2019.0
+6,Governance,Serious assault (rate),C6_Stay at home requirements,Panama,PAN,102.09,rate,2018.0
+7,Social issues ,Press freedom score,C6_Stay at home requirements,Panama,PAN,29.78,score,2020.0
+8,Economics,Volume of exports,C6_Stay at home requirements,Panama,PAN,7.271,percent change,2020.0
+9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Panama,PAN,131.852,per 100 people,2019.0
+10,Health,Summary exposure value tobacco,C6_Stay at home requirements,Panama,PAN,9.622253,Rate (risk-weighted prevalence),2019.0
+11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Panama,PAN,13.5281,per 100 people,2019.0
+12,Health,Prevalence of down syndrome,C6_Stay at home requirements,Panama,PAN,0.000247,percent,2019.0
+13,Social issues ,Net migration,C6_Stay at home requirements,Panama,PAN,56000.0,net total / data are 5 year estimates,2019.0
+14,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Panama,PAN,97.0,percent,2019.0
+15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Panama,PAN,741269.0,number,2019.0
+16,Social issues ,Life Ladder ,C6_Stay at home requirements,Panama,PAN,6.179599761962891,score,2021.0
+17,Health,Prevalence of total cancers,C6_Stay at home requirements,Panama,PAN,0.009725,percent,2019.0
+18,Health,Prevalence of obesity,C6_Stay at home requirements,Panama,PAN,22.7,percent,2016.0
+19,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Panama,PAN,1.5687,Ones,2016.0
+20,Governance,Control of corruption estimate,C6_Stay at home requirements,Panama,PAN,-0.579924,score,2019.0
+21,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Panama,PAN,22.53521127,proportion,2020.0
+22,Health,Prevalence of Diabetes,C6_Stay at home requirements,Panama,PAN,0.082991,percent,2019.0
+23,Governance,Government effectiveness estimate,C6_Stay at home requirements,Panama,PAN,0.0655402,score,2019.0
+24,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Panama,PAN,4.6,percent,2018.0
+25,Governance,Human Freedom Score ,C6_Stay at home requirements,Panama,PAN,7.87,score,2018.0
+26,Governance,Human Development Index,C6_Stay at home requirements,Panama,PAN,0.815,index,2019.0
+27,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Panama,PAN,6.915306915306915,percent of total,2015.0
+28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Panama,PAN,48.0,score,2021.0
+29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Panama,PAN,2.654141,metric tons per capita,2016.0
+30,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Panama,PAN,11.40005,micrograms per cubic meter,2017.0
+31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Panama,PAN,0.039188,percent,2019.0
+32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Panama,PAN,3481.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Panama,PAN,53.4350014,Percentage of females of the total population,2020.0
+34,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Panama,PAN,3.82500005,percent of total labor force,2020.0
+35,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Panama,PAN,48.49,percent,2018.0
+36,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Panama,PAN,3.0741,Ones,2018.0
+37,Health,Hospital beds (per 10 000 population),C6_Stay at home requirements,Panama,PAN,22.5,Ones,2016.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Panama,PAN,37.0,Cases,2019.0
+39,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Panama,PAN,25.7936516382322,percent of GNI,2018.0
+40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Panama,PAN,14.7,percent,2020.0
+41,Environment,Renewable energy consumption ,C6_Stay at home requirements,Panama,PAN,21.2341523445028,percent of total final energy consumption,2015.0
+42,Governance,Voice and accountability estimate,C6_Stay at home requirements,Panama,PAN,0.6217133,score,2019.0
+44,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C6_Stay at home requirements,Panama,PAN,5.7,proportion,2014.0
+45,Governance,Regulatory quality estimate,C6_Stay at home requirements,Panama,PAN,0.361897,score,2019.0
+46,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Panama,PAN,49.2,index ,2018.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Panama,PAN,0.3068049,score,2019.0
+48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Panama,PAN,0.117177,percent,2019.0
+49,Governance,Rule of law estimate ,C6_Stay at home requirements,Panama,PAN,-0.119035,score,2019.0
+51,Environment,"Energy imports, net ",C6_Stay at home requirements,Panama,PAN,80.9045483773801,percent of energy use,2014.0
+52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Panama,PAN,0.001417,percent,2019.0
+53,Environment,Electricity production from oil sources,C6_Stay at home requirements,Panama,PAN,27.75835275835276,percent of total,2015.0
+55,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Panama,PAN,80.71266,percent of total,2014.0
+56,Governance,Total freedom in the world score ,C6_Stay at home requirements,Panama,PAN,83.0,score,2021.0
+57,Economics,Volume of imports,C6_Stay at home requirements,Panama,PAN,7.538,percent change,2020.0
+58,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Panama,PAN,71.6367476557604,percent of total,2017.0
+59,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Panama,PAN,34.67365967365967,percent of total,2015.0
+60,Environment,CO2 emissions (kt),C6_Stay at home requirements,Panama,PAN,10714.97,kt,2016.0
+61,Environment,Access to electricity ,C6_Stay at home requirements,Panama,PAN,100.0,percent of population,2018.0
+63,Governance,Economic Freedom Score,C6_Stay at home requirements,Panama,PAN,7.8,score,2018.0
+64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Panama,PAN,0.031528,percent,2019.0
+65,Social issues ,"Primary completion rate, total (% of relevant age group)",C6_Stay at home requirements,Panama,PAN,89.7954711914063,proportion,2017.0
+66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Panama,PAN,35.0,score,2021.0
+67,Demographics,People using at least basic sanitation services (% of population),C6_Stay at home requirements,Panama,PAN,83.3154589674842,proportion,2017.0
+68,Environment,Energy use ,C6_Stay at home requirements,Panama,PAN,39.47232420109791,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+70,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Panama,PAN,469000000.0,kWh,2015.0
+71,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Panama,PAN,67.4940033,Percentage of total employment,2020.0
+72,Social issues ,Coverage of social safety net programs (% of population),C6_Stay at home requirements,Panama,PAN,65.99345579,proportion,2018.0
+73,Environment,Combustible renewables and waste,C6_Stay at home requirements,Panama,PAN,7.011983,percent of total energy,2014.0
+74,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Panama,PAN,66.5429993,Percentage of total population,2020.0
+75,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Panama,PAN,0.0,percent of total,2014.0
+77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Panama,PAN,0.265443,percent,2019.0
+78,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C6_Stay at home requirements,Panama,PAN,95.4118118286133,proportion,2018.0
+82,Governance,Fragile States Index Total ,C6_Stay at home requirements,Panama,PAN,45.98191488845223,score,2020.0
+83,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Panama,PAN,10.8,percent,2020.0
+84,Demographics,Rural population (% of total population),C6_Stay at home requirements,Panama,PAN,31.941,proportion,2019.0
+85,Governance,Personal Freedom Score ,C6_Stay at home requirements,Panama,PAN,7.93,score,2018.0
+87,Environment,Electric power consumption ,C6_Stay at home requirements,Panama,PAN,2064.175797135069,kWh per capita,2014.0
+88,Social issues ,Progression to secondary school (%),C6_Stay at home requirements,Panama,PAN,99.19081,proportion,2016.0
+90,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Panama,PAN,1079.868967258476,kg of oil equivalent per capita,2014.0
+92,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Panama,PAN,88.0,percent,2019.0
+95,Social issues ,Proportion of people living below 50 percent of median income (%),C6_Stay at home requirements,Panama,PAN,22.3,proportion,2018.0
+101,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C6_Stay at home requirements,Panama,PAN,1.275084594,proportion,2018.0
+102,Demographics,Urban population (% of total population),C6_Stay at home requirements,Panama,PAN,68.059,total,2019.0
+104,Demographics,"Population, total",C6_Stay at home requirements,Panama,PAN,4246439.0,total,2019.0
+105,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Panama,PAN,9.3850224618,"proportion, pero 100,000 people",2018.0
+108,Demographics,Refugee population by country or territory of asylum,C6_Stay at home requirements,Panama,PAN,2536.0,proportion,2019.0
+111,Demographics,Age dependency ratio (% of working-age population),C6_Stay at home requirements,Panama,PAN,54.06648482460513,proportion,2019.0
+112,Demographics,"Age dependency ratio, old (% of working-age population)",C6_Stay at home requirements,Panama,PAN,12.80883581171147,proportion,2019.0

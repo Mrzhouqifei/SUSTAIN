@@ -1,0 +1,93 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C1_School closing,Bolivia,BOL,43.8323,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C1_School closing,Bolivia,BOL,31.0,score,2020.0
+3,Health,Prevalence of COVID-19,C1_School closing,Bolivia,BOL,148665.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C1_School closing,Bolivia,BOL,172.5860107182253,per 1 million people,2019.0
+6,Demographics,Fixed broadband subscriptions,C1_School closing,Bolivia,BOL,4.44015,per 100 people,2019.0
+7,Health,Mortality due to COVID-19,C1_School closing,Bolivia,BOL,9031.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Social issues ,Life Ladder ,C1_School closing,Bolivia,BOL,5.71589994430542,score,2021.0
+9,Health,Prevalence of anxiety disorders,C1_School closing,Bolivia,BOL,0.057787,percent,2019.0
+10,Health,Summary exposure value tobacco,C1_School closing,Bolivia,BOL,8.892563,Rate (risk-weighted prevalence),2019.0
+11,Health,"Prevalence of HIV, total (% of population ages 15-49)",C1_School closing,Bolivia,BOL,0.2,percent,2019.0
+12,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,Bolivia,BOL,4.5,percent,2018.0
+13,Health,Prevalence of down syndrome,C1_School closing,Bolivia,BOL,0.000233,percent,2019.0
+14,Health,Prevalence of total cancers,C1_School closing,Bolivia,BOL,0.005785,percent,2019.0
+15,Environment,Renewable energy consumption ,C1_School closing,Bolivia,BOL,17.5381818257023,percent of total final energy consumption,2015.0
+16,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C1_School closing,Bolivia,BOL,3.45000005,percent of total labor force,2020.0
+17,Environment,"Adjusted net savings, including particulate emission damage",C1_School closing,Bolivia,BOL,-0.818632517115796,percent of GNI,2018.0
+18,Social issues ,Net migration,C1_School closing,Bolivia,BOL,-47520.0,net total / data are 5 year estimates,2019.0
+19,Environment,Electric power consumption ,C1_School closing,Bolivia,BOL,742.5383997428855,kWh per capita,2014.0
+20,Demographics,Urban population (% of total population),C1_School closing,Bolivia,BOL,69.773,total,2019.0
+21,Environment,CO2 emissions (metric tons per capita),C1_School closing,Bolivia,BOL,1.958514,metric tons per capita,2016.0
+22,Governance,Rule of law estimate ,C1_School closing,Bolivia,BOL,-1.121389,score,2019.0
+23,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,Bolivia,BOL,-0.6153547,score,2019.0
+24,Health,Prevalence of Hypertensive heart disease,C1_School closing,Bolivia,BOL,0.000683,percent,2019.0
+25,Social issues ,Gini index (World Bank estimate),C1_School closing,Bolivia,BOL,42.2,index ,2018.0
+27,Governance,Aggregate score for the Political Rights category,C1_School closing,Bolivia,BOL,27.0,score,2021.0
+28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C1_School closing,Bolivia,BOL,12.7,percent,2020.0
+29,Governance,Personal Freedom Score ,C1_School closing,Bolivia,BOL,7.26,score,2018.0
+30,Demographics,Fixed telephone subscriptions,C1_School closing,Bolivia,BOL,711961.0,number,2019.0
+31,Health,"Nurses and midwives (per 1,000 people)",C1_School closing,Bolivia,BOL,1.5589,Ones,2017.0
+32,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,Bolivia,BOL,0.228267,percent,2019.0
+33,Governance,Economic Freedom Score,C1_School closing,Bolivia,BOL,6.3,score,2018.0
+34,Demographics,Mobile cellular subscriptions,C1_School closing,Bolivia,BOL,100.816,per 100 people,2019.0
+35,Social issues ,Proportion of women in managerial positions (%),C1_School closing,Bolivia,BOL,38.84,percent,2018.0
+36,Health,Prevalence of Diabetes,C1_School closing,Bolivia,BOL,0.040778,percent,2019.0
+37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C1_School closing,Bolivia,BOL,62.980999,Percentage of females of the total population,2020.0
+38,Health,Prevalence of Depressive disorders,C1_School closing,Bolivia,BOL,0.032552,percent,2019.0
+39,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,Bolivia,BOL,21.56899,micrograms per cubic meter,2017.0
+40,Environment,CO2 emissions (kt),C1_School closing,Bolivia,BOL,21605.96,kt,2016.0
+41,Environment,"Electricity production from oil, gas and coal sources",C1_School closing,Bolivia,BOL,68.59756097560977,percent of total,2015.0
+42,Economics,Employment in services (% of total employment) (modeled ILO estimate),C1_School closing,Bolivia,BOL,50.2729988,Percentage of total employment,2020.0
+43,Social issues ,Proportion of seats held by women in national parliaments (%),C1_School closing,Bolivia,BOL,53.07692308,proportion,2020.0
+44,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,Bolivia,BOL,6.2183744444,"proportion, pero 100,000 people",2016.0
+45,Environment,Energy use ,C1_School closing,Bolivia,BOL,100.660348368029,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+46,Economics,Volume of imports,C1_School closing,Bolivia,BOL,5.809,percent change,2020.0
+47,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C1_School closing,Bolivia,BOL,8.8,percent,2020.0
+48,Social issues ,Progression to secondary school (%),C1_School closing,Bolivia,BOL,97.30542,proportion,2017.0
+49,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,Bolivia,BOL,106.0,Cases,2019.0
+50,Health,"Immunization, measles (% of children ages 12-23 months)",C1_School closing,Bolivia,BOL,79.0,percent,2019.0
+51,Economics,Volume of exports,C1_School closing,Bolivia,BOL,6.021,percent change,2020.0
+52,Governance,Regulatory quality estimate,C1_School closing,Bolivia,BOL,-0.9934062,score,2019.0
+53,Health,Prevalence of obesity,C1_School closing,Bolivia,BOL,20.2,percent,2016.0
+55,Environment,Energy use (kg of oil equivalent per capita),C1_School closing,Bolivia,BOL,778.1687546005859,kg of oil equivalent per capita,2014.0
+56,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C1_School closing,Bolivia,BOL,71.6660004,Percentage of total population,2020.0
+57,Governance,Aggregate score for the Civil Liberties category,C1_School closing,Bolivia,BOL,39.0,score,2021.0
+58,Environment,Electricity production from oil sources,C1_School closing,Bolivia,BOL,2.25140712945591,percent of total,2015.0
+59,Environment,Fossil fuel energy consumption,C1_School closing,Bolivia,BOL,84.15329,percent of total,2014.0
+60,Governance,Government effectiveness estimate,C1_School closing,Bolivia,BOL,-0.699218,score,2019.0
+61,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C1_School closing,Bolivia,BOL,92.455078125,proportion,2015.0
+62,Social issues ,Press freedom score,C1_School closing,Bolivia,BOL,35.37,score,2020.0
+63,Governance,Serious assault (rate),C1_School closing,Bolivia,BOL,70.81,rate,2018.0
+64,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,Bolivia,BOL,99.9991320215104,percent of total,2017.0
+65,Governance,Voice and accountability estimate,C1_School closing,Bolivia,BOL,-0.0912361,score,2019.0
+66,Demographics,"Population, total",C1_School closing,Bolivia,BOL,11513100.0,total,2019.0
+67,Environment,Access to electricity ,C1_School closing,Bolivia,BOL,95.5853652954102,percent of population,2018.0
+68,Environment,Combustible renewables and waste,C1_School closing,Bolivia,BOL,11.14143,percent of total energy,2014.0
+70,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C1_School closing,Bolivia,BOL,18.07316194,proportion,2017.0
+71,Demographics,Rural population (% of total population),C1_School closing,Bolivia,BOL,30.227,proportion,2019.0
+72,Health,"Physicians (per 1,000 people)",C1_School closing,Bolivia,BOL,1.5901,Ones,2016.0
+73,Social issues ,Proportion of people living below 50 percent of median income (%),C1_School closing,Bolivia,BOL,19.8,proportion,2018.0
+75,Governance,Fragile States Index Total ,C1_School closing,Bolivia,BOL,74.96686955912168,score,2020.0
+76,Health,Prevalence of chronic kidney disease,C1_School closing,Bolivia,BOL,0.061576,percent,2019.0
+77,Environment,"Electricity production from renewable sources, excluding hydroelectric",C1_School closing,Bolivia,BOL,215000000.0,kWh,2015.0
+78,Governance,Total freedom in the world score ,C1_School closing,Bolivia,BOL,66.0,score,2021.0
+79,Environment,Electricity production from coal sources ,C1_School closing,Bolivia,BOL,0.0,percent of total,2015.0
+80,Demographics,People using at least basic sanitation services (% of population),C1_School closing,Bolivia,BOL,60.7169375713243,proportion,2017.0
+81,Demographics,Refugee population by country or territory of asylum,C1_School closing,Bolivia,BOL,863.0,proportion,2019.0
+82,Environment,"Energy imports, net ",C1_School closing,Bolivia,BOL,-177.9858361248552,percent of energy use,2014.0
+83,Governance,Human Development Index,C1_School closing,Bolivia,BOL,0.718,index,2019.0
+85,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C1_School closing,Bolivia,BOL,3.0,rating,2015.0
+86,Social issues ,Coverage of social safety net programs (% of population),C1_School closing,Bolivia,BOL,76.15281866,proportion,2017.0
+87,Health,Hospital beds (per 10 000 population),C1_School closing,Bolivia,BOL,12.9,Ones,2017.0
+88,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C1_School closing,Bolivia,BOL,6.01785612106323,proportion,2015.0
+89,Environment,Electricity production from nuclear sources ,C1_School closing,Bolivia,BOL,0.0,percent of total,2014.0
+90,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C1_School closing,Bolivia,BOL,19.6311798095703,proportion,2015.0
+91,Demographics,People with basic handwashing facilities including soap and water (% of population),C1_School closing,Bolivia,BOL,25.3828990744977,proportion,2017.0
+92,Social issues ,"Primary completion rate, total (% of relevant age group)",C1_School closing,Bolivia,BOL,94.8397827148438,proportion,2018.0
+93,Demographics,Age dependency ratio (% of working-age population),C1_School closing,Bolivia,BOL,61.19644724043965,proportion,2019.0
+96,Demographics,"Age dependency ratio, old (% of working-age population)",C1_School closing,Bolivia,BOL,11.82961348891579,proportion,2019.0
+97,Governance,Control of corruption estimate,C1_School closing,Bolivia,BOL,-0.7421893,score,2019.0
+109,Governance,Human Freedom Score ,C1_School closing,Bolivia,BOL,6.78,score,2018.0
+111,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C1_School closing,Bolivia,BOL,0.249166011810303,proportion,2015.0
+114,Health,"Immunization, DPT (% of children ages 12-23 months)",C1_School closing,Bolivia,BOL,75.0,percent,2019.0

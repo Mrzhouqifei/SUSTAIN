@@ -1,0 +1,72 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Iceland,ISL,99.011,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Iceland,ISL,75.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Iceland,ISL,5604.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Iceland,ISL,11.28887,percent of total,2015.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Iceland,ISL,70758.594348944,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Iceland,ISL,7.553899765014648,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Iceland,ISL,4.4,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Iceland,ISL,26.84943,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Iceland,ISL,40.783,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Iceland,ISL,93.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Iceland,ISL,10.2852157949761,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Iceland,ISL,28.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Iceland,ISL,7.0,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Iceland,ISL,15.12,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Iceland,ISL,80.064003,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Iceland,ISL,2064.521,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Iceland,ISL,1.707973,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Iceland,ISL,0.115837,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Iceland,ISL,1900.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Iceland,ISL,0.056667,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Iceland,ISL,7.71,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Iceland,ISL,0.072034,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Iceland,ISL,37.0,score,2021.0
+25,Economics,"Central government debt, total",E2_Debt/contract relief,Iceland,ISL,73.52782995610531,percent of GDP,2016.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Iceland,ISL,0.0013,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Iceland,ISL,2.6,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Iceland,ISL,70.6110001,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Iceland,ISL,10.9603888578802,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Iceland,ISL,4.0778,Ones,2018.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Iceland,ISL,9.06,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Iceland,ISL,0.949,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Iceland,ISL,77.029689205553,percent of total final energy consumption,2015.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Iceland,ISL,1.655899,score,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Iceland,ISL,1.333944,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Iceland,ISL,0.89096913683,"proportion, pero 100,000 people",2018.0
+40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Iceland,ISL,0.234285,percent of total energy,2015.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Iceland,ISL,5014000000.0,kWh,2015.0
+42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Iceland,ISL,41.46,percent,2018.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Iceland,ISL,6.481147,micrograms per cubic meter,2017.0
+44,Environment,"Energy imports, net ",E2_Debt/contract relief,Iceland,ISL,11.55755169241199,percent of energy use,2015.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Iceland,ISL,0.079889,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Iceland,ISL,57.0,score,2021.0
+47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Iceland,ISL,0.0212777275386989,percent of total,2015.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Iceland,ISL,26.8,index ,2015.0
+49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Iceland,ISL,17478.89303689373,kg of oil equivalent per capita,2015.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Iceland,ISL,0.035238,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Iceland,ISL,121.949,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Iceland,ISL,1.518278,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Iceland,ISL,1.766924,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Iceland,ISL,6.154684,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Iceland,ISL,0.029362,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Iceland,ISL,0.000652,percent,2019.0
+57,Environment,Electric power consumption ,E2_Debt/contract relief,Iceland,ISL,53832.47909195873,kWh per capita,2014.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Iceland,ISL,94.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Iceland,ISL,3.22199988,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Iceland,ISL,38.0952381,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Iceland,ISL,91.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Iceland,ISL,125567.0,number,2019.0
+68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Iceland,ISL,0.0,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Iceland,ISL,0.0212777275386989,percent of total,2015.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Iceland,ISL,3.283,percent change,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Iceland,ISL,1.372984,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Iceland,ISL,17.799999999999997,score,2020.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Iceland,ISL,74.7509995,Percentage of total population,2020.0
+85,Environment,Energy use ,E2_Debt/contract relief,Iceland,ISL,337.8254095943539,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Iceland,ISL,8.39,score,2018.0
+89,Governance,Serious assault (rate),E2_Debt/contract relief,Iceland,ISL,36.23,rate,2018.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Iceland,ISL,21.9,percent,2016.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Iceland,ISL,16.2132,Ones,2018.0
+115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Iceland,ISL,0.0,percent of total,2015.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Iceland,ISL,100.0,percent of population,2018.0

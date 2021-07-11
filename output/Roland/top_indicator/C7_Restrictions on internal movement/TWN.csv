@@ -1,0 +1,34 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Taiwan,TWN,65.0,score,2020.0
+4,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,Taiwan,TWN,8245000000.0,US Dollar,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Taiwan,TWN,6.584400177001953,score,2021.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Taiwan,TWN,8.69e-05,percent,2019.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Taiwan,TWN,23.76,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Taiwan,TWN,0.035913,percent,2019.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Taiwan,TWN,0.084017,percent,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Taiwan,TWN,0.400737,percent,2019.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Taiwan,TWN,0.04188,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Taiwan,TWN,0.004969,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Taiwan,TWN,1.436754,score,2019.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Taiwan,TWN,7.94,score,2018.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Taiwan,TWN,1.141121,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Taiwan,TWN,0.9959083,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Taiwan,TWN,8.9,score,2018.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Taiwan,TWN,0.025099,percent,2019.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Taiwan,TWN,0.162673,percent,2019.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Taiwan,TWN,0.7195977,score,2019.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Taiwan,TWN,94.0,score,2021.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Taiwan,TWN,56.0,score,2021.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Taiwan,TWN,1.045266,score,2019.0
+71,Economics,"International tourism, receipts",C7_Restrictions on internal movement,Taiwan,TWN,14373000000.0,US Dollar,2019.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Taiwan,TWN,8.42,score,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Taiwan,TWN,38.0,score,2021.0
+82,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,Taiwan,TWN,1.5,percent,2018.0
+87,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,Taiwan,TWN,100.6416,percent,2019.0
+92,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,Taiwan,TWN,0.1,percent,2018.0
+93,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,Taiwan,TWN,3.2,percent,2018.0
+96,Economics,Stock market capitalization (US$ million),C7_Restrictions on internal movement,Taiwan,TWN,1177469.684,percent,2019.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Taiwan,TWN,1.40276,score,2019.0
+112,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,Taiwan,TWN,2.631,percent per annum,2019.0
+116,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,Taiwan,TWN,93781.7,international $ in PPP,2020.0

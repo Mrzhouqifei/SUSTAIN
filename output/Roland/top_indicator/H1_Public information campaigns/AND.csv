@@ -1,0 +1,43 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H1_Public information campaigns,Andorra,AND,91.5675,percent of population,2019.0
+3,Demographics,Secure Internet servers ,H1_Public information campaigns,Andorra,AND,20183.55759508439,per 1 million people,2019.0
+4,Health,Prevalence of COVID-19,H1_Public information campaigns,Andorra,AND,7519.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H1_Public information campaigns,Andorra,AND,80.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Summary exposure value tobacco,H1_Public information campaigns,Andorra,AND,25.36384,Rate (risk-weighted prevalence),2019.0
+9,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Andorra,AND,3.3333,Ones,2015.0
+10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Andorra,AND,113.957,per 100 people,2019.0
+13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Andorra,AND,47.1313,per 100 people,2019.0
+16,Governance,Serious assault (rate),H1_Public information campaigns,Andorra,AND,170.53,rate,2015.0
+17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Andorra,AND,99.0,percent,2019.0
+18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Andorra,AND,0.061518,percent,2019.0
+21,Environment,CO2 emissions (kt),H1_Public information campaigns,Andorra,AND,469.376,kt,2016.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Andorra,AND,7.5,Cases,2019.0
+23,Environment,Renewable energy consumption ,H1_Public information campaigns,Andorra,AND,19.7478086257358,percent of total final energy consumption,2015.0
+24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Andorra,AND,38.0,score,2021.0
+25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Andorra,AND,4.0128,Ones,2015.0
+29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Andorra,AND,10.30762,micrograms per cubic meter,2017.0
+32,Environment,Access to electricity ,H1_Public information campaigns,Andorra,AND,100.0,percent of population,2018.0
+34,Health,Prevalence of down syndrome,H1_Public information campaigns,Andorra,AND,0.000571,percent,2019.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Andorra,AND,1.228176,score,2019.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Andorra,AND,99.0,percent,2019.0
+40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Andorra,AND,0.119104,percent,2019.0
+43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Andorra,AND,17.8244594869492,percent of total,2017.0
+45,Social issues ,Press freedom score,H1_Public information campaigns,Andorra,AND,23.23,score,2020.0
+47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Andorra,AND,55.0,score,2021.0
+48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Andorra,AND,0.0027,percent,2019.0
+50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Andorra,AND,0.046543,percent,2019.0
+51,Governance,Human Development Index,H1_Public information campaigns,Andorra,AND,0.868,index,2019.0
+52,Governance,Total freedom in the world score ,H1_Public information campaigns,Andorra,AND,93.0,score,2021.0
+53,Health,Prevalence of obesity,H1_Public information campaigns,Andorra,AND,25.6,percent,2016.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Andorra,AND,1.615139,score,2019.0
+59,Health,Prevalence of total cancers,H1_Public information campaigns,Andorra,AND,0.037396,percent,2019.0
+63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Andorra,AND,39657.0,number,2019.0
+68,Health,Prevalence of Diabetes,H1_Public information campaigns,Andorra,AND,0.078072,percent,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Andorra,AND,1.234392,score,2019.0
+71,Governance,Voice and accountability estimate,H1_Public information campaigns,Andorra,AND,1.139154,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Andorra,AND,1.579939,score,2019.0
+73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Andorra,AND,6.07237,metric tons per capita,2016.0
+78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Andorra,AND,0.091687,percent,2019.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Andorra,AND,1.908749,score,2019.0
+109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Andorra,AND,4.6,percent,2018.0
+110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Andorra,AND,0.0,"proportion, pero 100,000 people",2015.0

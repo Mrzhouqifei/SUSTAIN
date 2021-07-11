@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+DZA,H3_Contact tracing,0.1178228292272556,1
+DZA,C1_School closing,0.1127566187421929,2
+DZA,E2_Debt/contract relief,0.08568425848009907,3
+DZA,H2_Testing policy,0.08009438606552143,4
+DZA,C3_Cancel public events,0.07310602401257105,5
+DZA,C2_Workplace closing,0.0727083524523896,6
+DZA,C4_Restrictions on gatherings,0.07234719943087946,7
+DZA,H6_Facial Coverings,0.06796369810418007,8
+DZA,H1_Public information campaigns,0.059547510004614036,9
+DZA,C7_Restrictions on internal movement,0.056400611530405015,10
+DZA,C5_Close public transport,0.051315509202491116,11
+DZA,H7_Vaccination policy,0.03812646702384357,12
+DZA,E1_Income support,0.01937792395987986,13
+DZA,C8_International travel controls,0.01625421756604714,14
+DZA,C6_Stay at home requirements,0.009780213800456159,15

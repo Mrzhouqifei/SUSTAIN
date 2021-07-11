@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+UGA,H7_Vaccination policy,0.09471353098812076,1
+UGA,C8_International travel controls,0.09074629730466548,2
+UGA,H2_Testing policy,0.08739518158577486,3
+UGA,C3_Cancel public events,0.07756488899079264,4
+UGA,C7_Restrictions on internal movement,0.0679728956041033,5
+UGA,C5_Close public transport,0.05834716944985247,6
+UGA,C6_Stay at home requirements,0.05684769094194692,7
+UGA,H6_Facial Coverings,0.05059234733769659,8
+UGA,C1_School closing,0.049233726120007995,9
+UGA,H3_Contact tracing,0.048707392418289,10
+UGA,E2_Debt/contract relief,0.04766405526031922,11
+UGA,C2_Workplace closing,0.038696100516859566,12
+UGA,H1_Public information campaigns,0.03461879303293846,13
+UGA,E1_Income support,0.013861552487118664,14
+UGA,C4_Restrictions on gatherings,0.0,15

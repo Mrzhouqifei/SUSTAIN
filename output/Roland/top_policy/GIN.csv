@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+GIN,H3_Contact tracing,0.10019827921817574,1
+GIN,H6_Facial Coverings,0.08901823871883112,2
+GIN,C8_International travel controls,0.07984147935711433,3
+GIN,H2_Testing policy,0.07639848367423863,4
+GIN,C1_School closing,0.07082320808041417,5
+GIN,C7_Restrictions on internal movement,0.07082304759681779,6
+GIN,C2_Workplace closing,0.06946117404785243,7
+GIN,C4_Restrictions on gatherings,0.05373473218474669,8
+GIN,C5_Close public transport,0.05218122327011445,9
+GIN,E2_Debt/contract relief,0.045707116057682635,10
+GIN,C6_Stay at home requirements,0.04261698442500027,11
+GIN,H1_Public information campaigns,0.03774283653684518,12
+GIN,E1_Income support,0.030693126177043163,13
+GIN,C3_Cancel public events,0.01918471810440106,14
+GIN,H7_Vaccination policy,0.008140619693583259,15

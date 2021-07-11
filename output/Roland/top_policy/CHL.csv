@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+CHL,H7_Vaccination policy,0.11592755409668552,1
+CHL,E1_Income support,0.11060140127718426,2
+CHL,C8_International travel controls,0.09774400389606194,3
+CHL,E2_Debt/contract relief,0.08056113969197874,4
+CHL,C5_Close public transport,0.07879758556621344,5
+CHL,C4_Restrictions on gatherings,0.06293614673803367,6
+CHL,H6_Facial Coverings,0.06214032319479755,7
+CHL,H2_Testing policy,0.04861797396179969,8
+CHL,H3_Contact tracing,0.03924301803123492,9
+CHL,C7_Restrictions on internal movement,0.03516067168510138,10
+CHL,C2_Workplace closing,0.03261892506040792,11
+CHL,H1_Public information campaigns,0.030683383283638614,12
+CHL,C3_Cancel public events,0.030477923800880095,13
+CHL,C1_School closing,0.009442364109941231,14
+CHL,C6_Stay at home requirements,0.00560859528422883,15

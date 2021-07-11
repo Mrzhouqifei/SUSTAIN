@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+BDI,C2_Workplace closing,0.0933197026259656,1
+BDI,H1_Public information campaigns,0.08937190213922408,2
+BDI,H6_Facial Coverings,0.08718086907642457,3
+BDI,C8_International travel controls,0.08549266881644668,4
+BDI,E2_Debt/contract relief,0.08347678613677413,5
+BDI,E1_Income support,0.08291625004027398,6
+BDI,H3_Contact tracing,0.07290994359981247,7
+BDI,C1_School closing,0.061723218584357725,8
+BDI,H2_Testing policy,0.05271977799893174,9
+BDI,H7_Vaccination policy,0.038956081308033096,10
+BDI,C7_Restrictions on internal movement,0.025838154308852317,11
+BDI,C6_Stay at home requirements,0.018224592868271643,12
+BDI,C5_Close public transport,0.01805817021912543,13
+BDI,C4_Restrictions on gatherings,0.017382326304743526,14
+BDI,C3_Cancel public events,0.010643439163450868,15

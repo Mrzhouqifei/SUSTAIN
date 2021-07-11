@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+KWT,H2_Testing policy,0.11857061888875545,1
+KWT,C6_Stay at home requirements,0.10817098448258457,2
+KWT,H6_Facial Coverings,0.08194807050339221,3
+KWT,C2_Workplace closing,0.07908480577481998,4
+KWT,C5_Close public transport,0.07689604445858096,5
+KWT,H7_Vaccination policy,0.05026463662723829,6
+KWT,C8_International travel controls,0.04960026445730785,7
+KWT,E2_Debt/contract relief,0.046236467355340635,8
+KWT,C4_Restrictions on gatherings,0.043527646708014636,9
+KWT,C7_Restrictions on internal movement,0.03586925716955328,10
+KWT,E1_Income support,0.033883452670035036,11
+KWT,C3_Cancel public events,0.027287684255039555,12
+KWT,H3_Contact tracing,0.027202609482671468,13
+KWT,H1_Public information campaigns,0.016347838378233056,14
+KWT,C1_School closing,0.0,15

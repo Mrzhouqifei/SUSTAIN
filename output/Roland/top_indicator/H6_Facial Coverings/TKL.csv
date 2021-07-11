@@ -1,0 +1,12 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Tokelau,TKL,0.362278,percent,2019.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Tokelau,TKL,0.030871,percent,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Tokelau,TKL,0.003708,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Tokelau,TKL,0.007214,percent,2019.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Tokelau,TKL,0.000145,percent,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Tokelau,TKL,0.040476,percent,2019.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Tokelau,TKL,0.111261,percent,2019.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Tokelau,TKL,0.106118,percent,2019.0

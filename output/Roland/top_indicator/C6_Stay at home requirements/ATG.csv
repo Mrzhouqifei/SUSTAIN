@@ -1,0 +1,56 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C6_Stay at home requirements,Antigua and Barbuda,ATG,76.0,percent of population,2019.0
+2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Antigua and Barbuda,ATG,151.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C6_Stay at home requirements,Antigua and Barbuda,ATG,895.8174591733767,per 1 million people,2019.0
+6,Governance,Serious assault (rate),C6_Stay at home requirements,Antigua and Barbuda,ATG,8.31,rate,2018.0
+8,Economics,Volume of exports,C6_Stay at home requirements,Antigua and Barbuda,ATG,2.93,percent change,2020.0
+9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Antigua and Barbuda,ATG,192.82,per 100 people,2019.0
+10,Health,Summary exposure value tobacco,C6_Stay at home requirements,Antigua and Barbuda,ATG,12.63738,Rate (risk-weighted prevalence),2019.0
+11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Antigua and Barbuda,ATG,9.43139,per 100 people,2019.0
+12,Health,Prevalence of down syndrome,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.000274,percent,2019.0
+13,Social issues ,Net migration,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.0,net total / data are 5 year estimates,2019.0
+14,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Antigua and Barbuda,ATG,93.0,percent,2019.0
+15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Antigua and Barbuda,ATG,24000.0,number,2019.0
+17,Health,Prevalence of total cancers,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.016516,percent,2019.0
+18,Health,Prevalence of obesity,C6_Stay at home requirements,Antigua and Barbuda,ATG,18.9,percent,2016.0
+19,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Antigua and Barbuda,ATG,2.956,Ones,2017.0
+20,Governance,Control of corruption estimate,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.2778982,score,2019.0
+21,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Antigua and Barbuda,ATG,11.11111111,proportion,2020.0
+22,Health,Prevalence of Diabetes,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.105228,percent,2019.0
+23,Governance,Government effectiveness estimate,C6_Stay at home requirements,Antigua and Barbuda,ATG,-0.0038697,score,2019.0
+24,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Antigua and Barbuda,ATG,2.9,percent,2018.0
+26,Governance,Human Development Index,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.778,index,2019.0
+28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Antigua and Barbuda,ATG,52.0,score,2021.0
+29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Antigua and Barbuda,ATG,5.896559,metric tons per capita,2016.0
+30,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Antigua and Barbuda,ATG,18.62234,micrograms per cubic meter,2017.0
+31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.049164,percent,2019.0
+32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Antigua and Barbuda,ATG,5.0,"Number (cumulative total by Dec 26,2020)",2020.0
+36,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Antigua and Barbuda,ATG,4.5171,Ones,2018.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Antigua and Barbuda,ATG,0.0,Cases,2019.0
+41,Environment,Renewable energy consumption ,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.0,percent of total final energy consumption,2015.0
+42,Governance,Voice and accountability estimate,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.7604436,score,2019.0
+45,Governance,Regulatory quality estimate,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.4853747,score,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.959709,score,2019.0
+48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.123694,percent,2019.0
+49,Governance,Rule of law estimate ,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.4052047,score,2019.0
+52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.003095,percent,2019.0
+56,Governance,Total freedom in the world score ,C6_Stay at home requirements,Antigua and Barbuda,ATG,85.0,score,2021.0
+57,Economics,Volume of imports,C6_Stay at home requirements,Antigua and Barbuda,ATG,3.518,percent change,2020.0
+58,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Antigua and Barbuda,ATG,100.0,percent of total,2017.0
+60,Environment,CO2 emissions (kt),C6_Stay at home requirements,Antigua and Barbuda,ATG,557.384,kt,2016.0
+61,Environment,Access to electricity ,C6_Stay at home requirements,Antigua and Barbuda,ATG,100.0,percent of population,2018.0
+64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.035734,percent,2019.0
+65,Social issues ,"Primary completion rate, total (% of relevant age group)",C6_Stay at home requirements,Antigua and Barbuda,ATG,96.1988296508789,proportion,2018.0
+66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Antigua and Barbuda,ATG,33.0,score,2021.0
+67,Demographics,People using at least basic sanitation services (% of population),C6_Stay at home requirements,Antigua and Barbuda,ATG,87.5042823844152,proportion,2017.0
+77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Antigua and Barbuda,ATG,0.246593,percent,2019.0
+78,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C6_Stay at home requirements,Antigua and Barbuda,ATG,98.9499969482422,proportion,2015.0
+82,Governance,Fragile States Index Total ,C6_Stay at home requirements,Antigua and Barbuda,ATG,52.06235185360498,score,2020.0
+84,Demographics,Rural population (% of total population),C6_Stay at home requirements,Antigua and Barbuda,ATG,75.494,proportion,2019.0
+88,Social issues ,Progression to secondary school (%),C6_Stay at home requirements,Antigua and Barbuda,ATG,99.29605,proportion,2017.0
+92,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Antigua and Barbuda,ATG,95.0,percent,2019.0
+102,Demographics,Urban population (% of total population),C6_Stay at home requirements,Antigua and Barbuda,ATG,24.506,total,2019.0
+104,Demographics,"Population, total",C6_Stay at home requirements,Antigua and Barbuda,ATG,97118.0,total,2019.0
+108,Demographics,Refugee population by country or territory of asylum,C6_Stay at home requirements,Antigua and Barbuda,ATG,5.0,proportion,2016.0
+111,Demographics,Age dependency ratio (% of working-age population),C6_Stay at home requirements,Antigua and Barbuda,ATG,44.94791200262679,proportion,2019.0
+112,Demographics,"Age dependency ratio, old (% of working-age population)",C6_Stay at home requirements,Antigua and Barbuda,ATG,13.12498134384048,proportion,2019.0

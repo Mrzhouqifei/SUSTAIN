@@ -1,0 +1,70 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Malta,MLT,85.7786,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Malta,MLT,53.0,score,2020.0
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Malta,MLT,11569.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Malta,MLT,10870.32207109079,per 1 million people,2019.0
+6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Malta,MLT,144.144,per 100 people,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Malta,MLT,6.6020002365112305,score,2021.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Malta,MLT,183.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Malta,MLT,25.34354,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Malta,MLT,0.000799,percent,2019.0
+11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Malta,MLT,1342.122,kt,2016.0
+12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Malta,MLT,4924.544019440443,kWh per capita,2014.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Malta,MLT,30.16,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Malta,MLT,0.039451,percent,2019.0
+15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Malta,MLT,0.0,percent of total,2014.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Malta,MLT,0.12449,percent,2019.0
+17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Malta,MLT,98.0,percent,2019.0
+18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Malta,MLT,45.2438,per 100 people,2019.0
+19,Social issues ,Net migration,C7_Restrictions on internal movement,Malta,MLT,4501.0,net total / data are 5 year estimates,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Malta,MLT,0.124919,percent,2019.0
+22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Malta,MLT,92.32540291634689,percent of total,2015.0
+23,Economics,Volume of imports,C7_Restrictions on internal movement,Malta,MLT,1.87,percent change,2020.0
+24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Malta,MLT,98.38148616512974,percent of energy use,2014.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Malta,MLT,13.90954,micrograms per cubic meter,2017.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Malta,MLT,0.069691,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Malta,MLT,0.002887,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Malta,MLT,0.85842,score,2019.0
+30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Malta,MLT,45.9280014,Percentage of females of the total population,2020.0
+31,Economics,Volume of exports,C7_Restrictions on internal movement,Malta,MLT,2.225,percent change,2020.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Malta,MLT,7.94,score,2018.0
+33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Malta,MLT,1781.504425186051,kg of oil equivalent per capita,2014.0
+34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Malta,MLT,92.32540291634689,percent of total,2015.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Malta,MLT,0.9522323,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Malta,MLT,1.110597,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Malta,MLT,8.72,score,2018.0
+38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Malta,MLT,257010.0,number,2019.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Malta,MLT,0.030422,percent,2019.0
+40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Malta,MLT,5.35500474641897,percent of total final energy consumption,2015.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Malta,MLT,0.119103,percent,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Malta,MLT,100.0,percent of total,2017.0
+43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Malta,MLT,100000000.0,kWh,2015.0
+44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Malta,MLT,28.9,percent,2016.0
+46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Malta,MLT,56.3269997,Percentage of total population,2020.0
+47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Malta,MLT,0.820107,percent of total energy,2014.0
+50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Malta,MLT,9.4833,Ones,2018.0
+51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Malta,MLT,2.947413,metric tons per capita,2016.0
+53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Malta,MLT,81.0070038,Percentage of total employment,2020.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Malta,MLT,1.090187,score,2019.0
+57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Malta,MLT,33.593645802064856,score,2020.0
+60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Malta,MLT,14.0,Cases,2019.0
+61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Malta,MLT,2.8598,Ones,2015.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Malta,MLT,90.0,score,2021.0
+63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Malta,MLT,29.2,index ,2017.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Malta,MLT,55.0,score,2021.0
+66,Governance,Human Development Index,C7_Restrictions on internal movement,Malta,MLT,0.895,index,2019.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Malta,MLT,0.2393866,score,2019.0
+68,Environment,Energy use ,C7_Restrictions on internal movement,Malta,MLT,47.47716103883568,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Malta,MLT,0.0,percent of total,2015.0
+70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Malta,MLT,5.7,percent,2018.0
+72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Malta,MLT,3.3670001,percent of total labor force,2020.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Malta,MLT,1.5936073579,"proportion, pero 100,000 people",2018.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Malta,MLT,8.33,score,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Malta,MLT,35.0,score,2021.0
+77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Malta,MLT,28.9,percent,2018.0
+78,Environment,Access to electricity ,C7_Restrictions on internal movement,Malta,MLT,100.0,percent of population,2018.0
+80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Malta,MLT,41.66,rate,2018.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Malta,MLT,13.43283582,proportion,2020.0
+86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Malta,MLT,96.0,percent,2019.0
+88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Malta,MLT,97.78846,percent of total,2014.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Malta,MLT,0.9556454,score,2019.0

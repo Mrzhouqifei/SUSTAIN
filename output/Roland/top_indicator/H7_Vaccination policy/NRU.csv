@@ -1,0 +1,49 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H7_Vaccination policy,Nauru,NRU,57.0,percent of population,2019.0
+3,Health,Prevalence of COVID-19,H7_Vaccination policy,Nauru,NRU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,"Foreign direct investment, net",H7_Vaccination policy,Nauru,NRU,0.0,US Dollar,2018.0
+5,Demographics,Secure Internet servers ,H7_Vaccination policy,Nauru,NRU,78.71536523929471,per 1 million people,2018.0
+8,Environment,CO2 emissions (kt),H7_Vaccination policy,Nauru,NRU,47.671,kt,2016.0
+9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Nauru,NRU,0.0,number,2019.0
+12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Nauru,NRU,9.49525,per 100 people,2019.0
+14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Nauru,NRU,0.359862,percent,2019.0
+15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Nauru,NRU,0.8625854,score,2019.0
+16,Environment,Renewable energy consumption ,H7_Vaccination policy,Nauru,NRU,0.0762903659245616,percent of total final energy consumption,2015.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Nauru,NRU,182.0,Cases,2019.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Nauru,NRU,7.9,percent,2018.0
+19,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Nauru,NRU,1.3462,Ones,2015.0
+20,Health,Summary exposure value tobacco,H7_Vaccination policy,Nauru,NRU,27.73674,Rate (risk-weighted prevalence),2019.0
+21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Nauru,NRU,0.040022,percent,2019.0
+22,Governance,Rule of law estimate ,H7_Vaccination policy,Nauru,NRU,-0.7636908,score,2019.0
+28,Health,Prevalence of total cancers,H7_Vaccination policy,Nauru,NRU,0.006206,percent,2019.0
+29,Governance,Total freedom in the world score ,H7_Vaccination policy,Nauru,NRU,77.0,score,2021.0
+30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Nauru,NRU,43.0,score,2021.0
+31,Health,Prevalence of obesity,H7_Vaccination policy,Nauru,NRU,61.0,percent,2016.0
+34,Health,Mortality due to COVID-19,H7_Vaccination policy,Nauru,NRU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Nauru,NRU,94.5805,per 100 people,2019.0
+37,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Nauru,NRU,10.52631579,proportion,2020.0
+40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Nauru,NRU,15.0,percent,2020.0
+45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Nauru,NRU,0.078973,percent,2019.0
+48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Nauru,NRU,3.65323,metric tons per capita,2016.0
+51,Health,Prevalence of down syndrome,H7_Vaccination policy,Nauru,NRU,0.000177,percent,2019.0
+52,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Nauru,NRU,3.7,percent,2020.0
+54,Demographics,Urban population (% of total population),H7_Vaccination policy,Nauru,NRU,100.0,total,2019.0
+55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Nauru,NRU,34.0,score,2021.0
+56,Governance,Control of corruption estimate,H7_Vaccination policy,Nauru,NRU,-0.4493027,score,2019.0
+60,Social issues ,"Primary completion rate, total (% of relevant age group)",H7_Vaccination policy,Nauru,NRU,116.877639770508,proportion,2019.0
+64,Demographics,People using at least basic sanitation services (% of population),H7_Vaccination policy,Nauru,NRU,65.5955264252888,proportion,2017.0
+65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Nauru,NRU,0.02806,percent,2019.0
+67,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Nauru,NRU,96.0,percent,2019.0
+68,Demographics,Rural population (% of total population),H7_Vaccination policy,Nauru,NRU,0.0,proportion,2019.0
+69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Nauru,NRU,0.000843,percent,2019.0
+70,Health,Prevalence of Diabetes,H7_Vaccination policy,Nauru,NRU,0.071342,percent,2019.0
+72,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Nauru,NRU,7.6636,Ones,2018.0
+76,Demographics,Refugee population by country or territory of asylum,H7_Vaccination policy,Nauru,NRU,755.0,proportion,2019.0
+82,Governance,Voice and accountability estimate,H7_Vaccination policy,Nauru,NRU,0.6284045,score,2019.0
+84,Governance,Government effectiveness estimate,H7_Vaccination policy,Nauru,NRU,-0.1294804,score,2019.0
+87,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Nauru,NRU,95.0,percent,2019.0
+88,Environment,Access to electricity ,H7_Vaccination policy,Nauru,NRU,99.8389739990234,percent of population,2018.0
+97,Governance,Regulatory quality estimate,H7_Vaccination policy,Nauru,NRU,-0.0331936,score,2019.0
+98,Economics,"Trade, total as % of GDP",H7_Vaccination policy,Nauru,NRU,54.32547,percent,2019.0
+100,Demographics,"Population, total",H7_Vaccination policy,Nauru,NRU,12581.0,total,2019.0
+107,Economics,"International tourism, receipts",H7_Vaccination policy,Nauru,NRU,3900000.0,US Dollar,2017.0

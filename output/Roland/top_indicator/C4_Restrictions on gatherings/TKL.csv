@@ -1,0 +1,12 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0
+21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Tokelau,TKL,0.040476,percent,2019.0
+27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Tokelau,TKL,0.362278,percent,2019.0
+31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Tokelau,TKL,0.000145,percent,2019.0
+56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Tokelau,TKL,0.030871,percent,2019.0
+70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Tokelau,TKL,0.003708,percent,2019.0
+71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Tokelau,TKL,0.007214,percent,2019.0
+74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Tokelau,TKL,0.106118,percent,2019.0
+76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Tokelau,TKL,0.111261,percent,2019.0

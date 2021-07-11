@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Benin,BEN,20.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Benin,BEN,41.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Benin,BEN,3152.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Benin,BEN,36.72458,percent of total,2014.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Benin,BEN,9.914287174191738,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Benin,BEN,5.045199871063232,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Benin,BEN,55.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Benin,BEN,11.76638,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Benin,BEN,0.21553,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Benin,BEN,71.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Benin,BEN,100.0,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Benin,BEN,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Benin,BEN,0.5,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Benin,BEN,35.11,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Benin,BEN,42.9420013,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Benin,BEN,6475.922,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Benin,BEN,-0.3237639,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Benin,BEN,0.227839,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Benin,BEN,-10000.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Benin,BEN,0.029648,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Benin,BEN,6.2,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Benin,BEN,0.020487,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Benin,BEN,21.0,score,2021.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Benin,BEN,0.000731,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Benin,BEN,32.565,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Benin,BEN,68.9720001,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Benin,BEN,3.15613851834643,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Benin,BEN,0.0791,Ones,2018.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Benin,BEN,7.41,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Benin,BEN,0.545,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Benin,BEN,50.8626179373594,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Benin,BEN,2.2,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Benin,BEN,-0.3478641,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Benin,BEN,1.0,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Benin,BEN,0.0920652,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Benin,BEN,1.1274974068,"proportion, pero 100,000 people",2017.0
+40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Benin,BEN,41.32633,percent of total energy,2014.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Benin,BEN,5000000.0,kWh,2015.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Benin,BEN,38.99996,micrograms per cubic meter,2017.0
+44,Environment,"Energy imports, net ",E2_Debt/contract relief,Benin,BEN,46.59070712762667,percent of energy use,2014.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Benin,BEN,0.037623,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Benin,BEN,44.0,score,2021.0
+47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Benin,BEN,94.44444444444444,percent of total,2015.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Benin,BEN,47.8,index ,2015.0
+49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Benin,BEN,416.7904979973445,kg of oil equivalent per capita,2014.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Benin,BEN,0.031545,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Benin,BEN,87.702,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Benin,BEN,-0.4406517,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Benin,BEN,-0.6641259,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Benin,BEN,0.595648,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Benin,BEN,0.001737,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Benin,BEN,0.000159,percent,2019.0
+57,Environment,Electric power consumption ,E2_Debt/contract relief,Benin,BEN,100.2251225400371,kWh per capita,2014.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Benin,BEN,65.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Benin,BEN,2.023,percent of total labor force,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Benin,BEN,76.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Benin,BEN,35917.0,number,2019.0
+68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Benin,BEN,0.0,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Benin,BEN,94.44444444444444,percent of total,2015.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Benin,BEN,17.959,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Benin,BEN,31.3,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Benin,BEN,-0.3759647,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Benin,BEN,72.54479808532312,score,2020.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Benin,BEN,70.9570007,Percentage of total population,2020.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Benin,BEN,3.5,rating,2019.0
+85,Environment,Energy use ,E2_Debt/contract relief,Benin,BEN,140.0574456918004,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Benin,BEN,6.81,score,2018.0
+89,Governance,Serious assault (rate),E2_Debt/contract relief,Benin,BEN,47.74,rate,2017.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Benin,BEN,9.6,percent,2016.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Benin,BEN,0.3888,Ones,2018.0
+115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Benin,BEN,0.0,percent of total,2014.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Benin,BEN,41.529239654541,percent of population,2018.0

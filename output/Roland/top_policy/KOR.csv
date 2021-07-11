@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+KOR,H7_Vaccination policy,0.09097236601907263,1
+KOR,H6_Facial Coverings,0.08644325997448454,2
+KOR,C1_School closing,0.0793582977426871,3
+KOR,C3_Cancel public events,0.07511388355243105,4
+KOR,E2_Debt/contract relief,0.05762158112473001,5
+KOR,C8_International travel controls,0.05538836507733832,6
+KOR,C2_Workplace closing,0.05490741991204422,7
+KOR,H2_Testing policy,0.0544352853852089,8
+KOR,C4_Restrictions on gatherings,0.05324769984515285,9
+KOR,C7_Restrictions on internal movement,0.052568274410298314,10
+KOR,E1_Income support,0.044245079346240127,11
+KOR,C6_Stay at home requirements,0.039813166634900116,12
+KOR,H3_Contact tracing,0.02926813088164212,13
+KOR,H1_Public information campaigns,0.015415740986465427,14
+KOR,C5_Close public transport,0.0,15

@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+BEN,H7_Vaccination policy,0.07646795973396348,1
+BEN,H6_Facial Coverings,0.07386473613139546,2
+BEN,E2_Debt/contract relief,0.07286955469199738,3
+BEN,C8_International travel controls,0.06874925388433402,4
+BEN,C2_Workplace closing,0.06522731617680322,5
+BEN,C7_Restrictions on internal movement,0.06295617120854458,6
+BEN,H2_Testing policy,0.0607476236316663,7
+BEN,C5_Close public transport,0.05975796325988909,8
+BEN,H3_Contact tracing,0.058572653118036236,9
+BEN,C1_School closing,0.05616332359924306,10
+BEN,C3_Cancel public events,0.05182520585926132,11
+BEN,H1_Public information campaigns,0.04193862112179508,12
+BEN,E1_Income support,0.041271625878033465,13
+BEN,C6_Stay at home requirements,0.02790763124283812,14
+BEN,C4_Restrictions on gatherings,0.01621098057022017,15

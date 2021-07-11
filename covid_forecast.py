@@ -25,7 +25,7 @@ def main(series_category, indicator_year, predict_len, type='business'):
         num_cells=[8, 16, 256],  # [static dim, dynamic dim, target dim]
         scaling=True,
         trainer=Trainer(ctx="cpu",  # gpu(0),
-                        epochs=100,
+                        epochs=50,
                         learning_rate=1e-3,
                         # num_batches_per_epoch=100,
                         batch_size=32,

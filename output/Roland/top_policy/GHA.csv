@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+GHA,H6_Facial Coverings,0.0914216689928839,1
+GHA,C1_School closing,0.07404192694389143,2
+GHA,C8_International travel controls,0.0687499678084626,3
+GHA,H7_Vaccination policy,0.06594508160848972,4
+GHA,E2_Debt/contract relief,0.06420746089372029,5
+GHA,C3_Cancel public events,0.06305959575489893,6
+GHA,C2_Workplace closing,0.059710004289094926,7
+GHA,C5_Close public transport,0.059703651063387035,8
+GHA,H3_Contact tracing,0.0597027472060107,9
+GHA,H2_Testing policy,0.054854326375648,10
+GHA,C7_Restrictions on internal movement,0.050828095496753455,11
+GHA,H1_Public information campaigns,0.041999504721497334,12
+GHA,E1_Income support,0.029573659817370795,13
+GHA,C6_Stay at home requirements,0.023417548555493467,14
+GHA,C4_Restrictions on gatherings,0.021576297422070647,15

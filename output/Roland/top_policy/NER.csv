@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+NER,E2_Debt/contract relief,0.09375643264900202,1
+NER,C3_Cancel public events,0.08281901696176304,2
+NER,C2_Workplace closing,0.07484834624883842,3
+NER,C4_Restrictions on gatherings,0.07351647913453596,4
+NER,C1_School closing,0.06739243275188432,5
+NER,H7_Vaccination policy,0.06713413697297944,6
+NER,H6_Facial Coverings,0.06108631684890821,7
+NER,C7_Restrictions on internal movement,0.05550804021492408,8
+NER,C8_International travel controls,0.05223315874781921,9
+NER,C6_Stay at home requirements,0.04848226354795803,10
+NER,E1_Income support,0.045613486057916895,11
+NER,H1_Public information campaigns,0.039216413102568126,12
+NER,H2_Testing policy,0.030565400424277318,13
+NER,H3_Contact tracing,0.02737618391299405,14
+NER,C5_Close public transport,0.009211940208994409,15

@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+PHL,H7_Vaccination policy,0.10210099688925592,1
+PHL,H6_Facial Coverings,0.08529989291081737,2
+PHL,C7_Restrictions on internal movement,0.07537998232575636,3
+PHL,E1_Income support,0.0732256337980565,4
+PHL,H2_Testing policy,0.06482701754467021,5
+PHL,C4_Restrictions on gatherings,0.06446124605739036,6
+PHL,C6_Stay at home requirements,0.06283368469037214,7
+PHL,H3_Contact tracing,0.054946528219794566,8
+PHL,C5_Close public transport,0.0541569093503968,9
+PHL,C1_School closing,0.05175015884599403,10
+PHL,C8_International travel controls,0.04766963997380542,11
+PHL,E2_Debt/contract relief,0.03504379137230327,12
+PHL,C2_Workplace closing,0.019567609975909502,13
+PHL,C3_Cancel public events,0.014007947343150504,14
+PHL,H1_Public information campaigns,0.0026511129788812,15

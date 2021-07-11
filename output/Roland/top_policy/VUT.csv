@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+VUT,H3_Contact tracing,0.09515951320234498,1
+VUT,E2_Debt/contract relief,0.09155490223854483,2
+VUT,H7_Vaccination policy,0.08759835559513801,3
+VUT,C2_Workplace closing,0.0872751528614627,4
+VUT,C7_Restrictions on internal movement,0.06752546307219888,5
+VUT,H1_Public information campaigns,0.06636353303094147,6
+VUT,H6_Facial Coverings,0.06375003883498888,7
+VUT,H2_Testing policy,0.04586378001499857,8
+VUT,C1_School closing,0.04427767903030756,9
+VUT,E1_Income support,0.03466648112998216,10
+VUT,C8_International travel controls,0.03070206558989917,11
+VUT,C6_Stay at home requirements,0.02365816472929268,12
+VUT,C5_Close public transport,0.014573663775635876,13
+VUT,C4_Restrictions on gatherings,0.009176284439258423,14
+VUT,C3_Cancel public events,0.005477154626837906,15

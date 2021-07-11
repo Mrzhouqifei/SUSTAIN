@@ -1,0 +1,29 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,C1_School closing,American Samoa,ASM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C1_School closing,American Samoa,ASM,343.5059299971073,per 1 million people,2019.0
+7,Health,Mortality due to COVID-19,C1_School closing,American Samoa,ASM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Prevalence of anxiety disorders,C1_School closing,American Samoa,ASM,0.042967,percent,2019.0
+10,Health,Summary exposure value tobacco,C1_School closing,American Samoa,ASM,26.8349,Rate (risk-weighted prevalence),2019.0
+13,Health,Prevalence of down syndrome,C1_School closing,American Samoa,ASM,0.000137,percent,2019.0
+14,Health,Prevalence of total cancers,C1_School closing,American Samoa,ASM,0.007848,percent,2019.0
+15,Environment,Renewable energy consumption ,C1_School closing,American Samoa,ASM,0.885478201974834,percent of total final energy consumption,2015.0
+20,Demographics,Urban population (% of total population),C1_School closing,American Samoa,ASM,87.147,total,2019.0
+22,Governance,Rule of law estimate ,C1_School closing,American Samoa,ASM,1.335098,score,2019.0
+23,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,American Samoa,ASM,1.16038,score,2019.0
+24,Health,Prevalence of Hypertensive heart disease,C1_School closing,American Samoa,ASM,0.002211,percent,2019.0
+30,Demographics,Fixed telephone subscriptions,C1_School closing,American Samoa,ASM,10000.0,number,2019.0
+32,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,American Samoa,ASM,0.377069,percent,2019.0
+36,Health,Prevalence of Diabetes,C1_School closing,American Samoa,ASM,0.195429,percent,2019.0
+38,Health,Prevalence of Depressive disorders,C1_School closing,American Samoa,ASM,0.027235,percent,2019.0
+39,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,American Samoa,ASM,12.47382,micrograms per cubic meter,2017.0
+44,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,American Samoa,ASM,5.3822278835,"proportion, pero 100,000 people",2016.0
+49,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,American Samoa,ASM,2.1,Cases,2019.0
+52,Governance,Regulatory quality estimate,C1_School closing,American Samoa,ASM,-0.2996051,score,2019.0
+60,Governance,Government effectiveness estimate,C1_School closing,American Samoa,ASM,0.5425926,score,2019.0
+64,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,American Samoa,ASM,100.0,percent of total,2017.0
+66,Demographics,"Population, total",C1_School closing,American Samoa,ASM,55312.0,total,2019.0
+71,Demographics,Rural population (% of total population),C1_School closing,American Samoa,ASM,12.85299999999999,proportion,2019.0
+76,Health,Prevalence of chronic kidney disease,C1_School closing,American Samoa,ASM,0.112984,percent,2019.0
+80,Demographics,People using at least basic sanitation services (% of population),C1_School closing,American Samoa,ASM,54.4547603777711,proportion,2017.0
+95,Demographics,People using safely managed drinking water services (% of population),C1_School closing,American Samoa,ASM,12.5750831030386,proportion,2017.0
+97,Governance,Control of corruption estimate,C1_School closing,American Samoa,ASM,1.843883,score,2019.0

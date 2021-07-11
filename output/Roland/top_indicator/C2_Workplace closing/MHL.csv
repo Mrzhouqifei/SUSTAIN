@@ -1,0 +1,56 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,Marshall Islands,MHL,38.7012,percent of population,2019.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Marshall Islands,MHL,4.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Voice and accountability estimate,C2_Workplace closing,Marshall Islands,MHL,1.136616,score,2019.0
+5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Marshall Islands,MHL,7.6,percent,2018.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,Marshall Islands,MHL,143.013,kt,2016.0
+8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Marshall Islands,MHL,3.339,Ones,2018.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,Marshall Islands,MHL,-1.470598,score,2019.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Marshall Islands,MHL,1.72242,per 100 people,2019.0
+12,Economics,Volume of exports,C2_Workplace closing,Marshall Islands,MHL,3.404,percent change,2020.0
+13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Marshall Islands,MHL,55.0,score,2021.0
+14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Marshall Islands,MHL,32.2,percent,2020.0
+15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Marshall Islands,MHL,99.9999962558097,percent of total,2017.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Marshall Islands,MHL,2.477059,metric tons per capita,2016.0
+19,Health,Prevalence of total cancers,C2_Workplace closing,Marshall Islands,MHL,0.00506,percent,2019.0
+21,Health,Summary exposure value tobacco,C2_Workplace closing,Marshall Islands,MHL,24.31741,Rate (risk-weighted prevalence),2019.0
+22,Governance,Total freedom in the world score ,C2_Workplace closing,Marshall Islands,MHL,93.0,score,2021.0
+23,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Marshall Islands,MHL,83.4940573832472,proportion,2017.0
+24,Economics,"Central government debt, total",C2_Workplace closing,Marshall Islands,MHL,48.88687414738051,percent of GDP,2016.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,Marshall Islands,MHL,-0.0330941,score,2019.0
+28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Marshall Islands,MHL,0.040904,percent,2019.0
+29,Health,Prevalence of Diabetes,C2_Workplace closing,Marshall Islands,MHL,0.162327,percent,2019.0
+30,Demographics,Urban population (% of total population),C2_Workplace closing,Marshall Islands,MHL,77.417,total,2019.0
+32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Marshall Islands,MHL,0.027929,percent,2019.0
+34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Marshall Islands,MHL,79.0,percent,2019.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Marshall Islands,MHL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Marshall Islands,MHL,0.085326,percent,2019.0
+41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Marshall Islands,MHL,483.0,Cases,2019.0
+43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Marshall Islands,MHL,4.2,percent,2020.0
+46,Health,Prevalence of obesity,C2_Workplace closing,Marshall Islands,MHL,52.9,percent,2016.0
+51,Environment,Access to electricity ,C2_Workplace closing,Marshall Islands,MHL,96.3554763793945,percent of population,2018.0
+52,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Marshall Islands,MHL,3.5,rating,2019.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,Marshall Islands,MHL,340.1881240325901,per 1 million people,2019.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Marshall Islands,MHL,6.060606061,proportion,2020.0
+63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Marshall Islands,MHL,38.0,score,2021.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Marshall Islands,MHL,2361.0,number,2019.0
+65,Governance,Human Development Index,C2_Workplace closing,Marshall Islands,MHL,0.704,index,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Marshall Islands,MHL,85.0,percent,2019.0
+68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Marshall Islands,MHL,0.436263,percent,2019.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Marshall Islands,MHL,0.8625854,score,2019.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,Marshall Islands,MHL,-0.0434163,score,2019.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,Marshall Islands,MHL,-1.116794,score,2019.0
+77,Health,Prevalence of down syndrome,C2_Workplace closing,Marshall Islands,MHL,0.000176,percent,2019.0
+79,Economics,Expenditure on education (% of GDP),C2_Workplace closing,Marshall Islands,MHL,15.52637,percent,2017.0
+82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Marshall Islands,MHL,0.001659,percent,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Marshall Islands,MHL,27.5586,per 100 people,2019.0
+85,Demographics,"Population, total",C2_Workplace closing,Marshall Islands,MHL,58791.0,total,2019.0
+91,Social issues ,"Primary completion rate, total (% of relevant age group)",C2_Workplace closing,Marshall Islands,MHL,77.2962493896484,proportion,2019.0
+92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Marshall Islands,MHL,10.24133,micrograms per cubic meter,2017.0
+95,Demographics,People with basic handwashing facilities including soap and water (% of population),C2_Workplace closing,Marshall Islands,MHL,82.5021672835689,proportion,2017.0
+96,Demographics,Rural population (% of total population),C2_Workplace closing,Marshall Islands,MHL,22.583,proportion,2019.0
+103,Economics,"International tourism, receipts",C2_Workplace closing,Marshall Islands,MHL,9000000.0,US Dollar,2018.0
+109,Economics,"Foreign direct investment, net",C2_Workplace closing,Marshall Islands,MHL,9752050.0,US Dollar,2018.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,Marshall Islands,MHL,11.1644846525257,percent of total final energy consumption,2015.0
+115,Economics,Expenditure on social protection (% of GDP),C2_Workplace closing,Marshall Islands,MHL,3.59991,percent,2017.0
+116,Economics,Expenditure on health (% of GDP),C2_Workplace closing,Marshall Islands,MHL,12.03895,percent,2017.0

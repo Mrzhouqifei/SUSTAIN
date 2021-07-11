@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+PAK,H7_Vaccination policy,0.1541793937884004,1
+PAK,H6_Facial Coverings,0.08073006396074986,2
+PAK,C7_Restrictions on internal movement,0.07968204149249307,3
+PAK,C8_International travel controls,0.07385185078453761,4
+PAK,C2_Workplace closing,0.06623639084238724,5
+PAK,H3_Contact tracing,0.06329012403798061,6
+PAK,E2_Debt/contract relief,0.06093259277704704,7
+PAK,C1_School closing,0.059449180670965523,8
+PAK,C5_Close public transport,0.05759465976322314,9
+PAK,C4_Restrictions on gatherings,0.042983617341395976,10
+PAK,C6_Stay at home requirements,0.03325163263429763,11
+PAK,E1_Income support,0.026626044094011796,12
+PAK,H2_Testing policy,0.021380474009478376,13
+PAK,C3_Cancel public events,0.01960703352912248,14
+PAK,H1_Public information campaigns,0.0,15

@@ -1,0 +1,22 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,Gibraltar,GIB,94.4445,percent of population,2019.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,Gibraltar,GIB,634.391,kt,2016.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Gibraltar,GIB,56.2891,per 100 people,2019.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
+27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Gibraltar,GIB,0.0,kWh,2015.0
+33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Gibraltar,GIB,100.0,percent of total,2015.0
+35,Environment,Electricity production from coal sources ,C2_Workplace closing,Gibraltar,GIB,0.0,percent of total,2015.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
+39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
+45,Environment,Electricity production from oil sources,C2_Workplace closing,Gibraltar,GIB,100.0,percent of total,2015.0
+51,Environment,Access to electricity ,C2_Workplace closing,Gibraltar,GIB,100.0,percent of population,2018.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
+54,Environment,Fossil fuel energy consumption,C2_Workplace closing,Gibraltar,GIB,99.51282,percent of total,2014.0
+57,Environment,Electric power consumption ,C2_Workplace closing,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Gibraltar,GIB,16968.0,number,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Gibraltar,GIB,120.284,per 100 people,2019.0
+84,Environment,Combustible renewables and waste,C2_Workplace closing,Gibraltar,GIB,0.0,percent of total energy,2014.0
+94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Gibraltar,GIB,0.0,percent of total,2014.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
+117,Environment,"Energy imports, net ",C2_Workplace closing,Gibraltar,GIB,100.0,percent of energy use,2014.0

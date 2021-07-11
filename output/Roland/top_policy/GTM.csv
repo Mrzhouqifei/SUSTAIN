@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+GTM,H3_Contact tracing,0.11576620036933173,1
+GTM,C1_School closing,0.08211111247249794,2
+GTM,E1_Income support,0.0770781414115588,3
+GTM,C2_Workplace closing,0.07031575589346077,4
+GTM,H7_Vaccination policy,0.06197988274540375,5
+GTM,C8_International travel controls,0.05977708811753075,6
+GTM,H6_Facial Coverings,0.058343639248994626,7
+GTM,C4_Restrictions on gatherings,0.04813433341574542,8
+GTM,C3_Cancel public events,0.047806696949268604,9
+GTM,C7_Restrictions on internal movement,0.04730655268833768,10
+GTM,H2_Testing policy,0.040850461424852665,11
+GTM,C5_Close public transport,0.03679864699132125,12
+GTM,C6_Stay at home requirements,0.030655567138419982,13
+GTM,E2_Debt/contract relief,0.026358091539737647,14
+GTM,H1_Public information campaigns,0.01965167074867203,15

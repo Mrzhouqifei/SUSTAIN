@@ -89,7 +89,11 @@ def re_construct_covid_forecast():
     upper = pd.read_csv('output/covid_forecast/contagion/prediction_upper.csv',
                         index_col=0).unstack().reset_index().rename(
         columns={'level_0': 'Country', 'level_1': 'Date', 0: 'upper'})
-    policies = pd.read_csv('raw_data/policies_all_countries_raw.csv').drop('iso', axis=1).rename(
+    policies = pd.read_csv('raw_data/policies_all_countries_raw.csv').drop(['iso', 'H8_Protection of elderly people',
+                                                                            'E4_International support',
+                                                                            'H5_Investment in vaccines',
+                                                                            'E3_Fiscal measures',
+                                                                            'H4_Emergency investment in healthcare'], axis=1).rename(
         columns={'entity': 'Country', 'date': 'Date'})
     population_year = 2020
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
@@ -145,6 +149,7 @@ def re_construct_top_indicator():
                                             'category': 'Category', 2021: 'value'})
     indicators_category = indicators_category.merge(population, on=['Country'])
     data = indicators_category.merge(policy_indicator, on=['Indicator']).dropna(axis=0, subset=['value'])
+    data['unit'] = data['unit'].fillna('score')
 
     for key1, group1 in data.groupby('Policy'):
         key1 = key1.replace('/', '_')
@@ -160,6 +165,6 @@ if __name__ == '__main__':
         ['country', 'iso']]
     population = population.rename(columns={'country': 'Country', 'iso': 'ISO'})
 
-    re_construct_covid_forecast()
+    # re_construct_covid_forecast()
     # re_construct_top_policy()
-    # re_construct_top_indicator()
+    re_construct_top_indicator()

@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H6_Facial Coverings,Papua New Guinea,PNG,11.2092,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Papua New Guinea,PNG,0.433256,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Papua New Guinea,PNG,158000.0,number,2019.0
+4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Papua New Guinea,PNG,35.5480003,Percentage of total employment,2020.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Papua New Guinea,PNG,760.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Papua New Guinea,PNG,0.027019,percent,2019.0
+7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Papua New Guinea,PNG,46.0530014,Percentage of females of the total population,2020.0
+8,Governance,Economic Freedom Score,H6_Facial Coverings,Papua New Guinea,PNG,6.39,score,2018.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Papua New Guinea,PNG,47.6177,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Papua New Guinea,PNG,8.9,percent,2020.0
+12,Governance,Personal Freedom Score ,H6_Facial Coverings,Papua New Guinea,PNG,7.05,score,2018.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Papua New Guinea,PNG,0.21332,per 100 people,2019.0
+14,Social issues ,Net migration,H6_Facial Coverings,Papua New Guinea,PNG,-3999.0,net total / data are 5 year estimates,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Papua New Guinea,PNG,0.001269,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Papua New Guinea,PNG,8.0,"Number (cumulative total by Dec 26,2020)",2020.0
+17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Papua New Guinea,PNG,0.0699,Ones,2018.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Papua New Guinea,PNG,0.00337,percent,2019.0
+20,Governance,Total freedom in the world score ,H6_Facial Coverings,Papua New Guinea,PNG,62.0,score,2021.0
+21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Papua New Guinea,PNG,46.993,Percentage of total population,2020.0
+23,Health,Prevalence of obesity,H6_Facial Coverings,Papua New Guinea,PNG,21.3,percent,2016.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Papua New Guinea,PNG,0.000191,percent,2019.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,Papua New Guinea,PNG,-0.9916382,score,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Papua New Guinea,PNG,27.83503,Rate (risk-weighted prevalence),2019.0
+30,Governance,Fragile States Index Total ,H6_Facial Coverings,Papua New Guinea,PNG,82.29729048388526,score,2020.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Papua New Guinea,PNG,1.7,percent,2018.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Papua New Guinea,PNG,12.29442,micrograms per cubic meter,2017.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,Papua New Guinea,PNG,52.4986519522615,percent of total final energy consumption,2015.0
+38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Papua New Guinea,PNG,48.4,percent,2020.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Papua New Guinea,PNG,432.0,Cases,2019.0
+41,Demographics,Urban population (% of total population),H6_Facial Coverings,Papua New Guinea,PNG,13.25,total,2019.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,Papua New Guinea,PNG,7535.685,kt,2016.0
+43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Papua New Guinea,PNG,37.0,percent,2019.0
+44,Economics,Volume of imports,H6_Facial Coverings,Papua New Guinea,PNG,4.325,percent change,2020.0
+46,Social issues ,Press freedom score,H6_Facial Coverings,Papua New Guinea,PNG,23.93,score,2020.0
+47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Papua New Guinea,PNG,0.4548,Ones,2018.0
+48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Papua New Guinea,PNG,0.0,proportion,2020.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Papua New Guinea,PNG,0.037914,percent,2019.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Papua New Guinea,PNG,0.911013,metric tons per capita,2016.0
+51,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Papua New Guinea,PNG,9698.0,proportion,2019.0
+52,Governance,Human Development Index,H6_Facial Coverings,Papua New Guinea,PNG,0.555,index,2019.0
+53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Papua New Guinea,PNG,27.0,score,2020.0
+55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Papua New Guinea,PNG,99.9951657438565,percent of total,2017.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Papua New Guinea,PNG,-0.8261072,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,Papua New Guinea,PNG,0.0740421,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,Papua New Guinea,PNG,56.74496522319857,per 1 million people,2019.0
+59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Papua New Guinea,PNG,35.0,percent,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,Papua New Guinea,PNG,-0.5425464,score,2019.0
+61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Papua New Guinea,PNG,23.0,score,2021.0
+63,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H6_Facial Coverings,Papua New Guinea,PNG,13330.7,international $ in PPP,2020.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Papua New Guinea,PNG,0.071412,percent,2019.0
+65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Papua New Guinea,PNG,0.9,percent,2019.0
+66,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,Papua New Guinea,PNG,5.752721742617576,proportion,2019.0
+67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Papua New Guinea,PNG,39.0,score,2021.0
+68,Governance,Human Freedom Score ,H6_Facial Coverings,Papua New Guinea,PNG,6.72,score,2018.0
+70,Economics,Volume of exports,H6_Facial Coverings,Papua New Guinea,PNG,0.364,percent change,2020.0
+72,Economics,"Central government debt, total",H6_Facial Coverings,Papua New Guinea,PNG,29.87537772604625,percent of GDP,2015.0
+73,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H6_Facial Coverings,Papua New Guinea,PNG,2.5,rating,2019.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,Papua New Guinea,PNG,-0.808679,score,2019.0
+75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Papua New Guinea,PNG,2.48699999,percent of total labor force,2020.0
+77,Economics,"International tourism, receipts",H6_Facial Coverings,Papua New Guinea,PNG,3000000.0,US Dollar,2018.0
+78,Environment,Access to electricity ,H6_Facial Coverings,Papua New Guinea,PNG,58.967357635498,percent of population,2018.0
+81,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),H6_Facial Coverings,Papua New Guinea,PNG,69.8,proportion,2018.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Papua New Guinea,PNG,0.063065,percent,2019.0
+84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Papua New Guinea,PNG,12.9492669676698,proportion,2017.0
+85,Demographics,"Population, total",H6_Facial Coverings,Papua New Guinea,PNG,8776109.0,total,2019.0
+88,Demographics,Rural population (% of total population),H6_Facial Coverings,Papua New Guinea,PNG,86.75,proportion,2019.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,Papua New Guinea,PNG,-0.8009731,score,2019.0
+100,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,Papua New Guinea,PNG,63.92204012416529,proportion,2019.0
+104,Economics,"Trade, total as % of GDP",H6_Facial Coverings,Papua New Guinea,PNG,59.32679,percent,2019.0
+108,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Papua New Guinea,PNG,77.1238479614258,proportion,2016.0
+113,Economics,"Foreign direct investment, net",H6_Facial Coverings,Papua New Guinea,PNG,1134643540.0,US Dollar,2018.0
+114,Economics,"Lending interest rates, percent per annum",H6_Facial Coverings,Papua New Guinea,PNG,8.65083,percent per annum,2019.0

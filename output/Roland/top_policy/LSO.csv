@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+LSO,C6_Stay at home requirements,0.08287606827475957,1
+LSO,H2_Testing policy,0.07734921704308219,2
+LSO,H6_Facial Coverings,0.0727867427298193,3
+LSO,C1_School closing,0.06461035893419717,4
+LSO,C7_Restrictions on internal movement,0.06379255362581683,5
+LSO,C2_Workplace closing,0.06109989525179248,6
+LSO,E2_Debt/contract relief,0.058908660227547975,7
+LSO,C8_International travel controls,0.053088415450341785,8
+LSO,C3_Cancel public events,0.05292172471713872,9
+LSO,C5_Close public transport,0.05284326925994177,10
+LSO,H7_Vaccination policy,0.049666185878675134,11
+LSO,H3_Contact tracing,0.04461064117991682,12
+LSO,C4_Restrictions on gatherings,0.04155559652177965,13
+LSO,E1_Income support,0.033546570267862036,14
+LSO,H1_Public information campaigns,0.024115815802251788,15

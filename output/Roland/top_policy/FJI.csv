@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+FJI,E2_Debt/contract relief,0.09758710144318154,1
+FJI,H7_Vaccination policy,0.09180250131593487,2
+FJI,H6_Facial Coverings,0.0827849156209912,3
+FJI,C7_Restrictions on internal movement,0.0784681304203491,4
+FJI,C8_International travel controls,0.07499418847135139,5
+FJI,C1_School closing,0.06481111555364799,6
+FJI,H2_Testing policy,0.06430089162454006,7
+FJI,C4_Restrictions on gatherings,0.06229640806762636,8
+FJI,E1_Income support,0.05838058591875098,9
+FJI,H3_Contact tracing,0.0344886738398894,10
+FJI,H1_Public information campaigns,0.030634804153846625,11
+FJI,C2_Workplace closing,0.02818336126839325,12
+FJI,C6_Stay at home requirements,0.025849989076614302,13
+FJI,C5_Close public transport,0.024243144336705408,14
+FJI,C3_Cancel public events,0.017475839956565063,15

@@ -1,0 +1,94 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H7_Vaccination policy,Australia,AUS,86.545,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H7_Vaccination policy,Australia,AUS,77.0,score,2020.0
+3,Health,Prevalence of COVID-19,H7_Vaccination policy,Australia,AUS,28094.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,"Foreign direct investment, net",H7_Vaccination policy,Australia,AUS,38605657230.0,US Dollar,2019.0
+5,Demographics,Secure Internet servers ,H7_Vaccination policy,Australia,AUS,36720.85344180703,per 1 million people,2019.0
+6,Governance,Serious assault (rate),H7_Vaccination policy,Australia,AUS,292.02,rate,2018.0
+7,Social issues ,Press freedom score,H7_Vaccination policy,Australia,AUS,20.21,score,2020.0
+8,Environment,CO2 emissions (kt),H7_Vaccination policy,Australia,AUS,375907.8,kt,2016.0
+9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Australia,AUS,7820000.0,number,2019.0
+10,Environment,Electric power consumption ,H7_Vaccination policy,Australia,AUS,10071.39897850057,kWh per capita,2014.0
+11,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Australia,AUS,77.7330017,Percentage of total employment,2020.0
+12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Australia,AUS,34.5413,per 100 people,2019.0
+13,Economics,Volume of imports,H7_Vaccination policy,Australia,AUS,2.424,percent change,2020.0
+14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Australia,AUS,0.155167,percent,2019.0
+15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Australia,AUS,1.086503,score,2019.0
+16,Environment,Renewable energy consumption ,H7_Vaccination policy,Australia,AUS,9.18050295980786,percent of total final energy consumption,2015.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Australia,AUS,6.9,Cases,2019.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Australia,AUS,6.4,percent,2018.0
+19,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Australia,AUS,3.6778,Ones,2017.0
+20,Health,Summary exposure value tobacco,H7_Vaccination policy,Australia,AUS,21.19674,Rate (risk-weighted prevalence),2019.0
+21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Australia,AUS,0.064051,percent,2019.0
+22,Governance,Rule of law estimate ,H7_Vaccination policy,Australia,AUS,1.734145,score,2019.0
+23,Environment,Electricity production from oil sources,H7_Vaccination policy,Australia,AUS,2.695064136104901,percent of total,2015.0
+24,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H7_Vaccination policy,Australia,AUS,5.32800007,percent of total labor force,2020.0
+25,Environment,Fossil fuel energy consumption,H7_Vaccination policy,Australia,AUS,89.62563,percent of total,2015.0
+26,Social issues ,Net migration,H7_Vaccination policy,Australia,AUS,791229.0,net total / data are 5 year estimates,2019.0
+27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Australia,AUS,65.3690033,Percentage of total population,2020.0
+28,Health,Prevalence of total cancers,H7_Vaccination policy,Australia,AUS,0.041621,percent,2019.0
+29,Governance,Total freedom in the world score ,H7_Vaccination policy,Australia,AUS,97.0,score,2021.0
+30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Australia,AUS,57.0,score,2021.0
+31,Health,Prevalence of obesity,H7_Vaccination policy,Australia,AUS,29.0,percent,2016.0
+32,Environment,Combustible renewables and waste,H7_Vaccination policy,Australia,AUS,3.33011,percent of total energy,2015.0
+33,Governance,Personal Freedom Score ,H7_Vaccination policy,Australia,AUS,9.12,score,2018.0
+34,Health,Mortality due to COVID-19,H7_Vaccination policy,Australia,AUS,908.0,"Number (cumulative total by Dec 26,2020)",2020.0
+35,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Australia,AUS,8.550324,micrograms per cubic meter,2017.0
+36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Australia,AUS,110.621,per 100 people,2019.0
+37,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Australia,AUS,30.46357616,proportion,2020.0
+38,Governance,Fragile States Index Total ,H7_Vaccination policy,Australia,AUS,19.746408857575208,score,2020.0
+39,Governance,Economic Freedom Score,H7_Vaccination policy,Australia,AUS,8.23,score,2018.0
+40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Australia,AUS,2.1,percent,2020.0
+41,Environment,"Energy imports, net ",H7_Vaccination policy,Australia,AUS,-190.1909475821543,percent of energy use,2015.0
+42,Health,"Prevalence of HIV, total (% of population ages 15-49)",H7_Vaccination policy,Australia,AUS,0.1,percent,2019.0
+43,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H7_Vaccination policy,Australia,AUS,92411.2,international $ in PPP,2020.0
+45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Australia,AUS,0.108301,percent,2019.0
+46,Social issues ,Gini index (World Bank estimate),H7_Vaccination policy,Australia,AUS,34.4,index ,2014.0
+47,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Australia,AUS,4.42268183065241,percent of GNI,2018.0
+48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Australia,AUS,15.53922,metric tons per capita,2016.0
+49,Economics,Volume of exports,H7_Vaccination policy,Australia,AUS,2.366,percent change,2020.0
+50,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Australia,AUS,37.8,percent,2018.0
+51,Health,Prevalence of down syndrome,H7_Vaccination policy,Australia,AUS,0.000425,percent,2019.0
+52,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Australia,AUS,18.5,percent,2020.0
+53,Social issues ,Life Ladder ,H7_Vaccination policy,Australia,AUS,7.183499813079834,score,2021.0
+54,Demographics,Urban population (% of total population),H7_Vaccination policy,Australia,AUS,86.124,total,2019.0
+55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Australia,AUS,40.0,score,2021.0
+56,Governance,Control of corruption estimate,H7_Vaccination policy,Australia,AUS,1.811107,score,2019.0
+58,Environment,Electricity production from coal sources ,H7_Vaccination policy,Australia,AUS,62.87161680064691,percent of total,2015.0
+61,Environment,Electricity production from nuclear sources ,H7_Vaccination policy,Australia,AUS,0.0,percent of total,2015.0
+63,Environment,"Electricity production from oil, gas and coal sources",H7_Vaccination policy,Australia,AUS,86.36215890532591,percent of total,2015.0
+64,Demographics,People using at least basic sanitation services (% of population),H7_Vaccination policy,Australia,AUS,99.9911523822512,proportion,2017.0
+65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Australia,AUS,0.050533,percent,2019.0
+66,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Australia,AUS,24.8935837696774,percent of total,2017.0
+67,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Australia,AUS,95.0,percent,2019.0
+68,Demographics,Rural population (% of total population),H7_Vaccination policy,Australia,AUS,13.87600000000001,proportion,2019.0
+69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Australia,AUS,0.001582,percent,2019.0
+70,Health,Prevalence of Diabetes,H7_Vaccination policy,Australia,AUS,0.064669,percent,2019.0
+72,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Australia,AUS,12.5508,Ones,2017.0
+73,Governance,Human Development Index,H7_Vaccination policy,Australia,AUS,0.944,index,2019.0
+74,Environment,Energy use (kg of oil equivalent per capita),H7_Vaccination policy,Australia,AUS,5483.816401540225,kg of oil equivalent per capita,2015.0
+75,Economics,"Central government debt, total",H7_Vaccination policy,Australia,AUS,0.054648482520169,percent of GDP,2016.0
+76,Demographics,Refugee population by country or territory of asylum,H7_Vaccination policy,Australia,AUS,76768.0,proportion,2019.0
+77,Demographics,"Age dependency ratio, old (% of working-age population)",H7_Vaccination policy,Australia,AUS,24.5684821384735,proportion,2019.0
+79,Social issues ,Proportion of people living below 50 percent of median income (%),H7_Vaccination policy,Australia,AUS,10.0,proportion,2014.0
+80,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Australia,AUS,0.89163240342,"proportion, pero 100,000 people",2018.0
+81,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Australia,AUS,60.2050018,Percentage of females of the total population,2020.0
+82,Governance,Voice and accountability estimate,H7_Vaccination policy,Australia,AUS,1.315125,score,2019.0
+84,Governance,Government effectiveness estimate,H7_Vaccination policy,Australia,AUS,1.571896,score,2019.0
+85,Economics,Expenditure on social protection (% of GDP),H7_Vaccination policy,Australia,AUS,9.73273,percent,2019.0
+87,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Australia,AUS,95.0,percent,2019.0
+88,Environment,Access to electricity ,H7_Vaccination policy,Australia,AUS,100.0,percent of population,2018.0
+89,Economics,Expenditure on education (% of GDP),H7_Vaccination policy,Australia,AUS,5.39412,percent,2019.0
+90,Governance,Human Freedom Score ,H7_Vaccination policy,Australia,AUS,8.68,score,2018.0
+91,Environment,Energy use ,H7_Vaccination policy,Australia,AUS,114.2045654214777,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+92,Economics,Expenditure on health (% of GDP),H7_Vaccination policy,Australia,AUS,7.10948,percent,2019.0
+93,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H7_Vaccination policy,Australia,AUS,31.7493305206299,proportion,2018.0
+94,Environment,"Electricity production from renewable sources, excluding hydroelectric",H7_Vaccination policy,Australia,AUS,21044000000.0,kWh,2015.0
+97,Governance,Regulatory quality estimate,H7_Vaccination policy,Australia,AUS,1.873539,score,2019.0
+98,Economics,"Trade, total as % of GDP",H7_Vaccination policy,Australia,AUS,35.81504,percent,2019.0
+100,Demographics,"Population, total",H7_Vaccination policy,Australia,AUS,25364307.0,total,2019.0
+101,Demographics,Age dependency ratio (% of working-age population),H7_Vaccination policy,Australia,AUS,54.3130005917775,proportion,2019.0
+103,Economics,Unemployment rate (%) - Annual,H7_Vaccination policy,Australia,AUS,5.3,percent,2019.0
+106,Economics,"Lending interest rates, percent per annum",H7_Vaccination policy,Australia,AUS,5.101,percent per annum,2019.0
+107,Economics,"International tourism, receipts",H7_Vaccination policy,Australia,AUS,45709000000.0,US Dollar,2019.0
+108,Economics,Stock market capitalization (US$ million),H7_Vaccination policy,Australia,AUS,1487598500000.0,US Dollar,2019.0

@@ -1,0 +1,8 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Martinique,MTQ,5601.0,"Number (cumulative total by Dec 26,2020)",2020.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Martinique,MTQ,42.0,"Number (cumulative total by Dec 26,2020)",2020.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Martinique,MTQ,1.234392,score,2019.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Martinique,MTQ,0.7850212,score,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Martinique,MTQ,1.089055,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Martinique,MTQ,0.6005772,score,2019.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Martinique,MTQ,1.228176,score,2019.0

@@ -1,0 +1,62 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H7_Vaccination policy,Eswatini,SWZ,47.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H7_Vaccination policy,Eswatini,SWZ,33.0,score,2020.0
+3,Health,Prevalence of COVID-19,H7_Vaccination policy,Eswatini,SWZ,7202.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,H7_Vaccination policy,Eswatini,SWZ,93.19502146969421,per 1 million people,2019.0
+7,Social issues ,Press freedom score,H7_Vaccination policy,Eswatini,SWZ,45.15,score,2020.0
+8,Environment,CO2 emissions (kt),H7_Vaccination policy,Eswatini,SWZ,1155.105,kt,2016.0
+9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Eswatini,SWZ,41000.0,number,2019.0
+11,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Eswatini,SWZ,64.1809998,Percentage of total employment,2020.0
+12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Eswatini,SWZ,0.711234,per 100 people,2019.0
+13,Economics,Volume of imports,H7_Vaccination policy,Eswatini,SWZ,-0.343,percent change,2020.0
+14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Eswatini,SWZ,0.28091,percent,2019.0
+15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Eswatini,SWZ,-0.3785959,score,2019.0
+16,Environment,Renewable energy consumption ,H7_Vaccination policy,Eswatini,SWZ,66.1046592063012,percent of total final energy consumption,2015.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Eswatini,SWZ,363.0,Cases,2019.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Eswatini,SWZ,2.1,percent,2018.0
+19,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Eswatini,SWZ,0.3285,Ones,2016.0
+20,Health,Summary exposure value tobacco,H7_Vaccination policy,Eswatini,SWZ,8.281146,Rate (risk-weighted prevalence),2019.0
+21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Eswatini,SWZ,0.034746,percent,2019.0
+22,Governance,Rule of law estimate ,H7_Vaccination policy,Eswatini,SWZ,-0.5018827,score,2019.0
+24,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H7_Vaccination policy,Eswatini,SWZ,21.9710007,percent of total labor force,2020.0
+26,Social issues ,Net migration,H7_Vaccination policy,Eswatini,SWZ,-41764.0,net total / data are 5 year estimates,2019.0
+27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Eswatini,SWZ,52.6559982,Percentage of total population,2020.0
+28,Health,Prevalence of total cancers,H7_Vaccination policy,Eswatini,SWZ,0.003443,percent,2019.0
+29,Governance,Total freedom in the world score ,H7_Vaccination policy,Eswatini,SWZ,19.0,score,2021.0
+30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Eswatini,SWZ,18.0,score,2021.0
+31,Health,Prevalence of obesity,H7_Vaccination policy,Eswatini,SWZ,16.5,percent,2016.0
+33,Governance,Personal Freedom Score ,H7_Vaccination policy,Eswatini,SWZ,5.76,score,2018.0
+34,Health,Mortality due to COVID-19,H7_Vaccination policy,Eswatini,SWZ,136.0,"Number (cumulative total by Dec 26,2020)",2020.0
+35,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Eswatini,SWZ,17.16879,micrograms per cubic meter,2017.0
+36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Eswatini,SWZ,93.5273,per 100 people,2019.0
+37,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Eswatini,SWZ,9.589041096,proportion,2020.0
+38,Governance,Fragile States Index Total ,H7_Vaccination policy,Eswatini,SWZ,85.3,score,2019.0
+39,Governance,Economic Freedom Score,H7_Vaccination policy,Eswatini,SWZ,6.27,score,2018.0
+40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Eswatini,SWZ,22.6,percent,2020.0
+42,Health,"Prevalence of HIV, total (% of population ages 15-49)",H7_Vaccination policy,Eswatini,SWZ,27.0,percent,2019.0
+45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Eswatini,SWZ,0.054328,percent,2019.0
+46,Social issues ,Gini index (World Bank estimate),H7_Vaccination policy,Eswatini,SWZ,54.6,index ,2016.0
+47,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Eswatini,SWZ,5.01655953443727,percent of GNI,2018.0
+48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Eswatini,SWZ,1.036913,metric tons per capita,2016.0
+49,Economics,Volume of exports,H7_Vaccination policy,Eswatini,SWZ,0.922,percent change,2020.0
+50,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Eswatini,SWZ,43.43,percent,2016.0
+51,Health,Prevalence of down syndrome,H7_Vaccination policy,Eswatini,SWZ,0.000284,percent,2019.0
+52,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Eswatini,SWZ,9.7,percent,2020.0
+53,Social issues ,Life Ladder ,H7_Vaccination policy,Eswatini,SWZ,4.30810022354126,score,2021.0
+55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Eswatini,SWZ,1.0,score,2021.0
+56,Governance,Control of corruption estimate,H7_Vaccination policy,Eswatini,SWZ,-0.4876726,score,2019.0
+65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Eswatini,SWZ,0.038718,percent,2019.0
+66,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Eswatini,SWZ,100.0,percent of total,2017.0
+67,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Eswatini,SWZ,90.0,percent,2019.0
+69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Eswatini,SWZ,0.00039,percent,2019.0
+70,Health,Prevalence of Diabetes,H7_Vaccination policy,Eswatini,SWZ,0.036927,percent,2019.0
+72,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Eswatini,SWZ,4.1415,Ones,2018.0
+73,Governance,Human Development Index,H7_Vaccination policy,Eswatini,SWZ,0.611,index,2019.0
+80,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Eswatini,SWZ,11.55752804,"proportion, pero 100,000 people",2017.0
+81,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Eswatini,SWZ,48.6399994,Percentage of females of the total population,2020.0
+82,Governance,Voice and accountability estimate,H7_Vaccination policy,Eswatini,SWZ,-1.32123,score,2019.0
+84,Governance,Government effectiveness estimate,H7_Vaccination policy,Eswatini,SWZ,-0.678317,score,2019.0
+87,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Eswatini,SWZ,81.0,percent,2019.0
+88,Environment,Access to electricity ,H7_Vaccination policy,Eswatini,SWZ,76.5039825439453,percent of population,2018.0
+90,Governance,Human Freedom Score ,H7_Vaccination policy,Eswatini,SWZ,6.02,score,2018.0
+97,Governance,Regulatory quality estimate,H7_Vaccination policy,Eswatini,SWZ,-0.6122774,score,2019.0

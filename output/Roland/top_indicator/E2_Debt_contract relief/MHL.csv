@@ -1,0 +1,56 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Marshall Islands,MHL,38.7012,percent of population,2019.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Marshall Islands,MHL,4.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Marshall Islands,MHL,340.1881240325901,per 1 million people,2019.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Marshall Islands,MHL,483.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Marshall Islands,MHL,24.31741,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Marshall Islands,MHL,1.72242,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Marshall Islands,MHL,85.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Marshall Islands,MHL,99.9999962558097,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Marshall Islands,MHL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Marshall Islands,MHL,7.6,percent,2018.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Marshall Islands,MHL,143.013,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Marshall Islands,MHL,-0.0434163,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Marshall Islands,MHL,0.436263,percent,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Marshall Islands,MHL,0.040904,percent,2019.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Marshall Islands,MHL,0.162327,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Marshall Islands,MHL,38.0,score,2021.0
+25,Economics,"Central government debt, total",E2_Debt/contract relief,Marshall Islands,MHL,48.88687414738051,percent of GDP,2016.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Marshall Islands,MHL,0.001659,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Marshall Islands,MHL,3.404,percent change,2020.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Marshall Islands,MHL,0.704,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Marshall Islands,MHL,11.1644846525257,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Marshall Islands,MHL,4.2,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Marshall Islands,MHL,0.8625854,score,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Marshall Islands,MHL,1.136616,score,2019.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Marshall Islands,MHL,10.24133,micrograms per cubic meter,2017.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Marshall Islands,MHL,0.085326,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Marshall Islands,MHL,55.0,score,2021.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Marshall Islands,MHL,0.027929,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Marshall Islands,MHL,27.5586,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Marshall Islands,MHL,-1.470598,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Marshall Islands,MHL,-0.0330941,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Marshall Islands,MHL,2.477059,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Marshall Islands,MHL,0.00506,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Marshall Islands,MHL,0.000176,percent,2019.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Marshall Islands,MHL,93.0,score,2021.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Marshall Islands,MHL,6.060606061,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Marshall Islands,MHL,79.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Marshall Islands,MHL,2361.0,number,2019.0
+70,Demographics,Urban population (% of total population),E2_Debt/contract relief,Marshall Islands,MHL,77.417,total,2019.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Marshall Islands,MHL,32.2,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Marshall Islands,MHL,-1.116794,score,2019.0
+76,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Marshall Islands,MHL,83.4940573832472,proportion,2017.0
+77,Demographics,Rural population (% of total population),E2_Debt/contract relief,Marshall Islands,MHL,22.583,proportion,2019.0
+79,Demographics,People with basic handwashing facilities including soap and water (% of population),E2_Debt/contract relief,Marshall Islands,MHL,82.5021672835689,proportion,2017.0
+81,Economics,"International tourism, receipts",E2_Debt/contract relief,Marshall Islands,MHL,9000000.0,US Dollar,2018.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Marshall Islands,MHL,3.5,rating,2019.0
+84,Social issues ,"Primary completion rate, total (% of relevant age group)",E2_Debt/contract relief,Marshall Islands,MHL,77.2962493896484,proportion,2019.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Marshall Islands,MHL,52.9,percent,2016.0
+100,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Marshall Islands,MHL,9752050.0,US Dollar,2018.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Marshall Islands,MHL,3.339,Ones,2018.0
+110,Demographics,"Population, total",E2_Debt/contract relief,Marshall Islands,MHL,58791.0,total,2019.0
+111,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Marshall Islands,MHL,3.59991,percent,2017.0
+112,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Marshall Islands,MHL,12.03895,percent,2017.0
+113,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Marshall Islands,MHL,15.52637,percent,2017.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Marshall Islands,MHL,96.3554763793945,percent of population,2018.0

@@ -1,0 +1,94 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,India,IND,34.45,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,India,IND,40.0,score,2020.0
+3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,India,IND,389.197958269503,per 1 million people,2019.0
+4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,India,IND,1.44535,per 100 people,2019.0
+5,Economics,Stock market capitalization (US$ million),C4_Restrictions on gatherings,India,IND,2179781240000.0,US Dollar,2019.0
+6,Social issues ,Press freedom score,C4_Restrictions on gatherings,India,IND,45.33,score,2020.0
+7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,India,IND,17.6597859061968,percent of GNI,2018.0
+8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,India,IND,6.56,score,2018.0
+9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,India,IND,75.30743258442217,score,2020.0
+10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,India,IND,2407672.0,kt,2016.0
+11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,India,IND,0.2939892,score,2019.0
+12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,India,IND,32.3269997,Percentage of total employment,2020.0
+13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,India,IND,20.86474,Rate (risk-weighted prevalence),2019.0
+14,Economics,Volume of imports,C4_Restrictions on gatherings,India,IND,8.728,percent change,2020.0
+15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,India,IND,1.0,percent,2018.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,India,IND,193.0,Cases,2019.0
+18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,India,IND,91.0,percent,2019.0
+19,Governance,Human Development Index,C4_Restrictions on gatherings,India,IND,0.645,index,2019.0
+20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,India,IND,49.1660004,Percentage of total population,2020.0
+21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,India,IND,0.030792,percent,2019.0
+22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,India,IND,74143000000.0,kWh,2015.0
+23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,India,IND,67.0,score,2021.0
+24,Social issues ,Net migration,C4_Restrictions on gatherings,India,IND,-2663434.0,net total / data are 5 year estimates,2019.0
+25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,India,IND,14.36464088,proportion,2020.0
+26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,India,IND,95.0,percent,2019.0
+27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,India,IND,0.311357,percent,2019.0
+28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,India,IND,1.7271,Ones,2018.0
+29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,India,IND,84.27,per 100 people,2019.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,India,IND,-0.7027684,score,2019.0
+31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,India,IND,10004599.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,India,IND,33.0,score,2021.0
+34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,India,IND,3.0792324418,"proportion, pero 100,000 people",2018.0
+35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,India,IND,81.89209864902777,percent of total,2015.0
+36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,India,IND,636.5701555962249,kg of oil equivalent per capita,2014.0
+37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,India,IND,6.43,score,2018.0
+38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,India,IND,-0.0307584,score,2019.0
+39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,India,IND,1.659503515535747,percent of total,2015.0
+40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,India,IND,34.30552375120193,percent of energy use,2014.0
+41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,India,IND,30.9,percent,2020.0
+42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,India,IND,0.8571,Ones,2018.0
+43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,India,IND,75.30939896052361,percent of total,2015.0
+45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,India,IND,13.67,percent,2018.0
+46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,India,IND,145136.0,"Number (cumulative total by Dec 26,2020)",2020.0
+47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,India,IND,73.57698,percent of total,2014.0
+48,Environment,Access to electricity ,C4_Restrictions on gatherings,India,IND,95.2358551025391,percent of population,2018.0
+49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,India,IND,1.817783,metric tons per capita,2016.0
+50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,India,IND,5.39900017,percent of total labor force,2020.0
+51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,India,IND,3.8189001083374023,score,2021.0
+52,Demographics,People using at least basic sanitation services (% of population),C4_Restrictions on gatherings,India,IND,59.5434482675674,proportion,2017.0
+53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,India,IND,-0.1605557,score,2019.0
+54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,India,IND,0.000113,percent,2019.0
+55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,India,IND,21.37392,percent of total energy,2014.0
+56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,India,IND,0.036871,percent,2019.0
+57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,India,IND,21004500.0,number,2019.0
+58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,India,IND,36.0212225652817,percent of total final energy consumption,2015.0
+59,Economics,Volume of exports,C4_Restrictions on gatherings,India,IND,8.0,percent change,2020.0
+60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,India,IND,-0.233254,score,2019.0
+62,Economics,Expenditure on health (% of GDP),C4_Restrictions on gatherings,India,IND,1.30306,percent,2018.0
+63,Demographics,"Age dependency ratio, old (% of working-age population)",C4_Restrictions on gatherings,India,IND,9.51874832508143,proportion,2019.0
+64,Health,Prevalence of obesity,C4_Restrictions on gatherings,India,IND,3.9,percent,2016.0
+65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,India,IND,1.9,percent,2020.0
+67,Social issues ,"Primary completion rate, total (% of relevant age group)",C4_Restrictions on gatherings,India,IND,91.661491394043,proportion,2019.0
+68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,India,IND,6.3,score,2018.0
+69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,India,IND,34.0,score,2021.0
+70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,India,IND,0.000763,percent,2019.0
+71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,India,IND,0.003001,percent,2019.0
+72,Environment,Energy use ,C4_Restrictions on gatherings,India,IND,124.6415138133907,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+73,Environment,Electric power consumption ,C4_Restrictions on gatherings,India,IND,804.5142280892788,kWh per capita,2014.0
+74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,India,IND,0.084867,percent,2019.0
+76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,India,IND,0.062891,percent,2019.0
+77,Social issues ,Progression to secondary school (%),C4_Restrictions on gatherings,India,IND,91.25519,proportion,2017.0
+78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,India,IND,0.1715544,score,2019.0
+79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,India,IND,20.3349991,Percentage of females of the total population,2020.0
+80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,India,IND,90.87321,micrograms per cubic meter,2017.0
+81,Economics,Expenditure on education (% of GDP),C4_Restrictions on gatherings,India,IND,4.60711,percent,2018.0
+82,Demographics,Urban population (% of total population),C4_Restrictions on gatherings,India,IND,34.472,total,2019.0
+84,Demographics,Age dependency ratio (% of working-age population),C4_Restrictions on gatherings,India,IND,49.24524175455547,proportion,2019.0
+85,Economics,"Lending interest rates, percent per annum",C4_Restrictions on gatherings,India,IND,9.46625,percent per annum,2019.0
+86,Health,Hospital beds (per 10 000 population),C4_Restrictions on gatherings,India,IND,5.3,Ones,2017.0
+87,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C4_Restrictions on gatherings,India,IND,74.3729934692383,proportion,2018.0
+88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,India,IND,100.0,percent of total,2017.0
+89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,India,IND,2.790639430710174,percent of total,2014.0
+92,Demographics,"Population, total",C4_Restrictions on gatherings,India,IND,1366417754.0,total,2019.0
+95,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C4_Restrictions on gatherings,India,IND,44.6,proportion,2016.0
+97,Economics,"International tourism, receipts",C4_Restrictions on gatherings,India,IND,29962000000.0,US Dollar,2019.0
+101,Economics,Unemployment rate (%) - Annual,C4_Restrictions on gatherings,India,IND,5.5,percent,2018.0
+102,Economics,"Trade, total as % of GDP",C4_Restrictions on gatherings,India,IND,27.21035,percent,2019.0
+108,Economics,"Foreign direct investment, net",C4_Restrictions on gatherings,India,IND,50605327350.0,US Dollar,2019.0
+111,Demographics,Rural population (% of total population),C4_Restrictions on gatherings,India,IND,65.52799999999999,proportion,2019.0
+112,Economics,Expenditure on social protection (% of GDP),C4_Restrictions on gatherings,India,IND,1.90842,percent,2018.0
+113,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C4_Restrictions on gatherings,India,IND,22389.1,international $ in PPP,2020.0
+115,Demographics,Refugee population by country or territory of asylum,C4_Restrictions on gatherings,India,IND,195103.0,proportion,2019.0
+116,Demographics,People with basic handwashing facilities including soap and water (% of population),C4_Restrictions on gatherings,India,IND,59.5496875182515,proportion,2017.0

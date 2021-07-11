@@ -1,0 +1,34 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Taiwan,TWN,65.0,score,2020.0
+7,Social issues ,Press freedom score,C6_Stay at home requirements,Taiwan,TWN,23.76,score,2020.0
+10,Health,Summary exposure value tobacco,C6_Stay at home requirements,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
+12,Health,Prevalence of down syndrome,C6_Stay at home requirements,Taiwan,TWN,8.69e-05,percent,2019.0
+16,Social issues ,Life Ladder ,C6_Stay at home requirements,Taiwan,TWN,6.584400177001953,score,2021.0
+17,Health,Prevalence of total cancers,C6_Stay at home requirements,Taiwan,TWN,0.025099,percent,2019.0
+20,Governance,Control of corruption estimate,C6_Stay at home requirements,Taiwan,TWN,1.045266,score,2019.0
+22,Health,Prevalence of Diabetes,C6_Stay at home requirements,Taiwan,TWN,0.084017,percent,2019.0
+23,Governance,Government effectiveness estimate,C6_Stay at home requirements,Taiwan,TWN,1.436754,score,2019.0
+25,Governance,Human Freedom Score ,C6_Stay at home requirements,Taiwan,TWN,8.42,score,2018.0
+28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Taiwan,TWN,56.0,score,2021.0
+31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Taiwan,TWN,0.04188,percent,2019.0
+42,Governance,Voice and accountability estimate,C6_Stay at home requirements,Taiwan,TWN,0.9959083,score,2019.0
+45,Governance,Regulatory quality estimate,C6_Stay at home requirements,Taiwan,TWN,1.40276,score,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Taiwan,TWN,0.7195977,score,2019.0
+48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Taiwan,TWN,0.162673,percent,2019.0
+49,Governance,Rule of law estimate ,C6_Stay at home requirements,Taiwan,TWN,1.141121,score,2019.0
+50,Economics,Expenditure on social protection (% of GDP),C6_Stay at home requirements,Taiwan,TWN,3.2,percent,2018.0
+52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Taiwan,TWN,0.004969,percent,2019.0
+56,Governance,Total freedom in the world score ,C6_Stay at home requirements,Taiwan,TWN,94.0,score,2021.0
+63,Governance,Economic Freedom Score,C6_Stay at home requirements,Taiwan,TWN,7.94,score,2018.0
+64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Taiwan,TWN,0.035913,percent,2019.0
+66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Taiwan,TWN,38.0,score,2021.0
+77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Taiwan,TWN,0.400737,percent,2019.0
+79,Economics,"International tourism, receipts",C6_Stay at home requirements,Taiwan,TWN,14373000000.0,US Dollar,2019.0
+81,Economics,"Trade, total as % of GDP",C6_Stay at home requirements,Taiwan,TWN,100.6416,percent,2019.0
+85,Governance,Personal Freedom Score ,C6_Stay at home requirements,Taiwan,TWN,8.9,score,2018.0
+86,Economics,"Foreign direct investment, net",C6_Stay at home requirements,Taiwan,TWN,8245000000.0,US Dollar,2019.0
+89,Economics,Expenditure on health (% of GDP),C6_Stay at home requirements,Taiwan,TWN,0.1,percent,2018.0
+98,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C6_Stay at home requirements,Taiwan,TWN,93781.7,international $ in PPP,2020.0
+103,Economics,"Lending interest rates, percent per annum",C6_Stay at home requirements,Taiwan,TWN,2.631,percent per annum,2019.0
+109,Economics,Stock market capitalization (US$ million),C6_Stay at home requirements,Taiwan,TWN,1177469.684,percent,2019.0
+114,Economics,Expenditure on education (% of GDP),C6_Stay at home requirements,Taiwan,TWN,1.5,percent,2018.0

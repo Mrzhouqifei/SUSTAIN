@@ -1,0 +1,26 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+4,Health,Prevalence of COVID-19,H5_Investment in vaccines,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2021
+6,Health,Mortality due to COVID-19,H5_Investment in vaccines,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2021
+7,Health,Summary exposure value tobacco,H5_Investment in vaccines,Cook Islands,COK,0.0,Rate (risk-weighted prevalence),2021
+16,Economics,"Trade, total as % of GDP",H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+22,Governance,Government effectiveness estimate,H5_Investment in vaccines,Cook Islands,COK,0.0,score,2021
+28,Economics,Unemployment rate (%) - Annual,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+33,Health,Prevalence of anxiety disorders,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+35,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+37,Governance,Rule of law estimate ,H5_Investment in vaccines,Cook Islands,COK,0.0,score,2021
+43,Governance,Voice and accountability estimate,H5_Investment in vaccines,Cook Islands,COK,0.0,score,2021
+44,Health,Prevalence of Respiratory infections and tuberculosis,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+45,Health,Prevalence of Depressive disorders,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+47,Health,Prevalence of chronic kidney disease,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+49,Governance,Political stability and absence of violence/terrorism estimate,H5_Investment in vaccines,Cook Islands,COK,0.0,score,2021
+54,Economics,Expenditure on social protection (% of GDP),H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+64,Health,Prevalence of down syndrome,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+66,Health,Prevalence of Diabetes,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+67,Governance,Regulatory quality estimate,H5_Investment in vaccines,Cook Islands,COK,0.0,score,2021
+71,Economics,Expenditure on education (% of GDP),H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+72,Health,Prevalence of Hypertensive heart disease,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+88,Economics,Expenditure on health (% of GDP),H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+90,Governance,Control of corruption estimate,H5_Investment in vaccines,Cook Islands,COK,0.0,score,2021
+93,Economics,"International tourism, receipts",H5_Investment in vaccines,Cook Islands,COK,0.0,US Dollar,2021
+98,Health,Prevalence of total cancers,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021
+100,Health,Prevalence of obesity,H5_Investment in vaccines,Cook Islands,COK,0.0,percent,2021

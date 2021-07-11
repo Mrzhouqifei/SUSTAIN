@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+UKR,H7_Vaccination policy,0.1026871575854896,1
+UKR,H2_Testing policy,0.08947496327894303,2
+UKR,C7_Restrictions on internal movement,0.07977384886689462,3
+UKR,C4_Restrictions on gatherings,0.07065238024347369,4
+UKR,C2_Workplace closing,0.07055142761269989,5
+UKR,H6_Facial Coverings,0.06329166689373279,6
+UKR,C8_International travel controls,0.06202072093325951,7
+UKR,C5_Close public transport,0.06123948086033721,8
+UKR,H3_Contact tracing,0.05398689617967687,9
+UKR,C3_Cancel public events,0.051390506363494466,10
+UKR,C1_School closing,0.04666817569471935,11
+UKR,E2_Debt/contract relief,0.03486975212415688,12
+UKR,C6_Stay at home requirements,0.019383682601380188,13
+UKR,H1_Public information campaigns,0.01719086522172001,14
+UKR,E1_Income support,0.0,15

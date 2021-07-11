@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+KAZ,H7_Vaccination policy,0.14978522972767053,1
+KAZ,H6_Facial Coverings,0.11554679090099006,2
+KAZ,C8_International travel controls,0.08961776280928384,3
+KAZ,H3_Contact tracing,0.07933054492499379,4
+KAZ,E2_Debt/contract relief,0.06759573873659143,5
+KAZ,H2_Testing policy,0.04851509175283029,6
+KAZ,C7_Restrictions on internal movement,0.046088891230723336,7
+KAZ,C1_School closing,0.04540652416635016,8
+KAZ,C6_Stay at home requirements,0.0443946956519302,9
+KAZ,E1_Income support,0.0412378471621641,10
+KAZ,C5_Close public transport,0.03344206742169392,11
+KAZ,C2_Workplace closing,0.033419521424482436,12
+KAZ,C4_Restrictions on gatherings,0.01642583461067242,13
+KAZ,H1_Public information campaigns,0.013006275594786823,14
+KAZ,C3_Cancel public events,0.0,15

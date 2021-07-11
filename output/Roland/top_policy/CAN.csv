@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+CAN,C5_Close public transport,0.11332364034128505,1
+CAN,H7_Vaccination policy,0.10256392178308454,2
+CAN,H6_Facial Coverings,0.08249478218067989,3
+CAN,C2_Workplace closing,0.06794126874423613,4
+CAN,H3_Contact tracing,0.06740515458379777,5
+CAN,C1_School closing,0.04967312064150346,6
+CAN,C6_Stay at home requirements,0.04175107344457939,7
+CAN,C4_Restrictions on gatherings,0.04145310666530988,8
+CAN,E2_Debt/contract relief,0.041224686613029166,9
+CAN,C7_Restrictions on internal movement,0.040152255717921234,10
+CAN,H2_Testing policy,0.03748689998510965,11
+CAN,E1_Income support,0.01976201652508315,12
+CAN,H1_Public information campaigns,0.015600222248365346,13
+CAN,C8_International travel controls,0.005255366005833671,14
+CAN,C3_Cancel public events,0.0,15

@@ -1,0 +1,65 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C8_International travel controls,Saint Lucia,LCA,50.8152,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C8_International travel controls,Saint Lucia,LCA,56.0,score,2020.0
+3,Health,Prevalence of COVID-19,C8_International travel controls,Saint Lucia,LCA,280.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C8_International travel controls,Saint Lucia,LCA,300.8917336834619,per 1 million people,2019.0
+6,Health,Prevalence of down syndrome,C8_International travel controls,Saint Lucia,LCA,0.000268,percent,2019.0
+7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Saint Lucia,LCA,0.003143,percent,2019.0
+8,Health,Mortality due to COVID-19,C8_International travel controls,Saint Lucia,LCA,5.0,"Number (cumulative total by Dec 26,2020)",2020.0
+10,Health,Prevalence of anxiety disorders,C8_International travel controls,Saint Lucia,LCA,0.048983,percent,2019.0
+12,Health,Summary exposure value tobacco,C8_International travel controls,Saint Lucia,LCA,12.35611,Rate (risk-weighted prevalence),2019.0
+13,Health,Prevalence of total cancers,C8_International travel controls,Saint Lucia,LCA,0.014521,percent,2019.0
+14,Governance,Control of corruption estimate,C8_International travel controls,Saint Lucia,LCA,0.524743,score,2019.0
+15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Saint Lucia,LCA,17.7388,per 100 people,2019.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Saint Lucia,LCA,3.8,Cases,2019.0
+18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Saint Lucia,LCA,16.66666667,proportion,2020.0
+21,Social issues ,Net migration,C8_International travel controls,Saint Lucia,LCA,0.0,net total / data are 5 year estimates,2019.0
+22,Governance,Government effectiveness estimate,C8_International travel controls,Saint Lucia,LCA,0.2258496,score,2019.0
+23,Economics,"Central government debt, total",C8_International travel controls,Saint Lucia,LCA,57.57764346867719,percent of GDP,2014.0
+24,Health,Prevalence of obesity,C8_International travel controls,Saint Lucia,LCA,19.7,percent,2016.0
+25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Saint Lucia,LCA,96.0,percent,2019.0
+27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Saint Lucia,LCA,54.0,score,2021.0
+28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Saint Lucia,LCA,2.8,percent,2020.0
+29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Saint Lucia,LCA,64.7009964,Percentage of total employment,2020.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Saint Lucia,LCA,2.1,percent,2018.0
+32,Environment,Renewable energy consumption ,C8_International travel controls,Saint Lucia,LCA,2.13262353619368,percent of total final energy consumption,2015.0
+33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Saint Lucia,LCA,0.6409,Ones,2017.0
+35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Saint Lucia,LCA,37.0,score,2021.0
+38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Saint Lucia,LCA,101.68,per 100 people,2019.0
+39,Social issues ,Progression to secondary school (%),C8_International travel controls,Saint Lucia,LCA,98.22616,proportion,2017.0
+40,Demographics,Urban population (% of total population),C8_International travel controls,Saint Lucia,LCA,18.754,total,2019.0
+41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Saint Lucia,LCA,92.0,percent,2019.0
+42,Health,Prevalence of Diabetes,C8_International travel controls,Saint Lucia,LCA,0.145434,percent,2019.0
+43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Saint Lucia,LCA,59.7089996,Percentage of females of the total population,2020.0
+44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Saint Lucia,LCA,100.0,percent of total,2017.0
+46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Saint Lucia,LCA,6.9,percent,2020.0
+50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Saint Lucia,LCA,2.301754,metric tons per capita,2016.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Saint Lucia,LCA,21.441530595,"proportion, pero 100,000 people",2018.0
+52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Saint Lucia,LCA,0.113606,percent,2019.0
+53,Social issues ,"Primary completion rate, total (% of relevant age group)",C8_International travel controls,Saint Lucia,LCA,99.7793502807617,proportion,2019.0
+54,Demographics,"Age dependency ratio, old (% of working-age population)",C8_International travel controls,Saint Lucia,LCA,13.9853155330553,proportion,2019.0
+55,Governance,Voice and accountability estimate,C8_International travel controls,Saint Lucia,LCA,0.9281547,score,2019.0
+56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Saint Lucia,LCA,20.1499996,percent of total labor force,2020.0
+57,Governance,Regulatory quality estimate,C8_International travel controls,Saint Lucia,LCA,0.2349653,score,2019.0
+58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Saint Lucia,LCA,36469.0,number,2019.0
+59,Governance,Rule of law estimate ,C8_International travel controls,Saint Lucia,LCA,0.5691295,score,2019.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Saint Lucia,LCA,0.9261938,score,2019.0
+61,Demographics,People using at least basic sanitation services (% of population),C8_International travel controls,Saint Lucia,LCA,88.352908609115,proportion,2017.0
+64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Saint Lucia,LCA,51.2,index ,2016.0
+65,Demographics,Age dependency ratio (% of working-age population),C8_International travel controls,Saint Lucia,LCA,39.36519796582773,proportion,2019.0
+68,Health,Prevalence of Depressive disorders,C8_International travel controls,Saint Lucia,LCA,0.039502,percent,2019.0
+69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Saint Lucia,LCA,22.40082,micrograms per cubic meter,2017.0
+70,Economics,Volume of imports,C8_International travel controls,Saint Lucia,LCA,-1.227,percent change,2020.0
+71,Governance,Human Development Index,C8_International travel controls,Saint Lucia,LCA,0.759,index,2019.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Saint Lucia,LCA,67.1539993,Percentage of total population,2020.0
+76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Saint Lucia,LCA,3.1547,Ones,2017.0
+77,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C8_International travel controls,Saint Lucia,LCA,4.5,rating,2019.0
+78,Governance,Total freedom in the world score ,C8_International travel controls,Saint Lucia,LCA,91.0,score,2021.0
+80,Environment,Access to electricity ,C8_International travel controls,Saint Lucia,LCA,99.5374984741211,percent of population,2018.0
+82,Economics,Volume of exports,C8_International travel controls,Saint Lucia,LCA,3.286,percent change,2020.0
+84,Demographics,People with basic handwashing facilities including soap and water (% of population),C8_International travel controls,Saint Lucia,LCA,87.2019621286766,proportion,2016.0
+86,Environment,CO2 emissions (kt),C8_International travel controls,Saint Lucia,LCA,414.371,kt,2016.0
+87,Social issues ,Proportion of people living below 50 percent of median income (%),C8_International travel controls,Saint Lucia,LCA,23.4,proportion,2016.0
+89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Saint Lucia,LCA,0.268025,percent,2019.0
+90,Demographics,"Population, total",C8_International travel controls,Saint Lucia,LCA,182790.0,total,2019.0
+114,Demographics,Rural population (% of total population),C8_International travel controls,Saint Lucia,LCA,81.246,proportion,2019.0

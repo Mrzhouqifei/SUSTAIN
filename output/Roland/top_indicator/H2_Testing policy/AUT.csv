@@ -1,0 +1,70 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H2_Testing policy,Austria,AUT,87.7522,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H2_Testing policy,Austria,AUT,0.119811,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H2_Testing policy,Austria,AUT,3753080.0,number,2019.0
+4,Health,Prevalence of COVID-19,H2_Testing policy,Austria,AUT,332371.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Austria,AUT,0.004168,percent,2019.0
+6,Environment,Electricity production from oil sources,H2_Testing policy,Austria,AUT,1.39403850201577,percent of total,2015.0
+7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Austria,AUT,7.5,percent,2018.0
+8,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Austria,AUT,7.0899,Ones,2017.0
+9,Demographics,Fixed broadband subscriptions,H2_Testing policy,Austria,AUT,28.0622,per 100 people,2019.0
+10,Environment,Electricity production from coal sources ,H2_Testing policy,Austria,AUT,8.226608163463563,percent of total,2015.0
+12,Economics,Volume of imports,H2_Testing policy,Austria,AUT,2.44,percent change,2020.0
+13,Governance,Government effectiveness estimate,H2_Testing policy,Austria,AUT,1.490911,score,2019.0
+14,Environment,Combustible renewables and waste,H2_Testing policy,Austria,AUT,14.1425,percent of total energy,2015.0
+15,Health,Prevalence of total cancers,H2_Testing policy,Austria,AUT,0.032789,percent,2019.0
+16,Governance,Control of corruption estimate,H2_Testing policy,Austria,AUT,1.545429,score,2019.0
+17,Demographics,Mobile cellular subscriptions,H2_Testing policy,Austria,AUT,119.775,per 100 people,2019.0
+18,Economics,Employment in services (% of total employment) (modeled ILO estimate),H2_Testing policy,Austria,AUT,71.4749985,Percentage of total employment,2020.0
+19,Environment,Electricity production from nuclear sources ,H2_Testing policy,Austria,AUT,0.0,percent of total,2015.0
+20,Social issues ,Net migration,H2_Testing policy,Austria,AUT,324998.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of down syndrome,H2_Testing policy,Austria,AUT,0.00057,percent,2019.0
+22,Social issues ,Gini index (World Bank estimate),H2_Testing policy,Austria,AUT,29.7,index ,2017.0
+23,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Austria,AUT,7.033336,metric tons per capita,2016.0
+24,Health,Mortality due to COVID-19,H2_Testing policy,Austria,AUT,5017.0,"Number (cumulative total by Dec 26,2020)",2020.0
+25,Environment,Energy use ,H2_Testing policy,Austria,AUT,71.54711753478527,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+26,Health,Prevalence of chronic kidney disease,H2_Testing policy,Austria,AUT,0.115732,percent,2019.0
+27,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Austria,AUT,0.96722860774,"proportion, pero 100,000 people",2018.0
+28,Health,"Physicians (per 1,000 people)",H2_Testing policy,Austria,AUT,5.1697,Ones,2017.0
+29,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H2_Testing policy,Austria,AUT,55.0439987,Percentage of females of the total population,2020.0
+31,Demographics,Secure Internet servers ,H2_Testing policy,Austria,AUT,26306.77452361236,per 1 million people,2019.0
+33,Health,Prevalence of anxiety disorders,H2_Testing policy,Austria,AUT,0.066077,percent,2019.0
+34,Health,Prevalence of obesity,H2_Testing policy,Austria,AUT,20.1,percent,2016.0
+35,Environment,"Adjusted net savings, including particulate emission damage",H2_Testing policy,Austria,AUT,14.2752603712723,percent of GNI,2018.0
+36,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Austria,AUT,94.0,percent,2019.0
+38,Governance,Serious assault (rate),H2_Testing policy,Austria,AUT,41.74,rate,2018.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Austria,AUT,85.0,percent,2019.0
+41,Economics,Volume of exports,H2_Testing policy,Austria,AUT,2.588,percent change,2020.0
+42,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H2_Testing policy,Austria,AUT,4.77899981,percent of total labor force,2020.0
+44,Environment,Fossil fuel energy consumption,H2_Testing policy,Austria,AUT,65.66182,percent of total,2015.0
+45,Environment,Renewable energy consumption ,H2_Testing policy,Austria,AUT,34.3949917477854,percent of total final energy consumption,2015.0
+46,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Austria,AUT,37.0,score,2021.0
+47,Environment,"Electricity production from renewable sources, excluding hydroelectric",H2_Testing policy,Austria,AUT,10187000000.0,kWh,2015.0
+48,Governance,Rule of law estimate ,H2_Testing policy,Austria,AUT,1.883051,score,2019.0
+50,Health,Prevalence of Depressive disorders,H2_Testing policy,Austria,AUT,0.03949,percent,2019.0
+51,Governance,Total freedom in the world score ,H2_Testing policy,Austria,AUT,93.0,score,2021.0
+53,Social issues ,Proportion of women in managerial positions (%),H2_Testing policy,Austria,AUT,31.59,percent,2018.0
+54,Governance,Fragile States Index Total ,H2_Testing policy,Austria,AUT,24.108703082430992,score,2020.0
+55,Environment,CO2 emissions (kt),H2_Testing policy,Austria,AUT,61447.92,kt,2016.0
+56,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Austria,AUT,12.47797,micrograms per cubic meter,2017.0
+57,Social issues ,Life Ladder ,H2_Testing policy,Austria,AUT,7.2677998542785645,score,2021.0
+59,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Austria,AUT,6.2,Cases,2019.0
+60,Governance,Human Development Index,H2_Testing policy,Austria,AUT,0.922,index,2019.0
+63,Governance,Economic Freedom Score,H2_Testing policy,Austria,AUT,7.8,score,2018.0
+64,Governance,Corruption Perceptions Index,H2_Testing policy,Austria,AUT,76.0,score,2020.0
+65,Governance,Regulatory quality estimate,H2_Testing policy,Austria,AUT,1.459116,score,2019.0
+68,Governance,Human Freedom Score ,H2_Testing policy,Austria,AUT,8.45,score,2018.0
+69,Environment,Electric power consumption ,H2_Testing policy,Austria,AUT,8355.841951821338,kWh per capita,2014.0
+72,Environment,Access to electricity ,H2_Testing policy,Austria,AUT,100.0,percent of population,2018.0
+73,Health,Prevalence of Diabetes,H2_Testing policy,Austria,AUT,0.079468,percent,2019.0
+77,Governance,Voice and accountability estimate,H2_Testing policy,Austria,AUT,1.326599,score,2019.0
+79,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Austria,AUT,56.0,score,2021.0
+80,Health,Summary exposure value tobacco,H2_Testing policy,Austria,AUT,30.50803,Rate (risk-weighted prevalence),2019.0
+81,Environment,"Energy imports, net ",H2_Testing policy,Austria,AUT,63.54485349359552,percent of energy use,2015.0
+83,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H2_Testing policy,Austria,AUT,60.6100006,Percentage of total population,2020.0
+86,Environment,"Electricity production from oil, gas and coal sources",H2_Testing policy,Austria,AUT,22.22204232307368,percent of total,2015.0
+88,Environment,Energy use (kg of oil equivalent per capita),H2_Testing policy,Austria,AUT,3800.299420354683,kg of oil equivalent per capita,2015.0
+91,Social issues ,Press freedom score,H2_Testing policy,Austria,AUT,15.78,score,2020.0
+92,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Austria,AUT,0.9801227,score,2019.0
+95,Governance,Personal Freedom Score ,H2_Testing policy,Austria,AUT,9.09,score,2018.0
+108,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Austria,AUT,85.0515376653505,percent of total,2017.0

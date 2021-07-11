@@ -1,0 +1,27 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H6_Facial Coverings,Cayman Islands,CYM,81.0677,percent of population,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Cayman Islands,CYM,34768.0,number,2019.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Cayman Islands,CYM,311.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H6_Facial Coverings,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Cayman Islands,CYM,152.498,per 100 people,2019.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Cayman Islands,CYM,49.2758,per 100 people,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,Cayman Islands,CYM,0.4661654,score,2019.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Cayman Islands,CYM,6.0,Cases,2019.0
+41,Demographics,Urban population (% of total population),H6_Facial Coverings,Cayman Islands,CYM,100.0,total,2019.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,Cayman Islands,CYM,546.383,kt,2016.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
+51,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Cayman Islands,CYM,34.0,proportion,2019.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Cayman Islands,CYM,1.4457,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,Cayman Islands,CYM,0.4956726,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,Cayman Islands,CYM,16952.02315698713,per 1 million people,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,Cayman Islands,CYM,0.9827613,score,2019.0
+62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,Cayman Islands,CYM,1.169394,score,2019.0
+78,Environment,Access to electricity ,H6_Facial Coverings,Cayman Islands,CYM,100.0,percent of population,2018.0
+84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Cayman Islands,CYM,83.654025,proportion,2016.0
+85,Demographics,"Population, total",H6_Facial Coverings,Cayman Islands,CYM,64948.0,total,2019.0
+88,Demographics,Rural population (% of total population),H6_Facial Coverings,Cayman Islands,CYM,0.0,proportion,2019.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,Cayman Islands,CYM,0.7690086,score,2019.0
+108,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Cayman Islands,CYM,89.5522384643555,proportion,2018.0

@@ -1,0 +1,71 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C5_Close public transport,Tunisia,TUN,66.7,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C5_Close public transport,Tunisia,TUN,44.0,score,2020.0
+3,Health,Prevalence of COVID-19,C5_Close public transport,Tunisia,TUN,117582.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Tunisia,TUN,270.9770110765381,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,C5_Close public transport,Tunisia,TUN,4090.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Social issues ,Net migration,C5_Close public transport,Tunisia,TUN,-20000.0,net total / data are 5 year estimates,2019.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Tunisia,TUN,32.0,score,2021.0
+9,Social issues ,Life Ladder ,C5_Close public transport,Tunisia,TUN,4.596499919891357,score,2021.0
+10,Health,Prevalence of anxiety disorders,C5_Close public transport,Tunisia,TUN,0.055825,percent,2019.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Tunisia,TUN,10.2043,per 100 people,2019.0
+12,Social issues ,Gini index (World Bank estimate),C5_Close public transport,Tunisia,TUN,32.8,index ,2015.0
+13,Health,Summary exposure value tobacco,C5_Close public transport,Tunisia,TUN,30.69839,Rate (risk-weighted prevalence),2019.0
+14,Health,Prevalence of Diabetes,C5_Close public transport,Tunisia,TUN,0.100427,percent,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Tunisia,TUN,39.0,score,2021.0
+16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Tunisia,TUN,1.3025,Ones,2017.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Tunisia,TUN,29937.39,kt,2016.0
+18,Environment,Electricity production from coal sources ,C5_Close public transport,Tunisia,TUN,0.0,percent of total,2015.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Tunisia,TUN,0.180548,percent,2019.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Tunisia,TUN,12.5623503533853,percent of total final energy consumption,2015.0
+21,Environment,"Energy imports, net ",C5_Close public transport,Tunisia,TUN,36.19587141611359,percent of energy use,2014.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Tunisia,TUN,35.0,Cases,2019.0
+23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Tunisia,TUN,-8.29846242582154,percent of GNI,2018.0
+24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Tunisia,TUN,24.88479263,proportion,2020.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Tunisia,TUN,37.65599,micrograms per cubic meter,2017.0
+27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Tunisia,TUN,2.5136,Ones,2017.0
+28,Environment,Electric power consumption ,C5_Close public transport,Tunisia,TUN,1454.642286622109,kWh per capita,2014.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Tunisia,TUN,126.305,per 100 people,2019.0
+30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Tunisia,TUN,0.117739,percent,2019.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Tunisia,TUN,54.7830009,Percentage of total employment,2020.0
+32,Environment,Electricity production from oil sources,C5_Close public transport,Tunisia,TUN,4.635088432608254,percent of total,2015.0
+34,Economics,Volume of imports,C5_Close public transport,Tunisia,TUN,0.173,percent change,2020.0
+35,Health,Prevalence of total cancers,C5_Close public transport,Tunisia,TUN,0.008585,percent,2019.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Tunisia,TUN,0.0622187,score,2019.0
+37,Health,Prevalence of down syndrome,C5_Close public transport,Tunisia,TUN,0.00028,percent,2019.0
+38,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Tunisia,TUN,0.1,percent,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Tunisia,TUN,-0.8325363,score,2019.0
+41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Tunisia,TUN,0.004193,percent,2019.0
+42,Health,Prevalence of Depressive disorders,C5_Close public transport,Tunisia,TUN,0.057494,percent,2019.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Tunisia,TUN,16.1539993,percent of total labor force,2020.0
+45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Tunisia,TUN,100.0,percent of total,2017.0
+46,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Tunisia,TUN,950.4907304856885,kg of oil equivalent per capita,2014.0
+48,Governance,Personal Freedom Score ,C5_Close public transport,Tunisia,TUN,6.0,score,2018.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Tunisia,TUN,-0.4372052,score,2019.0
+51,Health,Prevalence of obesity,C5_Close public transport,Tunisia,TUN,26.9,percent,2016.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Tunisia,TUN,-0.1022739,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Tunisia,TUN,0.2814057,score,2019.0
+54,Governance,Human Freedom Score ,C5_Close public transport,Tunisia,TUN,6.04,score,2018.0
+55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Tunisia,TUN,92.0,percent,2019.0
+56,Social issues ,Press freedom score,C5_Close public transport,Tunisia,TUN,29.45,score,2020.0
+57,Governance,Economic Freedom Score,C5_Close public transport,Tunisia,TUN,6.07,score,2018.0
+58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Tunisia,TUN,45.8989983,Percentage of total population,2020.0
+59,Environment,Energy use ,C5_Close public transport,Tunisia,TUN,90.47757948806559,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+60,Governance,Human Development Index,C5_Close public transport,Tunisia,TUN,0.74,index,2019.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Tunisia,TUN,71.0,score,2021.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Tunisia,TUN,-0.0770505,score,2019.0
+65,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Tunisia,TUN,96.07643830046757,percent of total,2015.0
+68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Tunisia,TUN,23.5860004,Percentage of females of the total population,2020.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Tunisia,TUN,1454180.0,number,2019.0
+72,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Tunisia,TUN,489000000.0,kWh,2015.0
+73,Environment,Fossil fuel energy consumption,C5_Close public transport,Tunisia,TUN,88.87039,percent of total,2014.0
+75,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Tunisia,TUN,8.6,percent,2020.0
+76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Tunisia,TUN,95.0,percent,2019.0
+79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Tunisia,TUN,4.2,percent,2018.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Tunisia,TUN,2.648402,metric tons per capita,2016.0
+82,Governance,Fragile States Index Total ,C5_Close public transport,Tunisia,TUN,68.12591302617336,score,2020.0
+85,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Tunisia,TUN,16.5,percent,2020.0
+88,Economics,Volume of exports,C5_Close public transport,Tunisia,TUN,3.686,percent change,2020.0
+98,Environment,Electricity production from nuclear sources ,C5_Close public transport,Tunisia,TUN,0.0,percent of total,2014.0
+112,Environment,Combustible renewables and waste,C5_Close public transport,Tunisia,TUN,8.338809,percent of total energy,2014.0
+117,Environment,Access to electricity ,C5_Close public transport,Tunisia,TUN,99.8,percent of population,2018.0

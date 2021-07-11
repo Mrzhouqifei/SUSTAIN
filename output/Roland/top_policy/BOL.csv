@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+BOL,H6_Facial Coverings,0.12023779577541215,1
+BOL,H3_Contact tracing,0.0966303457214336,2
+BOL,C8_International travel controls,0.08868968481826485,3
+BOL,E2_Debt/contract relief,0.07313192588807693,4
+BOL,C3_Cancel public events,0.06643143841583929,5
+BOL,C2_Workplace closing,0.05680343421085447,6
+BOL,C5_Close public transport,0.05639208839266286,7
+BOL,C6_Stay at home requirements,0.03898903207331204,8
+BOL,C1_School closing,0.038288472019324345,9
+BOL,H2_Testing policy,0.03659685407882536,10
+BOL,C7_Restrictions on internal movement,0.033824809209194194,11
+BOL,H1_Public information campaigns,0.030610057912214918,12
+BOL,C4_Restrictions on gatherings,0.02790902489084706,13
+BOL,E1_Income support,0.020547800507529385,14
+BOL,H7_Vaccination policy,0.0,15

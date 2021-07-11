@@ -1,0 +1,34 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Governance,Corruption Perceptions Index,H3_Contact tracing,Taiwan,TWN,65.0,score,2020.0
+4,Economics,"Foreign direct investment, net",H3_Contact tracing,Taiwan,TWN,8245000000.0,US Dollar,2019.0
+8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Taiwan,TWN,0.400737,percent,2019.0
+11,Governance,Government effectiveness estimate,H3_Contact tracing,Taiwan,TWN,1.436754,score,2019.0
+13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Taiwan,TWN,56.0,score,2021.0
+14,Health,Summary exposure value tobacco,H3_Contact tracing,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
+18,Social issues ,Life Ladder ,H3_Contact tracing,Taiwan,TWN,6.584400177001953,score,2021.0
+22,Social issues ,Press freedom score,H3_Contact tracing,Taiwan,TWN,23.76,score,2020.0
+24,Governance,Economic Freedom Score,H3_Contact tracing,Taiwan,TWN,7.94,score,2018.0
+29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Taiwan,TWN,0.7195977,score,2019.0
+31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Taiwan,TWN,0.04188,percent,2019.0
+33,Health,Prevalence of Diabetes,H3_Contact tracing,Taiwan,TWN,0.084017,percent,2019.0
+39,Governance,Control of corruption estimate,H3_Contact tracing,Taiwan,TWN,1.045266,score,2019.0
+46,Governance,Voice and accountability estimate,H3_Contact tracing,Taiwan,TWN,0.9959083,score,2019.0
+48,Health,Prevalence of total cancers,H3_Contact tracing,Taiwan,TWN,0.025099,percent,2019.0
+57,Governance,Human Freedom Score ,H3_Contact tracing,Taiwan,TWN,8.42,score,2018.0
+58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Taiwan,TWN,0.162673,percent,2019.0
+59,Governance,Rule of law estimate ,H3_Contact tracing,Taiwan,TWN,1.141121,score,2019.0
+60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Taiwan,TWN,38.0,score,2021.0
+66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Taiwan,TWN,0.035913,percent,2019.0
+68,Governance,Total freedom in the world score ,H3_Contact tracing,Taiwan,TWN,94.0,score,2021.0
+69,Governance,Personal Freedom Score ,H3_Contact tracing,Taiwan,TWN,8.9,score,2018.0
+77,Health,Prevalence of down syndrome,H3_Contact tracing,Taiwan,TWN,8.69e-05,percent,2019.0
+78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Taiwan,TWN,0.004969,percent,2019.0
+82,Governance,Regulatory quality estimate,H3_Contact tracing,Taiwan,TWN,1.40276,score,2019.0
+85,Economics,"Trade, total as % of GDP",H3_Contact tracing,Taiwan,TWN,100.6416,percent,2019.0
+87,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H3_Contact tracing,Taiwan,TWN,93781.7,international $ in PPP,2020.0
+94,Economics,Stock market capitalization (US$ million),H3_Contact tracing,Taiwan,TWN,1177469.684,percent,2019.0
+100,Economics,"Lending interest rates, percent per annum",H3_Contact tracing,Taiwan,TWN,2.631,percent per annum,2019.0
+110,Economics,Expenditure on social protection (% of GDP),H3_Contact tracing,Taiwan,TWN,3.2,percent,2018.0
+111,Economics,Expenditure on health (% of GDP),H3_Contact tracing,Taiwan,TWN,0.1,percent,2018.0
+113,Economics,Expenditure on education (% of GDP),H3_Contact tracing,Taiwan,TWN,1.5,percent,2018.0
+115,Economics,"International tourism, receipts",H3_Contact tracing,Taiwan,TWN,14373000000.0,US Dollar,2019.0

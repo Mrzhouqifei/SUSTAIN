@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+TCD,H2_Testing policy,0.0939391736205027,1
+TCD,H6_Facial Coverings,0.08155928735153882,2
+TCD,H3_Contact tracing,0.08113553225814543,3
+TCD,C6_Stay at home requirements,0.07656763166369132,4
+TCD,C1_School closing,0.07460767358315222,5
+TCD,C2_Workplace closing,0.06621772282070522,6
+TCD,C3_Cancel public events,0.06526850701393587,7
+TCD,C8_International travel controls,0.06033882642905512,8
+TCD,E2_Debt/contract relief,0.0603191345638199,9
+TCD,C7_Restrictions on internal movement,0.054034600422392234,10
+TCD,C5_Close public transport,0.05401559444527805,11
+TCD,C4_Restrictions on gatherings,0.027719880369519063,12
+TCD,E1_Income support,0.024897947774293324,13
+TCD,H1_Public information campaigns,0.02075354196178473,14
+TCD,H7_Vaccination policy,0.0,15

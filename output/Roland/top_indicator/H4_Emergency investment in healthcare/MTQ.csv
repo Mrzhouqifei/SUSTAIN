@@ -1,0 +1,9 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of COVID-19,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,"Number (cumulative total by Dec 26,2020)",2021
+6,Governance,Voice and accountability estimate,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,score,2021
+7,Health,Mortality due to COVID-19,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,"Number (cumulative total by Dec 26,2020)",2021
+24,Governance,Regulatory quality estimate,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,score,2021
+39,Governance,Control of corruption estimate,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,score,2021
+54,Governance,Political stability and absence of violence/terrorism estimate,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,score,2021
+68,Governance,Rule of law estimate ,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,score,2021
+74,Governance,Government effectiveness estimate,H4_Emergency investment in healthcare,Martinique,MTQ,0.0,score,2021

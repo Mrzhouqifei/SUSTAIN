@@ -1,0 +1,75 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Tanzania,TZA,25.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Tanzania,TZA,38.0,score,2020.0
+3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Tanzania,TZA,39.09976548243396,per 1 million people,2019.0
+4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Tanzania,TZA,1.78029,per 100 people,2019.0
+6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Tanzania,TZA,40.25,score,2020.0
+7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Tanzania,TZA,16.704783419016,percent of GNI,2017.0
+8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Tanzania,TZA,6.73,score,2018.0
+9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Tanzania,TZA,78.14413662466475,score,2020.0
+10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Tanzania,TZA,11972.76,kt,2016.0
+11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Tanzania,TZA,-0.503791,score,2019.0
+12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Tanzania,TZA,28.3169994,Percentage of total employment,2020.0
+13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Tanzania,TZA,18.7767,Rate (risk-weighted prevalence),2019.0
+14,Economics,Volume of imports,C4_Restrictions on gatherings,Tanzania,TZA,9.693,percent change,2020.0
+15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Tanzania,TZA,1.6,percent,2018.0
+16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Tanzania,TZA,4.59,rate,2015.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Tanzania,TZA,237.0,Cases,2019.0
+18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Tanzania,TZA,89.0,percent,2019.0
+19,Governance,Human Development Index,C4_Restrictions on gatherings,Tanzania,TZA,0.529,index,2019.0
+20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Tanzania,TZA,83.2720032,Percentage of total population,2020.0
+21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Tanzania,TZA,0.034264,percent,2019.0
+22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Tanzania,TZA,42000000.0,kWh,2015.0
+23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Tanzania,TZA,34.0,score,2021.0
+24,Social issues ,Net migration,C4_Restrictions on gatherings,Tanzania,TZA,-200381.0,net total / data are 5 year estimates,2019.0
+25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Tanzania,TZA,36.8956743,proportion,2020.0
+26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Tanzania,TZA,88.0,percent,2019.0
+27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Tanzania,TZA,0.180167,percent,2019.0
+28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Tanzania,TZA,0.5843,Ones,2017.0
+29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Tanzania,TZA,82.2082,per 100 people,2019.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Tanzania,TZA,-0.3620471,score,2019.0
+31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Tanzania,TZA,509.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Tanzania,TZA,22.0,score,2021.0
+34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Tanzania,TZA,6.4826575903,"proportion, pero 100,000 people",2016.0
+35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Tanzania,TZA,65.845909451946,percent of total,2015.0
+36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Tanzania,TZA,497.0767309779447,kg of oil equivalent per capita,2014.0
+37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Tanzania,TZA,6.28,score,2018.0
+38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Tanzania,TZA,-0.5779313,score,2019.0
+39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Tanzania,TZA,21.93804606830818,percent of total,2015.0
+40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Tanzania,TZA,10.72806025159597,percent of energy use,2014.0
+41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Tanzania,TZA,32.0,percent,2020.0
+42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Tanzania,TZA,0.014,Ones,2016.0
+43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Tanzania,TZA,0.0,percent of total,2015.0
+44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Tanzania,TZA,4.8,percent,2019.0
+45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Tanzania,TZA,23.26,percent,2014.0
+46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Tanzania,TZA,21.0,"Number (cumulative total by Dec 26,2020)",2020.0
+47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Tanzania,TZA,14.38062,percent of total,2014.0
+48,Environment,Access to electricity ,C4_Restrictions on gatherings,Tanzania,TZA,35.5589790344238,percent of population,2018.0
+49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Tanzania,TZA,0.225685,metric tons per capita,2016.0
+50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Tanzania,TZA,1.98099995,percent of total labor force,2020.0
+51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Tanzania,TZA,3.623199939727783,score,2021.0
+53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Tanzania,TZA,-0.6409062,score,2019.0
+54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Tanzania,TZA,0.000164,percent,2019.0
+55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Tanzania,TZA,74.01191,percent of total energy,2014.0
+56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Tanzania,TZA,0.03517,percent,2019.0
+57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Tanzania,TZA,76288.0,number,2019.0
+58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Tanzania,TZA,85.7130419384343,percent of total final energy consumption,2015.0
+59,Economics,Volume of exports,C4_Restrictions on gatherings,Tanzania,TZA,5.734,percent change,2020.0
+60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Tanzania,TZA,-0.3908709,score,2019.0
+64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Tanzania,TZA,8.4,percent,2016.0
+65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Tanzania,TZA,5.5,percent,2020.0
+68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Tanzania,TZA,5.82,score,2018.0
+69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Tanzania,TZA,12.0,score,2021.0
+70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Tanzania,TZA,0.001186,percent,2019.0
+71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Tanzania,TZA,0.002681,percent,2019.0
+72,Environment,Energy use ,C4_Restrictions on gatherings,Tanzania,TZA,224.0635886997969,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Tanzania,TZA,103.6833157652163,kWh per capita,2014.0
+74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Tanzania,TZA,0.036268,percent,2019.0
+76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Tanzania,TZA,0.016779,percent,2019.0
+78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Tanzania,TZA,-0.8790504,score,2019.0
+79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Tanzania,TZA,79.3809967,Percentage of females of the total population,2020.0
+80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Tanzania,TZA,29.07664,micrograms per cubic meter,2017.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Tanzania,TZA,3.0,rating,2019.0
+88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Tanzania,TZA,100.0,percent of total,2017.0
+89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Tanzania,TZA,0.0,percent of total,2014.0
+106,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Tanzania,TZA,40.5,index ,2017.0

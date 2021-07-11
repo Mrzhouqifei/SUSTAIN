@@ -1,0 +1,85 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Georgia,GEO,68.8467,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Georgia,GEO,56.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Georgia,GEO,206907.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Georgia,GEO,72.20954,percent of total,2014.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Georgia,GEO,2776.327807198293,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Georgia,GEO,4.89139986038208,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Georgia,GEO,74.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Georgia,GEO,32.96994,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Georgia,GEO,23.556,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Georgia,GEO,99.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Georgia,GEO,100.0,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Georgia,GEO,2055.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Georgia,GEO,2.8,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Georgia,GEO,28.59,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Georgia,GEO,44.4819984,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Georgia,GEO,10128.25,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Georgia,GEO,0.6684984,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Georgia,GEO,0.255621,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Georgia,GEO,-50000.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Georgia,GEO,0.028094,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Georgia,GEO,8.18,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Georgia,GEO,0.102796,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Georgia,GEO,23.0,score,2021.0
+25,Economics,"Central government debt, total",E2_Debt/contract relief,Georgia,GEO,42.14393347471816,percent of GDP,2016.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Georgia,GEO,0.004022,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Georgia,GEO,6.462,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Georgia,GEO,57.3759995,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Georgia,GEO,9.55657734469675,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Georgia,GEO,7.1201,Ones,2018.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Georgia,GEO,7.56,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Georgia,GEO,0.812,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Georgia,GEO,28.662538805976,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Georgia,GEO,7.6,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Georgia,GEO,-0.4458558,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Georgia,GEO,0.4,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Georgia,GEO,0.1960474,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Georgia,GEO,2.2233624935,"proportion, pero 100,000 people",2018.0
+40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Georgia,GEO,10.59117,percent of total energy,2014.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Georgia,GEO,0.0,kWh,2015.0
+42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Georgia,GEO,35.68,percent,2018.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Georgia,GEO,22.19605,micrograms per cubic meter,2017.0
+44,Environment,"Energy imports, net ",E2_Debt/contract relief,Georgia,GEO,68.75204872613939,percent of energy use,2014.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Georgia,GEO,0.131696,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Georgia,GEO,37.0,score,2021.0
+47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Georgia,GEO,0.0,percent of total,2015.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Georgia,GEO,36.4,index ,2018.0
+49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Georgia,GEO,1180.272752643293,kg of oil equivalent per capita,2014.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Georgia,GEO,0.042637,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Georgia,GEO,134.721,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Georgia,GEO,0.8299233,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Georgia,GEO,0.3099792,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Georgia,GEO,2.717167,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Georgia,GEO,0.015102,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Georgia,GEO,0.000177,percent,2019.0
+57,Environment,Electric power consumption ,E2_Debt/contract relief,Georgia,GEO,2693.972760225132,kWh per capita,2014.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Georgia,GEO,60.0,score,2021.0
+60,Economics,Unemployment rate (%) - Annual,E2_Debt/contract relief,Georgia,GEO,18.6,percent,2016.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Georgia,GEO,14.7419996,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Georgia,GEO,14.09395973,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Georgia,GEO,94.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Georgia,GEO,517617.0,number,2019.0
+68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Georgia,GEO,0.0,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Georgia,GEO,21.96067571309887,percent of total,2015.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Georgia,GEO,4.305,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Georgia,GEO,5.7,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Georgia,GEO,1.122067,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Georgia,GEO,71.15229518395927,score,2020.0
+81,Economics,"International tourism, receipts",E2_Debt/contract relief,Georgia,GEO,3269000000.0,US Dollar,2019.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Georgia,GEO,68.3150024,Percentage of total population,2020.0
+85,Environment,Energy use ,E2_Debt/contract relief,Georgia,GEO,96.31227094406191,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Georgia,GEO,7.87,score,2018.0
+89,Governance,Serious assault (rate),E2_Debt/contract relief,Georgia,GEO,4.62,rate,2018.0
+92,Economics,"Trade, total as % of GDP",E2_Debt/contract relief,Georgia,GEO,72.48918,percent,2019.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Georgia,GEO,21.7,percent,2016.0
+100,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Georgia,GEO,1268912420.0,US Dollar,2019.0
+101,Economics,"Lending interest rates, percent per annum",E2_Debt/contract relief,Georgia,GEO,10.8164,percent per annum,2019.0
+103,Economics,Growth rates of household expenditure or income per capita (%),E2_Debt/contract relief,Georgia,GEO,1.0,percent,2018.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Georgia,GEO,4.7293,Ones,2018.0
+107,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E2_Debt/contract relief,Georgia,GEO,24037.7,international $ in PPP,2020.0
+111,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Georgia,GEO,6.66611,percent,2019.0
+112,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Georgia,GEO,2.65549,percent,2019.0
+113,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Georgia,GEO,3.80724,percent,2019.0
+115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Georgia,GEO,0.0,percent of total,2014.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Georgia,GEO,100.0,percent of population,2018.0

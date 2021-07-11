@@ -1,0 +1,63 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Rwanda,RWA,21.7676,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Rwanda,RWA,54.0,score,2020.0
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Rwanda,RWA,7105.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Rwanda,RWA,71.276119728042,per 1 million people,2019.0
+6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Rwanda,RWA,76.4915,per 100 people,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Rwanda,RWA,3.4147000312805176,score,2021.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Rwanda,RWA,57.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Rwanda,RWA,13.14421,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Rwanda,RWA,0.000161,percent,2019.0
+11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Rwanda,RWA,1114.768,kt,2016.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Rwanda,RWA,50.34,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Rwanda,RWA,0.041987,percent,2019.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Rwanda,RWA,0.018783,percent,2019.0
+17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Rwanda,RWA,98.0,percent,2019.0
+18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Rwanda,RWA,0.0703654,per 100 people,2019.0
+19,Social issues ,Net migration,C7_Restrictions on internal movement,Rwanda,RWA,-44998.0,net total / data are 5 year estimates,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Rwanda,RWA,0.246744,percent,2019.0
+21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Rwanda,RWA,2.6,percent,2019.0
+23,Economics,Volume of imports,C7_Restrictions on internal movement,Rwanda,RWA,7.152,percent change,2020.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Rwanda,RWA,43.21022,micrograms per cubic meter,2017.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Rwanda,RWA,0.035126,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Rwanda,RWA,0.001064,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Rwanda,RWA,0.1850227,score,2019.0
+30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Rwanda,RWA,83.9499969,Percentage of females of the total population,2020.0
+31,Economics,Volume of exports,C7_Restrictions on internal movement,Rwanda,RWA,8.842,percent change,2020.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Rwanda,RWA,7.39,score,2018.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Rwanda,RWA,0.0761882,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Rwanda,RWA,-1.079368,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Rwanda,RWA,6.54,score,2018.0
+38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Rwanda,RWA,11393.0,number,2019.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Rwanda,RWA,0.002791,percent,2019.0
+40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Rwanda,RWA,86.6553742907747,percent of total final energy consumption,2015.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Rwanda,RWA,0.038569,percent,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Rwanda,RWA,100.0,percent of total,2017.0
+44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Rwanda,RWA,5.8,percent,2016.0
+45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Rwanda,RWA,5.2,percent,2020.0
+46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Rwanda,RWA,83.6309967,Percentage of total population,2020.0
+50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Rwanda,RWA,1.2044,Ones,2018.0
+51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Rwanda,RWA,0.095534,metric tons per capita,2016.0
+53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Rwanda,RWA,29.2329998,Percentage of total employment,2020.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Rwanda,RWA,0.1156722,score,2019.0
+57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Rwanda,RWA,86.02952230051775,score,2020.0
+59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Rwanda,RWA,32.6,percent,2020.0
+60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Rwanda,RWA,57.0,Cases,2019.0
+61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Rwanda,RWA,0.134,Ones,2018.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Rwanda,RWA,21.0,score,2021.0
+63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Rwanda,RWA,43.7,index ,2016.0
+64,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Rwanda,RWA,3.5,rating,2019.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Rwanda,RWA,13.0,score,2021.0
+66,Governance,Human Development Index,C7_Restrictions on internal movement,Rwanda,RWA,0.543,index,2019.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Rwanda,RWA,0.564346,score,2019.0
+70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Rwanda,RWA,2.4,percent,2018.0
+72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Rwanda,RWA,1.04100001,percent of total labor force,2020.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Rwanda,RWA,2.5771686082,"proportion, pero 100,000 people",2015.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Rwanda,RWA,6.97,score,2018.0
+75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Rwanda,RWA,-2.82916073005318,percent of GNI,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Rwanda,RWA,8.0,score,2021.0
+77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Rwanda,RWA,31.94,percent,2018.0
+78,Environment,Access to electricity ,C7_Restrictions on internal movement,Rwanda,RWA,34.7165718078613,percent of population,2018.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Rwanda,RWA,61.25,proportion,2020.0
+86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Rwanda,RWA,96.0,percent,2019.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Rwanda,RWA,0.0773843,score,2019.0

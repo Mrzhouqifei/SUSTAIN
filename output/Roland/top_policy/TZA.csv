@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+TZA,H2_Testing policy,0.09348960252709856,1
+TZA,H6_Facial Coverings,0.08395299790032053,2
+TZA,C8_International travel controls,0.07325675749927324,3
+TZA,H1_Public information campaigns,0.06642801123510553,4
+TZA,C1_School closing,0.0643869024837246,5
+TZA,H3_Contact tracing,0.06177445014301269,6
+TZA,E2_Debt/contract relief,0.06117887138087075,7
+TZA,H7_Vaccination policy,0.047121210285370765,8
+TZA,C2_Workplace closing,0.041667055735103424,9
+TZA,E1_Income support,0.036995688781864315,10
+TZA,C7_Restrictions on internal movement,0.03639806324946149,11
+TZA,C6_Stay at home requirements,0.035479164081602683,12
+TZA,C5_Close public transport,0.029800504673463693,13
+TZA,C4_Restrictions on gatherings,0.02366867860977024,14
+TZA,C3_Cancel public events,0.012023560930530927,15

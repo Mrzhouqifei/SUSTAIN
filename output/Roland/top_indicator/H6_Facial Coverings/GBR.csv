@@ -1,0 +1,71 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H6_Facial Coverings,United Kingdom,GBR,92.5166,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,United Kingdom,GBR,0.129437,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,United Kingdom,GBR,31973300.0,number,2019.0
+4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,United Kingdom,GBR,81.3379974,Percentage of total employment,2020.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,United Kingdom,GBR,1977171.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,United Kingdom,GBR,0.050213,percent,2019.0
+7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,United Kingdom,GBR,57.6860008,Percentage of females of the total population,2020.0
+8,Governance,Economic Freedom Score,H6_Facial Coverings,United Kingdom,GBR,8.08,score,2018.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,United Kingdom,GBR,117.549,per 100 people,2019.0
+12,Governance,Personal Freedom Score ,H6_Facial Coverings,United Kingdom,GBR,8.79,score,2018.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,United Kingdom,GBR,39.597,per 100 people,2019.0
+14,Social issues ,Net migration,H6_Facial Coverings,United Kingdom,GBR,1303250.0,net total / data are 5 year estimates,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,United Kingdom,GBR,0.001117,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,United Kingdom,GBR,66541.0,"Number (cumulative total by Dec 26,2020)",2020.0
+17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,United Kingdom,GBR,2.8117,Ones,2018.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,United Kingdom,GBR,0.035098,percent,2019.0
+19,Environment,Combustible renewables and waste,H6_Facial Coverings,United Kingdom,GBR,2.79409,percent of total energy,2015.0
+20,Governance,Total freedom in the world score ,H6_Facial Coverings,United Kingdom,GBR,93.0,score,2021.0
+21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,United Kingdom,GBR,62.7649994,Percentage of total population,2020.0
+22,Environment,"Adjusted net savings, including particulate emission damage",H6_Facial Coverings,United Kingdom,GBR,3.0392590611375,percent of GNI,2018.0
+24,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,United Kingdom,GBR,34.8,index ,2016.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,United Kingdom,GBR,0.000738,percent,2019.0
+26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,United Kingdom,GBR,77262000000.0,kWh,2015.0
+27,Social issues ,Life Ladder ,H6_Facial Coverings,United Kingdom,GBR,7.063600063323975,score,2021.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,United Kingdom,GBR,1.774812,score,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,United Kingdom,GBR,25.35924,Rate (risk-weighted prevalence),2019.0
+30,Governance,Fragile States Index Total ,H6_Facial Coverings,United Kingdom,GBR,38.260475361020404,score,2020.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,United Kingdom,GBR,7.9,percent,2018.0
+33,Governance,Serious assault (rate),H6_Facial Coverings,United Kingdom,GBR,925.4,rate,2018.0
+34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,United Kingdom,GBR,80.35177,percent of total,2015.0
+35,Environment,Electricity production from coal sources ,H6_Facial Coverings,United Kingdom,GBR,22.80649074195198,percent of total,2015.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,United Kingdom,GBR,10.47269,micrograms per cubic meter,2017.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,United Kingdom,GBR,8.71168557437913,percent of total final energy consumption,2015.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,United Kingdom,GBR,8.0,Cases,2019.0
+40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,United Kingdom,GBR,53.18085599781184,percent of total,2015.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,United Kingdom,GBR,379024.8,kt,2016.0
+43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,United Kingdom,GBR,91.0,percent,2019.0
+44,Economics,Volume of imports,H6_Facial Coverings,United Kingdom,GBR,1.242,percent change,2020.0
+46,Social issues ,Press freedom score,H6_Facial Coverings,United Kingdom,GBR,22.93,score,2020.0
+47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,United Kingdom,GBR,8.1723,Ones,2018.0
+48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,United Kingdom,GBR,33.84615385,proportion,2020.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,United Kingdom,GBR,0.049807,percent,2019.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,United Kingdom,GBR,5.776796,metric tons per capita,2016.0
+52,Governance,Human Development Index,H6_Facial Coverings,United Kingdom,GBR,0.932,index,2019.0
+53,Governance,Corruption Perceptions Index,H6_Facial Coverings,United Kingdom,GBR,77.0,score,2020.0
+55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,United Kingdom,GBR,66.5332490328298,percent of total,2017.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,United Kingdom,GBR,0.5191886,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,United Kingdom,GBR,1.263675,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,United Kingdom,GBR,35989.50271196399,per 1 million people,2019.0
+59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,United Kingdom,GBR,93.0,percent,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,United Kingdom,GBR,1.625853,score,2019.0
+61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,United Kingdom,GBR,39.0,score,2021.0
+62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,United Kingdom,GBR,1.2049147774,"proportion, pero 100,000 people",2018.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,United Kingdom,GBR,0.136351,percent,2019.0
+67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,United Kingdom,GBR,54.0,score,2021.0
+68,Governance,Human Freedom Score ,H6_Facial Coverings,United Kingdom,GBR,8.44,score,2018.0
+69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,United Kingdom,GBR,20.91385317936948,percent of total,2015.0
+70,Economics,Volume of exports,H6_Facial Coverings,United Kingdom,GBR,1.775,percent change,2020.0
+71,Environment,"Energy imports, net ",H6_Facial Coverings,United Kingdom,GBR,34.62999026752639,percent of energy use,2015.0
+72,Economics,"Central government debt, total",H6_Facial Coverings,United Kingdom,GBR,114.9722447592783,percent of GDP,2016.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,United Kingdom,GBR,1.435909,score,2019.0
+75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,United Kingdom,GBR,4.11499977,percent of total labor force,2020.0
+78,Environment,Access to electricity ,H6_Facial Coverings,United Kingdom,GBR,100.0,percent of population,2018.0
+82,Environment,Electricity production from oil sources,H6_Facial Coverings,United Kingdom,GBR,0.6341495320434302,percent of total,2015.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,United Kingdom,GBR,0.090669,percent,2019.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,United Kingdom,GBR,1.600911,score,2019.0
+92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,United Kingdom,GBR,2764.516671338058,kg of oil equivalent per capita,2015.0
+93,Environment,Energy use ,H6_Facial Coverings,United Kingdom,GBR,61.63952738470469,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+96,Environment,Electric power consumption ,H6_Facial Coverings,United Kingdom,GBR,5130.390253300277,kWh per capita,2014.0
+101,Health,COVID-19 vaccine administered,H6_Facial Coverings,United Kingdom,GBR,1416933.0,"Number (cumulative total by Dec 26,2020)",2020.0

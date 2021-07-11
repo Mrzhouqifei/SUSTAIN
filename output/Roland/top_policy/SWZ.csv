@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+SWZ,E1_Income support,0.07733265831908298,1
+SWZ,H6_Facial Coverings,0.07524492984791381,2
+SWZ,C4_Restrictions on gatherings,0.06536922836663395,3
+SWZ,C1_School closing,0.0633730099499738,4
+SWZ,C7_Restrictions on internal movement,0.05860001988808099,5
+SWZ,H2_Testing policy,0.05605484933611364,6
+SWZ,H7_Vaccination policy,0.05579629229611553,7
+SWZ,C8_International travel controls,0.05431093816162858,8
+SWZ,C6_Stay at home requirements,0.05330965768543995,9
+SWZ,H3_Contact tracing,0.05206809940975295,10
+SWZ,E2_Debt/contract relief,0.05170895649633598,11
+SWZ,C5_Close public transport,0.05068024931881805,12
+SWZ,C2_Workplace closing,0.04514958476973552,13
+SWZ,C3_Cancel public events,0.019943540535314986,14
+SWZ,H1_Public information campaigns,0.014703152935870175,15

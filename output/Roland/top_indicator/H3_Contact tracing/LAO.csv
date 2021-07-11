@@ -1,0 +1,81 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H3_Contact tracing,Laos,LAO,25.5104,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H3_Contact tracing,Laos,LAO,29.0,score,2020.0
+3,Health,Prevalence of COVID-19,H3_Contact tracing,Laos,LAO,41.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,"Foreign direct investment, net",H3_Contact tracing,Laos,LAO,1319609800.0,US Dollar,2018.0
+5,Demographics,Secure Internet servers ,H3_Contact tracing,Laos,LAO,31.24365799073988,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,H3_Contact tracing,Laos,LAO,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Laos,LAO,0.201657,percent,2019.0
+9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Laos,LAO,60.844,per 100 people,2019.0
+10,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Laos,LAO,76.7699966,Percentage of females of the total population,2020.0
+11,Governance,Government effectiveness estimate,H3_Contact tracing,Laos,LAO,-0.7845454,score,2019.0
+13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Laos,LAO,11.0,score,2021.0
+14,Health,Summary exposure value tobacco,H3_Contact tracing,Laos,LAO,30.45427,Rate (risk-weighted prevalence),2019.0
+15,Environment,CO2 emissions (kt),H3_Contact tracing,Laos,LAO,17762.95,kt,2016.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Laos,LAO,26.177,Percentage of total employment,2020.0
+18,Social issues ,Life Ladder ,H3_Contact tracing,Laos,LAO,5.03000020980835,score,2021.0
+19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Laos,LAO,1.06396,per 100 people,2019.0
+21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Laos,LAO,0.9522,Ones,2018.0
+22,Social issues ,Press freedom score,H3_Contact tracing,Laos,LAO,64.28,score,2020.0
+24,Governance,Economic Freedom Score,H3_Contact tracing,Laos,LAO,6.62,score,2018.0
+26,Demographics,Age dependency ratio (% of working-age population),H3_Contact tracing,Laos,LAO,57.39847739974634,proportion,2019.0
+28,Social issues ,Net migration,H3_Contact tracing,Laos,LAO,-73518.0,net total / data are 5 year estimates,2019.0
+29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Laos,LAO,0.5250729,score,2019.0
+30,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Laos,LAO,3.0,percent,2020.0
+31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Laos,LAO,0.046128,percent,2019.0
+32,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Laos,LAO,25.10954,micrograms per cubic meter,2017.0
+33,Health,Prevalence of Diabetes,H3_Contact tracing,Laos,LAO,0.045573,percent,2019.0
+34,Governance,Human Development Index,H3_Contact tracing,Laos,LAO,0.613,index,2019.0
+35,Governance,Fragile States Index Total ,H3_Contact tracing,Laos,LAO,76.86018745028443,score,2020.0
+37,Environment,Renewable energy consumption ,H3_Contact tracing,Laos,LAO,59.3158607506634,percent of total final energy consumption,2015.0
+39,Governance,Control of corruption estimate,H3_Contact tracing,Laos,LAO,-1.058229,score,2019.0
+40,Social issues ,Progression to secondary school (%),H3_Contact tracing,Laos,LAO,86.18363,proportion,2017.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Laos,LAO,69.0,percent,2019.0
+43,Demographics,Rural population (% of total population),H3_Contact tracing,Laos,LAO,64.35499999999999,proportion,2019.0
+44,Economics,Volume of imports,H3_Contact tracing,Laos,LAO,3.613,percent change,2020.0
+45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Laos,LAO,2.594705,metric tons per capita,2016.0
+46,Governance,Voice and accountability estimate,H3_Contact tracing,Laos,LAO,-1.8017,score,2019.0
+47,Environment,"Adjusted net savings, including particulate emission damage",H3_Contact tracing,Laos,LAO,-5.96799950783256,percent of GNI,2016.0
+48,Health,Prevalence of total cancers,H3_Contact tracing,Laos,LAO,0.003364,percent,2019.0
+49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Laos,LAO,0.3726,Ones,2017.0
+50,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,Laos,LAO,84.6610412597656,proportion,2015.0
+51,Environment,Access to electricity ,H3_Contact tracing,Laos,LAO,97.9198226928711,percent of population,2018.0
+52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Laos,LAO,0.602,percent of total labor force,2020.0
+53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Laos,LAO,100.0,percent of total,2017.0
+54,Health,Prevalence of obesity,H3_Contact tracing,Laos,LAO,5.3,percent,2016.0
+57,Governance,Human Freedom Score ,H3_Contact tracing,Laos,LAO,6.16,score,2018.0
+58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Laos,LAO,0.085493,percent,2019.0
+59,Governance,Rule of law estimate ,H3_Contact tracing,Laos,LAO,-0.9411008,score,2019.0
+60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Laos,LAO,2.0,score,2021.0
+62,Health,"Prevalence of HIV, total (% of population ages 15-49)",H3_Contact tracing,Laos,LAO,0.3,percent,2019.0
+63,Demographics,"Population, total",H3_Contact tracing,Laos,LAO,7169455.0,total,2019.0
+66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Laos,LAO,0.026671,percent,2019.0
+68,Governance,Total freedom in the world score ,H3_Contact tracing,Laos,LAO,13.0,score,2021.0
+69,Governance,Personal Freedom Score ,H3_Contact tracing,Laos,LAO,5.7,score,2018.0
+70,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Laos,LAO,78.4860001,Percentage of total population,2020.0
+73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Laos,LAO,155.0,Cases,2019.0
+74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Laos,LAO,1490830.0,number,2019.0
+75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Laos,LAO,68.0,percent,2019.0
+76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Laos,LAO,0.9,percent,2018.0
+77,Health,Prevalence of down syndrome,H3_Contact tracing,Laos,LAO,0.000211,percent,2019.0
+78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Laos,LAO,0.001539,percent,2019.0
+79,Economics,Volume of exports,H3_Contact tracing,Laos,LAO,4.122,percent change,2020.0
+82,Governance,Regulatory quality estimate,H3_Contact tracing,Laos,LAO,-0.7132146,score,2019.0
+83,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Laos,LAO,30.2,percent,2020.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Laos,LAO,27.51677852,proportion,2020.0
+85,Economics,"Trade, total as % of GDP",H3_Contact tracing,Laos,LAO,63.16262,percent,2018.0
+86,Demographics,Urban population (% of total population),H3_Contact tracing,Laos,LAO,35.645,total,2019.0
+87,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H3_Contact tracing,Laos,LAO,13727.2,international $ in PPP,2020.0
+90,Social issues ,"Primary completion rate, total (% of relevant age group)",H3_Contact tracing,Laos,LAO,92.168327331543,proportion,2019.0
+92,Demographics,Age dependency ratio,H3_Contact tracing,Laos,LAO,57.39829,percent of total population,2019.0
+93,Economics,Starting a Business (Score),H3_Contact tracing,Laos,LAO,62.7,Score,2019.0
+97,Demographics,Internet users (per 100 people),H3_Contact tracing,Laos,LAO,25.51044,per 100 population,2017.0
+101,Demographics,Mobile cellular (per 100 people),H3_Contact tracing,Laos,LAO,51.86338,per 100 population,2018.0
+103,Demographics,"Net migration rate, per 1000 population",H3_Contact tracing,Laos,LAO,-2.098,per thousand persons,2015.0
+106,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,Laos,LAO,74.4594104323402,proportion,2017.0
+107,Demographics,People using safely managed drinking water services (% of population),H3_Contact tracing,Laos,LAO,16.0818658450471,proportion,2017.0
+108,Demographics,People with basic handwashing facilities including soap and water (% of population),H3_Contact tracing,Laos,LAO,49.8391565449809,proportion,2017.0
+109,Demographics,Fixed telephone (per 100 people),H3_Contact tracing,Laos,LAO,20.99093,per 100 population,2018.0
+112,Demographics,"Age dependency ratio, old (% of working-age population)",H3_Contact tracing,Laos,LAO,6.554048313370162,proportion,2019.0
+115,Economics,"International tourism, receipts",H3_Contact tracing,Laos,LAO,734000000.0,US Dollar,2018.0
+117,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H3_Contact tracing,Laos,LAO,2.5,rating,2019.0

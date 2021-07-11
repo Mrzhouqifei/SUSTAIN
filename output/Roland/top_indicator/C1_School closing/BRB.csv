@@ -1,0 +1,72 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C1_School closing,Barbados,BRB,81.7608,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C1_School closing,Barbados,BRB,64.0,score,2020.0
+3,Health,Prevalence of COVID-19,C1_School closing,Barbados,BRB,305.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C1_School closing,Barbados,BRB,940.6846093545857,per 1 million people,2019.0
+6,Demographics,Fixed broadband subscriptions,C1_School closing,Barbados,BRB,37.2103,per 100 people,2019.0
+7,Health,Mortality due to COVID-19,C1_School closing,Barbados,BRB,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Prevalence of anxiety disorders,C1_School closing,Barbados,BRB,0.049347,percent,2019.0
+10,Health,Summary exposure value tobacco,C1_School closing,Barbados,BRB,10.06039,Rate (risk-weighted prevalence),2019.0
+11,Health,"Prevalence of HIV, total (% of population ages 15-49)",C1_School closing,Barbados,BRB,0.8,percent,2019.0
+12,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,Barbados,BRB,2.9,percent,2018.0
+13,Health,Prevalence of down syndrome,C1_School closing,Barbados,BRB,0.000224,percent,2019.0
+14,Health,Prevalence of total cancers,C1_School closing,Barbados,BRB,0.028345,percent,2019.0
+15,Environment,Renewable energy consumption ,C1_School closing,Barbados,BRB,2.78635820637435,percent of total final energy consumption,2015.0
+16,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C1_School closing,Barbados,BRB,10.9379997,percent of total labor force,2020.0
+17,Environment,"Adjusted net savings, including particulate emission damage",C1_School closing,Barbados,BRB,-0.626937448351921,percent of GNI,2016.0
+18,Social issues ,Net migration,C1_School closing,Barbados,BRB,-397.0,net total / data are 5 year estimates,2019.0
+20,Demographics,Urban population (% of total population),C1_School closing,Barbados,BRB,31.158,total,2019.0
+21,Environment,CO2 emissions (metric tons per capita),C1_School closing,Barbados,BRB,4.465129,metric tons per capita,2016.0
+22,Governance,Rule of law estimate ,C1_School closing,Barbados,BRB,0.3570292,score,2019.0
+23,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,Barbados,BRB,0.9417337,score,2019.0
+24,Health,Prevalence of Hypertensive heart disease,C1_School closing,Barbados,BRB,0.003869,percent,2019.0
+26,Economics,"Central government debt, total",C1_School closing,Barbados,BRB,141.7288148568399,percent of GDP,2015.0
+27,Governance,Aggregate score for the Political Rights category,C1_School closing,Barbados,BRB,38.0,score,2021.0
+28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C1_School closing,Barbados,BRB,6.6,percent,2020.0
+29,Governance,Personal Freedom Score ,C1_School closing,Barbados,BRB,7.76,score,2018.0
+30,Demographics,Fixed telephone subscriptions,C1_School closing,Barbados,BRB,138312.0,number,2019.0
+31,Health,"Nurses and midwives (per 1,000 people)",C1_School closing,Barbados,BRB,3.06,Ones,2018.0
+32,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,Barbados,BRB,0.245301,percent,2019.0
+33,Governance,Economic Freedom Score,C1_School closing,Barbados,BRB,6.22,score,2018.0
+34,Demographics,Mobile cellular subscriptions,C1_School closing,Barbados,BRB,108.609,per 100 people,2019.0
+35,Social issues ,Proportion of women in managerial positions (%),C1_School closing,Barbados,BRB,48.6,percent,2016.0
+36,Health,Prevalence of Diabetes,C1_School closing,Barbados,BRB,0.123307,percent,2019.0
+37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C1_School closing,Barbados,BRB,61.4000015,Percentage of females of the total population,2020.0
+38,Health,Prevalence of Depressive disorders,C1_School closing,Barbados,BRB,0.039605,percent,2019.0
+39,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,Barbados,BRB,23.08018,micrograms per cubic meter,2017.0
+40,Environment,CO2 emissions (kt),C1_School closing,Barbados,BRB,1276.116,kt,2016.0
+42,Economics,Employment in services (% of total employment) (modeled ILO estimate),C1_School closing,Barbados,BRB,78.5100021,Percentage of total employment,2020.0
+43,Social issues ,Proportion of seats held by women in national parliaments (%),C1_School closing,Barbados,BRB,20.0,proportion,2020.0
+44,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,Barbados,BRB,9.7683505442,"proportion, pero 100,000 people",2018.0
+46,Economics,Volume of imports,C1_School closing,Barbados,BRB,2.294,percent change,2020.0
+47,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C1_School closing,Barbados,BRB,11.4,percent,2020.0
+49,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,Barbados,BRB,0.0,Cases,2019.0
+50,Health,"Immunization, measles (% of children ages 12-23 months)",C1_School closing,Barbados,BRB,92.0,percent,2019.0
+51,Economics,Volume of exports,C1_School closing,Barbados,BRB,2.911,percent change,2020.0
+52,Governance,Regulatory quality estimate,C1_School closing,Barbados,BRB,0.412301,score,2019.0
+53,Health,Prevalence of obesity,C1_School closing,Barbados,BRB,23.1,percent,2016.0
+56,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C1_School closing,Barbados,BRB,64.901001,Percentage of total population,2020.0
+57,Governance,Aggregate score for the Civil Liberties category,C1_School closing,Barbados,BRB,57.0,score,2021.0
+60,Governance,Government effectiveness estimate,C1_School closing,Barbados,BRB,0.631425,score,2019.0
+61,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C1_School closing,Barbados,BRB,99.5999984741211,proportion,2014.0
+63,Governance,Serious assault (rate),C1_School closing,Barbados,BRB,502.05,rate,2017.0
+64,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,Barbados,BRB,100.0,percent of total,2017.0
+65,Governance,Voice and accountability estimate,C1_School closing,Barbados,BRB,1.131867,score,2019.0
+66,Demographics,"Population, total",C1_School closing,Barbados,BRB,287025.0,total,2019.0
+67,Environment,Access to electricity ,C1_School closing,Barbados,BRB,100.0,percent of population,2018.0
+71,Demographics,Rural population (% of total population),C1_School closing,Barbados,BRB,68.842,proportion,2019.0
+72,Health,"Physicians (per 1,000 people)",C1_School closing,Barbados,BRB,2.4843,Ones,2017.0
+75,Governance,Fragile States Index Total ,C1_School closing,Barbados,BRB,46.40725753500914,score,2020.0
+76,Health,Prevalence of chronic kidney disease,C1_School closing,Barbados,BRB,0.132863,percent,2019.0
+78,Governance,Total freedom in the world score ,C1_School closing,Barbados,BRB,95.0,score,2021.0
+80,Demographics,People using at least basic sanitation services (% of population),C1_School closing,Barbados,BRB,97.2793784985907,proportion,2017.0
+83,Governance,Human Development Index,C1_School closing,Barbados,BRB,0.814,index,2019.0
+88,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C1_School closing,Barbados,BRB,16.3744926452637,proportion,2016.0
+91,Demographics,People with basic handwashing facilities including soap and water (% of population),C1_School closing,Barbados,BRB,88.4693506083686,proportion,2016.0
+92,Social issues ,"Primary completion rate, total (% of relevant age group)",C1_School closing,Barbados,BRB,90.0936737060547,proportion,2019.0
+93,Demographics,Age dependency ratio (% of working-age population),C1_School closing,Barbados,BRB,49.88328920777654,proportion,2019.0
+96,Demographics,"Age dependency ratio, old (% of working-age population)",C1_School closing,Barbados,BRB,24.32754218037692,proportion,2019.0
+97,Governance,Control of corruption estimate,C1_School closing,Barbados,BRB,1.261709,score,2019.0
+109,Governance,Human Freedom Score ,C1_School closing,Barbados,BRB,6.99,score,2018.0
+111,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C1_School closing,Barbados,BRB,0.336767345666885,proportion,2016.0
+114,Health,"Immunization, DPT (% of children ages 12-23 months)",C1_School closing,Barbados,BRB,90.0,percent,2019.0

@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+NIC,C8_International travel controls,0.08236566906713544,1
+NIC,C1_School closing,0.07818307630097618,2
+NIC,H7_Vaccination policy,0.07515015010931596,3
+NIC,H1_Public information campaigns,0.07198977314260667,4
+NIC,H6_Facial Coverings,0.0641124817173279,5
+NIC,H3_Contact tracing,0.0601294372709421,6
+NIC,E2_Debt/contract relief,0.052090231290331065,7
+NIC,C4_Restrictions on gatherings,0.05018465072703153,8
+NIC,H2_Testing policy,0.048355773427186936,9
+NIC,C5_Close public transport,0.04559648193261664,10
+NIC,C2_Workplace closing,0.042294496678489515,11
+NIC,E1_Income support,0.035493848241596744,12
+NIC,C3_Cancel public events,0.030263438327177268,13
+NIC,C7_Restrictions on internal movement,0.0173397784877809,14
+NIC,C6_Stay at home requirements,0.0092479909240835,15

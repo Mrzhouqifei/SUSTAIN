@@ -1,0 +1,61 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Lesotho,LSO,29.0,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Lesotho,LSO,41.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Lesotho,LSO,2285.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Lesotho,LSO,63.05087170182772,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Lesotho,LSO,3.5118000507354736,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Lesotho,LSO,654.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Lesotho,LSO,24.05975,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Lesotho,LSO,0.273345,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Lesotho,LSO,90.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Lesotho,LSO,100.0,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Lesotho,LSO,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Lesotho,LSO,5.4,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Lesotho,LSO,30.45,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Lesotho,LSO,49.6349983,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Lesotho,LSO,2511.895,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Lesotho,LSO,-0.0273043,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Lesotho,LSO,0.324554,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Lesotho,LSO,-50234.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Lesotho,LSO,0.036786,percent,2019.0
+22,Governance,Economic Freedom Score,E2_Debt/contract relief,Lesotho,LSO,6.65,score,2018.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Lesotho,LSO,0.037815,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Lesotho,LSO,27.0,score,2021.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Lesotho,LSO,0.000425,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Lesotho,LSO,4.434,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Lesotho,LSO,60.0800018,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Lesotho,LSO,6.75505886868767,percent of GNI,2018.0
+31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Lesotho,LSO,6.55,score,2018.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Lesotho,LSO,0.527,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Lesotho,LSO,52.139206087139,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Lesotho,LSO,7.2,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Lesotho,LSO,-0.3546657,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Lesotho,LSO,22.8,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Lesotho,LSO,0.0296611,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Lesotho,LSO,43.56460456,"proportion, pero 100,000 people",2015.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Lesotho,LSO,28.02865,micrograms per cubic meter,2017.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Lesotho,LSO,0.055511,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Lesotho,LSO,36.0,score,2021.0
+48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Lesotho,LSO,44.9,index ,2017.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Lesotho,LSO,0.051684,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Lesotho,LSO,113.831,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Lesotho,LSO,-0.8322617,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Lesotho,LSO,-0.3805971,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Lesotho,LSO,1.210551,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Lesotho,LSO,0.003859,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Lesotho,LSO,0.0003,percent,2019.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Lesotho,LSO,63.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Lesotho,LSO,22.8309994,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Lesotho,LSO,23.33333333,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Lesotho,LSO,87.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Lesotho,LSO,8328.0,number,2019.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Lesotho,LSO,-6.159,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Lesotho,LSO,32.1,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Lesotho,LSO,-0.5356036,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Lesotho,LSO,78.29011539823739,score,2020.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Lesotho,LSO,67.9079971,Percentage of total population,2020.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Lesotho,LSO,3.0,rating,2019.0
+86,Governance,Human Freedom Score ,E2_Debt/contract relief,Lesotho,LSO,6.6,score,2018.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Lesotho,LSO,16.6,percent,2016.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Lesotho,LSO,3.2567,Ones,2018.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Lesotho,LSO,47.0,percent of population,2018.0

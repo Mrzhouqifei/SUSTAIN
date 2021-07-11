@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Uzbekistan,UZB,52.3051,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Uzbekistan,UZB,26.0,score,2020.0
+3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Uzbekistan,UZB,75806.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Uzbekistan,UZB,452.522509242674,per 1 million people,2019.0
+7,Social issues ,Life Ladder ,E2_Debt/contract relief,Uzbekistan,UZB,6.178800106048584,score,2021.0
+8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Uzbekistan,UZB,67.0,Cases,2019.0
+9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Uzbekistan,UZB,20.70983,Rate (risk-weighted prevalence),2019.0
+10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Uzbekistan,UZB,13.9388,per 100 people,2019.0
+11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Uzbekistan,UZB,98.0,percent,2019.0
+12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Uzbekistan,UZB,100.0,percent of total,2017.0
+13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Uzbekistan,UZB,612.0,"Number (cumulative total by Dec 26,2020)",2020.0
+14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Uzbekistan,UZB,2.0,percent,2018.0
+15,Social issues ,Press freedom score,E2_Debt/contract relief,Uzbekistan,UZB,53.07,score,2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Uzbekistan,UZB,46.7610016,Percentage of total employment,2020.0
+17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Uzbekistan,UZB,91810.68,kt,2016.0
+18,Governance,Control of corruption estimate,E2_Debt/contract relief,Uzbekistan,UZB,-1.053791,score,2019.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Uzbekistan,UZB,0.252542,percent,2019.0
+20,Social issues ,Net migration,E2_Debt/contract relief,Uzbekistan,UZB,-44314.0,net total / data are 5 year estimates,2019.0
+21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Uzbekistan,UZB,0.021128,percent,2019.0
+23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Uzbekistan,UZB,0.046617,percent,2019.0
+24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Uzbekistan,UZB,2.0,score,2021.0
+26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Uzbekistan,UZB,0.001489,percent,2019.0
+27,Economics,Volume of exports,E2_Debt/contract relief,Uzbekistan,UZB,2.276,percent change,2020.0
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Uzbekistan,UZB,52.2630005,Percentage of females of the total population,2020.0
+29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Uzbekistan,UZB,26.7393312124573,percent of GNI,2018.0
+30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Uzbekistan,UZB,2.3742,Ones,2014.0
+32,Governance,Human Development Index,E2_Debt/contract relief,Uzbekistan,UZB,0.72,index,2019.0
+33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Uzbekistan,UZB,2.97017869966095,percent of total final energy consumption,2015.0
+35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Uzbekistan,UZB,5.0,percent,2020.0
+36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Uzbekistan,UZB,-0.2724334,score,2019.0
+37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Uzbekistan,UZB,0.2,percent,2019.0
+38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Uzbekistan,UZB,-1.605511,score,2019.0
+39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Uzbekistan,UZB,1.1358027751,"proportion, pero 100,000 people",2017.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Uzbekistan,UZB,0.0,kWh,2015.0
+43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Uzbekistan,UZB,28.4559,micrograms per cubic meter,2017.0
+45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Uzbekistan,UZB,0.087438,percent,2019.0
+46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Uzbekistan,UZB,9.0,score,2021.0
+47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Uzbekistan,UZB,0.2566340782122905,percent of total,2015.0
+50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Uzbekistan,UZB,0.031211,percent,2019.0
+51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Uzbekistan,UZB,101.208,per 100 people,2019.0
+52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Uzbekistan,UZB,-0.514649,score,2019.0
+53,Governance,Rule of law estimate ,E2_Debt/contract relief,Uzbekistan,UZB,-1.048182,score,2019.0
+54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Uzbekistan,UZB,2.882786,metric tons per capita,2016.0
+55,Health,Prevalence of total cancers,E2_Debt/contract relief,Uzbekistan,UZB,0.004843,percent,2019.0
+56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Uzbekistan,UZB,0.000211,percent,2019.0
+57,Environment,Electric power consumption ,E2_Debt/contract relief,Uzbekistan,UZB,1645.441629250562,kWh per capita,2014.0
+59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Uzbekistan,UZB,11.0,score,2021.0
+61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Uzbekistan,UZB,6.08199978,percent of total labor force,2020.0
+63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Uzbekistan,UZB,32.0,proportion,2020.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Uzbekistan,UZB,96.0,percent,2019.0
+66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Uzbekistan,UZB,3553310.0,number,2019.0
+68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Uzbekistan,UZB,4.085195530726257,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Uzbekistan,UZB,79.34706703910615,percent of total,2015.0
+71,Economics,Volume of imports,E2_Debt/contract relief,Uzbekistan,UZB,2.251,percent change,2020.0
+73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Uzbekistan,UZB,9.9,percent,2020.0
+74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Uzbekistan,UZB,-0.9932925,score,2019.0
+80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Uzbekistan,UZB,73.10388718030978,score,2020.0
+81,Economics,"International tourism, receipts",E2_Debt/contract relief,Uzbekistan,UZB,1481000000.0,US Dollar,2019.0
+82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Uzbekistan,UZB,64.9869995,Percentage of total population,2020.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Uzbekistan,UZB,2.5,rating,2019.0
+89,Governance,Serious assault (rate),E2_Debt/contract relief,Uzbekistan,UZB,4.37,rate,2017.0
+92,Economics,"Trade, total as % of GDP",E2_Debt/contract relief,Uzbekistan,UZB,72.81924,percent,2019.0
+98,Health,Prevalence of obesity,E2_Debt/contract relief,Uzbekistan,UZB,16.6,percent,2016.0
+100,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Uzbekistan,UZB,2286340170.0,US Dollar,2019.0
+101,Economics,"Lending interest rates, percent per annum",E2_Debt/contract relief,Uzbekistan,UZB,23.60607,percent per annum,2019.0
+106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Uzbekistan,UZB,11.2804,Ones,2014.0
+107,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E2_Debt/contract relief,Uzbekistan,UZB,15601.2,international $ in PPP,2020.0
+111,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Uzbekistan,UZB,6.29609,percent,2018.0
+112,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Uzbekistan,UZB,2.30948,percent,2018.0
+113,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Uzbekistan,UZB,5.38009,percent,2018.0
+115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Uzbekistan,UZB,0.0,percent of total,2014.0
+117,Environment,Access to electricity ,E2_Debt/contract relief,Uzbekistan,UZB,100.0,percent of population,2018.0

@@ -1,0 +1,72 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Belgium,BEL,90.3705,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Belgium,BEL,76.0,score,2020.0
+3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Belgium,BEL,621039.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Belgium,BEL,19663.96016041372,per 1 million people,2019.0
+6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Belgium,BEL,99.7421,per 100 people,2019.0
+7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Belgium,BEL,6.834000110626221,score,2021.0
+8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Belgium,BEL,18455.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Belgium,BEL,26.69697,Rate (risk-weighted prevalence),2019.0
+10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Belgium,BEL,0.00053,percent,2019.0
+11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Belgium,BEL,96889.47,kt,2016.0
+12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Belgium,BEL,7709.123077882466,kWh per capita,2014.0
+13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Belgium,BEL,12.57,score,2020.0
+14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Belgium,BEL,0.043618,percent,2019.0
+15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Belgium,BEL,37.53235175705987,percent of total,2015.0
+16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Belgium,BEL,0.083193,percent,2019.0
+17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Belgium,BEL,98.0,percent,2019.0
+18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Belgium,BEL,39.7831,per 100 people,2019.0
+19,Social issues ,Net migration,C7_Restrictions on internal movement,Belgium,BEL,240000.0,net total / data are 5 year estimates,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Belgium,BEL,0.120211,percent,2019.0
+22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Belgium,BEL,39.21464312417323,percent of total,2015.0
+23,Economics,Volume of imports,C7_Restrictions on internal movement,Belgium,BEL,3.1,percent change,2020.0
+24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Belgium,BEL,80.09179196696829,percent of energy use,2015.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Belgium,BEL,12.88652,micrograms per cubic meter,2017.0
+27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Belgium,BEL,0.055711,percent,2019.0
+28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Belgium,BEL,0.001711,percent,2019.0
+29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Belgium,BEL,1.032227,score,2019.0
+30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Belgium,BEL,48.5340004,Percentage of females of the total population,2020.0
+31,Economics,Volume of exports,C7_Restrictions on internal movement,Belgium,BEL,2.93,percent change,2020.0
+32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Belgium,BEL,7.56,score,2018.0
+33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Belgium,BEL,4687.787049293803,kg of oil equivalent per capita,2015.0
+34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Belgium,BEL,0.3005118766894807,percent of total,2015.0
+35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Belgium,BEL,1.363715,score,2019.0
+36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Belgium,BEL,1.36912,score,2019.0
+37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Belgium,BEL,8.99,score,2018.0
+38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Belgium,BEL,3930410.0,number,2019.0
+39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Belgium,BEL,0.035949,percent,2019.0
+40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Belgium,BEL,9.20164053078148,percent of total final energy consumption,2015.0
+41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Belgium,BEL,0.10999,percent,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Belgium,BEL,91.9485403518636,percent of total,2017.0
+43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Belgium,BEL,14148000000.0,kWh,2015.0
+44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Belgium,BEL,22.1,percent,2016.0
+45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Belgium,BEL,5.1,percent,2020.0
+46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Belgium,BEL,53.3959999,Percentage of total population,2020.0
+47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Belgium,BEL,3.469049,percent of total energy,2015.0
+50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Belgium,BEL,19.4614,Ones,2018.0
+51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Belgium,BEL,8.550513,metric tons per capita,2016.0
+53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Belgium,BEL,78.4169998,Percentage of total employment,2020.0
+54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Belgium,BEL,0.4811862,score,2019.0
+57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Belgium,BEL,27.098144674784415,score,2020.0
+59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Belgium,BEL,2.3,percent,2020.0
+60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Belgium,BEL,8.9,Cases,2019.0
+61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Belgium,BEL,3.0709,Ones,2017.0
+62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Belgium,BEL,96.0,score,2021.0
+63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Belgium,BEL,27.4,index ,2017.0
+65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Belgium,BEL,57.0,score,2021.0
+66,Governance,Human Development Index,C7_Restrictions on internal movement,Belgium,BEL,0.931,index,2019.0
+67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Belgium,BEL,1.551961,score,2019.0
+68,Environment,Energy use ,C7_Restrictions on internal movement,Belgium,BEL,94.45142431253024,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Belgium,BEL,6.108011732903893,percent of total,2015.0
+70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Belgium,BEL,7.8,percent,2018.0
+72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Belgium,BEL,5.69199991,percent of total labor force,2020.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Belgium,BEL,1.6900542148,"proportion, pero 100,000 people",2017.0
+74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Belgium,BEL,8.28,score,2018.0
+75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Belgium,BEL,11.0770980315883,percent of GNI,2018.0
+76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Belgium,BEL,39.0,score,2021.0
+77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Belgium,BEL,33.91,percent,2018.0
+78,Environment,Access to electricity ,C7_Restrictions on internal movement,Belgium,BEL,100.0,percent of population,2018.0
+80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Belgium,BEL,549.91,rate,2018.0
+86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Belgium,BEL,96.0,percent,2019.0
+88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Belgium,BEL,75.87078,percent of total,2015.0
+104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Belgium,BEL,1.290999,score,2019.0

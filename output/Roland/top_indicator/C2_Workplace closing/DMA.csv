@@ -1,0 +1,53 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,Dominica,DMA,69.6197,percent of population,2019.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Dominica,DMA,88.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Voice and accountability estimate,C2_Workplace closing,Dominica,DMA,0.8967021,score,2019.0
+5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Dominica,DMA,4.3,percent,2018.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,Dominica,DMA,179.683,kt,2016.0
+8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Dominica,DMA,6.4385,Ones,2018.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,Dominica,DMA,-0.2612646,score,2019.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Dominica,DMA,16.0754,per 100 people,2019.0
+12,Economics,Volume of exports,C2_Workplace closing,Dominica,DMA,15.527,percent change,2020.0
+13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Dominica,DMA,56.0,score,2021.0
+15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Dominica,DMA,100.0,percent of total,2017.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Dominica,DMA,2.519851,metric tons per capita,2016.0
+19,Health,Prevalence of total cancers,C2_Workplace closing,Dominica,DMA,0.016689,percent,2019.0
+21,Health,Summary exposure value tobacco,C2_Workplace closing,Dominica,DMA,12.01604,Rate (risk-weighted prevalence),2019.0
+22,Governance,Total freedom in the world score ,C2_Workplace closing,Dominica,DMA,93.0,score,2021.0
+23,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Dominica,DMA,77.8927614955628,proportion,2015.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,Dominica,DMA,0.6863382,score,2019.0
+26,Economics,Volume of imports,C2_Workplace closing,Dominica,DMA,-7.425,percent change,2020.0
+28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Dominica,DMA,0.047509,percent,2019.0
+29,Health,Prevalence of Diabetes,C2_Workplace closing,Dominica,DMA,0.134971,percent,2019.0
+30,Demographics,Urban population (% of total population),C2_Workplace closing,Dominica,DMA,70.786,total,2019.0
+32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Dominica,DMA,0.035738,percent,2019.0
+34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Dominica,DMA,99.0,percent,2019.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Dominica,DMA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Dominica,DMA,0.119529,percent,2019.0
+40,Governance,Serious assault (rate),C2_Workplace closing,Dominica,DMA,103.31,rate,2018.0
+41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Dominica,DMA,16.0,Cases,2019.0
+44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Dominica,DMA,1.1189,Ones,2017.0
+46,Health,Prevalence of obesity,C2_Workplace closing,Dominica,DMA,27.9,percent,2016.0
+51,Environment,Access to electricity ,C2_Workplace closing,Dominica,DMA,100.0,percent of population,2018.0
+52,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Dominica,DMA,4.0,rating,2019.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,Dominica,DMA,9817.847593582886,per 1 million people,2019.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Dominica,DMA,34.375,proportion,2020.0
+59,Social issues ,Progression to secondary school (%),C2_Workplace closing,Dominica,DMA,96.16173,proportion,2014.0
+63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Dominica,DMA,37.0,score,2021.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Dominica,DMA,2660.0,number,2019.0
+65,Governance,Human Development Index,C2_Workplace closing,Dominica,DMA,0.742,index,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Dominica,DMA,92.0,percent,2019.0
+68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Dominica,DMA,0.295447,percent,2019.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Dominica,DMA,1.073779,score,2019.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,Dominica,DMA,0.5262952,score,2019.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,Dominica,DMA,0.1019005,score,2019.0
+77,Health,Prevalence of down syndrome,C2_Workplace closing,Dominica,DMA,0.000324,percent,2019.0
+82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Dominica,DMA,0.003627,percent,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Dominica,DMA,105.788,per 100 people,2019.0
+85,Demographics,"Population, total",C2_Workplace closing,Dominica,DMA,71808.0,total,2019.0
+86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Dominica,DMA,26.588301147,"proportion, pero 100,000 people",2017.0
+91,Social issues ,"Primary completion rate, total (% of relevant age group)",C2_Workplace closing,Dominica,DMA,113.926696777344,proportion,2016.0
+92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Dominica,DMA,19.49315,micrograms per cubic meter,2017.0
+96,Demographics,Rural population (% of total population),C2_Workplace closing,Dominica,DMA,29.214,proportion,2019.0
+97,Governance,Corruption Perceptions Index,C2_Workplace closing,Dominica,DMA,55.0,score,2020.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,Dominica,DMA,7.82979664019173,percent of total final energy consumption,2015.0

@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+ZAF,H7_Vaccination policy,0.12108966364697887,1
+ZAF,E2_Debt/contract relief,0.08911083539923714,2
+ZAF,C2_Workplace closing,0.08283830730815091,3
+ZAF,C4_Restrictions on gatherings,0.07736713763179748,4
+ZAF,C5_Close public transport,0.07554012909351124,5
+ZAF,C7_Restrictions on internal movement,0.06890424350649989,6
+ZAF,C6_Stay at home requirements,0.06789986549142762,7
+ZAF,C1_School closing,0.05867849689296584,8
+ZAF,C3_Cancel public events,0.05150546939102709,9
+ZAF,C8_International travel controls,0.04984938756964609,10
+ZAF,H6_Facial Coverings,0.04533174315128477,11
+ZAF,E1_Income support,0.034364298257308745,12
+ZAF,H2_Testing policy,0.033621707070522575,13
+ZAF,H3_Contact tracing,0.027913625846446185,14
+ZAF,H1_Public information campaigns,0.023051801248244883,15

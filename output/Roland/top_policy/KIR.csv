@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+KIR,H6_Facial Coverings,0.10545586346023113,1
+KIR,H7_Vaccination policy,0.0987747639883403,2
+KIR,E1_Income support,0.0874961453276795,3
+KIR,H3_Contact tracing,0.05795638973630115,4
+KIR,H2_Testing policy,0.05493603771922041,5
+KIR,H1_Public information campaigns,0.04676404060674843,6
+KIR,C2_Workplace closing,0.04333989040774027,7
+KIR,E2_Debt/contract relief,0.03724486132886964,8
+KIR,C8_International travel controls,0.03297568644402312,9
+KIR,C7_Restrictions on internal movement,0.029377108423292737,10
+KIR,C5_Close public transport,0.020383543263279482,11
+KIR,C4_Restrictions on gatherings,0.015187916191290859,12
+KIR,C3_Cancel public events,0.006807592571064722,13
+KIR,C1_School closing,0.002572154266779575,14
+KIR,C6_Stay at home requirements,0.0,15

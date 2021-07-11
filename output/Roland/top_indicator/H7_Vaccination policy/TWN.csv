@@ -1,0 +1,34 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+2,Governance,Corruption Perceptions Index,H7_Vaccination policy,Taiwan,TWN,65.0,score,2020.0
+4,Economics,"Foreign direct investment, net",H7_Vaccination policy,Taiwan,TWN,8245000000.0,US Dollar,2019.0
+7,Social issues ,Press freedom score,H7_Vaccination policy,Taiwan,TWN,23.76,score,2020.0
+14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Taiwan,TWN,0.400737,percent,2019.0
+15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Taiwan,TWN,0.7195977,score,2019.0
+20,Health,Summary exposure value tobacco,H7_Vaccination policy,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
+21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Taiwan,TWN,0.04188,percent,2019.0
+22,Governance,Rule of law estimate ,H7_Vaccination policy,Taiwan,TWN,1.141121,score,2019.0
+28,Health,Prevalence of total cancers,H7_Vaccination policy,Taiwan,TWN,0.025099,percent,2019.0
+29,Governance,Total freedom in the world score ,H7_Vaccination policy,Taiwan,TWN,94.0,score,2021.0
+30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Taiwan,TWN,56.0,score,2021.0
+33,Governance,Personal Freedom Score ,H7_Vaccination policy,Taiwan,TWN,8.9,score,2018.0
+39,Governance,Economic Freedom Score,H7_Vaccination policy,Taiwan,TWN,7.94,score,2018.0
+43,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H7_Vaccination policy,Taiwan,TWN,93781.7,international $ in PPP,2020.0
+45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Taiwan,TWN,0.162673,percent,2019.0
+51,Health,Prevalence of down syndrome,H7_Vaccination policy,Taiwan,TWN,8.69e-05,percent,2019.0
+53,Social issues ,Life Ladder ,H7_Vaccination policy,Taiwan,TWN,6.584400177001953,score,2021.0
+55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Taiwan,TWN,38.0,score,2021.0
+56,Governance,Control of corruption estimate,H7_Vaccination policy,Taiwan,TWN,1.045266,score,2019.0
+65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Taiwan,TWN,0.035913,percent,2019.0
+69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Taiwan,TWN,0.004969,percent,2019.0
+70,Health,Prevalence of Diabetes,H7_Vaccination policy,Taiwan,TWN,0.084017,percent,2019.0
+82,Governance,Voice and accountability estimate,H7_Vaccination policy,Taiwan,TWN,0.9959083,score,2019.0
+84,Governance,Government effectiveness estimate,H7_Vaccination policy,Taiwan,TWN,1.436754,score,2019.0
+85,Economics,Expenditure on social protection (% of GDP),H7_Vaccination policy,Taiwan,TWN,3.2,percent,2018.0
+89,Economics,Expenditure on education (% of GDP),H7_Vaccination policy,Taiwan,TWN,1.5,percent,2018.0
+90,Governance,Human Freedom Score ,H7_Vaccination policy,Taiwan,TWN,8.42,score,2018.0
+92,Economics,Expenditure on health (% of GDP),H7_Vaccination policy,Taiwan,TWN,0.1,percent,2018.0
+97,Governance,Regulatory quality estimate,H7_Vaccination policy,Taiwan,TWN,1.40276,score,2019.0
+98,Economics,"Trade, total as % of GDP",H7_Vaccination policy,Taiwan,TWN,100.6416,percent,2019.0
+106,Economics,"Lending interest rates, percent per annum",H7_Vaccination policy,Taiwan,TWN,2.631,percent per annum,2019.0
+107,Economics,"International tourism, receipts",H7_Vaccination policy,Taiwan,TWN,14373000000.0,US Dollar,2019.0
+108,Economics,Stock market capitalization (US$ million),H7_Vaccination policy,Taiwan,TWN,1177469.684,percent,2019.0

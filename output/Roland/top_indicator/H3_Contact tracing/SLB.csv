@@ -1,0 +1,69 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H3_Contact tracing,Solomon Islands,SLB,11.9242,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,H3_Contact tracing,Solomon Islands,SLB,42.0,score,2020.0
+3,Health,Prevalence of COVID-19,H3_Contact tracing,Solomon Islands,SLB,17.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Economics,"Foreign direct investment, net",H3_Contact tracing,Solomon Islands,SLB,30141250.0,US Dollar,2019.0
+5,Demographics,Secure Internet servers ,H3_Contact tracing,Solomon Islands,SLB,56.73140516225928,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,H3_Contact tracing,Solomon Islands,SLB,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Solomon Islands,SLB,0.402332,percent,2019.0
+9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Solomon Islands,SLB,71.3795,per 100 people,2019.0
+10,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Solomon Islands,SLB,82.0459976,Percentage of females of the total population,2020.0
+11,Governance,Government effectiveness estimate,H3_Contact tracing,Solomon Islands,SLB,-0.9972016,score,2019.0
+13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Solomon Islands,SLB,49.0,score,2021.0
+14,Health,Summary exposure value tobacco,H3_Contact tracing,Solomon Islands,SLB,28.8539,Rate (risk-weighted prevalence),2019.0
+15,Environment,CO2 emissions (kt),H3_Contact tracing,Solomon Islands,SLB,168.682,kt,2016.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Solomon Islands,SLB,53.3909988,Percentage of total employment,2020.0
+19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Solomon Islands,SLB,0.156011,per 100 people,2019.0
+21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Solomon Islands,SLB,2.1642,Ones,2018.0
+23,Economics,"Central government debt, total",H3_Contact tracing,Solomon Islands,SLB,6.263816263101899,percent of GDP,2016.0
+26,Demographics,Age dependency ratio (% of working-age population),H3_Contact tracing,Solomon Islands,SLB,77.8157395240181,proportion,2019.0
+28,Social issues ,Net migration,H3_Contact tracing,Solomon Islands,SLB,-7998.0,net total / data are 5 year estimates,2019.0
+29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Solomon Islands,SLB,0.501784,score,2019.0
+30,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Solomon Islands,SLB,4.0,percent,2020.0
+31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Solomon Islands,SLB,0.038259,percent,2019.0
+32,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Solomon Islands,SLB,11.87912,micrograms per cubic meter,2017.0
+33,Health,Prevalence of Diabetes,H3_Contact tracing,Solomon Islands,SLB,0.071141,percent,2019.0
+34,Governance,Human Development Index,H3_Contact tracing,Solomon Islands,SLB,0.567,index,2019.0
+35,Governance,Fragile States Index Total ,H3_Contact tracing,Solomon Islands,SLB,79.74524648137532,score,2020.0
+37,Environment,Renewable energy consumption ,H3_Contact tracing,Solomon Islands,SLB,63.3074463971862,percent of total final energy consumption,2015.0
+39,Governance,Control of corruption estimate,H3_Contact tracing,Solomon Islands,SLB,-0.007404,score,2019.0
+40,Social issues ,Progression to secondary school (%),H3_Contact tracing,Solomon Islands,SLB,88.21561,proportion,2017.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Solomon Islands,SLB,81.0,percent,2019.0
+43,Demographics,Rural population (% of total population),H3_Contact tracing,Solomon Islands,SLB,75.78999999999999,proportion,2019.0
+44,Economics,Volume of imports,H3_Contact tracing,Solomon Islands,SLB,4.121,percent change,2020.0
+45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Solomon Islands,SLB,0.272315,metric tons per capita,2016.0
+46,Governance,Voice and accountability estimate,H3_Contact tracing,Solomon Islands,SLB,0.5980533,score,2019.0
+48,Health,Prevalence of total cancers,H3_Contact tracing,Solomon Islands,SLB,0.007079,percent,2019.0
+49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Solomon Islands,SLB,0.1937,Ones,2016.0
+51,Environment,Access to electricity ,H3_Contact tracing,Solomon Islands,SLB,66.6660995483398,percent of population,2018.0
+52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Solomon Islands,SLB,0.542,percent of total labor force,2020.0
+53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Solomon Islands,SLB,99.9175631944289,percent of total,2017.0
+54,Health,Prevalence of obesity,H3_Contact tracing,Solomon Islands,SLB,22.5,percent,2016.0
+58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Solomon Islands,SLB,0.069234,percent,2019.0
+59,Governance,Rule of law estimate ,H3_Contact tracing,Solomon Islands,SLB,-0.1398676,score,2019.0
+60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Solomon Islands,SLB,30.0,score,2021.0
+63,Demographics,"Population, total",H3_Contact tracing,Solomon Islands,SLB,669823.0,total,2019.0
+66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Solomon Islands,SLB,0.025548,percent,2019.0
+68,Governance,Total freedom in the world score ,H3_Contact tracing,Solomon Islands,SLB,79.0,score,2021.0
+70,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Solomon Islands,SLB,83.8059998,Percentage of total population,2020.0
+73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Solomon Islands,SLB,66.0,Cases,2019.0
+74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Solomon Islands,SLB,7104.0,number,2019.0
+75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Solomon Islands,SLB,94.0,percent,2019.0
+76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Solomon Islands,SLB,3.5,percent,2018.0
+77,Health,Prevalence of down syndrome,H3_Contact tracing,Solomon Islands,SLB,0.000212,percent,2019.0
+78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Solomon Islands,SLB,0.000931,percent,2019.0
+79,Economics,Volume of exports,H3_Contact tracing,Solomon Islands,SLB,2.325,percent change,2020.0
+82,Governance,Regulatory quality estimate,H3_Contact tracing,Solomon Islands,SLB,-0.8322486,score,2019.0
+83,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Solomon Islands,SLB,29.3,percent,2020.0
+84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Solomon Islands,SLB,6.12244898,proportion,2020.0
+85,Economics,"Trade, total as % of GDP",H3_Contact tracing,Solomon Islands,SLB,66.31199,percent,2017.0
+86,Demographics,Urban population (% of total population),H3_Contact tracing,Solomon Islands,SLB,24.21,total,2019.0
+87,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H3_Contact tracing,Solomon Islands,SLB,4302.5,international $ in PPP,2020.0
+88,Demographics,Refugee population by country or territory of asylum,H3_Contact tracing,Solomon Islands,SLB,5.0,proportion,2015.0
+90,Social issues ,"Primary completion rate, total (% of relevant age group)",H3_Contact tracing,Solomon Islands,SLB,86.7856674194336,proportion,2018.0
+100,Economics,"Lending interest rates, percent per annum",H3_Contact tracing,Solomon Islands,SLB,10.74865,percent per annum,2018.0
+106,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,Solomon Islands,SLB,33.5283536272378,proportion,2017.0
+108,Demographics,People with basic handwashing facilities including soap and water (% of population),H3_Contact tracing,Solomon Islands,SLB,35.8896731801542,proportion,2017.0
+112,Demographics,"Age dependency ratio, old (% of working-age population)",H3_Contact tracing,Solomon Islands,SLB,6.456151528424853,proportion,2019.0
+115,Economics,"International tourism, receipts",H3_Contact tracing,Solomon Islands,SLB,70000000.0,US Dollar,2019.0
+117,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H3_Contact tracing,Solomon Islands,SLB,3.0,rating,2019.0

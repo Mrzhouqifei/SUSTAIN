@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,Germany,DEU,88.1345,percent of population,2019.0
+2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Germany,DEU,3.0250001,percent of total labor force,2020.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,Germany,DEU,1471238.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Voice and accountability estimate,C2_Workplace closing,Germany,DEU,1.335724,score,2019.0
+5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Germany,DEU,8.9,percent,2018.0
+6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Germany,DEU,72.052002,Percentage of total employment,2020.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,Germany,DEU,727972.8,kt,2016.0
+8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Germany,DEU,13.2352,Ones,2017.0
+9,Social issues ,Gini index (World Bank estimate),C2_Workplace closing,Germany,DEU,31.9,index ,2016.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,Germany,DEU,1.585309,score,2019.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Germany,DEU,41.9933,per 100 people,2019.0
+12,Economics,Volume of exports,C2_Workplace closing,Germany,DEU,3.798,percent change,2020.0
+13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Germany,DEU,55.0,score,2021.0
+14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Germany,DEU,1.6,percent,2020.0
+15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Germany,DEU,89.1743564300489,percent of total,2017.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Germany,DEU,8.840129,metric tons per capita,2016.0
+17,Social issues ,Life Ladder ,C2_Workplace closing,Germany,DEU,7.1545000076293945,score,2021.0
+18,Governance,Economic Freedom Score,C2_Workplace closing,Germany,DEU,7.85,score,2018.0
+19,Health,Prevalence of total cancers,C2_Workplace closing,Germany,DEU,0.03995,percent,2019.0
+20,Social issues ,Net migration,C2_Workplace closing,Germany,DEU,2719112.0,net total / data are 5 year estimates,2019.0
+21,Health,Summary exposure value tobacco,C2_Workplace closing,Germany,DEU,24.87317,Rate (risk-weighted prevalence),2019.0
+22,Governance,Total freedom in the world score ,C2_Workplace closing,Germany,DEU,94.0,score,2021.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,Germany,DEU,1.618773,score,2019.0
+26,Economics,Volume of imports,C2_Workplace closing,Germany,DEU,4.695,percent change,2020.0
+27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Germany,DEU,168389000000.0,kWh,2015.0
+28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Germany,DEU,0.070739,percent,2019.0
+29,Health,Prevalence of Diabetes,C2_Workplace closing,Germany,DEU,0.137525,percent,2019.0
+31,Social issues ,Proportion of women in managerial positions (%),C2_Workplace closing,Germany,DEU,29.39,percent,2018.0
+32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Germany,DEU,0.043177,percent,2019.0
+33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Germany,DEU,55.06305316810381,percent of total,2015.0
+34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Germany,DEU,93.0,percent,2019.0
+35,Environment,Electricity production from coal sources ,C2_Workplace closing,Germany,DEU,44.26280916178212,percent of total,2015.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,Germany,DEU,25640.0,"Number (cumulative total by Dec 26,2020)",2020.0
+37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Germany,DEU,0.122693,percent,2019.0
+39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Germany,DEU,3817.549414554608,kg of oil equivalent per capita,2015.0
+40,Governance,Serious assault (rate),C2_Workplace closing,Germany,DEU,164.48,rate,2018.0
+41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Germany,DEU,5.8,Cases,2019.0
+42,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Germany,DEU,14.4384263548029,percent of GNI,2018.0
+43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Germany,DEU,4.1,percent,2020.0
+44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Germany,DEU,4.2488,Ones,2017.0
+45,Environment,Electricity production from oil sources,C2_Workplace closing,Germany,DEU,0.9686926160005117,percent of total,2015.0
+46,Health,Prevalence of obesity,C2_Workplace closing,Germany,DEU,22.3,percent,2016.0
+48,Social issues ,Press freedom score,C2_Workplace closing,Germany,DEU,12.16,score,2020.0
+50,Governance,Human Freedom Score ,C2_Workplace closing,Germany,DEU,8.52,score,2018.0
+51,Environment,Access to electricity ,C2_Workplace closing,Germany,DEU,100.0,percent of population,2018.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,Germany,DEU,77932.67011255088,per 1 million people,2019.0
+54,Environment,Fossil fuel energy consumption,C2_Workplace closing,Germany,DEU,78.86255,percent of total,2015.0
+55,Governance,Fragile States Index Total ,C2_Workplace closing,Germany,DEU,23.188488518886743,score,2020.0
+57,Environment,Electric power consumption ,C2_Workplace closing,Germany,DEU,7035.48297471676,kWh per capita,2014.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Germany,DEU,31.17066291,proportion,2020.0
+61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Germany,DEU,60.7789993,Percentage of total population,2020.0
+63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Germany,DEU,39.0,score,2021.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Germany,DEU,40400000.0,number,2019.0
+65,Governance,Human Development Index,C2_Workplace closing,Germany,DEU,0.947,index,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Germany,DEU,97.0,percent,2019.0
+68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Germany,DEU,0.120647,percent,2019.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Germany,DEU,0.5828653,score,2019.0
+71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Germany,DEU,55.2949982,Percentage of females of the total population,2020.0
+72,Governance,Personal Freedom Score ,C2_Workplace closing,Germany,DEU,9.19,score,2018.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,Germany,DEU,1.895473,score,2019.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,Germany,DEU,1.72305,score,2019.0
+77,Health,Prevalence of down syndrome,C2_Workplace closing,Germany,DEU,0.000488,percent,2019.0
+82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Germany,DEU,0.004259,percent,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Germany,DEU,128.357,per 100 people,2019.0
+84,Environment,Combustible renewables and waste,C2_Workplace closing,Germany,DEU,4.069535,percent of total energy,2015.0
+86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Germany,DEU,0.9479766191,"proportion, pero 100,000 people",2018.0
+89,Environment,Energy use ,C2_Workplace closing,Germany,DEU,74.30740681793812,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Germany,DEU,12.02877,micrograms per cubic meter,2017.0
+94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Germany,DEU,14.31992598682927,percent of total,2015.0
+97,Governance,Corruption Perceptions Index,C2_Workplace closing,Germany,DEU,80.0,score,2020.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,Germany,DEU,14.2062526977772,percent of total final energy consumption,2015.0
+117,Environment,"Energy imports, net ",C2_Workplace closing,Germany,DEU,61.40016936873751,percent of energy use,2015.0

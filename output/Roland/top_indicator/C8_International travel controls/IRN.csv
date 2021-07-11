@@ -1,0 +1,74 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C8_International travel controls,Iran (Islamic Republic of),IRN,70.0046,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C8_International travel controls,Iran (Islamic Republic of),IRN,25.0,score,2020.0
+3,Health,Prevalence of COVID-19,C8_International travel controls,Iran (Islamic Republic of),IRN,1145651.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Demographics,Secure Internet servers ,C8_International travel controls,Iran (Islamic Republic of),IRN,1035.073658211205,per 1 million people,2019.0
+6,Health,Prevalence of down syndrome,C8_International travel controls,Iran (Islamic Republic of),IRN,0.000305,percent,2019.0
+7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Iran (Islamic Republic of),IRN,0.003523,percent,2019.0
+8,Health,Mortality due to COVID-19,C8_International travel controls,Iran (Islamic Republic of),IRN,53273.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Social issues ,Press freedom score,C8_International travel controls,Iran (Islamic Republic of),IRN,64.81,score,2020.0
+10,Health,Prevalence of anxiety disorders,C8_International travel controls,Iran (Islamic Republic of),IRN,0.078518,percent,2019.0
+11,Environment,"Energy imports, net ",C8_International travel controls,Iran (Islamic Republic of),IRN,-33.39527219269894,percent of energy use,2014.0
+12,Health,Summary exposure value tobacco,C8_International travel controls,Iran (Islamic Republic of),IRN,23.79375,Rate (risk-weighted prevalence),2019.0
+13,Health,Prevalence of total cancers,C8_International travel controls,Iran (Islamic Republic of),IRN,0.007306,percent,2019.0
+14,Governance,Control of corruption estimate,C8_International travel controls,Iran (Islamic Republic of),IRN,-1.047961,score,2019.0
+15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Iran (Islamic Republic of),IRN,10.4038,per 100 people,2019.0
+17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Iran (Islamic Republic of),IRN,13.0,Cases,2019.0
+18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Iran (Islamic Republic of),IRN,5.797101449,proportion,2020.0
+19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Iran (Islamic Republic of),IRN,236000000.0,kWh,2015.0
+20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Iran (Islamic Republic of),IRN,20.46,percent,2018.0
+21,Social issues ,Net migration,C8_International travel controls,Iran (Islamic Republic of),IRN,-274998.0,net total / data are 5 year estimates,2019.0
+22,Governance,Government effectiveness estimate,C8_International travel controls,Iran (Islamic Republic of),IRN,-0.5535024,score,2019.0
+24,Health,Prevalence of obesity,C8_International travel controls,Iran (Islamic Republic of),IRN,25.8,percent,2016.0
+25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Iran (Islamic Republic of),IRN,99.0,percent,2019.0
+27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Iran (Islamic Republic of),IRN,10.0,score,2021.0
+28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Iran (Islamic Republic of),IRN,6.3,percent,2020.0
+29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Iran (Islamic Republic of),IRN,51.8590012,Percentage of total employment,2020.0
+30,Social issues ,Life Ladder ,C8_International travel controls,Iran (Islamic Republic of),IRN,4.721199989318848,score,2021.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Iran (Islamic Republic of),IRN,4.0,percent,2018.0
+32,Environment,Renewable energy consumption ,C8_International travel controls,Iran (Islamic Republic of),IRN,0.913005056748309,percent of total final energy consumption,2015.0
+33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Iran (Islamic Republic of),IRN,1.5844,Ones,2018.0
+34,Governance,Fragile States Index Total ,C8_International travel controls,Iran (Islamic Republic of),IRN,83.3866086520676,score,2020.0
+35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Iran (Islamic Republic of),IRN,6.0,score,2021.0
+36,Environment,Electricity production from coal sources ,C8_International travel controls,Iran (Islamic Republic of),IRN,0.1646278235275253,percent of total,2015.0
+37,Environment,Energy use ,C8_International travel controls,Iran (Islamic Republic of),IRN,234.7182183134599,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Iran (Islamic Republic of),IRN,142.39,per 100 people,2019.0
+41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Iran (Islamic Republic of),IRN,99.0,percent,2019.0
+42,Health,Prevalence of Diabetes,C8_International travel controls,Iran (Islamic Republic of),IRN,0.066478,percent,2019.0
+43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Iran (Islamic Republic of),IRN,17.3439999,Percentage of females of the total population,2020.0
+44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Iran (Islamic Republic of),IRN,100.0,percent of total,2017.0
+45,Governance,Personal Freedom Score ,C8_International travel controls,Iran (Islamic Republic of),IRN,4.26,score,2018.0
+46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Iran (Islamic Republic of),IRN,9.4,percent,2020.0
+47,Environment,Electric power consumption ,C8_International travel controls,Iran (Islamic Republic of),IRN,3022.122562985995,kWh per capita,2014.0
+48,Environment,Fossil fuel energy consumption,C8_International travel controls,Iran (Islamic Republic of),IRN,99.02258,percent of total,2014.0
+49,Governance,Human Freedom Score ,C8_International travel controls,Iran (Islamic Republic of),IRN,4.53,score,2018.0
+50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Iran (Islamic Republic of),IRN,8.316701,metric tons per capita,2016.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Iran (Islamic Republic of),IRN,2.4991683746,"proportion, pero 100,000 people",2014.0
+52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Iran (Islamic Republic of),IRN,0.103674,percent,2019.0
+55,Governance,Voice and accountability estimate,C8_International travel controls,Iran (Islamic Republic of),IRN,-1.370054,score,2019.0
+56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Iran (Islamic Republic of),IRN,11.1809998,percent of total labor force,2020.0
+57,Governance,Regulatory quality estimate,C8_International travel controls,Iran (Islamic Republic of),IRN,-1.423137,score,2019.0
+58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Iran (Islamic Republic of),IRN,28954900.0,number,2019.0
+59,Governance,Rule of law estimate ,C8_International travel controls,Iran (Islamic Republic of),IRN,-0.7493721,score,2019.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Iran (Islamic Republic of),IRN,-1.698151,score,2019.0
+64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Iran (Islamic Republic of),IRN,40.8,index ,2017.0
+66,Environment,Electricity production from oil sources,C8_International travel controls,Iran (Islamic Republic of),IRN,14.42560212091949,percent of total,2015.0
+68,Health,Prevalence of Depressive disorders,C8_International travel controls,Iran (Islamic Republic of),IRN,0.054799,percent,2019.0
+69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Iran (Islamic Republic of),IRN,38.97876,micrograms per cubic meter,2017.0
+70,Economics,Volume of imports,C8_International travel controls,Iran (Islamic Republic of),IRN,-2.399,percent change,2020.0
+71,Governance,Human Development Index,C8_International travel controls,Iran (Islamic Republic of),IRN,0.783,index,2019.0
+73,Governance,Economic Freedom Score,C8_International travel controls,Iran (Islamic Republic of),IRN,4.8,score,2018.0
+74,Environment,Combustible renewables and waste,C8_International travel controls,Iran (Islamic Republic of),IRN,0.213015,percent of total energy,2014.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Iran (Islamic Republic of),IRN,44.3380013,Percentage of total population,2020.0
+76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Iran (Islamic Republic of),IRN,2.6286,Ones,2017.0
+78,Governance,Total freedom in the world score ,C8_International travel controls,Iran (Islamic Republic of),IRN,16.0,score,2021.0
+79,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Iran (Islamic Republic of),IRN,0.1,percent,2019.0
+80,Environment,Access to electricity ,C8_International travel controls,Iran (Islamic Republic of),IRN,100.0,percent of population,2018.0
+81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Iran (Islamic Republic of),IRN,3060.387046131211,kg of oil equivalent per capita,2014.0
+82,Economics,Volume of exports,C8_International travel controls,Iran (Islamic Republic of),IRN,4.348,percent change,2020.0
+85,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C8_International travel controls,Iran (Islamic Republic of),IRN,53206.4,international $ in PPP,2020.0
+86,Environment,CO2 emissions (kt),C8_International travel controls,Iran (Islamic Republic of),IRN,661710.2,kt,2016.0
+89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Iran (Islamic Republic of),IRN,0.319627,percent,2019.0
+91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Iran (Islamic Republic of),IRN,93.85674528654863,percent of total,2015.0
+99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Iran (Islamic Republic of),IRN,1.628497245174047,percent of total,2014.0
+104,Economics,Unemployment rate (%) - Annual,C8_International travel controls,Iran (Islamic Republic of),IRN,12.3,percent,2018.0

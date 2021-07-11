@@ -1,0 +1,72 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H1_Public information campaigns,Belize,BLZ,47.0826,percent of population,2019.0
+3,Demographics,Secure Internet servers ,H1_Public information campaigns,Belize,BLZ,42179.77061787664,per 1 million people,2019.0
+4,Health,Prevalence of COVID-19,H1_Public information campaigns,Belize,BLZ,9791.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Mortality due to COVID-19,H1_Public information campaigns,Belize,BLZ,213.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Summary exposure value tobacco,H1_Public information campaigns,Belize,BLZ,16.32674,Rate (risk-weighted prevalence),2019.0
+8,Social issues ,Net migration,H1_Public information campaigns,Belize,BLZ,6000.0,net total / data are 5 year estimates,2019.0
+9,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Belize,BLZ,1.1229,Ones,2017.0
+10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Belize,BLZ,65.3047,per 100 people,2019.0
+11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Belize,BLZ,8.0,percent,2020.0
+12,Social issues ,Life Ladder ,H1_Public information campaigns,Belize,BLZ,5.955646514892578,score,2014.0
+13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Belize,BLZ,7.58288,per 100 people,2019.0
+14,Economics,Volume of imports,H1_Public information campaigns,Belize,BLZ,7.819,percent change,2020.0
+16,Governance,Serious assault (rate),H1_Public information campaigns,Belize,BLZ,278.09,rate,2017.0
+17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Belize,BLZ,96.0,percent,2019.0
+18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Belize,BLZ,0.044091,percent,2019.0
+19,Economics,"Central government debt, total",H1_Public information campaigns,Belize,BLZ,78.48129660813086,percent of GDP,2014.0
+20,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Belize,BLZ,50.1679993,Percentage of females of the total population,2020.0
+21,Environment,CO2 emissions (kt),H1_Public information campaigns,Belize,BLZ,568.385,kt,2016.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Belize,BLZ,27.0,Cases,2019.0
+23,Environment,Renewable energy consumption ,H1_Public information campaigns,Belize,BLZ,35.0236296024311,percent of total final energy consumption,2015.0
+24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Belize,BLZ,34.0,score,2021.0
+25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Belize,BLZ,2.3414,Ones,2018.0
+27,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Belize,BLZ,-3.85242932616162,percent of GNI,2018.0
+28,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Belize,BLZ,67.6699982,Percentage of total employment,2020.0
+29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Belize,BLZ,23.01189,micrograms per cubic meter,2017.0
+31,Governance,Human Freedom Score ,H1_Public information campaigns,Belize,BLZ,6.92,score,2018.0
+32,Environment,Access to electricity ,H1_Public information campaigns,Belize,BLZ,99.5400161743164,percent of population,2018.0
+33,Social issues ,Proportion of women in managerial positions (%),H1_Public information campaigns,Belize,BLZ,51.08,percent,2017.0
+34,Health,Prevalence of down syndrome,H1_Public information campaigns,Belize,BLZ,0.000367,percent,2019.0
+38,Governance,Regulatory quality estimate,H1_Public information campaigns,Belize,BLZ,-0.5442569,score,2019.0
+39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Belize,BLZ,98.0,percent,2019.0
+40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Belize,BLZ,0.269858,percent,2019.0
+43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Belize,BLZ,100.0,percent of total,2017.0
+44,Social issues ,"Primary completion rate, total (% of relevant age group)",H1_Public information campaigns,Belize,BLZ,102.84693145752,proportion,2019.0
+45,Social issues ,Press freedom score,H1_Public information campaigns,Belize,BLZ,27.5,score,2020.0
+46,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Belize,BLZ,9.375,proportion,2020.0
+47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Belize,BLZ,53.0,score,2021.0
+48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Belize,BLZ,0.001632,percent,2019.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Belize,BLZ,6.35699987,percent of total labor force,2020.0
+50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Belize,BLZ,0.033159,percent,2019.0
+51,Governance,Human Development Index,H1_Public information campaigns,Belize,BLZ,0.716,index,2019.0
+52,Governance,Total freedom in the world score ,H1_Public information campaigns,Belize,BLZ,87.0,score,2021.0
+53,Health,Prevalence of obesity,H1_Public information campaigns,Belize,BLZ,24.1,percent,2016.0
+54,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Belize,BLZ,87.8585235497944,proportion,2017.0
+55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Belize,BLZ,0.0698153,score,2019.0
+56,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Belize,BLZ,13.3,percent,2020.0
+57,Demographics,Urban population (% of total population),H1_Public information campaigns,Belize,BLZ,45.866,total,2019.0
+59,Health,Prevalence of total cancers,H1_Public information campaigns,Belize,BLZ,0.005561,percent,2019.0
+60,Governance,Economic Freedom Score,H1_Public information campaigns,Belize,BLZ,6.6,score,2018.0
+61,Governance,Personal Freedom Score ,H1_Public information campaigns,Belize,BLZ,7.23,score,2018.0
+63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Belize,BLZ,18500.0,number,2019.0
+64,Economics,Volume of exports,H1_Public information campaigns,Belize,BLZ,3.394,percent change,2020.0
+65,Governance,Fragile States Index Total ,H1_Public information campaigns,Belize,BLZ,60.79466738189765,score,2020.0
+67,Demographics,Refugee population by country or territory of asylum,H1_Public information campaigns,Belize,BLZ,29.0,proportion,2019.0
+68,Health,Prevalence of Diabetes,H1_Public information campaigns,Belize,BLZ,0.053475,percent,2019.0
+69,Governance,Control of corruption estimate,H1_Public information campaigns,Belize,BLZ,-0.1960228,score,2019.0
+71,Governance,Voice and accountability estimate,H1_Public information campaigns,Belize,BLZ,0.5317144,score,2019.0
+72,Governance,Rule of law estimate ,H1_Public information campaigns,Belize,BLZ,-0.7755125,score,2019.0
+73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Belize,BLZ,1.542847,metric tons per capita,2016.0
+74,Demographics,People with basic handwashing facilities including soap and water (% of population),H1_Public information campaigns,Belize,BLZ,90.082766643261,proportion,2017.0
+78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Belize,BLZ,0.076029,percent,2019.0
+85,Demographics,Rural population (% of total population),H1_Public information campaigns,Belize,BLZ,54.134,proportion,2019.0
+87,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Belize,BLZ,7.439281756923426,proportion,2019.0
+90,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Belize,BLZ,52.83926061370159,proportion,2019.0
+94,Governance,Government effectiveness estimate,H1_Public information campaigns,Belize,BLZ,-0.6767014,score,2019.0
+103,Demographics,"Population, total",H1_Public information campaigns,Belize,BLZ,390353.0,total,2019.0
+105,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Belize,BLZ,65.1669998,Percentage of total population,2020.0
+109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Belize,BLZ,3.9,percent,2018.0
+110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Belize,BLZ,37.788570288,"proportion, pero 100,000 people",2017.0
+113,Health,Hospital beds (per 10 000 population),H1_Public information campaigns,Belize,BLZ,10.4,Ones,2016.0
+116,Social issues ,Progression to secondary school (%),H1_Public information campaigns,Belize,BLZ,97.35556,proportion,2017.0

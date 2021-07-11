@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+MRT,H6_Facial Coverings,0.09761712533812338,1
+MRT,H3_Contact tracing,0.0970331837354495,2
+MRT,C6_Stay at home requirements,0.09330278256822616,3
+MRT,C8_International travel controls,0.07836736720723386,4
+MRT,C4_Restrictions on gatherings,0.06803859493864244,5
+MRT,C2_Workplace closing,0.06109311771280607,6
+MRT,C3_Cancel public events,0.060012486200654976,7
+MRT,E2_Debt/contract relief,0.05869771861428433,8
+MRT,E1_Income support,0.05163217710978752,9
+MRT,C1_School closing,0.04089057580050142,10
+MRT,H7_Vaccination policy,0.04040839759692818,11
+MRT,H2_Testing policy,0.03735806529801525,12
+MRT,C5_Close public transport,0.03646067403525438,13
+MRT,C7_Restrictions on internal movement,0.033665523740527045,14
+MRT,H1_Public information campaigns,0.030628949554560875,15

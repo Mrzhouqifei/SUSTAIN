@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+ETH,H7_Vaccination policy,0.09638867485156097,1
+ETH,C5_Close public transport,0.08874989289602363,2
+ETH,E2_Debt/contract relief,0.07908718478695873,3
+ETH,C2_Workplace closing,0.06362635193484603,4
+ETH,C7_Restrictions on internal movement,0.06314353042007287,5
+ETH,C3_Cancel public events,0.06190324766559231,6
+ETH,H3_Contact tracing,0.054083724584071485,7
+ETH,C8_International travel controls,0.052952123820163184,8
+ETH,C1_School closing,0.05243149612473463,9
+ETH,H6_Facial Coverings,0.04600474328040517,10
+ETH,C6_Stay at home requirements,0.04231871778836602,11
+ETH,C4_Restrictions on gatherings,0.040237307860132715,12
+ETH,E1_Income support,0.03075187199126723,13
+ETH,H1_Public information campaigns,0.017781238210137645,14
+ETH,H2_Testing policy,0.014165907419616796,15

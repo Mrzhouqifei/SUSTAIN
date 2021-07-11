@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+RUS,H7_Vaccination policy,0.11517146380244865,1
+RUS,C4_Restrictions on gatherings,0.09250518678812532,2
+RUS,E1_Income support,0.08942539279694864,3
+RUS,C8_International travel controls,0.06559464110214218,4
+RUS,C2_Workplace closing,0.06407064042631655,5
+RUS,C6_Stay at home requirements,0.059005220724024074,6
+RUS,H6_Facial Coverings,0.054992006425704364,7
+RUS,C7_Restrictions on internal movement,0.05383654733907232,8
+RUS,C1_School closing,0.04752147679651767,9
+RUS,H2_Testing policy,0.03749705316676583,10
+RUS,E2_Debt/contract relief,0.029926627326527674,11
+RUS,H3_Contact tracing,0.022426711850185296,12
+RUS,C3_Cancel public events,0.02026606110996482,13
+RUS,H1_Public information campaigns,0.004583954729326703,14
+RUS,C5_Close public transport,0.0,15

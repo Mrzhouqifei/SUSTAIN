@@ -1,0 +1,66 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E3_Fiscal measures,Angola,AGO,0.0,percent of population,2021
+2,Governance,Corruption Perceptions Index,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+3,Health,Prevalence of COVID-19,E3_Fiscal measures,Angola,AGO,0.0,"Number (cumulative total by Dec 26,2020)",2021
+5,Demographics,Secure Internet servers ,E3_Fiscal measures,Angola,AGO,0.0,per 1 million people,2021
+6,Demographics,Mobile cellular subscriptions,E3_Fiscal measures,Angola,AGO,0.0,number,2021
+7,Health,Mortality due to COVID-19,E3_Fiscal measures,Angola,AGO,0.0,"Number (cumulative total by Dec 26,2020)",2021
+8,Health,Summary exposure value tobacco,E3_Fiscal measures,Angola,AGO,0.0,Rate (risk-weighted prevalence),2021
+9,Social issues ,Proportion of women in managerial positions (%),E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+10,Environment,Energy use ,E3_Fiscal measures,Angola,AGO,0.0,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2021
+11,Governance,Human Development Index,E3_Fiscal measures,Angola,AGO,0.0,index,2021
+12,Health,"Immunization, measles (% of children ages 12-23 months)",E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+13,Environment,Electric power consumption ,E3_Fiscal measures,Angola,AGO,0.0,kWh per capita,2021
+15,Economics,"Central government debt, total",E3_Fiscal measures,Angola,AGO,0.0,percent of GDP,2021
+16,Environment,Electricity production from oil sources,E3_Fiscal measures,Angola,AGO,0.0,percent of total,2021
+17,Economics,Employment in services (% of total employment) (modeled ILO estimate),E3_Fiscal measures,Angola,AGO,0.0,Percentage of total employment,2021
+18,Demographics,Fixed broadband subscriptions,E3_Fiscal measures,Angola,AGO,0.0,number,2021
+19,Social issues ,Net migration,E3_Fiscal measures,Angola,AGO,0.0,net total / data are 5 year estimates,2021
+20,Health,"Incidence of tuberculosis (per 100,000 people)",E3_Fiscal measures,Angola,AGO,0.0,Cases,2021
+21,Governance,Rule of law estimate ,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+22,Governance,Regulatory quality estimate,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+23,Environment,"Adjusted net savings, including particulate emission damage",E3_Fiscal measures,Angola,AGO,0.0,percent of GNI,2021
+24,Environment,Renewable energy consumption ,E3_Fiscal measures,Angola,AGO,0.0,percent of total final energy consumption,2021
+25,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E3_Fiscal measures,Angola,AGO,0.0,Percentage of total population,2021
+26,Economics,Volume of imports,E3_Fiscal measures,Angola,AGO,0.0,percent change,2021
+27,Health,Prevalence of Hypertensive heart disease,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E3_Fiscal measures,Angola,AGO,0.0,Percentage of females of the total population,2021
+30,Health,Prevalence of down syndrome,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+32,Demographics,Fixed telephone subscriptions,E3_Fiscal measures,Angola,AGO,0.0,number,2021
+34,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+36,Environment,CO2 emissions (kt),E3_Fiscal measures,Angola,AGO,0.0,kt,2021
+37,Social issues ,"Intentional homicides (per 100,000 people)",E3_Fiscal measures,Angola,AGO,0.0,"proportion, pero 100,000 people",2021
+38,Health,"Prevalence of HIV, total (% of population ages 15-49)",E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+39,Governance,Political stability and absence of violence/terrorism estimate,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+41,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E3_Fiscal measures,Angola,AGO,0.0,percent of total labor force,2021
+43,Environment,Energy use (kg of oil equivalent per capita),E3_Fiscal measures,Angola,AGO,0.0,kg of oil equivalent per capita,2021
+44,Governance,Control of corruption estimate,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+45,Social issues ,Press freedom score,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+46,Health,"Physicians (per 1,000 people)",E3_Fiscal measures,Angola,AGO,0.0,Ones,2021
+47,Health,Prevalence of Depressive disorders,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+48,Health,Prevalence of anxiety disorders,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+49,Environment,"Electricity production from renewable sources, excluding hydroelectric",E3_Fiscal measures,Angola,AGO,0.0,kWh,2021
+50,Environment,"Energy imports, net ",E3_Fiscal measures,Angola,AGO,0.0,percent of energy use,2021
+53,Health,Prevalence of Respiratory infections and tuberculosis,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+54,Governance,Government effectiveness estimate,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+55,Environment,"Electricity production from oil, gas and coal sources",E3_Fiscal measures,Angola,AGO,0.0,percent of total,2021
+56,Health,Prevalence of chronic kidney disease,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+57,Health,"Nurses and midwives (per 1,000 people)",E3_Fiscal measures,Angola,AGO,0.0,Ones,2021
+59,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E3_Fiscal measures,Angola,AGO,0.0,rating,2021
+62,Governance,Voice and accountability estimate,E3_Fiscal measures,Angola,AGO,0.0,score,2021
+63,Environment,"PM2.5 air pollution, mean annual exposure",E3_Fiscal measures,Angola,AGO,0.0,micrograms per cubic meter,2021
+64,Health,Prevalence of total cancers,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+65,Environment,Electricity production from nuclear sources ,E3_Fiscal measures,Angola,AGO,0.0,percent of total,2021
+66,Environment,Fossil fuel energy consumption,E3_Fiscal measures,Angola,AGO,0.0,percent of total,2021
+67,Health,Prevalence of Diabetes,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+68,Environment,Access to electricity ,E3_Fiscal measures,Angola,AGO,0.0,percent of population,2021
+69,Environment,Electricity production from coal sources ,E3_Fiscal measures,Angola,AGO,0.0,percent of total,2021
+71,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+72,Health,"Immunization, DPT (% of children ages 12-23 months)",E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+75,Environment,CO2 emissions (metric tons per capita),E3_Fiscal measures,Angola,AGO,0.0,metric tons per capita,2021
+76,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+77,Social issues ,Gini index (World Bank estimate),E3_Fiscal measures,Angola,AGO,0.0,index ,2021
+80,Health,Prevalence of obesity,E3_Fiscal measures,Angola,AGO,0.0,percent,2021
+84,Economics,Volume of exports,E3_Fiscal measures,Angola,AGO,0.0,percent change,2021
+85,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E3_Fiscal measures,Angola,AGO,0.0,percent of total,2021
+87,Environment,Combustible renewables and waste,E3_Fiscal measures,Angola,AGO,0.0,percent of total energy,2021

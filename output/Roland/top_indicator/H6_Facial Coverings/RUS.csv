@@ -1,0 +1,73 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,H6_Facial Coverings,Russian Federation,RUS,82.6422,percent of population,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Russian Federation,RUS,0.232828,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Russian Federation,RUS,31952100.0,number,2019.0
+4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Russian Federation,RUS,67.8010025,Percentage of total employment,2020.0
+5,Health,Prevalence of COVID-19,H6_Facial Coverings,Russian Federation,RUS,2819429.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Russian Federation,RUS,0.039075,percent,2019.0
+7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Russian Federation,RUS,54.4099998,Percentage of females of the total population,2020.0
+8,Governance,Economic Freedom Score,H6_Facial Coverings,Russian Federation,RUS,6.74,score,2018.0
+10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Russian Federation,RUS,164.388,per 100 people,2019.0
+12,Governance,Personal Freedom Score ,H6_Facial Coverings,Russian Federation,RUS,5.88,score,2018.0
+13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Russian Federation,RUS,22.6422,per 100 people,2019.0
+14,Social issues ,Net migration,H6_Facial Coverings,Russian Federation,RUS,912279.0,net total / data are 5 year estimates,2019.0
+15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Russian Federation,RUS,0.001201,percent,2019.0
+16,Health,Mortality due to COVID-19,H6_Facial Coverings,Russian Federation,RUS,50347.0,"Number (cumulative total by Dec 26,2020)",2020.0
+17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Russian Federation,RUS,4.0139,Ones,2016.0
+18,Health,Prevalence of total cancers,H6_Facial Coverings,Russian Federation,RUS,0.019815,percent,2019.0
+19,Environment,Combustible renewables and waste,H6_Facial Coverings,Russian Federation,RUS,0.360182,percent of total energy,2014.0
+20,Governance,Total freedom in the world score ,H6_Facial Coverings,Russian Federation,RUS,20.0,score,2021.0
+21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Russian Federation,RUS,61.3520012,Percentage of total population,2020.0
+22,Environment,"Adjusted net savings, including particulate emission damage",H6_Facial Coverings,Russian Federation,RUS,8.23421995362435,percent of GNI,2018.0
+23,Health,Prevalence of obesity,H6_Facial Coverings,Russian Federation,RUS,23.1,percent,2016.0
+24,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,Russian Federation,RUS,37.5,index ,2018.0
+25,Health,Prevalence of down syndrome,H6_Facial Coverings,Russian Federation,RUS,0.000193,percent,2019.0
+26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Russian Federation,RUS,970000000.0,kWh,2015.0
+27,Social issues ,Life Ladder ,H6_Facial Coverings,Russian Federation,RUS,5.477200031280518,score,2021.0
+28,Governance,Control of corruption estimate,H6_Facial Coverings,Russian Federation,RUS,-0.8318732,score,2019.0
+29,Health,Summary exposure value tobacco,H6_Facial Coverings,Russian Federation,RUS,31.52149,Rate (risk-weighted prevalence),2019.0
+30,Governance,Fragile States Index Total ,H6_Facial Coverings,Russian Federation,RUS,72.55858319621083,score,2020.0
+31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Russian Federation,RUS,3.2,percent,2018.0
+33,Governance,Serious assault (rate),H6_Facial Coverings,Russian Federation,RUS,15.15,rate,2018.0
+34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Russian Federation,RUS,92.14288,percent of total,2014.0
+35,Environment,Electricity production from coal sources ,H6_Facial Coverings,Russian Federation,RUS,14.82165831630887,percent of total,2015.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Russian Federation,RUS,16.16022,micrograms per cubic meter,2017.0
+37,Environment,Renewable energy consumption ,H6_Facial Coverings,Russian Federation,RUS,3.30422835092973,percent of total final energy consumption,2015.0
+39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Russian Federation,RUS,50.0,Cases,2019.0
+40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Russian Federation,RUS,65.48122553661098,percent of total,2015.0
+42,Environment,CO2 emissions (kt),H6_Facial Coverings,Russian Federation,RUS,1732027.0,kt,2016.0
+43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Russian Federation,RUS,98.0,percent,2019.0
+44,Economics,Volume of imports,H6_Facial Coverings,Russian Federation,RUS,6.244,percent change,2020.0
+46,Social issues ,Press freedom score,H6_Facial Coverings,Russian Federation,RUS,48.92,score,2020.0
+47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Russian Federation,RUS,8.5429,Ones,2017.0
+48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Russian Federation,RUS,15.77777778,proportion,2020.0
+49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Russian Federation,RUS,0.035819,percent,2019.0
+50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Russian Federation,RUS,11.99943,metric tons per capita,2016.0
+52,Governance,Human Development Index,H6_Facial Coverings,Russian Federation,RUS,0.824,index,2019.0
+53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Russian Federation,RUS,30.0,score,2020.0
+55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Russian Federation,RUS,91.6093290043281,percent of total,2017.0
+56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Russian Federation,RUS,-0.542304,score,2019.0
+57,Governance,Voice and accountability estimate,H6_Facial Coverings,Russian Federation,RUS,-1.100082,score,2019.0
+58,Demographics,Secure Internet servers ,H6_Facial Coverings,Russian Federation,RUS,9339.024634951273,per 1 million people,2019.0
+59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Russian Federation,RUS,97.0,percent,2019.0
+60,Governance,Regulatory quality estimate,H6_Facial Coverings,Russian Federation,RUS,-0.4316224,score,2019.0
+61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Russian Federation,RUS,5.0,score,2021.0
+62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Russian Federation,RUS,8.209475626,"proportion, pero 100,000 people",2018.0
+64,Health,Prevalence of Diabetes,H6_Facial Coverings,Russian Federation,RUS,0.047853,percent,2019.0
+67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Russian Federation,RUS,15.0,score,2021.0
+68,Governance,Human Freedom Score ,H6_Facial Coverings,Russian Federation,RUS,6.31,score,2018.0
+69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Russian Federation,RUS,17.01509790244679,percent of total,2014.0
+70,Economics,Volume of exports,H6_Facial Coverings,Russian Federation,RUS,3.721,percent change,2020.0
+71,Environment,"Energy imports, net ",H6_Facial Coverings,Russian Federation,RUS,-83.67054072067974,percent of energy use,2014.0
+72,Economics,"Central government debt, total",H6_Facial Coverings,Russian Federation,RUS,14.24173957935482,percent of GDP,2016.0
+74,Governance,Government effectiveness estimate,H6_Facial Coverings,Russian Federation,RUS,0.1503649,score,2019.0
+75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Russian Federation,RUS,4.42500019,percent of total labor force,2020.0
+78,Environment,Access to electricity ,H6_Facial Coverings,Russian Federation,RUS,100.0,percent of population,2018.0
+82,Environment,Electricity production from oil sources,H6_Facial Coverings,Russian Federation,RUS,0.9469577890116863,percent of total,2015.0
+83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Russian Federation,RUS,0.155491,percent,2019.0
+86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Russian Federation,RUS,41.83,percent,2018.0
+91,Governance,Rule of law estimate ,H6_Facial Coverings,Russian Federation,RUS,-0.7236885,score,2019.0
+92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Russian Federation,RUS,4942.875517455312,kg of oil equivalent per capita,2014.0
+93,Environment,Energy use ,H6_Facial Coverings,Russian Federation,RUS,186.1737136228948,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+96,Environment,Electric power consumption ,H6_Facial Coverings,Russian Federation,RUS,6602.657525292821,kWh per capita,2014.0
+101,Health,COVID-19 vaccine administered,H6_Facial Coverings,Russian Federation,RUS,1150000.0,"Number (cumulative total by Dec 26,2020)",2020.0

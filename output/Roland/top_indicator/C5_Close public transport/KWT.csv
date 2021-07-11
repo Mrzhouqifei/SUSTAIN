@@ -1,0 +1,70 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C5_Close public transport,Kuwait,KWT,99.5427,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C5_Close public transport,Kuwait,KWT,42.0,score,2020.0
+3,Health,Prevalence of COVID-19,C5_Close public transport,Kuwait,KWT,147531.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Secure Internet servers ,C5_Close public transport,Kuwait,KWT,438.3084431659656,per 1 million people,2019.0
+6,Health,Mortality due to COVID-19,C5_Close public transport,Kuwait,KWT,916.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Social issues ,Net migration,C5_Close public transport,Kuwait,KWT,197600.0,net total / data are 5 year estimates,2019.0
+8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Kuwait,KWT,14.0,score,2021.0
+9,Social issues ,Life Ladder ,C5_Close public transport,Kuwait,KWT,6.106100082397461,score,2021.0
+10,Health,Prevalence of anxiety disorders,C5_Close public transport,Kuwait,KWT,0.052155,percent,2019.0
+11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Kuwait,KWT,2.01078,per 100 people,2019.0
+13,Health,Summary exposure value tobacco,C5_Close public transport,Kuwait,KWT,29.30509,Rate (risk-weighted prevalence),2019.0
+14,Health,Prevalence of Diabetes,C5_Close public transport,Kuwait,KWT,0.095441,percent,2019.0
+15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Kuwait,KWT,23.0,score,2021.0
+16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Kuwait,KWT,2.6463,Ones,2015.0
+17,Environment,CO2 emissions (kt),C5_Close public transport,Kuwait,KWT,98733.98,kt,2016.0
+18,Environment,Electricity production from coal sources ,C5_Close public transport,Kuwait,KWT,0.0,percent of total,2015.0
+19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Kuwait,KWT,0.159169,percent,2019.0
+20,Environment,Renewable energy consumption ,C5_Close public transport,Kuwait,KWT,0.0,percent of total final energy consumption,2015.0
+21,Environment,"Energy imports, net ",C5_Close public transport,Kuwait,KWT,-391.0584858196405,percent of energy use,2014.0
+22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Kuwait,KWT,22.0,Cases,2019.0
+23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Kuwait,KWT,18.8837257964463,percent of GNI,2018.0
+24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Kuwait,KWT,6.349206349,proportion,2020.0
+26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Kuwait,KWT,60.74516,micrograms per cubic meter,2017.0
+27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Kuwait,KWT,7.4145,Ones,2018.0
+28,Environment,Electric power consumption ,C5_Close public transport,Kuwait,KWT,15590.60413049138,kWh per capita,2014.0
+29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Kuwait,KWT,174.159,per 100 people,2019.0
+30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Kuwait,KWT,0.084807,percent,2019.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Kuwait,KWT,73.6610031,Percentage of total employment,2020.0
+32,Environment,Electricity production from oil sources,C5_Close public transport,Kuwait,KWT,63.5810830707618,percent of total,2015.0
+33,Social issues ,Proportion of women in managerial positions (%),C5_Close public transport,Kuwait,KWT,13.61,percent,2016.0
+34,Economics,Volume of imports,C5_Close public transport,Kuwait,KWT,3.584,percent change,2020.0
+35,Health,Prevalence of total cancers,C5_Close public transport,Kuwait,KWT,0.00651,percent,2019.0
+36,Governance,Rule of law estimate ,C5_Close public transport,Kuwait,KWT,0.215674,score,2019.0
+37,Health,Prevalence of down syndrome,C5_Close public transport,Kuwait,KWT,0.000279,percent,2019.0
+39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Kuwait,KWT,0.2003809,score,2019.0
+41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Kuwait,KWT,0.003101,percent,2019.0
+42,Health,Prevalence of Depressive disorders,C5_Close public transport,Kuwait,KWT,0.048968,percent,2019.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Kuwait,KWT,2.30299997,percent of total labor force,2020.0
+45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Kuwait,KWT,100.0,percent of total,2017.0
+46,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Kuwait,KWT,9178.885547073227,kg of oil equivalent per capita,2014.0
+48,Governance,Personal Freedom Score ,C5_Close public transport,Kuwait,KWT,6.18,score,2018.0
+50,Governance,Regulatory quality estimate,C5_Close public transport,Kuwait,KWT,0.0649239,score,2019.0
+51,Health,Prevalence of obesity,C5_Close public transport,Kuwait,KWT,37.9,percent,2016.0
+52,Governance,Government effectiveness estimate,C5_Close public transport,Kuwait,KWT,0.0184673,score,2019.0
+53,Governance,Voice and accountability estimate,C5_Close public transport,Kuwait,KWT,-0.6347895,score,2019.0
+54,Governance,Human Freedom Score ,C5_Close public transport,Kuwait,KWT,6.39,score,2018.0
+55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Kuwait,KWT,91.0,percent,2019.0
+56,Social issues ,Press freedom score,C5_Close public transport,Kuwait,KWT,34.3,score,2020.0
+57,Governance,Economic Freedom Score,C5_Close public transport,Kuwait,KWT,6.6,score,2018.0
+58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Kuwait,KWT,73.3639984,Percentage of total population,2020.0
+59,Environment,Energy use ,C5_Close public transport,Kuwait,KWT,162.035694398559,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+60,Governance,Human Development Index,C5_Close public transport,Kuwait,KWT,0.806,index,2019.0
+62,Governance,Total freedom in the world score ,C5_Close public transport,Kuwait,KWT,37.0,score,2021.0
+64,Governance,Control of corruption estimate,C5_Close public transport,Kuwait,KWT,-0.132789,score,2019.0
+65,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Kuwait,KWT,100.0,percent of total,2015.0
+68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Kuwait,KWT,49.3390007,Percentage of females of the total population,2020.0
+71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Kuwait,KWT,515542.0,number,2019.0
+72,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Kuwait,KWT,0.0,kWh,2015.0
+73,Environment,Fossil fuel energy consumption,C5_Close public transport,Kuwait,KWT,93.68989,percent of total,2014.0
+75,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Kuwait,KWT,6.0,percent,2020.0
+76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Kuwait,KWT,98.0,percent,2019.0
+79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Kuwait,KWT,4.4,percent,2018.0
+81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Kuwait,KWT,24.95251,metric tons per capita,2016.0
+82,Governance,Fragile States Index Total ,C5_Close public transport,Kuwait,KWT,50.899274182096256,score,2020.0
+85,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Kuwait,KWT,7.1,percent,2020.0
+88,Economics,Volume of exports,C5_Close public transport,Kuwait,KWT,2.432,percent change,2020.0
+98,Environment,Electricity production from nuclear sources ,C5_Close public transport,Kuwait,KWT,0.0,percent of total,2014.0
+112,Environment,Combustible renewables and waste,C5_Close public transport,Kuwait,KWT,0.0,percent of total energy,2014.0
+117,Environment,Access to electricity ,C5_Close public transport,Kuwait,KWT,100.0,percent of population,2018.0

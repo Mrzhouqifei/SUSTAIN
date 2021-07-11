@@ -1,0 +1,76 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C2_Workplace closing,United States,USA,87.2661,percent of population,2019.0
+2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,United States,USA,3.86199999,percent of total labor force,2020.0
+3,Health,Prevalence of COVID-19,C2_Workplace closing,United States,USA,16912564.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Voice and accountability estimate,C2_Workplace closing,United States,USA,0.965248,score,2019.0
+5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,United States,USA,8.5,percent,2018.0
+6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,United States,USA,78.9830017,Percentage of total employment,2020.0
+7,Environment,CO2 emissions (kt),C2_Workplace closing,United States,USA,5006302.0,kt,2016.0
+8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,United States,USA,14.548,Ones,2017.0
+9,Social issues ,Gini index (World Bank estimate),C2_Workplace closing,United States,USA,41.1,index ,2016.0
+10,Governance,Government effectiveness estimate,C2_Workplace closing,United States,USA,1.489182,score,2019.0
+11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,United States,USA,34.6719,per 100 people,2019.0
+12,Economics,Volume of exports,C2_Workplace closing,United States,USA,2.633,percent change,2020.0
+13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,United States,USA,51.0,score,2021.0
+14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,United States,USA,3.2,percent,2020.0
+15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,United States,USA,3.34317037021352,percent of total,2017.0
+16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,United States,USA,15.5022,metric tons per capita,2016.0
+17,Social issues ,Life Ladder ,C2_Workplace closing,United States,USA,6.951499938964844,score,2021.0
+18,Governance,Economic Freedom Score,C2_Workplace closing,United States,USA,8.22,score,2018.0
+19,Health,Prevalence of total cancers,C2_Workplace closing,United States,USA,0.044204,percent,2019.0
+20,Social issues ,Net migration,C2_Workplace closing,United States,USA,4774029.0,net total / data are 5 year estimates,2019.0
+21,Health,Summary exposure value tobacco,C2_Workplace closing,United States,USA,22.49515,Rate (risk-weighted prevalence),2019.0
+22,Governance,Total freedom in the world score ,C2_Workplace closing,United States,USA,83.0,score,2021.0
+24,Economics,"Central government debt, total",C2_Workplace closing,United States,USA,98.9759928287806,percent of GDP,2016.0
+25,Governance,Rule of law estimate ,C2_Workplace closing,United States,USA,1.461094,score,2019.0
+26,Economics,Volume of imports,C2_Workplace closing,United States,USA,2.957,percent change,2020.0
+27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,United States,USA,317421000000.0,kWh,2015.0
+28,Health,Prevalence of anxiety disorders,C2_Workplace closing,United States,USA,0.065074,percent,2019.0
+29,Health,Prevalence of Diabetes,C2_Workplace closing,United States,USA,0.124927,percent,2019.0
+31,Social issues ,Proportion of women in managerial positions (%),C2_Workplace closing,United States,USA,40.74,percent,2018.0
+32,Health,Prevalence of Depressive disorders,C2_Workplace closing,United States,USA,0.049158,percent,2019.0
+33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,United States,USA,67.07870147133566,percent of total,2015.0
+34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,United States,USA,94.0,percent,2019.0
+35,Environment,Electricity production from coal sources ,C2_Workplace closing,United States,USA,34.23273372789878,percent of total,2015.0
+36,Health,Mortality due to COVID-19,C2_Workplace closing,United States,USA,308403.0,"Number (cumulative total by Dec 26,2020)",2020.0
+37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,United States,USA,0.129374,percent,2019.0
+39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,United States,USA,6806.199939462035,kg of oil equivalent per capita,2015.0
+40,Governance,Serious assault (rate),C2_Workplace closing,United States,USA,246.84,rate,2018.0
+41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,United States,USA,3.0,Cases,2019.0
+42,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,United States,USA,5.63814795765558,percent of GNI,2018.0
+43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,United States,USA,8.8,percent,2020.0
+44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,United States,USA,2.612,Ones,2017.0
+45,Environment,Electricity production from oil sources,C2_Workplace closing,United States,USA,0.9038065201971214,percent of total,2015.0
+46,Health,Prevalence of obesity,C2_Workplace closing,United States,USA,36.2,percent,2016.0
+48,Social issues ,Press freedom score,C2_Workplace closing,United States,USA,23.85,score,2020.0
+50,Governance,Human Freedom Score ,C2_Workplace closing,United States,USA,8.44,score,2018.0
+51,Environment,Access to electricity ,C2_Workplace closing,United States,USA,100.0,percent of population,2018.0
+53,Demographics,Secure Internet servers ,C2_Workplace closing,United States,USA,124014.1760747075,per 1 million people,2019.0
+54,Environment,Fossil fuel energy consumption,C2_Workplace closing,United States,USA,82.42783,percent of total,2015.0
+55,Governance,Fragile States Index Total ,C2_Workplace closing,United States,USA,38.27275827818653,score,2020.0
+57,Environment,Electric power consumption ,C2_Workplace closing,United States,USA,12997.44862887773,kWh per capita,2014.0
+58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,United States,USA,23.43387471,proportion,2020.0
+61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,United States,USA,61.7840004,Percentage of total population,2020.0
+63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,United States,USA,32.0,score,2021.0
+64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,United States,USA,107281000.0,number,2019.0
+65,Governance,Human Development Index,C2_Workplace closing,United States,USA,0.926,index,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,United States,USA,90.0,percent,2019.0
+68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,United States,USA,0.16579,percent,2019.0
+69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,United States,USA,0.2979858,score,2019.0
+71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,United States,USA,55.8639984,Percentage of females of the total population,2020.0
+72,Governance,Personal Freedom Score ,C2_Workplace closing,United States,USA,8.66,score,2018.0
+74,Governance,Control of corruption estimate,C2_Workplace closing,United States,USA,1.215326,score,2019.0
+76,Governance,Regulatory quality estimate,C2_Workplace closing,United States,USA,1.345358,score,2019.0
+77,Health,Prevalence of down syndrome,C2_Workplace closing,United States,USA,0.000326,percent,2019.0
+81,Health,COVID-19 vaccine administered,C2_Workplace closing,United States,USA,4394936.0,"Number (cumulative total by Dec 26,2020)",2020.0
+82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,United States,USA,0.004784,percent,2019.0
+83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,United States,USA,123.688,per 100 people,2019.0
+84,Environment,Combustible renewables and waste,C2_Workplace closing,United States,USA,3.621035,percent of total energy,2015.0
+86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,United States,USA,4.9569505476,"proportion, pero 100,000 people",2018.0
+87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,United States,USA,0.4,percent,2018.0
+89,Environment,Energy use ,C2_Workplace closing,United States,USA,116.3262414082425,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,United States,USA,7.409442,micrograms per cubic meter,2017.0
+94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,United States,USA,19.32377762594228,percent of total,2015.0
+97,Governance,Corruption Perceptions Index,C2_Workplace closing,United States,USA,67.0,score,2020.0
+110,Environment,Renewable energy consumption ,C2_Workplace closing,United States,USA,8.71693586705814,percent of total final energy consumption,2015.0
+117,Environment,"Energy imports, net ",C2_Workplace closing,United States,USA,7.308743454822769,percent of energy use,2015.0

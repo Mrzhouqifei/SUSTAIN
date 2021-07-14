@@ -1,91 +1,91 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Ecuador,ECU,57.2722,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Ecuador,ECU,39.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Ecuador,ECU,204249.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Ecuador,ECU,313.5781046045445,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Ecuador,ECU,0.000217,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Ecuador,ECU,0.001905,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Ecuador,ECU,13932.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Ecuador,ECU,32.62,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Ecuador,ECU,0.055426,percent,2019.0
-11,Environment,"Energy imports, net ",C8_International travel controls,Ecuador,ECU,-114.7121381964574,percent of energy use,2014.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Ecuador,ECU,9.03723,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Ecuador,ECU,0.007116,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Ecuador,ECU,-0.4964109,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Ecuador,ECU,12.0439,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Ecuador,ECU,3.64586104840398,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Ecuador,ECU,46.0,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Ecuador,ECU,39.41605839,proportion,2020.0
-19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Ecuador,ECU,543000000.0,kWh,2015.0
-20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Ecuador,ECU,35.66,percent,2018.0
-21,Social issues ,Net migration,C8_International travel controls,Ecuador,ECU,182000.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Ecuador,ECU,-0.3985842,score,2019.0
-24,Health,Prevalence of obesity,C8_International travel controls,Ecuador,ECU,19.9,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Ecuador,ECU,83.0,percent,2019.0
-26,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C8_International travel controls,Ecuador,ECU,12.1632699966431,proportion,2017.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Ecuador,ECU,40.0,score,2021.0
-28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Ecuador,ECU,23.1,percent,2020.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Ecuador,ECU,52.4609985,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Ecuador,ECU,5.763999938964844,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Ecuador,ECU,4.2,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Ecuador,ECU,13.8166859421647,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Ecuador,ECU,2.0368,Ones,2016.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Ecuador,ECU,69.40303455188986,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Ecuador,ECU,27.0,score,2021.0
-36,Environment,Electricity production from coal sources ,C8_International travel controls,Ecuador,ECU,0.0,percent of total,2015.0
-37,Environment,Energy use ,C8_International travel controls,Ecuador,ECU,73.5991319243388,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Ecuador,ECU,91.2479,per 100 people,2019.0
-39,Social issues ,Progression to secondary school (%),C8_International travel controls,Ecuador,ECU,99.59274,proportion,2017.0
-40,Demographics,Urban population (% of total population),C8_International travel controls,Ecuador,ECU,63.986,total,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Ecuador,ECU,85.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Ecuador,ECU,0.052854,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Ecuador,ECU,0.195278,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Ecuador,ECU,2195840.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Ecuador,ECU,204249.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Ecuador,ECU,13932.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Ecuador,ECU,5.8006273457,"proportion, pero 100,000 people",2018.0
+7,Governance,Economic Freedom Score,C8_International travel controls,Ecuador,ECU,6.46,score,2018.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Ecuador,ECU,14.8861,micrograms per cubic meter,2017.0
+9,Environment,Fossil fuel energy consumption,C8_International travel controls,Ecuador,ECU,86.88466,percent of total,2014.0
+10,Environment,Energy use ,C8_International travel controls,Ecuador,ECU,73.5991319243388,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Ecuador,ECU,0.000217,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Ecuador,ECU,-0.571,percent change,2020.0
+13,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Ecuador,ECU,543000000.0,kWh,2015.0
+14,Environment,Electricity production from coal sources ,C8_International travel controls,Ecuador,ECU,0.0,percent of total,2015.0
+15,Social issues ,Net migration,C8_International travel controls,Ecuador,ECU,182000.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Ecuador,ECU,0.0609436,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Ecuador,ECU,12.0439,per 100 people,2019.0
+18,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Ecuador,ECU,35.66,percent,2018.0
+19,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Ecuador,ECU,9.8,percent,2020.0
+20,Environment,Electricity production from nuclear sources ,C8_International travel controls,Ecuador,ECU,0.0,percent of total,2014.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Ecuador,ECU,39.0,score,2020.0
+22,Environment,Electricity production from oil sources,C8_International travel controls,Ecuador,ECU,34.52961672473867,percent of total,2015.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Ecuador,ECU,40.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Ecuador,ECU,-0.5773571,score,2019.0
+25,Social issues ,Progression to secondary school (%),C8_International travel controls,Ecuador,ECU,99.59274,proportion,2017.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Ecuador,ECU,-0.1890175,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Ecuador,ECU,67.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Ecuador,ECU,0.052854,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Ecuador,ECU,98.3156239365569,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Ecuador,ECU,-0.3985842,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Ecuador,ECU,9.03723,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Ecuador,ECU,45.4,index ,2018.0
+33,Health,Prevalence of obesity,C8_International travel controls,Ecuador,ECU,19.9,percent,2016.0
+34,Governance,Serious assault (rate),C8_International travel controls,Ecuador,ECU,37.61,rate,2018.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Ecuador,ECU,2.5059,Ones,2018.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Ecuador,ECU,27.0,score,2021.0
+37,Governance,Personal Freedom Score ,C8_International travel controls,Ecuador,ECU,7.82,score,2018.0
+38,Governance,Human Development Index,C8_International travel controls,Ecuador,ECU,0.759,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Ecuador,ECU,2.0368,Ones,2016.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Ecuador,ECU,85.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Ecuador,ECU,0.055426,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Ecuador,ECU,55.3050003,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Ecuador,ECU,98.3156239365569,percent of total,2017.0
-45,Governance,Personal Freedom Score ,C8_International travel controls,Ecuador,ECU,7.82,score,2018.0
-46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Ecuador,ECU,9.8,percent,2020.0
-47,Environment,Electric power consumption ,C8_International travel controls,Ecuador,ECU,1376.393115326272,kWh per capita,2014.0
-48,Environment,Fossil fuel energy consumption,C8_International travel controls,Ecuador,ECU,86.88466,percent of total,2014.0
-49,Governance,Human Freedom Score ,C8_International travel controls,Ecuador,ECU,7.14,score,2018.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Ecuador,ECU,2.495571,metric tons per capita,2016.0
-51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Ecuador,ECU,5.8006273457,"proportion, pero 100,000 people",2018.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Ecuador,ECU,0.082729,percent,2019.0
-53,Social issues ,"Primary completion rate, total (% of relevant age group)",C8_International travel controls,Ecuador,ECU,104.43367767334,proportion,2018.0
-54,Demographics,"Age dependency ratio, old (% of working-age population)",C8_International travel controls,Ecuador,ECU,11.35567596283613,proportion,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Ecuador,ECU,0.0609436,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Ecuador,ECU,4.23799992,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Ecuador,ECU,-0.8236187,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Ecuador,ECU,2195840.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Ecuador,ECU,-0.5773571,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Ecuador,ECU,-0.1890175,score,2019.0
-61,Demographics,People using at least basic sanitation services (% of population),C8_International travel controls,Ecuador,ECU,87.9887160353163,proportion,2017.0
-63,Governance,Serious assault (rate),C8_International travel controls,Ecuador,ECU,37.61,rate,2018.0
-64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Ecuador,ECU,45.4,index ,2018.0
-65,Demographics,Age dependency ratio (% of working-age population),C8_International travel controls,Ecuador,ECU,54.033761126527,proportion,2019.0
-66,Environment,Electricity production from oil sources,C8_International travel controls,Ecuador,ECU,34.52961672473867,percent of total,2015.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Ecuador,ECU,0.034556,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Ecuador,ECU,14.8861,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Ecuador,ECU,-0.571,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Ecuador,ECU,0.759,index,2019.0
-72,Demographics,Refugee population by country or territory of asylum,C8_International travel controls,Ecuador,ECU,104560.0,proportion,2019.0
-73,Governance,Economic Freedom Score,C8_International travel controls,Ecuador,ECU,6.46,score,2018.0
-74,Environment,Combustible renewables and waste,C8_International travel controls,Ecuador,ECU,4.115853,percent of total energy,2014.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Ecuador,ECU,68.0490036,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Ecuador,ECU,2.5059,Ones,2018.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Ecuador,ECU,67.0,score,2021.0
-79,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Ecuador,ECU,0.4,percent,2019.0
-80,Environment,Access to electricity ,C8_International travel controls,Ecuador,ECU,100.0,percent of population,2018.0
-81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Ecuador,ECU,888.9648954559342,kg of oil equivalent per capita,2014.0
-82,Economics,Volume of exports,C8_International travel controls,Ecuador,ECU,3.536,percent change,2020.0
-84,Demographics,People with basic handwashing facilities including soap and water (% of population),C8_International travel controls,Ecuador,ECU,80.6347784463545,proportion,2017.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Ecuador,ECU,41154.74,kt,2016.0
-87,Social issues ,Proportion of people living below 50 percent of median income (%),C8_International travel controls,Ecuador,ECU,19.3,proportion,2018.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Ecuador,ECU,0.195278,percent,2019.0
-90,Demographics,"Population, total",C8_International travel controls,Ecuador,ECU,17373662.0,total,2019.0
-91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Ecuador,ECU,47.19705768486256,percent of total,2015.0
-94,Health,Hospital beds (per 10 000 population),C8_International travel controls,Ecuador,ECU,13.9,Ones,2016.0
-97,Demographics,People using safely managed drinking water services (% of population),C8_International travel controls,Ecuador,ECU,75.0680124163761,proportion,2017.0
-99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Ecuador,ECU,0.0,percent of total,2014.0
-101,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C8_International travel controls,Ecuador,ECU,1.499647962,proportion,2017.0
-111,Social issues ,Coverage of social safety net programs (% of population),C8_International travel controls,Ecuador,ECU,68.51710889,proportion,2017.0
-114,Demographics,Rural population (% of total population),C8_International travel controls,Ecuador,ECU,36.014,proportion,2019.0
-115,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C8_International travel controls,Ecuador,ECU,92.8297882080078,proportion,2017.0
+44,Demographics,People with basic handwashing facilities including soap and water (% of population),C8_International travel controls,Ecuador,ECU,80.6347784463545,proportion,2017.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Ecuador,ECU,4.2,percent,2018.0
+46,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Ecuador,ECU,23.1,percent,2020.0
+47,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Ecuador,ECU,888.9648954559342,kg of oil equivalent per capita,2014.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Ecuador,ECU,0.034556,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Ecuador,ECU,41154.74,kt,2016.0
+52,Demographics,Rural population (% of total population),C8_International travel controls,Ecuador,ECU,36.014,proportion,2019.0
+54,Demographics,People using safely managed drinking water services (% of population),C8_International travel controls,Ecuador,ECU,75.0680124163761,proportion,2017.0
+55,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Ecuador,ECU,0.4,percent,2019.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Ecuador,ECU,91.2479,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Ecuador,ECU,68.0490036,Percentage of total population,2020.0
+58,Environment,Electric power consumption ,C8_International travel controls,Ecuador,ECU,1376.393115326272,kWh per capita,2014.0
+59,Economics,Volume of exports,C8_International travel controls,Ecuador,ECU,3.536,percent change,2020.0
+60,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Ecuador,ECU,47.19705768486256,percent of total,2015.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Ecuador,ECU,52.4609985,Percentage of total employment,2020.0
+62,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C8_International travel controls,Ecuador,ECU,92.8297882080078,proportion,2017.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Ecuador,ECU,313.5781046045445,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Ecuador,ECU,4.23799992,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Ecuador,ECU,0.007116,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Ecuador,ECU,-0.4964109,score,2019.0
+67,Demographics,Refugee population by country or territory of asylum,C8_International travel controls,Ecuador,ECU,104560.0,proportion,2019.0
+68,Demographics,Age dependency ratio (% of working-age population),C8_International travel controls,Ecuador,ECU,54.033761126527,proportion,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Ecuador,ECU,3.64586104840398,percent of GNI,2018.0
+70,Demographics,People using at least basic sanitation services (% of population),C8_International travel controls,Ecuador,ECU,87.9887160353163,proportion,2017.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Ecuador,ECU,2.495571,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Ecuador,ECU,5.763999938964844,score,2021.0
+73,Demographics,"Age dependency ratio, old (% of working-age population)",C8_International travel controls,Ecuador,ECU,11.35567596283613,proportion,2019.0
+75,Health,Hospital beds (per 10 000 population),C8_International travel controls,Ecuador,ECU,13.9,Ones,2016.0
+76,Environment,"Energy imports, net ",C8_International travel controls,Ecuador,ECU,-114.7121381964574,percent of energy use,2014.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Ecuador,ECU,83.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Ecuador,ECU,100.0,percent of population,2018.0
+80,Environment,Combustible renewables and waste,C8_International travel controls,Ecuador,ECU,4.115853,percent of total energy,2014.0
+81,Demographics,Urban population (% of total population),C8_International travel controls,Ecuador,ECU,63.986,total,2019.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Ecuador,ECU,69.40303455188986,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Ecuador,ECU,32.62,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Ecuador,ECU,13.8166859421647,percent of total final energy consumption,2015.0
+85,Social issues ,Coverage of social safety net programs (% of population),C8_International travel controls,Ecuador,ECU,68.51710889,proportion,2017.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Ecuador,ECU,39.41605839,proportion,2020.0
+88,Governance,Human Freedom Score ,C8_International travel controls,Ecuador,ECU,7.14,score,2018.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Ecuador,ECU,0.082729,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Ecuador,ECU,-0.8236187,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Ecuador,ECU,0.001905,percent,2019.0
+103,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C8_International travel controls,Ecuador,ECU,1.499647962,proportion,2017.0
+105,Social issues ,Proportion of people living below 50 percent of median income (%),C8_International travel controls,Ecuador,ECU,19.3,proportion,2018.0
+106,Social issues ,"Primary completion rate, total (% of relevant age group)",C8_International travel controls,Ecuador,ECU,104.43367767334,proportion,2018.0
+113,Demographics,"Population, total",C8_International travel controls,Ecuador,ECU,17373662.0,total,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Ecuador,ECU,46.0,Cases,2019.0
+117,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C8_International travel controls,Ecuador,ECU,12.1632699966431,proportion,2017.0

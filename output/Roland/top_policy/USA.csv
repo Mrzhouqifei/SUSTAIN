@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-USA,H7_Vaccination policy,0.08246790134372481,1
-USA,H6_Facial Coverings,0.07426651079388688,2
-USA,C1_School closing,0.07406535439492495,3
-USA,C2_Workplace closing,0.07341882084908846,4
-USA,C7_Restrictions on internal movement,0.07271265644347602,5
-USA,C6_Stay at home requirements,0.07137822801084599,6
-USA,C4_Restrictions on gatherings,0.06586322897489537,7
-USA,C3_Cancel public events,0.051688827480833636,8
-USA,E1_Income support,0.041533535427171336,9
-USA,C5_Close public transport,0.039964315804235866,10
-USA,H1_Public information campaigns,0.0383056002619233,11
-USA,C8_International travel controls,0.024557865641172343,12
-USA,H2_Testing policy,0.02317991175453526,13
-USA,E2_Debt/contract relief,0.02132726020076709,14
+USA,H7_Vaccination policy,0.1187799143352012,1
+USA,H6_Facial Coverings,0.0954365880764381,2
+USA,C1_School closing,0.0885937763018304,3
+USA,C2_Workplace closing,0.0711322447414502,4
+USA,C7_Restrictions on internal movement,0.0625088153179503,5
+USA,C6_Stay at home requirements,0.0615157411196322,6
+USA,C4_Restrictions on gatherings,0.0523561620272599,7
+USA,E2_Debt/contract relief,0.0444380056994331,8
+USA,E1_Income support,0.04216915118334,9
+USA,C5_Close public transport,0.0406008472172202,10
+USA,H1_Public information campaigns,0.032666040745849,11
+USA,H2_Testing policy,0.0268397588620016,12
+USA,C8_International travel controls,0.018375663287829,13
+USA,C3_Cancel public events,0.0114488347152889,14
 USA,H3_Contact tracing,0.0,15

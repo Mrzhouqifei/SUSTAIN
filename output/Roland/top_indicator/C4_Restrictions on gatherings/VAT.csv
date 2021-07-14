@@ -1,4 +1,4 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Vatican City,VAT,0.0,rate,2015.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Vatican City,VAT,26.0,"Number (cumulative total by Dec 26,2020)",2020.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Vatican City,VAT,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Vatican City,VAT,26.0,"Number (cumulative total by Dec 26,2020)",2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Vatican City,VAT,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+85,Governance,Serious assault (rate),C4_Restrictions on gatherings,Vatican City,VAT,0.0,rate,2015.0

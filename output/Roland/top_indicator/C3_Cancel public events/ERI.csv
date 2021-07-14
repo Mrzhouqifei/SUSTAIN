@@ -1,61 +1,61 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Eritrea,ERI,1.30891,percent of population,2019.0
-3,Economics,Volume of exports,C3_Cancel public events,Eritrea,ERI,0.863,percent change,2020.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,Eritrea,ERI,-2.274918,score,2019.0
-5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Eritrea,ERI,1.0,score,2021.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Eritrea,ERI,741.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Eritrea,ERI,711.398,kt,2016.0
-9,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Eritrea,ERI,0.0628,Ones,2016.0
-10,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Eritrea,ERI,2.1,percent,2020.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,Eritrea,ERI,0.000146,percent,2019.0
-13,Social issues ,Net migration,C3_Cancel public events,Eritrea,ERI,-199290.0,net total / data are 5 year estimates,2019.0
-14,Economics,Volume of imports,C3_Cancel public events,Eritrea,ERI,1.675,percent change,2020.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Eritrea,ERI,0.0293007,per 100 people,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Eritrea,ERI,0.035396,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Eritrea,ERI,0.000818,percent,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Eritrea,ERI,86.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Eritrea,ERI,20.364,per 100 people,2019.0
-20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Eritrea,ERI,99.0,percent,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Eritrea,ERI,1.4397,Ones,2018.0
-23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Eritrea,ERI,0.6,percent,2018.0
-24,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Eritrea,ERI,99.50738916256158,percent of total,2015.0
-25,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Eritrea,ERI,30.7310009,Percentage of total employment,2020.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,Eritrea,ERI,-1.757369,score,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,Eritrea,ERI,11.12714,Rate (risk-weighted prevalence),2019.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Eritrea,ERI,0.283104,percent,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Eritrea,ERI,-0.7195499,score,2019.0
-35,Environment,Electricity production from coal sources ,C3_Cancel public events,Eritrea,ERI,0.0,percent of total,2015.0
-36,Environment,Combustible renewables and waste,C3_Cancel public events,Eritrea,ERI,53.22804,percent of total energy,2014.0
-37,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Eritrea,ERI,78.2929993,Percentage of total population,2020.0
-39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Eritrea,ERI,22.0,proportion,2019.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Eritrea,ERI,0.035557,percent,2019.0
-43,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Eritrea,ERI,49.1,percent,2020.0
-46,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Eritrea,ERI,2000000.0,kWh,2015.0
-47,Environment,"Energy imports, net ",C3_Cancel public events,Eritrea,ERI,22.26723431845561,percent of energy use,2014.0
-49,Governance,Corruption Perceptions Index,C3_Cancel public events,Eritrea,ERI,21.0,score,2020.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Eritrea,ERI,5.17199993,percent of total labor force,2020.0
-53,Governance,Human Development Index,C3_Cancel public events,Eritrea,ERI,0.459,index,2019.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,Eritrea,ERI,-1.394767,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,Eritrea,ERI,49.6155433654785,percent of population,2018.0
-60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Eritrea,ERI,48.0302,micrograms per cubic meter,2017.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Eritrea,ERI,0.038467,percent,2019.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Eritrea,ERI,66170.0,number,2019.0
-63,Governance,Fragile States Index Total ,C3_Cancel public events,Eritrea,ERI,95.8442307280238,score,2020.0
-64,Health,Prevalence of obesity,C3_Cancel public events,Eritrea,ERI,5.0,percent,2016.0
-65,Environment,Fossil fuel energy consumption,C3_Cancel public events,Eritrea,ERI,23.13345,percent of total,2014.0
-66,Governance,Total freedom in the world score ,C3_Cancel public events,Eritrea,ERI,2.0,score,2021.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,Eritrea,ERI,-1.595496,score,2019.0
-70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Eritrea,ERI,95.0,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Eritrea,ERI,66170.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Eritrea,ERI,0.283104,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Eritrea,ERI,741.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,Eritrea,ERI,-1.595496,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Eritrea,ERI,86.0,Cases,2019.0
+7,Environment,Fossil fuel energy consumption,C3_Cancel public events,Eritrea,ERI,23.13345,percent of total,2014.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,Eritrea,ERI,0.035396,percent,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Eritrea,ERI,0.0293007,per 100 people,2019.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Eritrea,ERI,79.767472303226,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,Eritrea,ERI,-1.757369,score,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,Eritrea,ERI,0.020229,percent,2019.0
+14,Environment,"Energy imports, net ",C3_Cancel public events,Eritrea,ERI,22.26723431845561,percent of energy use,2014.0
+16,Social issues ,Net migration,C3_Cancel public events,Eritrea,ERI,-199290.0,net total / data are 5 year estimates,2019.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Eritrea,ERI,2.1,percent,2020.0
+18,Environment,Electricity production from coal sources ,C3_Cancel public events,Eritrea,ERI,0.0,percent of total,2015.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Eritrea,ERI,0.000818,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,Eritrea,ERI,0.038467,percent,2019.0
+22,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Eritrea,ERI,0.6,percent,2018.0
+23,Economics,Volume of exports,C3_Cancel public events,Eritrea,ERI,0.863,percent change,2020.0
+24,Environment,Combustible renewables and waste,C3_Cancel public events,Eritrea,ERI,53.22804,percent of total energy,2014.0
+25,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Eritrea,ERI,49.1,percent,2020.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,Eritrea,ERI,0.000146,percent,2019.0
+28,Governance,Fragile States Index Total ,C3_Cancel public events,Eritrea,ERI,95.8442307280238,score,2020.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Eritrea,ERI,100.0,percent of total,2017.0
+30,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Eritrea,ERI,99.50738916256158,percent of total,2015.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Eritrea,ERI,30.7310009,Percentage of total employment,2020.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Eritrea,ERI,20.364,per 100 people,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Eritrea,ERI,0.035557,percent,2019.0
+37,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Eritrea,ERI,1.4397,Ones,2018.0
+38,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Eritrea,ERI,0.0628,Ones,2016.0
+39,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Eritrea,ERI,0.6,percent,2019.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,Eritrea,ERI,-2.193209,score,2019.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Eritrea,ERI,2000000.0,kWh,2015.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Eritrea,ERI,99.0,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,Eritrea,ERI,11.12714,Rate (risk-weighted prevalence),2019.0
+44,Environment,Electricity production from oil sources,C3_Cancel public events,Eritrea,ERI,99.50738916256158,percent of total,2015.0
+45,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Eritrea,ERI,48.0302,micrograms per cubic meter,2017.0
+49,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Eritrea,ERI,1.0,score,2021.0
+50,Economics,Volume of imports,C3_Cancel public events,Eritrea,ERI,1.675,percent change,2020.0
+52,Governance,Human Development Index,C3_Cancel public events,Eritrea,ERI,0.459,index,2019.0
+54,Governance,Corruption Perceptions Index,C3_Cancel public events,Eritrea,ERI,21.0,score,2020.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,Eritrea,ERI,-1.394767,score,2019.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,Eritrea,ERI,0.002505,percent,2019.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Eritrea,ERI,-0.7195499,score,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,Eritrea,ERI,-2.274918,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Eritrea,ERI,711.398,kt,2016.0
+66,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Eritrea,ERI,5.17199993,percent of total labor force,2020.0
+67,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Eritrea,ERI,78.2929993,Percentage of total population,2020.0
+68,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C3_Cancel public events,Eritrea,ERI,2.5,rating,2019.0
+69,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Eritrea,ERI,22.0,proportion,2019.0
+70,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Eritrea,ERI,71.4000015,Percentage of females of the total population,2020.0
 71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,Eritrea,ERI,1.0,score,2021.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,Eritrea,ERI,0.002505,percent,2019.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Eritrea,ERI,79.767472303226,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,Eritrea,ERI,-2.193209,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Eritrea,ERI,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-83,Social issues ,Press freedom score,C3_Cancel public events,Eritrea,ERI,83.5,score,2020.0
-85,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Eritrea,ERI,0.6,percent,2019.0
-87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Eritrea,ERI,100.0,percent of total,2017.0
-89,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Eritrea,ERI,71.4000015,Percentage of females of the total population,2020.0
-94,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Eritrea,ERI,0.0,percent of total,2014.0
-95,Environment,Electricity production from oil sources,C3_Cancel public events,Eritrea,ERI,99.50738916256158,percent of total,2015.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,Eritrea,ERI,0.020229,percent,2019.0
-115,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C3_Cancel public events,Eritrea,ERI,2.5,rating,2019.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Eritrea,ERI,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Eritrea,ERI,95.0,percent,2019.0
+80,Health,Prevalence of obesity,C3_Cancel public events,Eritrea,ERI,5.0,percent,2016.0
+81,Social issues ,Press freedom score,C3_Cancel public events,Eritrea,ERI,83.5,score,2020.0
+84,Environment,Access to electricity ,C3_Cancel public events,Eritrea,ERI,49.6155433654785,percent of population,2018.0
+91,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Eritrea,ERI,0.0,percent of total,2014.0
+93,Governance,Total freedom in the world score ,C3_Cancel public events,Eritrea,ERI,2.0,score,2021.0

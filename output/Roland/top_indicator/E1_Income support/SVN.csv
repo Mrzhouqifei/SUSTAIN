@@ -1,71 +1,71 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,E1_Income support,Slovenia,SVN,83.1084,percent of population,2019.0
-2,Economics,Volume of exports,E1_Income support,Slovenia,SVN,4.888,percent change,2020.0
-3,Health,Prevalence of COVID-19,E1_Income support,Slovenia,SVN,103555.0,"Number (cumulative total by Dec 26,2020)",2020.0
+2,Health,Prevalence of COVID-19,E1_Income support,Slovenia,SVN,103555.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Corruption Perceptions Index,E1_Income support,Slovenia,SVN,60.0,score,2020.0
 5,Demographics,Secure Internet servers ,E1_Income support,Slovenia,SVN,42538.93539392303,per 1 million people,2019.0
-6,Governance,Total freedom in the world score ,E1_Income support,Slovenia,SVN,95.0,score,2021.0
-7,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Slovenia,SVN,0.48126993661,"proportion, pero 100,000 people",2018.0
-8,Health,Summary exposure value tobacco,E1_Income support,Slovenia,SVN,28.80806,Rate (risk-weighted prevalence),2019.0
-9,Social issues ,Net migration,E1_Income support,Slovenia,SVN,9999.0,net total / data are 5 year estimates,2019.0
-10,Environment,CO2 emissions (kt),E1_Income support,Slovenia,SVN,12632.82,kt,2016.0
-11,Governance,Economic Freedom Score,E1_Income support,Slovenia,SVN,7.33,score,2018.0
-12,Social issues ,Life Ladder ,E1_Income support,Slovenia,SVN,6.460700035095215,score,2021.0
-13,Health,Prevalence of Depressive disorders,E1_Income support,Slovenia,SVN,0.042813,percent,2019.0
-14,Environment,Electricity production from coal sources ,E1_Income support,Slovenia,SVN,29.59438482823784,percent of total,2015.0
-15,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Slovenia,SVN,11.8489361847787,percent of GNI,2018.0
-16,Environment,Combustible renewables and waste,E1_Income support,Slovenia,SVN,9.150438,percent of total energy,2015.0
-17,Health,Prevalence of obesity,E1_Income support,Slovenia,SVN,20.2,percent,2016.0
-18,Demographics,Fixed broadband subscriptions,E1_Income support,Slovenia,SVN,30.2088,per 100 people,2019.0
-19,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Slovenia,SVN,95.0,percent,2019.0
-20,Governance,Human Development Index,E1_Income support,Slovenia,SVN,0.917,index,2019.0
-21,Governance,Rule of law estimate ,E1_Income support,Slovenia,SVN,1.118421,score,2019.0
-22,Demographics,Fixed telephone subscriptions,E1_Income support,Slovenia,SVN,707059.0,number,2019.0
-24,Environment,Energy use (kg of oil equivalent per capita),E1_Income support,Slovenia,SVN,3174.872584904225,kg of oil equivalent per capita,2015.0
-25,Social issues ,Gini index (World Bank estimate),E1_Income support,Slovenia,SVN,24.2,index ,2017.0
-26,Environment,Electricity production from oil sources,E1_Income support,Slovenia,SVN,0.1147330768711615,percent of total,2015.0
-27,Health,Prevalence of anxiety disorders,E1_Income support,Slovenia,SVN,0.040104,percent,2019.0
-28,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Slovenia,SVN,61.4780006,Percentage of total employment,2020.0
-30,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Slovenia,SVN,57.8199997,Percentage of total population,2020.0
-31,Health,Prevalence of Hypertensive heart disease,E1_Income support,Slovenia,SVN,0.004626,percent,2019.0
-32,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Slovenia,SVN,5.4,Cases,2019.0
-33,Social issues ,Press freedom score,E1_Income support,Slovenia,SVN,22.64,score,2020.0
-34,Governance,Corruption Perceptions Index,E1_Income support,Slovenia,SVN,60.0,score,2020.0
-35,Health,Prevalence of chronic kidney disease,E1_Income support,Slovenia,SVN,0.130245,percent,2019.0
-36,Governance,Government effectiveness estimate,E1_Income support,Slovenia,SVN,1.081404,score,2019.0
-38,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Slovenia,SVN,16.02398,micrograms per cubic meter,2017.0
-39,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Slovenia,SVN,56.0,score,2021.0
-40,Governance,Serious assault (rate),E1_Income support,Slovenia,SVN,74.31,rate,2018.0
-41,Environment,Renewable energy consumption ,E1_Income support,Slovenia,SVN,20.8773961432658,percent of total final energy consumption,2015.0
-43,Environment,Electric power consumption ,E1_Income support,Slovenia,SVN,6727.999301642111,kWh per capita,2014.0
-44,Governance,Fragile States Index Total ,E1_Income support,Slovenia,SVN,25.84648022438141,score,2020.0
-45,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Slovenia,SVN,52.9599991,Percentage of females of the total population,2020.0
-46,Environment,CO2 emissions (metric tons per capita),E1_Income support,Slovenia,SVN,6.117462,metric tons per capita,2016.0
-47,Health,Mortality due to COVID-19,E1_Income support,Slovenia,SVN,2297.0,"Number (cumulative total by Dec 26,2020)",2020.0
-48,Social issues ,Proportion of women in managerial positions (%),E1_Income support,Slovenia,SVN,38.55,percent,2018.0
-50,Health,Prevalence of total cancers,E1_Income support,Slovenia,SVN,0.031252,percent,2019.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Slovenia,SVN,0.48126993661,"proportion, pero 100,000 people",2018.0
+7,Environment,"Electricity production from oil, gas and coal sources",E1_Income support,Slovenia,SVN,32.43571573192954,percent of total,2015.0
+8,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Slovenia,SVN,27.77777778,proportion,2020.0
+9,Health,Summary exposure value tobacco,E1_Income support,Slovenia,SVN,28.80806,Rate (risk-weighted prevalence),2019.0
+10,Social issues ,Life Ladder ,E1_Income support,Slovenia,SVN,6.460700035095215,score,2021.0
+11,Environment,CO2 emissions (kt),E1_Income support,Slovenia,SVN,12632.82,kt,2016.0
+12,Health,Prevalence of Depressive disorders,E1_Income support,Slovenia,SVN,0.042813,percent,2019.0
+13,Demographics,Fixed broadband subscriptions,E1_Income support,Slovenia,SVN,30.2088,per 100 people,2019.0
+14,Health,Prevalence of obesity,E1_Income support,Slovenia,SVN,20.2,percent,2016.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Slovenia,SVN,5.4,Cases,2019.0
+16,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Slovenia,SVN,57.8199997,Percentage of total population,2020.0
+17,Governance,Government effectiveness estimate,E1_Income support,Slovenia,SVN,1.081404,score,2019.0
+18,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Slovenia,SVN,16.02398,micrograms per cubic meter,2017.0
+19,Health,Prevalence of Hypertensive heart disease,E1_Income support,Slovenia,SVN,0.004626,percent,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Slovenia,SVN,0.169314,percent,2019.0
+21,Health,Prevalence of chronic kidney disease,E1_Income support,Slovenia,SVN,0.130245,percent,2019.0
+22,Social issues ,Net migration,E1_Income support,Slovenia,SVN,9999.0,net total / data are 5 year estimates,2019.0
+23,Social issues ,Gini index (World Bank estimate),E1_Income support,Slovenia,SVN,24.2,index ,2017.0
+24,Health,Prevalence of anxiety disorders,E1_Income support,Slovenia,SVN,0.040104,percent,2019.0
+25,Health,"Physicians (per 1,000 people)",E1_Income support,Slovenia,SVN,3.0861,Ones,2017.0
+26,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Slovenia,SVN,56.0,score,2021.0
+28,Environment,CO2 emissions (metric tons per capita),E1_Income support,Slovenia,SVN,6.117462,metric tons per capita,2016.0
+30,Governance,Rule of law estimate ,E1_Income support,Slovenia,SVN,1.118421,score,2019.0
+31,Governance,Economic Freedom Score,E1_Income support,Slovenia,SVN,7.33,score,2018.0
+32,Health,Mortality due to COVID-19,E1_Income support,Slovenia,SVN,2297.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Slovenia,SVN,94.0,percent,2019.0
+34,Environment,Energy use (kg of oil equivalent per capita),E1_Income support,Slovenia,SVN,3174.872584904225,kg of oil equivalent per capita,2015.0
+35,Environment,"Energy imports, net ",E1_Income support,Slovenia,SVN,48.54314649219532,percent of energy use,2015.0
+37,Environment,Renewable energy consumption ,E1_Income support,Slovenia,SVN,20.8773961432658,percent of total final energy consumption,2015.0
+38,Demographics,Fixed telephone subscriptions,E1_Income support,Slovenia,SVN,707059.0,number,2019.0
+39,Governance,Serious assault (rate),E1_Income support,Slovenia,SVN,74.31,rate,2018.0
+40,Economics,Volume of exports,E1_Income support,Slovenia,SVN,4.888,percent change,2020.0
+41,Demographics,Mobile cellular subscriptions,E1_Income support,Slovenia,SVN,120.846,per 100 people,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Slovenia,SVN,99.4910252834569,percent of total,2017.0
+43,Governance,Regulatory quality estimate,E1_Income support,Slovenia,SVN,1.008839,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E1_Income support,Slovenia,SVN,39.0,score,2021.0
+45,Environment,Access to electricity ,E1_Income support,Slovenia,SVN,100.0,percent of population,2018.0
+46,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Slovenia,SVN,0.8167541,score,2019.0
+47,Social issues ,Proportion of women in managerial positions (%),E1_Income support,Slovenia,SVN,38.55,percent,2018.0
+48,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Slovenia,SVN,6.0,percent,2018.0
 51,Economics,Volume of imports,E1_Income support,Slovenia,SVN,6.42,percent change,2020.0
-52,Environment,Access to electricity ,E1_Income support,Slovenia,SVN,100.0,percent of population,2018.0
-53,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Slovenia,SVN,3.80200005,percent of total labor force,2020.0
-55,Governance,Human Freedom Score ,E1_Income support,Slovenia,SVN,8.05,score,2018.0
-56,Health,"Physicians (per 1,000 people)",E1_Income support,Slovenia,SVN,3.0861,Ones,2017.0
-58,Governance,Personal Freedom Score ,E1_Income support,Slovenia,SVN,8.77,score,2018.0
-61,Health,Prevalence of Diabetes,E1_Income support,Slovenia,SVN,0.089385,percent,2019.0
-65,Environment,"Electricity production from renewable sources, excluding hydroelectric",E1_Income support,Slovenia,SVN,547000000.0,kWh,2015.0
-66,Governance,Control of corruption estimate,E1_Income support,Slovenia,SVN,0.9058987,score,2019.0
-67,Environment,"Energy imports, net ",E1_Income support,Slovenia,SVN,48.54314649219532,percent of energy use,2015.0
-68,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Slovenia,SVN,9.9745,Ones,2017.0
-69,Environment,Electricity production from nuclear sources ,E1_Income support,Slovenia,SVN,38.11837753931295,percent of total,2015.0
-70,Governance,Aggregate score for the Political Rights category,E1_Income support,Slovenia,SVN,39.0,score,2021.0
-72,Health,Prevalence of down syndrome,E1_Income support,Slovenia,SVN,0.000126,percent,2019.0
-73,Governance,Regulatory quality estimate,E1_Income support,Slovenia,SVN,1.008839,score,2019.0
-74,Environment,"Electricity production from oil, gas and coal sources",E1_Income support,Slovenia,SVN,32.43571573192954,percent of total,2015.0
-75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Slovenia,SVN,0.8167541,score,2019.0
-78,Demographics,Mobile cellular subscriptions,E1_Income support,Slovenia,SVN,120.846,per 100 people,2019.0
-81,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Slovenia,SVN,0.169314,percent,2019.0
-82,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Slovenia,SVN,94.0,percent,2019.0
-83,Environment,Fossil fuel energy consumption,E1_Income support,Slovenia,SVN,61.1142,percent of total,2015.0
-85,Governance,Voice and accountability estimate,E1_Income support,Slovenia,SVN,1.007424,score,2019.0
-86,Environment,Energy use ,E1_Income support,Slovenia,SVN,93.4972837961122,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-91,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Slovenia,SVN,27.77777778,proportion,2020.0
-110,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Slovenia,SVN,99.4910252834569,percent of total,2017.0
-112,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Slovenia,SVN,6.0,percent,2018.0
+52,Health,Prevalence of total cancers,E1_Income support,Slovenia,SVN,0.031252,percent,2019.0
+53,Health,Prevalence of Diabetes,E1_Income support,Slovenia,SVN,0.089385,percent,2019.0
+54,Environment,Electricity production from coal sources ,E1_Income support,Slovenia,SVN,29.59438482823784,percent of total,2015.0
+55,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Slovenia,SVN,9.9745,Ones,2017.0
+56,Social issues ,Press freedom score,E1_Income support,Slovenia,SVN,22.64,score,2020.0
+57,Environment,"Electricity production from renewable sources, excluding hydroelectric",E1_Income support,Slovenia,SVN,547000000.0,kWh,2015.0
+58,Health,Prevalence of down syndrome,E1_Income support,Slovenia,SVN,0.000126,percent,2019.0
+60,Governance,Voice and accountability estimate,E1_Income support,Slovenia,SVN,1.007424,score,2019.0
+62,Governance,Fragile States Index Total ,E1_Income support,Slovenia,SVN,25.84648022438141,score,2020.0
+64,Governance,Total freedom in the world score ,E1_Income support,Slovenia,SVN,95.0,score,2021.0
+65,Governance,Human Development Index,E1_Income support,Slovenia,SVN,0.917,index,2019.0
+66,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Slovenia,SVN,95.0,percent,2019.0
+67,Environment,Combustible renewables and waste,E1_Income support,Slovenia,SVN,9.150438,percent of total energy,2015.0
+68,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Slovenia,SVN,61.4780006,Percentage of total employment,2020.0
+69,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Slovenia,SVN,11.8489361847787,percent of GNI,2018.0
+72,Environment,Fossil fuel energy consumption,E1_Income support,Slovenia,SVN,61.1142,percent of total,2015.0
+73,Governance,Personal Freedom Score ,E1_Income support,Slovenia,SVN,8.77,score,2018.0
+74,Environment,Electric power consumption ,E1_Income support,Slovenia,SVN,6727.999301642111,kWh per capita,2014.0
+78,Environment,Energy use ,E1_Income support,Slovenia,SVN,93.4972837961122,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+82,Governance,Control of corruption estimate,E1_Income support,Slovenia,SVN,0.9058987,score,2019.0
+83,Environment,Electricity production from oil sources,E1_Income support,Slovenia,SVN,0.1147330768711615,percent of total,2015.0
+84,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Slovenia,SVN,52.9599991,Percentage of females of the total population,2020.0
+91,Governance,Human Freedom Score ,E1_Income support,Slovenia,SVN,8.05,score,2018.0
+98,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Slovenia,SVN,3.80200005,percent of total labor force,2020.0
+107,Environment,Electricity production from nuclear sources ,E1_Income support,Slovenia,SVN,38.11837753931295,percent of total,2015.0

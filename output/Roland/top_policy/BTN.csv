@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
 BTN,H7_Vaccination policy,0.0953846192613886,1
-BTN,H6_Facial Coverings,0.08485966681509888,2
-BTN,C1_School closing,0.07364167717094446,3
-BTN,C6_Stay at home requirements,0.06969584044361549,4
-BTN,E1_Income support,0.06950137333670381,5
-BTN,C5_Close public transport,0.06829972597898422,6
-BTN,C4_Restrictions on gatherings,0.06347891630252371,7
+BTN,H6_Facial Coverings,0.0848596668150988,2
+BTN,C1_School closing,0.0736416771709444,3
+BTN,C6_Stay at home requirements,0.0696958404436154,4
+BTN,E1_Income support,0.0695013733367038,5
+BTN,C5_Close public transport,0.0682997259789842,6
+BTN,C4_Restrictions on gatherings,0.0634789163025237,7
 BTN,C2_Workplace closing,0.0573836545425569,8
-BTN,C3_Cancel public events,0.0544598147338824,9
-BTN,C7_Restrictions on internal movement,0.05127862803318195,10
-BTN,C8_International travel controls,0.04380334044627092,11
-BTN,H2_Testing policy,0.038197594446169617,12
-BTN,E2_Debt/contract relief,0.03593299999109306,13
-BTN,H1_Public information campaigns,0.024896679661395863,14
-BTN,H3_Contact tracing,0.02268858574443522,15
+BTN,C3_Cancel public events,0.0544598147338823,9
+BTN,C7_Restrictions on internal movement,0.0512786280331819,10
+BTN,C8_International travel controls,0.0438033404462709,11
+BTN,H2_Testing policy,0.0381975944461696,12
+BTN,E2_Debt/contract relief,0.035932999991093,13
+BTN,H1_Public information campaigns,0.0248966796613958,14
+BTN,H3_Contact tracing,0.0226885857444352,15

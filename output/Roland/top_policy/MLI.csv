@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-MLI,H2_Testing policy,0.08768046900571394,1
-MLI,H7_Vaccination policy,0.08006350505155738,2
-MLI,H6_Facial Coverings,0.07178798692329387,3
-MLI,C1_School closing,0.07055852905428885,4
-MLI,C2_Workplace closing,0.06718347480041298,5
-MLI,E1_Income support,0.05872906879023699,6
-MLI,C8_International travel controls,0.058506258745185113,7
-MLI,C3_Cancel public events,0.05824735836713017,8
-MLI,H3_Contact tracing,0.05633133315430651,9
-MLI,C7_Restrictions on internal movement,0.05549748670820258,10
-MLI,E2_Debt/contract relief,0.04376749323385965,11
-MLI,C6_Stay at home requirements,0.0369776976838333,12
-MLI,H1_Public information campaigns,0.035486150421362696,13
-MLI,C5_Close public transport,0.025497346132403984,14
+MLI,H2_Testing policy,0.1194916122424138,1
+MLI,H7_Vaccination policy,0.0910521435268719,2
+MLI,H6_Facial Coverings,0.0755731749611942,3
+MLI,C1_School closing,0.0751057446663961,4
+MLI,C2_Workplace closing,0.0728257808607383,5
+MLI,C6_Stay at home requirements,0.0674510310093447,6
+MLI,E1_Income support,0.0634145136002444,7
+MLI,C8_International travel controls,0.0585549928741925,8
+MLI,C3_Cancel public events,0.0555705664035974,9
+MLI,H3_Contact tracing,0.0501291682378404,10
+MLI,C7_Restrictions on internal movement,0.0494464136789616,11
+MLI,E2_Debt/contract relief,0.0416004895652098,12
+MLI,H1_Public information campaigns,0.0265428909954439,13
+MLI,C5_Close public transport,0.0068786477014045,14
 MLI,C4_Restrictions on gatherings,0.0,15

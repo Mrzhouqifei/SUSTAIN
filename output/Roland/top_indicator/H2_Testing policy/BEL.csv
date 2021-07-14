@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H2_Testing policy,Belgium,BEL,90.3705,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H2_Testing policy,Belgium,BEL,0.120211,percent,2019.0
-3,Demographics,Fixed telephone subscriptions,H2_Testing policy,Belgium,BEL,3930410.0,number,2019.0
-4,Health,Prevalence of COVID-19,H2_Testing policy,Belgium,BEL,621039.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Belgium,BEL,0.001711,percent,2019.0
+3,Health,Prevalence of COVID-19,H2_Testing policy,Belgium,BEL,621039.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Fixed telephone subscriptions,H2_Testing policy,Belgium,BEL,3930410.0,number,2019.0
+5,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Belgium,BEL,91.9485403518636,percent of total,2017.0
 6,Environment,Electricity production from oil sources,H2_Testing policy,Belgium,BEL,0.3005118766894807,percent of total,2015.0
-7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Belgium,BEL,7.8,percent,2018.0
-8,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Belgium,BEL,19.4614,Ones,2018.0
-9,Demographics,Fixed broadband subscriptions,H2_Testing policy,Belgium,BEL,39.7831,per 100 people,2019.0
-10,Environment,Electricity production from coal sources ,H2_Testing policy,Belgium,BEL,6.108011732903893,percent of total,2015.0
-12,Economics,Volume of imports,H2_Testing policy,Belgium,BEL,3.1,percent change,2020.0
-13,Governance,Government effectiveness estimate,H2_Testing policy,Belgium,BEL,1.032227,score,2019.0
-14,Environment,Combustible renewables and waste,H2_Testing policy,Belgium,BEL,3.469049,percent of total energy,2015.0
-15,Health,Prevalence of total cancers,H2_Testing policy,Belgium,BEL,0.035949,percent,2019.0
-16,Governance,Control of corruption estimate,H2_Testing policy,Belgium,BEL,1.551961,score,2019.0
-17,Demographics,Mobile cellular subscriptions,H2_Testing policy,Belgium,BEL,99.7421,per 100 people,2019.0
-18,Economics,Employment in services (% of total employment) (modeled ILO estimate),H2_Testing policy,Belgium,BEL,78.4169998,Percentage of total employment,2020.0
-19,Environment,Electricity production from nuclear sources ,H2_Testing policy,Belgium,BEL,37.53235175705987,percent of total,2015.0
-20,Social issues ,Net migration,H2_Testing policy,Belgium,BEL,240000.0,net total / data are 5 year estimates,2019.0
-21,Health,Prevalence of down syndrome,H2_Testing policy,Belgium,BEL,0.00053,percent,2019.0
-22,Social issues ,Gini index (World Bank estimate),H2_Testing policy,Belgium,BEL,27.4,index ,2017.0
-23,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Belgium,BEL,8.550513,metric tons per capita,2016.0
-24,Health,Mortality due to COVID-19,H2_Testing policy,Belgium,BEL,18455.0,"Number (cumulative total by Dec 26,2020)",2020.0
-25,Environment,Energy use ,H2_Testing policy,Belgium,BEL,94.45142431253024,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-26,Health,Prevalence of chronic kidney disease,H2_Testing policy,Belgium,BEL,0.10999,percent,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Belgium,BEL,1.6900542148,"proportion, pero 100,000 people",2017.0
-28,Health,"Physicians (per 1,000 people)",H2_Testing policy,Belgium,BEL,3.0709,Ones,2017.0
+7,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Belgium,BEL,8.9,Cases,2019.0
+8,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Belgium,BEL,96.0,percent,2019.0
+9,Social issues ,Proportion of women in managerial positions (%),H2_Testing policy,Belgium,BEL,33.91,percent,2018.0
+10,Governance,Control of corruption estimate,H2_Testing policy,Belgium,BEL,1.551961,score,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Belgium,BEL,7.8,percent,2018.0
+13,Social issues ,Net migration,H2_Testing policy,Belgium,BEL,240000.0,net total / data are 5 year estimates,2019.0
+14,Demographics,Mobile cellular subscriptions,H2_Testing policy,Belgium,BEL,99.7421,per 100 people,2019.0
+16,Demographics,Fixed broadband subscriptions,H2_Testing policy,Belgium,BEL,39.7831,per 100 people,2019.0
+17,Governance,Rule of law estimate ,H2_Testing policy,Belgium,BEL,1.363715,score,2019.0
+18,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Belgium,BEL,1.6900542148,"proportion, pero 100,000 people",2017.0
+21,Health,Prevalence of chronic kidney disease,H2_Testing policy,Belgium,BEL,0.10999,percent,2019.0
+22,Governance,Serious assault (rate),H2_Testing policy,Belgium,BEL,549.91,rate,2018.0
+23,Economics,Employment in services (% of total employment) (modeled ILO estimate),H2_Testing policy,Belgium,BEL,78.4169998,Percentage of total employment,2020.0
+24,Health,Prevalence of Diabetes,H2_Testing policy,Belgium,BEL,0.083193,percent,2019.0
+25,Health,Prevalence of down syndrome,H2_Testing policy,Belgium,BEL,0.00053,percent,2019.0
+26,Social issues ,Gini index (World Bank estimate),H2_Testing policy,Belgium,BEL,27.4,index ,2017.0
+27,Environment,Fossil fuel energy consumption,H2_Testing policy,Belgium,BEL,75.87078,percent of total,2015.0
+28,Health,Summary exposure value tobacco,H2_Testing policy,Belgium,BEL,26.69697,Rate (risk-weighted prevalence),2019.0
 29,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H2_Testing policy,Belgium,BEL,48.5340004,Percentage of females of the total population,2020.0
 31,Demographics,Secure Internet servers ,H2_Testing policy,Belgium,BEL,19663.96016041372,per 1 million people,2019.0
-33,Health,Prevalence of anxiety disorders,H2_Testing policy,Belgium,BEL,0.055711,percent,2019.0
-34,Health,Prevalence of obesity,H2_Testing policy,Belgium,BEL,22.1,percent,2016.0
+32,Environment,"Energy imports, net ",H2_Testing policy,Belgium,BEL,80.09179196696829,percent of energy use,2015.0
+33,Governance,Economic Freedom Score,H2_Testing policy,Belgium,BEL,7.56,score,2018.0
+34,Health,"Physicians (per 1,000 people)",H2_Testing policy,Belgium,BEL,3.0709,Ones,2017.0
 35,Environment,"Adjusted net savings, including particulate emission damage",H2_Testing policy,Belgium,BEL,11.0770980315883,percent of GNI,2018.0
-36,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Belgium,BEL,96.0,percent,2019.0
-38,Governance,Serious assault (rate),H2_Testing policy,Belgium,BEL,549.91,rate,2018.0
-39,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Belgium,BEL,98.0,percent,2019.0
-41,Economics,Volume of exports,H2_Testing policy,Belgium,BEL,2.93,percent change,2020.0
-42,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H2_Testing policy,Belgium,BEL,5.69199991,percent of total labor force,2020.0
-44,Environment,Fossil fuel energy consumption,H2_Testing policy,Belgium,BEL,75.87078,percent of total,2015.0
-45,Environment,Renewable energy consumption ,H2_Testing policy,Belgium,BEL,9.20164053078148,percent of total final energy consumption,2015.0
-46,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Belgium,BEL,39.0,score,2021.0
-47,Environment,"Electricity production from renewable sources, excluding hydroelectric",H2_Testing policy,Belgium,BEL,14148000000.0,kWh,2015.0
-48,Governance,Rule of law estimate ,H2_Testing policy,Belgium,BEL,1.363715,score,2019.0
-49,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H2_Testing policy,Belgium,BEL,2.3,percent,2020.0
-50,Health,Prevalence of Depressive disorders,H2_Testing policy,Belgium,BEL,0.043618,percent,2019.0
-51,Governance,Total freedom in the world score ,H2_Testing policy,Belgium,BEL,96.0,score,2021.0
-53,Social issues ,Proportion of women in managerial positions (%),H2_Testing policy,Belgium,BEL,33.91,percent,2018.0
-54,Governance,Fragile States Index Total ,H2_Testing policy,Belgium,BEL,27.098144674784415,score,2020.0
-55,Environment,CO2 emissions (kt),H2_Testing policy,Belgium,BEL,96889.47,kt,2016.0
-56,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Belgium,BEL,12.88652,micrograms per cubic meter,2017.0
-57,Social issues ,Life Ladder ,H2_Testing policy,Belgium,BEL,6.834000110626221,score,2021.0
-59,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Belgium,BEL,8.9,Cases,2019.0
-60,Governance,Human Development Index,H2_Testing policy,Belgium,BEL,0.931,index,2019.0
-63,Governance,Economic Freedom Score,H2_Testing policy,Belgium,BEL,7.56,score,2018.0
-64,Governance,Corruption Perceptions Index,H2_Testing policy,Belgium,BEL,76.0,score,2020.0
-65,Governance,Regulatory quality estimate,H2_Testing policy,Belgium,BEL,1.290999,score,2019.0
-68,Governance,Human Freedom Score ,H2_Testing policy,Belgium,BEL,8.28,score,2018.0
-69,Environment,Electric power consumption ,H2_Testing policy,Belgium,BEL,7709.123077882466,kWh per capita,2014.0
-72,Environment,Access to electricity ,H2_Testing policy,Belgium,BEL,100.0,percent of population,2018.0
-73,Health,Prevalence of Diabetes,H2_Testing policy,Belgium,BEL,0.083193,percent,2019.0
-74,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H2_Testing policy,Belgium,BEL,5.1,percent,2020.0
-77,Governance,Voice and accountability estimate,H2_Testing policy,Belgium,BEL,1.36912,score,2019.0
-79,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Belgium,BEL,57.0,score,2021.0
-80,Health,Summary exposure value tobacco,H2_Testing policy,Belgium,BEL,26.69697,Rate (risk-weighted prevalence),2019.0
-81,Environment,"Energy imports, net ",H2_Testing policy,Belgium,BEL,80.09179196696829,percent of energy use,2015.0
-83,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H2_Testing policy,Belgium,BEL,53.3959999,Percentage of total population,2020.0
-86,Environment,"Electricity production from oil, gas and coal sources",H2_Testing policy,Belgium,BEL,39.21464312417323,percent of total,2015.0
-88,Environment,Energy use (kg of oil equivalent per capita),H2_Testing policy,Belgium,BEL,4687.787049293803,kg of oil equivalent per capita,2015.0
-91,Social issues ,Press freedom score,H2_Testing policy,Belgium,BEL,12.57,score,2020.0
-92,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Belgium,BEL,0.4811862,score,2019.0
-95,Governance,Personal Freedom Score ,H2_Testing policy,Belgium,BEL,8.99,score,2018.0
-108,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Belgium,BEL,91.9485403518636,percent of total,2017.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Belgium,BEL,12.88652,micrograms per cubic meter,2017.0
+37,Health,Prevalence of anxiety disorders,H2_Testing policy,Belgium,BEL,0.055711,percent,2019.0
+38,Environment,Electricity production from coal sources ,H2_Testing policy,Belgium,BEL,6.108011732903893,percent of total,2015.0
+39,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Belgium,BEL,0.001711,percent,2019.0
+40,Health,Prevalence of Depressive disorders,H2_Testing policy,Belgium,BEL,0.043618,percent,2019.0
+42,Environment,Electricity production from nuclear sources ,H2_Testing policy,Belgium,BEL,37.53235175705987,percent of total,2015.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H2_Testing policy,Belgium,BEL,5.69199991,percent of total labor force,2020.0
+44,Environment,"Electricity production from renewable sources, excluding hydroelectric",H2_Testing policy,Belgium,BEL,14148000000.0,kWh,2015.0
+47,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Belgium,BEL,98.0,percent,2019.0
+48,Governance,Corruption Perceptions Index,H2_Testing policy,Belgium,BEL,76.0,score,2020.0
+49,Economics,Volume of imports,H2_Testing policy,Belgium,BEL,3.1,percent change,2020.0
+50,Environment,Energy use ,H2_Testing policy,Belgium,BEL,94.45142431253024,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+51,Environment,"Electricity production from oil, gas and coal sources",H2_Testing policy,Belgium,BEL,39.21464312417323,percent of total,2015.0
+52,Governance,Total freedom in the world score ,H2_Testing policy,Belgium,BEL,96.0,score,2021.0
+53,Governance,Fragile States Index Total ,H2_Testing policy,Belgium,BEL,27.098144674784415,score,2020.0
+54,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Belgium,BEL,57.0,score,2021.0
+55,Environment,Combustible renewables and waste,H2_Testing policy,Belgium,BEL,3.469049,percent of total energy,2015.0
+56,Governance,Human Freedom Score ,H2_Testing policy,Belgium,BEL,8.28,score,2018.0
+58,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H2_Testing policy,Belgium,BEL,5.1,percent,2020.0
+60,Economics,Volume of exports,H2_Testing policy,Belgium,BEL,2.93,percent change,2020.0
+61,Governance,Regulatory quality estimate,H2_Testing policy,Belgium,BEL,1.290999,score,2019.0
+62,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Belgium,BEL,8.550513,metric tons per capita,2016.0
+65,Health,Prevalence of total cancers,H2_Testing policy,Belgium,BEL,0.035949,percent,2019.0
+66,Health,Prevalence of obesity,H2_Testing policy,Belgium,BEL,22.1,percent,2016.0
+70,Social issues ,Press freedom score,H2_Testing policy,Belgium,BEL,12.57,score,2020.0
+71,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Belgium,BEL,0.4811862,score,2019.0
+72,Governance,Personal Freedom Score ,H2_Testing policy,Belgium,BEL,8.99,score,2018.0
+74,Environment,Electric power consumption ,H2_Testing policy,Belgium,BEL,7709.123077882466,kWh per capita,2014.0
+75,Social issues ,Life Ladder ,H2_Testing policy,Belgium,BEL,6.834000110626221,score,2021.0
+76,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Belgium,BEL,19.4614,Ones,2018.0
+77,Environment,Renewable energy consumption ,H2_Testing policy,Belgium,BEL,9.20164053078148,percent of total final energy consumption,2015.0
+79,Governance,Human Development Index,H2_Testing policy,Belgium,BEL,0.931,index,2019.0
+80,Environment,Access to electricity ,H2_Testing policy,Belgium,BEL,100.0,percent of population,2018.0
+83,Health,Mortality due to COVID-19,H2_Testing policy,Belgium,BEL,18455.0,"Number (cumulative total by Dec 26,2020)",2020.0
+84,Environment,CO2 emissions (kt),H2_Testing policy,Belgium,BEL,96889.47,kt,2016.0
+85,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Belgium,BEL,39.0,score,2021.0
+86,Governance,Government effectiveness estimate,H2_Testing policy,Belgium,BEL,1.032227,score,2019.0
+88,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H2_Testing policy,Belgium,BEL,53.3959999,Percentage of total population,2020.0
+91,Environment,Energy use (kg of oil equivalent per capita),H2_Testing policy,Belgium,BEL,4687.787049293803,kg of oil equivalent per capita,2015.0
+94,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H2_Testing policy,Belgium,BEL,2.3,percent,2020.0
+104,Governance,Voice and accountability estimate,H2_Testing policy,Belgium,BEL,1.36912,score,2019.0

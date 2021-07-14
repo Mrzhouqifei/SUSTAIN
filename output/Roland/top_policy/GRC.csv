@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-GRC,H7_Vaccination policy,0.11071288147515193,1
-GRC,C1_School closing,0.10933789051080756,2
-GRC,H6_Facial Coverings,0.07761028644309602,3
-GRC,C2_Workplace closing,0.06629477626465942,4
-GRC,C6_Stay at home requirements,0.06429238224471485,5
-GRC,C3_Cancel public events,0.06099105227477088,6
-GRC,H2_Testing policy,0.060248024225365064,7
-GRC,E2_Debt/contract relief,0.057721588911149625,8
-GRC,C8_International travel controls,0.05059363675202837,9
-GRC,C4_Restrictions on gatherings,0.041657048020526936,10
-GRC,E1_Income support,0.0405838247569366,11
-GRC,C7_Restrictions on internal movement,0.03937981351146695,12
-GRC,H3_Contact tracing,0.03840796326062178,13
-GRC,H1_Public information campaigns,0.03026780075575214,14
-GRC,C5_Close public transport,0.0,15
+GRC,H7_Vaccination policy,0.1001982792181757,1
+GRC,C1_School closing,0.0890182387188311,2
+GRC,H6_Facial Coverings,0.0798414793571143,3
+GRC,C2_Workplace closing,0.0763984836742386,4
+GRC,C6_Stay at home requirements,0.0708232080804141,5
+GRC,C7_Restrictions on internal movement,0.0708230475968177,6
+GRC,H2_Testing policy,0.0694611740478524,7
+GRC,E2_Debt/contract relief,0.0537347321847466,8
+GRC,C8_International travel controls,0.0521812232701144,9
+GRC,C3_Cancel public events,0.0457071160576826,10
+GRC,C4_Restrictions on gatherings,0.0435304680761862,11
+GRC,C5_Close public transport,0.0426169844250002,12
+GRC,E1_Income support,0.0396033221730389,13
+GRC,H3_Contact tracing,0.0377428365368451,14
+GRC,H1_Public information campaigns,0.0233454833478069,15

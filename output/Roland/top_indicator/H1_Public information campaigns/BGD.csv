@@ -1,101 +1,101 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H1_Public information campaigns,Bangladesh,BGD,12.9,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,H1_Public information campaigns,Bangladesh,BGD,26.0,score,2020.0
-3,Demographics,Secure Internet servers ,H1_Public information campaigns,Bangladesh,BGD,100.1802182879976,per 1 million people,2019.0
+2,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Bangladesh,BGD,1449650.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Bangladesh,BGD,0.132966,percent,2019.0
 4,Health,Prevalence of COVID-19,H1_Public information campaigns,Bangladesh,BGD,498293.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Economics,Stock market capitalization (US$ million),H1_Public information campaigns,Bangladesh,BGD,77390500000.0,US Dollar,2018.0
-6,Health,Mortality due to COVID-19,H1_Public information campaigns,Bangladesh,BGD,7217.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Summary exposure value tobacco,H1_Public information campaigns,Bangladesh,BGD,24.44582,Rate (risk-weighted prevalence),2019.0
-8,Social issues ,Net migration,H1_Public information campaigns,Bangladesh,BGD,-1847503.0,net total / data are 5 year estimates,2019.0
-9,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Bangladesh,BGD,0.5809,Ones,2018.0
-10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Bangladesh,BGD,101.549,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Bangladesh,BGD,2.1,percent,2020.0
-12,Social issues ,Life Ladder ,H1_Public information campaigns,Bangladesh,BGD,5.024600028991699,score,2021.0
+5,Governance,Rule of law estimate ,H1_Public information campaigns,Bangladesh,BGD,-0.6363084,score,2019.0
+6,Environment,Electricity production from oil sources,H1_Public information campaigns,Bangladesh,BGD,16.37999694972124,percent of total,2015.0
+7,Environment,Fossil fuel energy consumption,H1_Public information campaigns,Bangladesh,BGD,73.76894,percent of total,2014.0
+8,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Bangladesh,BGD,0.063473,percent,2019.0
+9,Governance,Human Freedom Score ,H1_Public information campaigns,Bangladesh,BGD,5.67,score,2018.0
+10,Environment,Energy use (kg of oil equivalent per capita),H1_Public information campaigns,Bangladesh,BGD,229.2464128646716,kg of oil equivalent per capita,2014.0
+11,Governance,Economic Freedom Score,H1_Public information campaigns,Bangladesh,BGD,6.04,score,2018.0
+12,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Bangladesh,BGD,60.84578,micrograms per cubic meter,2017.0
 13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Bangladesh,BGD,4.95903,per 100 people,2019.0
-14,Economics,Volume of imports,H1_Public information campaigns,Bangladesh,BGD,5.147,percent change,2020.0
-15,Environment,Electric power consumption ,H1_Public information campaigns,Bangladesh,BGD,320.2041582054464,kWh per capita,2014.0
-17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Bangladesh,BGD,97.0,percent,2019.0
-18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Bangladesh,BGD,0.03303,percent,2019.0
-20,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Bangladesh,BGD,36.4150009,Percentage of females of the total population,2020.0
-21,Environment,CO2 emissions (kt),H1_Public information campaigns,Bangladesh,BGD,84245.66,kt,2016.0
-22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Bangladesh,BGD,221.0,Cases,2019.0
-23,Environment,Renewable energy consumption ,H1_Public information campaigns,Bangladesh,BGD,34.7470690115416,percent of total final energy consumption,2015.0
-24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Bangladesh,BGD,15.0,score,2021.0
-25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Bangladesh,BGD,0.4124,Ones,2018.0
-27,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Bangladesh,BGD,22.4921532083587,percent of GNI,2018.0
-28,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Bangladesh,BGD,40.605999,Percentage of total employment,2020.0
-29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Bangladesh,BGD,60.84578,micrograms per cubic meter,2017.0
-30,Environment,Electricity production from oil sources,H1_Public information campaigns,Bangladesh,BGD,16.37999694972124,percent of total,2015.0
-31,Governance,Human Freedom Score ,H1_Public information campaigns,Bangladesh,BGD,5.67,score,2018.0
-32,Environment,Access to electricity ,H1_Public information campaigns,Bangladesh,BGD,85.1604232788086,percent of population,2018.0
-33,Social issues ,Proportion of women in managerial positions (%),H1_Public information campaigns,Bangladesh,BGD,10.74,percent,2017.0
-34,Health,Prevalence of down syndrome,H1_Public information campaigns,Bangladesh,BGD,0.000138,percent,2019.0
-35,Environment,"Energy imports, net ",H1_Public information campaigns,Bangladesh,BGD,16.84170264262449,percent of energy use,2014.0
-36,Environment,"Electricity production from oil, gas and coal sources",H1_Public information campaigns,Bangladesh,BGD,98.7731100981173,percent of total,2015.0
-37,Environment,Combustible renewables and waste,H1_Public information campaigns,Bangladesh,BGD,25.5764,percent of total energy,2014.0
-38,Governance,Regulatory quality estimate,H1_Public information campaigns,Bangladesh,BGD,-0.9289543,score,2019.0
-39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Bangladesh,BGD,98.0,percent,2019.0
-40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Bangladesh,BGD,0.132966,percent,2019.0
-42,Economics,Expenditure on education (% of GDP),H1_Public information campaigns,Bangladesh,BGD,2.50514,percent,2017.0
-43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Bangladesh,BGD,100.0,percent of total,2017.0
-45,Social issues ,Press freedom score,H1_Public information campaigns,Bangladesh,BGD,49.37,score,2020.0
-46,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Bangladesh,BGD,20.91690544,proportion,2020.0
-47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Bangladesh,BGD,24.0,score,2021.0
-48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Bangladesh,BGD,0.000934,percent,2019.0
-49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Bangladesh,BGD,4.15100002,percent of total labor force,2020.0
-50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Bangladesh,BGD,0.046665,percent,2019.0
-51,Governance,Human Development Index,H1_Public information campaigns,Bangladesh,BGD,0.632,index,2019.0
-52,Governance,Total freedom in the world score ,H1_Public information campaigns,Bangladesh,BGD,39.0,score,2021.0
-53,Health,Prevalence of obesity,H1_Public information campaigns,Bangladesh,BGD,3.6,percent,2016.0
-54,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Bangladesh,BGD,48.2332427177019,proportion,2017.0
-55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Bangladesh,BGD,-0.9181735,score,2019.0
-56,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Bangladesh,BGD,30.2,percent,2020.0
-57,Demographics,Urban population (% of total population),H1_Public information campaigns,Bangladesh,BGD,37.405,total,2019.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H1_Public information campaigns,Bangladesh,BGD,9.76054954528809,proportion,2019.0
-59,Health,Prevalence of total cancers,H1_Public information campaigns,Bangladesh,BGD,0.00299,percent,2019.0
-60,Governance,Economic Freedom Score,H1_Public information campaigns,Bangladesh,BGD,6.04,score,2018.0
-61,Governance,Personal Freedom Score ,H1_Public information campaigns,Bangladesh,BGD,5.3,score,2018.0
-62,Environment,Fossil fuel energy consumption,H1_Public information campaigns,Bangladesh,BGD,73.76894,percent of total,2014.0
-63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Bangladesh,BGD,1449650.0,number,2019.0
-64,Economics,Volume of exports,H1_Public information campaigns,Bangladesh,BGD,5.754,percent change,2020.0
-65,Governance,Fragile States Index Total ,H1_Public information campaigns,Bangladesh,BGD,85.69999999999999,score,2020.0
-66,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H1_Public information campaigns,Bangladesh,BGD,10640.0,international $ in PPP,2020.0
-67,Demographics,Refugee population by country or territory of asylum,H1_Public information campaigns,Bangladesh,BGD,854779.0,proportion,2019.0
-68,Health,Prevalence of Diabetes,H1_Public information campaigns,Bangladesh,BGD,0.044016,percent,2019.0
-69,Governance,Control of corruption estimate,H1_Public information campaigns,Bangladesh,BGD,-0.9938096,score,2019.0
-70,Social issues ,Proportion of people living below 50 percent of median income (%),H1_Public information campaigns,Bangladesh,BGD,6.1,proportion,2016.0
-71,Governance,Voice and accountability estimate,H1_Public information campaigns,Bangladesh,BGD,-0.7217754,score,2019.0
-72,Governance,Rule of law estimate ,H1_Public information campaigns,Bangladesh,BGD,-0.6363084,score,2019.0
-73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Bangladesh,BGD,0.533299,metric tons per capita,2016.0
-74,Demographics,People with basic handwashing facilities including soap and water (% of population),H1_Public information campaigns,Bangladesh,BGD,34.8076036069316,proportion,2017.0
-75,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),H1_Public information campaigns,Bangladesh,BGD,28.3,proportion,2014.0
-76,Economics,"Foreign direct investment, net",H1_Public information campaigns,Bangladesh,BGD,1596754110.0,US Dollar,2019.0
-77,Environment,Electricity production from coal sources ,H1_Public information campaigns,Bangladesh,BGD,1.689515514056701,percent of total,2015.0
-78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Bangladesh,BGD,0.063473,percent,2019.0
-79,Social issues ,Gini index (World Bank estimate),H1_Public information campaigns,Bangladesh,BGD,32.4,index ,2016.0
-80,Environment,Electricity production from nuclear sources ,H1_Public information campaigns,Bangladesh,BGD,0.0,percent of total,2014.0
-81,Environment,Energy use (kg of oil equivalent per capita),H1_Public information campaigns,Bangladesh,BGD,229.2464128646716,kg of oil equivalent per capita,2014.0
-84,Social issues ,Coverage of social safety net programs (% of population),H1_Public information campaigns,Bangladesh,BGD,40.3763543758825,proportion,2016.0
-85,Demographics,Rural population (% of total population),H1_Public information campaigns,Bangladesh,BGD,62.595,proportion,2019.0
-86,Economics,Unemployment rate (%) - Annual,H1_Public information campaigns,Bangladesh,BGD,4.5,percent,2017.0
-87,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Bangladesh,BGD,7.662642767158443,proportion,2019.0
-88,Economics,"Trade, total as % of GDP",H1_Public information campaigns,Bangladesh,BGD,31.51369,percent,2019.0
-90,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Bangladesh,BGD,47.91743361991042,proportion,2019.0
-93,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H1_Public information campaigns,Bangladesh,BGD,2.5,rating,2019.0
-94,Governance,Government effectiveness estimate,H1_Public information campaigns,Bangladesh,BGD,-0.7392301,score,2019.0
-95,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H1_Public information campaigns,Bangladesh,BGD,24.6682052612305,proportion,2016.0
-98,Environment,Energy use ,H1_Public information campaigns,Bangladesh,BGD,65.28293926908019,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+14,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Bangladesh,BGD,2.1,percent,2020.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Bangladesh,BGD,221.0,Cases,2019.0
+17,Social issues ,Net migration,H1_Public information campaigns,Bangladesh,BGD,-1847503.0,net total / data are 5 year estimates,2019.0
+18,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Bangladesh,BGD,36.4150009,Percentage of females of the total population,2020.0
+19,Governance,Corruption Perceptions Index,H1_Public information campaigns,Bangladesh,BGD,26.0,score,2020.0
+20,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Bangladesh,BGD,100.0,percent of total,2017.0
+21,Health,Prevalence of Diabetes,H1_Public information campaigns,Bangladesh,BGD,0.044016,percent,2019.0
+22,Environment,Electricity production from coal sources ,H1_Public information campaigns,Bangladesh,BGD,1.689515514056701,percent of total,2015.0
+23,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Bangladesh,BGD,0.03303,percent,2019.0
+24,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Bangladesh,BGD,0.533299,metric tons per capita,2016.0
+25,Social issues ,Proportion of women in managerial positions (%),H1_Public information campaigns,Bangladesh,BGD,10.74,percent,2017.0
+26,Governance,Fragile States Index Total ,H1_Public information campaigns,Bangladesh,BGD,85.69999999999999,score,2020.0
+27,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Bangladesh,BGD,15.0,score,2021.0
+28,Economics,Volume of exports,H1_Public information campaigns,Bangladesh,BGD,5.754,percent change,2020.0
+29,Environment,Electricity production from nuclear sources ,H1_Public information campaigns,Bangladesh,BGD,0.0,percent of total,2014.0
+30,Health,Prevalence of obesity,H1_Public information campaigns,Bangladesh,BGD,3.6,percent,2016.0
+31,Health,Summary exposure value tobacco,H1_Public information campaigns,Bangladesh,BGD,24.44582,Rate (risk-weighted prevalence),2019.0
+34,Governance,Voice and accountability estimate,H1_Public information campaigns,Bangladesh,BGD,-0.7217754,score,2019.0
+35,Environment,CO2 emissions (kt),H1_Public information campaigns,Bangladesh,BGD,84245.66,kt,2016.0
+36,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Bangladesh,BGD,59.0089989,Percentage of total population,2020.0
+37,Social issues ,Gini index (World Bank estimate),H1_Public information campaigns,Bangladesh,BGD,32.4,index ,2016.0
+38,Economics,"Foreign direct investment, net",H1_Public information campaigns,Bangladesh,BGD,1596754110.0,US Dollar,2019.0
+39,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Bangladesh,BGD,30.2,percent,2020.0
+40,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Bangladesh,BGD,20.91690544,proportion,2020.0
+41,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Bangladesh,BGD,0.046665,percent,2019.0
+42,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Bangladesh,BGD,-0.9181735,score,2019.0
+43,Demographics,Rural population (% of total population),H1_Public information campaigns,Bangladesh,BGD,62.595,proportion,2019.0
+44,Environment,"Energy imports, net ",H1_Public information campaigns,Bangladesh,BGD,16.84170264262449,percent of energy use,2014.0
+45,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Bangladesh,BGD,101.549,per 100 people,2019.0
+46,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Bangladesh,BGD,2.3733287962,"proportion, pero 100,000 people",2018.0
+47,Governance,Human Development Index,H1_Public information campaigns,Bangladesh,BGD,0.632,index,2019.0
+48,Governance,Total freedom in the world score ,H1_Public information campaigns,Bangladesh,BGD,39.0,score,2021.0
+49,Demographics,Secure Internet servers ,H1_Public information campaigns,Bangladesh,BGD,100.1802182879976,per 1 million people,2019.0
+50,Environment,Energy use ,H1_Public information campaigns,Bangladesh,BGD,65.28293926908019,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+51,Environment,Renewable energy consumption ,H1_Public information campaigns,Bangladesh,BGD,34.7470690115416,percent of total final energy consumption,2015.0
+52,Governance,Control of corruption estimate,H1_Public information campaigns,Bangladesh,BGD,-0.9938096,score,2019.0
+53,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Bangladesh,BGD,4.15100002,percent of total labor force,2020.0
+54,Environment,Electric power consumption ,H1_Public information campaigns,Bangladesh,BGD,320.2041582054464,kWh per capita,2014.0
+55,Social issues ,Life Ladder ,H1_Public information campaigns,Bangladesh,BGD,5.024600028991699,score,2021.0
+56,Health,Prevalence of total cancers,H1_Public information campaigns,Bangladesh,BGD,0.00299,percent,2019.0
+57,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Bangladesh,BGD,98.0,percent,2019.0
+58,Social issues ,Coverage of social safety net programs (% of population),H1_Public information campaigns,Bangladesh,BGD,40.3763543758825,proportion,2016.0
+59,Economics,"International tourism, receipts",H1_Public information campaigns,Bangladesh,BGD,388000000.0,US Dollar,2019.0
+60,Health,Prevalence of down syndrome,H1_Public information campaigns,Bangladesh,BGD,0.000138,percent,2019.0
+61,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H1_Public information campaigns,Bangladesh,BGD,24.6682052612305,proportion,2016.0
+62,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Bangladesh,BGD,22.4921532083587,percent of GNI,2018.0
+63,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Bangladesh,BGD,40.605999,Percentage of total employment,2020.0
+64,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H1_Public information campaigns,Bangladesh,BGD,9.76054954528809,proportion,2019.0
+65,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Bangladesh,BGD,97.0,percent,2019.0
+66,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Bangladesh,BGD,7.662642767158443,proportion,2019.0
+67,Governance,Personal Freedom Score ,H1_Public information campaigns,Bangladesh,BGD,5.3,score,2018.0
+68,Environment,Combustible renewables and waste,H1_Public information campaigns,Bangladesh,BGD,25.5764,percent of total energy,2014.0
+69,Economics,Expenditure on social protection (% of GDP),H1_Public information campaigns,Bangladesh,BGD,0.82861,percent,2017.0
+70,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Bangladesh,BGD,24.0,score,2021.0
+71,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Bangladesh,BGD,47.91743361991042,proportion,2019.0
+72,Environment,Access to electricity ,H1_Public information campaigns,Bangladesh,BGD,85.1604232788086,percent of population,2018.0
+73,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Bangladesh,BGD,0.4124,Ones,2018.0
+74,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H1_Public information campaigns,Bangladesh,BGD,2.5,rating,2019.0
+75,Health,Mortality due to COVID-19,H1_Public information campaigns,Bangladesh,BGD,7217.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Governance,Government effectiveness estimate,H1_Public information campaigns,Bangladesh,BGD,-0.7392301,score,2019.0
+78,Economics,Volume of imports,H1_Public information campaigns,Bangladesh,BGD,5.147,percent change,2020.0
+80,Demographics,"Population, total",H1_Public information campaigns,Bangladesh,BGD,163046161.0,total,2019.0
+81,Demographics,People with basic handwashing facilities including soap and water (% of population),H1_Public information campaigns,Bangladesh,BGD,34.8076036069316,proportion,2017.0
+83,Health,Hospital beds (per 10 000 population),H1_Public information campaigns,Bangladesh,BGD,7.9,Ones,2016.0
+84,Economics,Expenditure on education (% of GDP),H1_Public information campaigns,Bangladesh,BGD,2.50514,percent,2017.0
+85,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Bangladesh,BGD,0.5809,Ones,2018.0
+88,Demographics,Urban population (% of total population),H1_Public information campaigns,Bangladesh,BGD,37.405,total,2019.0
+89,Economics,Stock market capitalization (US$ million),H1_Public information campaigns,Bangladesh,BGD,77390500000.0,US Dollar,2018.0
+90,Economics,Growth rates of household expenditure or income per capita (%),H1_Public information campaigns,Bangladesh,BGD,2.0,percent,2016.0
+94,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),H1_Public information campaigns,Bangladesh,BGD,28.3,proportion,2014.0
+95,Economics,"Trade, total as % of GDP",H1_Public information campaigns,Bangladesh,BGD,31.51369,percent,2019.0
+96,Economics,Unemployment rate (%) - Annual,H1_Public information campaigns,Bangladesh,BGD,4.5,percent,2017.0
+99,Governance,Regulatory quality estimate,H1_Public information campaigns,Bangladesh,BGD,-0.9289543,score,2019.0
 100,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H1_Public information campaigns,Bangladesh,BGD,74.6844635009766,proportion,2019.0
-101,Demographics,People using safely managed drinking water services (% of population),H1_Public information campaigns,Bangladesh,BGD,55.4412263929523,proportion,2017.0
-102,Economics,"Lending interest rates, percent per annum",H1_Public information campaigns,Bangladesh,BGD,9.55583,percent per annum,2019.0
-103,Demographics,"Population, total",H1_Public information campaigns,Bangladesh,BGD,163046161.0,total,2019.0
-104,Environment,"Electricity production from renewable sources, excluding hydroelectric",H1_Public information campaigns,Bangladesh,BGD,158000000.0,kWh,2015.0
-105,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Bangladesh,BGD,59.0089989,Percentage of total population,2020.0
-107,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H1_Public information campaigns,Bangladesh,BGD,6.97842836380005,proportion,2016.0
-108,Economics,"International tourism, receipts",H1_Public information campaigns,Bangladesh,BGD,388000000.0,US Dollar,2019.0
-109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Bangladesh,BGD,0.4,percent,2018.0
-110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Bangladesh,BGD,2.3733287962,"proportion, pero 100,000 people",2018.0
-112,Economics,Expenditure on health (% of GDP),H1_Public information campaigns,Bangladesh,BGD,0.33849,percent,2017.0
-113,Health,Hospital beds (per 10 000 population),H1_Public information campaigns,Bangladesh,BGD,7.9,Ones,2016.0
-114,Economics,Growth rates of household expenditure or income per capita (%),H1_Public information campaigns,Bangladesh,BGD,2.0,percent,2016.0
-117,Economics,Expenditure on social protection (% of GDP),H1_Public information campaigns,Bangladesh,BGD,0.82861,percent,2017.0
+103,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H1_Public information campaigns,Bangladesh,BGD,10640.0,international $ in PPP,2020.0
+104,Economics,Expenditure on health (% of GDP),H1_Public information campaigns,Bangladesh,BGD,0.33849,percent,2017.0
+105,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Bangladesh,BGD,48.2332427177019,proportion,2017.0
+106,Demographics,People using safely managed drinking water services (% of population),H1_Public information campaigns,Bangladesh,BGD,55.4412263929523,proportion,2017.0
+107,Social issues ,Press freedom score,H1_Public information campaigns,Bangladesh,BGD,49.37,score,2020.0
+109,Demographics,Refugee population by country or territory of asylum,H1_Public information campaigns,Bangladesh,BGD,854779.0,proportion,2019.0
+110,Environment,"Electricity production from renewable sources, excluding hydroelectric",H1_Public information campaigns,Bangladesh,BGD,158000000.0,kWh,2015.0
+111,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Bangladesh,BGD,0.000934,percent,2019.0
+112,Environment,"Electricity production from oil, gas and coal sources",H1_Public information campaigns,Bangladesh,BGD,98.7731100981173,percent of total,2015.0
+113,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Bangladesh,BGD,0.4,percent,2018.0
+115,Social issues ,Proportion of people living below 50 percent of median income (%),H1_Public information campaigns,Bangladesh,BGD,6.1,proportion,2016.0
+116,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H1_Public information campaigns,Bangladesh,BGD,6.97842836380005,proportion,2016.0
+117,Economics,"Lending interest rates, percent per annum",H1_Public information campaigns,Bangladesh,BGD,9.55583,percent per annum,2019.0

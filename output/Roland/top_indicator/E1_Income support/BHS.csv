@@ -1,65 +1,65 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,E1_Income support,Bahamas,BHS,85.0,percent of population,2019.0
-2,Economics,Volume of exports,E1_Income support,Bahamas,BHS,3.436,percent change,2020.0
-3,Health,Prevalence of COVID-19,E1_Income support,Bahamas,BHS,7733.0,"Number (cumulative total by Dec 26,2020)",2020.0
+2,Health,Prevalence of COVID-19,E1_Income support,Bahamas,BHS,7733.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Governance,Corruption Perceptions Index,E1_Income support,Bahamas,BHS,63.0,score,2020.0
 5,Demographics,Secure Internet servers ,E1_Income support,Bahamas,BHS,1586.72287807909,per 1 million people,2019.0
-6,Governance,Total freedom in the world score ,E1_Income support,Bahamas,BHS,91.0,score,2021.0
-7,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Bahamas,BHS,31.958171469,"proportion, pero 100,000 people",2017.0
-8,Health,Summary exposure value tobacco,E1_Income support,Bahamas,BHS,13.84884,Rate (risk-weighted prevalence),2019.0
-9,Social issues ,Net migration,E1_Income support,Bahamas,BHS,4999.0,net total / data are 5 year estimates,2019.0
-10,Environment,CO2 emissions (kt),E1_Income support,Bahamas,BHS,1785.829,kt,2016.0
-11,Governance,Economic Freedom Score,E1_Income support,Bahamas,BHS,7.62,score,2018.0
-13,Health,Prevalence of Depressive disorders,E1_Income support,Bahamas,BHS,0.035205,percent,2019.0
-15,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Bahamas,BHS,-3.52596032840768,percent of GNI,2018.0
-17,Health,Prevalence of obesity,E1_Income support,Bahamas,BHS,31.6,percent,2016.0
-18,Demographics,Fixed broadband subscriptions,E1_Income support,Bahamas,BHS,21.1293,per 100 people,2019.0
-19,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Bahamas,BHS,86.0,percent,2019.0
-20,Governance,Human Development Index,E1_Income support,Bahamas,BHS,0.814,index,2019.0
-21,Governance,Rule of law estimate ,E1_Income support,Bahamas,BHS,0.0765319,score,2019.0
-22,Demographics,Fixed telephone subscriptions,E1_Income support,Bahamas,BHS,91129.0,number,2019.0
-27,Health,Prevalence of anxiety disorders,E1_Income support,Bahamas,BHS,0.048978,percent,2019.0
-28,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Bahamas,BHS,83.8909988,Percentage of total employment,2020.0
-29,Demographics,Urban population (% of total population),E1_Income support,Bahamas,BHS,83.132,total,2019.0
-30,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Bahamas,BHS,74.4759979,Percentage of total population,2020.0
-31,Health,Prevalence of Hypertensive heart disease,E1_Income support,Bahamas,BHS,0.003148,percent,2019.0
-32,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Bahamas,BHS,15.0,Cases,2019.0
-34,Governance,Corruption Perceptions Index,E1_Income support,Bahamas,BHS,63.0,score,2020.0
-35,Health,Prevalence of chronic kidney disease,E1_Income support,Bahamas,BHS,0.098232,percent,2019.0
-36,Governance,Government effectiveness estimate,E1_Income support,Bahamas,BHS,0.4860963,score,2019.0
-38,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Bahamas,BHS,17.36772,micrograms per cubic meter,2017.0
-39,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Bahamas,BHS,53.0,score,2021.0
-40,Governance,Serious assault (rate),E1_Income support,Bahamas,BHS,1046.33,rate,2018.0
-41,Environment,Renewable energy consumption ,E1_Income support,Bahamas,BHS,1.21051288380392,percent of total final energy consumption,2015.0
-44,Governance,Fragile States Index Total ,E1_Income support,Bahamas,BHS,49.86859355975667,score,2020.0
-45,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Bahamas,BHS,67.9599991,Percentage of females of the total population,2020.0
-46,Environment,CO2 emissions (metric tons per capita),E1_Income support,Bahamas,BHS,4.725278,metric tons per capita,2016.0
-47,Health,Mortality due to COVID-19,E1_Income support,Bahamas,BHS,164.0,"Number (cumulative total by Dec 26,2020)",2020.0
-50,Health,Prevalence of total cancers,E1_Income support,Bahamas,BHS,0.014879,percent,2019.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Bahamas,BHS,31.958171469,"proportion, pero 100,000 people",2017.0
+8,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Bahamas,BHS,12.82051282,proportion,2020.0
+9,Health,Summary exposure value tobacco,E1_Income support,Bahamas,BHS,13.84884,Rate (risk-weighted prevalence),2019.0
+11,Environment,CO2 emissions (kt),E1_Income support,Bahamas,BHS,1785.829,kt,2016.0
+12,Health,Prevalence of Depressive disorders,E1_Income support,Bahamas,BHS,0.035205,percent,2019.0
+13,Demographics,Fixed broadband subscriptions,E1_Income support,Bahamas,BHS,21.1293,per 100 people,2019.0
+14,Health,Prevalence of obesity,E1_Income support,Bahamas,BHS,31.6,percent,2016.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Bahamas,BHS,15.0,Cases,2019.0
+16,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Bahamas,BHS,74.4759979,Percentage of total population,2020.0
+17,Governance,Government effectiveness estimate,E1_Income support,Bahamas,BHS,0.4860963,score,2019.0
+18,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Bahamas,BHS,17.36772,micrograms per cubic meter,2017.0
+19,Health,Prevalence of Hypertensive heart disease,E1_Income support,Bahamas,BHS,0.003148,percent,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Bahamas,BHS,0.266667,percent,2019.0
+21,Health,Prevalence of chronic kidney disease,E1_Income support,Bahamas,BHS,0.098232,percent,2019.0
+22,Social issues ,Net migration,E1_Income support,Bahamas,BHS,4999.0,net total / data are 5 year estimates,2019.0
+24,Health,Prevalence of anxiety disorders,E1_Income support,Bahamas,BHS,0.048978,percent,2019.0
+25,Health,"Physicians (per 1,000 people)",E1_Income support,Bahamas,BHS,2.0068,Ones,2017.0
+26,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Bahamas,BHS,53.0,score,2021.0
+27,Demographics,Age dependency ratio (% of working-age population),E1_Income support,Bahamas,BHS,41.96278544221902,proportion,2019.0
+28,Environment,CO2 emissions (metric tons per capita),E1_Income support,Bahamas,BHS,4.725278,metric tons per capita,2016.0
+30,Governance,Rule of law estimate ,E1_Income support,Bahamas,BHS,0.0765319,score,2019.0
+31,Governance,Economic Freedom Score,E1_Income support,Bahamas,BHS,7.62,score,2018.0
+32,Health,Mortality due to COVID-19,E1_Income support,Bahamas,BHS,164.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Bahamas,BHS,85.0,percent,2019.0
+37,Environment,Renewable energy consumption ,E1_Income support,Bahamas,BHS,1.21051288380392,percent of total final energy consumption,2015.0
+38,Demographics,Fixed telephone subscriptions,E1_Income support,Bahamas,BHS,91129.0,number,2019.0
+39,Governance,Serious assault (rate),E1_Income support,Bahamas,BHS,1046.33,rate,2018.0
+40,Economics,Volume of exports,E1_Income support,Bahamas,BHS,3.436,percent change,2020.0
+41,Demographics,Mobile cellular subscriptions,E1_Income support,Bahamas,BHS,109.249,per 100 people,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Bahamas,BHS,99.9999999918088,percent of total,2017.0
+43,Governance,Regulatory quality estimate,E1_Income support,Bahamas,BHS,-0.0483038,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E1_Income support,Bahamas,BHS,38.0,score,2021.0
+45,Environment,Access to electricity ,E1_Income support,Bahamas,BHS,100.0,percent of population,2018.0
+46,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Bahamas,BHS,0.8294795,score,2019.0
+48,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Bahamas,BHS,3.1,percent,2018.0
 51,Economics,Volume of imports,E1_Income support,Bahamas,BHS,-2.25,percent change,2020.0
-52,Environment,Access to electricity ,E1_Income support,Bahamas,BHS,100.0,percent of population,2018.0
-53,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Bahamas,BHS,11.2700005,percent of total labor force,2020.0
-55,Governance,Human Freedom Score ,E1_Income support,Bahamas,BHS,7.72,score,2018.0
-56,Health,"Physicians (per 1,000 people)",E1_Income support,Bahamas,BHS,2.0068,Ones,2017.0
-58,Governance,Personal Freedom Score ,E1_Income support,Bahamas,BHS,7.82,score,2018.0
-61,Health,Prevalence of Diabetes,E1_Income support,Bahamas,BHS,0.091191,percent,2019.0
-64,Demographics,Age dependency ratio (% of working-age population),E1_Income support,Bahamas,BHS,41.96278544221902,proportion,2019.0
-66,Governance,Control of corruption estimate,E1_Income support,Bahamas,BHS,1.184628,score,2019.0
-68,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Bahamas,BHS,4.5669,Ones,2018.0
-70,Governance,Aggregate score for the Political Rights category,E1_Income support,Bahamas,BHS,38.0,score,2021.0
-72,Health,Prevalence of down syndrome,E1_Income support,Bahamas,BHS,0.000294,percent,2019.0
-73,Governance,Regulatory quality estimate,E1_Income support,Bahamas,BHS,-0.0483038,score,2019.0
-75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Bahamas,BHS,0.8294795,score,2019.0
-78,Demographics,Mobile cellular subscriptions,E1_Income support,Bahamas,BHS,109.249,per 100 people,2019.0
-79,Demographics,"Population, total",E1_Income support,Bahamas,BHS,389482.0,total,2019.0
-81,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Bahamas,BHS,0.266667,percent,2019.0
-82,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Bahamas,BHS,85.0,percent,2019.0
-85,Governance,Voice and accountability estimate,E1_Income support,Bahamas,BHS,0.9342639,score,2019.0
-91,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Bahamas,BHS,12.82051282,proportion,2020.0
+52,Health,Prevalence of total cancers,E1_Income support,Bahamas,BHS,0.014879,percent,2019.0
+53,Health,Prevalence of Diabetes,E1_Income support,Bahamas,BHS,0.091191,percent,2019.0
+55,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Bahamas,BHS,4.5669,Ones,2018.0
+58,Health,Prevalence of down syndrome,E1_Income support,Bahamas,BHS,0.000294,percent,2019.0
+59,Demographics,Rural population (% of total population),E1_Income support,Bahamas,BHS,16.868,proportion,2019.0
+60,Governance,Voice and accountability estimate,E1_Income support,Bahamas,BHS,0.9342639,score,2019.0
+62,Governance,Fragile States Index Total ,E1_Income support,Bahamas,BHS,49.86859355975667,score,2020.0
+64,Governance,Total freedom in the world score ,E1_Income support,Bahamas,BHS,91.0,score,2021.0
+65,Governance,Human Development Index,E1_Income support,Bahamas,BHS,0.814,index,2019.0
+66,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Bahamas,BHS,86.0,percent,2019.0
+68,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Bahamas,BHS,83.8909988,Percentage of total employment,2020.0
+69,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Bahamas,BHS,-3.52596032840768,percent of GNI,2018.0
+73,Governance,Personal Freedom Score ,E1_Income support,Bahamas,BHS,7.82,score,2018.0
+75,Demographics,Urban population (% of total population),E1_Income support,Bahamas,BHS,83.132,total,2019.0
+82,Governance,Control of corruption estimate,E1_Income support,Bahamas,BHS,1.184628,score,2019.0
+84,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Bahamas,BHS,67.9599991,Percentage of females of the total population,2020.0
+85,Demographics,People using at least basic sanitation services (% of population),E1_Income support,Bahamas,BHS,94.9305823307593,proportion,2017.0
+88,Demographics,"Population, total",E1_Income support,Bahamas,BHS,389482.0,total,2019.0
+89,Demographics,Refugee population by country or territory of asylum,E1_Income support,Bahamas,BHS,10.0,proportion,2019.0
+91,Governance,Human Freedom Score ,E1_Income support,Bahamas,BHS,7.72,score,2018.0
 92,Demographics,"Age dependency ratio, old (% of working-age population)",E1_Income support,Bahamas,BHS,10.6234623024913,proportion,2019.0
-94,Economics,"Central government debt, total",E1_Income support,Bahamas,BHS,51.46341954143438,percent of GDP,2016.0
-103,Demographics,Rural population (% of total population),E1_Income support,Bahamas,BHS,16.868,proportion,2019.0
-106,Demographics,Refugee population by country or territory of asylum,E1_Income support,Bahamas,BHS,10.0,proportion,2019.0
-110,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Bahamas,BHS,99.9999999918088,percent of total,2017.0
-111,Social issues ,"Primary completion rate, total (% of relevant age group)",E1_Income support,Bahamas,BHS,76.4586334228516,proportion,2018.0
-112,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Bahamas,BHS,3.1,percent,2018.0
-113,Demographics,People using at least basic sanitation services (% of population),E1_Income support,Bahamas,BHS,94.9305823307593,proportion,2017.0
+98,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Bahamas,BHS,11.2700005,percent of total labor force,2020.0
+101,Economics,"Central government debt, total",E1_Income support,Bahamas,BHS,51.46341954143438,percent of GDP,2016.0
+114,Social issues ,"Primary completion rate, total (% of relevant age group)",E1_Income support,Bahamas,BHS,76.4586334228516,proportion,2018.0

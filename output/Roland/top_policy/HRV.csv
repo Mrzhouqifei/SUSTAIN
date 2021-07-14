@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-HRV,H7_Vaccination policy,0.11703019877922576,1
-HRV,C5_Close public transport,0.11086694167791804,2
-HRV,E2_Debt/contract relief,0.10530979656787452,3
-HRV,C4_Restrictions on gatherings,0.07372956572250919,4
-HRV,C1_School closing,0.0733785122790196,5
-HRV,C2_Workplace closing,0.07287230149667417,6
-HRV,H2_Testing policy,0.07206913142074056,7
-HRV,C7_Restrictions on internal movement,0.06157560494170392,8
-HRV,C8_International travel controls,0.05246613418905075,9
-HRV,H6_Facial Coverings,0.04991996645591314,10
-HRV,C3_Cancel public events,0.040452428005716815,11
-HRV,E1_Income support,0.023158235394207142,12
-HRV,H1_Public information campaigns,0.013059873892811505,13
-HRV,H3_Contact tracing,0.006100031805517621,14
-HRV,C6_Stay at home requirements,0.0,15
+HRV,H7_Vaccination policy,0.1086870400647059,1
+HRV,C5_Close public transport,0.0948131173663112,2
+HRV,E2_Debt/contract relief,0.0890105234917923,3
+HRV,C4_Restrictions on gatherings,0.0872741068826605,4
+HRV,C1_School closing,0.0567383308306663,5
+HRV,C2_Workplace closing,0.0560792523687468,6
+HRV,H2_Testing policy,0.0557655522807099,7
+HRV,C7_Restrictions on internal movement,0.0539898942304378,8
+HRV,C8_International travel controls,0.0524879461177466,9
+HRV,H6_Facial Coverings,0.0515585458157936,10
+HRV,C3_Cancel public events,0.0453938880927616,11
+HRV,E1_Income support,0.0277964123717667,12
+HRV,C6_Stay at home requirements,0.0209129443822013,13
+HRV,H1_Public information campaigns,0.0036841624259578,14
+HRV,H3_Contact tracing,0.0,15

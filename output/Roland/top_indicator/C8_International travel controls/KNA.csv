@@ -1,48 +1,48 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Saint Kitts and Nevis,KNA,80.7102,percent of population,2019.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Saint Kitts and Nevis,KNA,30.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Saint Kitts and Nevis,KNA,5469.962524132187,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Saint Kitts and Nevis,KNA,0.000292,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Saint Kitts and Nevis,KNA,0.002082,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Saint Kitts and Nevis,KNA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Saint Kitts and Nevis,KNA,0.048963,percent,2019.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Saint Kitts and Nevis,KNA,12.77831,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Saint Kitts and Nevis,KNA,0.019597,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.3850662,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Saint Kitts and Nevis,KNA,16.6452,per 100 people,2019.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Saint Kitts and Nevis,KNA,1.5,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Saint Kitts and Nevis,KNA,20.0,proportion,2020.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.5425926,score,2019.0
-23,Economics,"Central government debt, total",C8_International travel controls,Saint Kitts and Nevis,KNA,59.90269645577497,percent of GDP,2014.0
-24,Health,Prevalence of obesity,C8_International travel controls,Saint Kitts and Nevis,KNA,22.9,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Saint Kitts and Nevis,KNA,97.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Saint Kitts and Nevis,KNA,54.0,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Saint Kitts and Nevis,KNA,2.5,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Saint Kitts and Nevis,KNA,1.64219119447618,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Saint Kitts and Nevis,KNA,2.6758,Ones,2015.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Saint Kitts and Nevis,KNA,35.0,score,2021.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Saint Kitts and Nevis,KNA,147.714,per 100 people,2019.0
-39,Social issues ,Progression to secondary school (%),C8_International travel controls,Saint Kitts and Nevis,KNA,99.3793,proportion,2015.0
-40,Demographics,Urban population (% of total population),C8_International travel controls,Saint Kitts and Nevis,KNA,30.799,total,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Saint Kitts and Nevis,KNA,96.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Saint Kitts and Nevis,KNA,0.105164,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Saint Kitts and Nevis,KNA,4.616688,metric tons per capita,2016.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Saint Kitts and Nevis,KNA,0.114156,percent,2019.0
-53,Social issues ,"Primary completion rate, total (% of relevant age group)",C8_International travel controls,Saint Kitts and Nevis,KNA,98.0848236083984,proportion,2016.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.8445547,score,2019.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.5020854,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Saint Kitts and Nevis,KNA,17293.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Saint Kitts and Nevis,KNA,0.4797953,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.7282763,score,2019.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Saint Kitts and Nevis,KNA,0.046641,percent,2019.0
-70,Economics,Volume of imports,C8_International travel controls,Saint Kitts and Nevis,KNA,4.971,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Saint Kitts and Nevis,KNA,0.779,index,2019.0
-72,Demographics,Refugee population by country or territory of asylum,C8_International travel controls,Saint Kitts and Nevis,KNA,5.0,proportion,2019.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Saint Kitts and Nevis,KNA,4.2188,Ones,2015.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Saint Kitts and Nevis,KNA,89.0,score,2021.0
-80,Environment,Access to electricity ,C8_International travel controls,Saint Kitts and Nevis,KNA,100.0,percent of population,2018.0
-82,Economics,Volume of exports,C8_International travel controls,Saint Kitts and Nevis,KNA,-2.116,percent change,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Saint Kitts and Nevis,KNA,238.355,kt,2016.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Saint Kitts and Nevis,KNA,0.240524,percent,2019.0
-90,Demographics,"Population, total",C8_International travel controls,Saint Kitts and Nevis,KNA,52834.0,total,2019.0
-114,Demographics,Rural population (% of total population),C8_International travel controls,Saint Kitts and Nevis,KNA,69.201,proportion,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Saint Kitts and Nevis,KNA,0.240524,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Saint Kitts and Nevis,KNA,17293.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Saint Kitts and Nevis,KNA,30.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Saint Kitts and Nevis,KNA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Saint Kitts and Nevis,KNA,0.000292,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Saint Kitts and Nevis,KNA,4.971,percent change,2020.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.8445547,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Saint Kitts and Nevis,KNA,16.6452,per 100 people,2019.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Saint Kitts and Nevis,KNA,54.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Saint Kitts and Nevis,KNA,0.4797953,score,2019.0
+25,Social issues ,Progression to secondary school (%),C8_International travel controls,Saint Kitts and Nevis,KNA,99.3793,proportion,2015.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.7282763,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Saint Kitts and Nevis,KNA,89.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Saint Kitts and Nevis,KNA,0.105164,percent,2019.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.5425926,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Saint Kitts and Nevis,KNA,12.77831,Rate (risk-weighted prevalence),2019.0
+33,Health,Prevalence of obesity,C8_International travel controls,Saint Kitts and Nevis,KNA,22.9,percent,2016.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Saint Kitts and Nevis,KNA,4.2188,Ones,2015.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Saint Kitts and Nevis,KNA,35.0,score,2021.0
+38,Governance,Human Development Index,C8_International travel controls,Saint Kitts and Nevis,KNA,0.779,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Saint Kitts and Nevis,KNA,2.6758,Ones,2015.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Saint Kitts and Nevis,KNA,96.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Saint Kitts and Nevis,KNA,0.048963,percent,2019.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Saint Kitts and Nevis,KNA,2.5,percent,2018.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Saint Kitts and Nevis,KNA,0.046641,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Saint Kitts and Nevis,KNA,238.355,kt,2016.0
+52,Demographics,Rural population (% of total population),C8_International travel controls,Saint Kitts and Nevis,KNA,69.201,proportion,2019.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Saint Kitts and Nevis,KNA,147.714,per 100 people,2019.0
+59,Economics,Volume of exports,C8_International travel controls,Saint Kitts and Nevis,KNA,-2.116,percent change,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Saint Kitts and Nevis,KNA,5469.962524132187,per 1 million people,2019.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Saint Kitts and Nevis,KNA,0.019597,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.3850662,score,2019.0
+67,Demographics,Refugee population by country or territory of asylum,C8_International travel controls,Saint Kitts and Nevis,KNA,5.0,proportion,2019.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Saint Kitts and Nevis,KNA,4.616688,metric tons per capita,2016.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Saint Kitts and Nevis,KNA,97.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Saint Kitts and Nevis,KNA,100.0,percent of population,2018.0
+81,Demographics,Urban population (% of total population),C8_International travel controls,Saint Kitts and Nevis,KNA,30.799,total,2019.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Saint Kitts and Nevis,KNA,1.64219119447618,percent of total final energy consumption,2015.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Saint Kitts and Nevis,KNA,20.0,proportion,2020.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Saint Kitts and Nevis,KNA,0.114156,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Saint Kitts and Nevis,KNA,0.5020854,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Saint Kitts and Nevis,KNA,0.002082,percent,2019.0
+96,Economics,"Central government debt, total",C8_International travel controls,Saint Kitts and Nevis,KNA,59.90269645577497,percent of GDP,2014.0
+106,Social issues ,"Primary completion rate, total (% of relevant age group)",C8_International travel controls,Saint Kitts and Nevis,KNA,98.0848236083984,proportion,2016.0
+113,Demographics,"Population, total",C8_International travel controls,Saint Kitts and Nevis,KNA,52834.0,total,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Saint Kitts and Nevis,KNA,1.5,Cases,2019.0

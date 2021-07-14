@@ -2,67 +2,67 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,Libya,LBY,21.7589,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Libya,LBY,0.20474,percent,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Libya,LBY,1576000.0,number,2019.0
-4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Libya,LBY,59.5359993,Percentage of total employment,2020.0
-5,Health,Prevalence of COVID-19,H6_Facial Coverings,Libya,LBY,93772.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Libya,LBY,0.050104,percent,2019.0
-7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Libya,LBY,33.8030014,Percentage of females of the total population,2020.0
-8,Governance,Economic Freedom Score,H6_Facial Coverings,Libya,LBY,4.72,score,2018.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Libya,LBY,91.4793,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Libya,LBY,25.4,percent,2020.0
-12,Governance,Personal Freedom Score ,H6_Facial Coverings,Libya,LBY,4.93,score,2018.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Libya,LBY,4.8323,per 100 people,2019.0
-14,Social issues ,Net migration,H6_Facial Coverings,Libya,LBY,-9997.0,net total / data are 5 year estimates,2019.0
-15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Libya,LBY,0.002907,percent,2019.0
-16,Health,Mortality due to COVID-19,H6_Facial Coverings,Libya,LBY,1346.0,"Number (cumulative total by Dec 26,2020)",2020.0
-17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Libya,LBY,2.0905,Ones,2017.0
-18,Health,Prevalence of total cancers,H6_Facial Coverings,Libya,LBY,0.006456,percent,2019.0
-19,Environment,Combustible renewables and waste,H6_Facial Coverings,Libya,LBY,0.84635,percent of total energy,2014.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,Libya,LBY,9.0,score,2021.0
-21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Libya,LBY,49.5779991,Percentage of total population,2020.0
-23,Health,Prevalence of obesity,H6_Facial Coverings,Libya,LBY,32.5,percent,2016.0
-25,Health,Prevalence of down syndrome,H6_Facial Coverings,Libya,LBY,0.000387,percent,2019.0
-26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Libya,LBY,0.0,kWh,2015.0
-27,Social issues ,Life Ladder ,H6_Facial Coverings,Libya,LBY,5.410299777984619,score,2021.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,Libya,LBY,-1.603637,score,2019.0
-29,Health,Summary exposure value tobacco,H6_Facial Coverings,Libya,LBY,33.3445,Rate (risk-weighted prevalence),2019.0
-30,Governance,Fragile States Index Total ,H6_Facial Coverings,Libya,LBY,95.19371849236182,score,2020.0
-34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Libya,LBY,99.1113,percent of total,2014.0
-35,Environment,Electricity production from coal sources ,H6_Facial Coverings,Libya,LBY,0.0,percent of total,2015.0
-36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Libya,LBY,54.25468,micrograms per cubic meter,2017.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,Libya,LBY,1.96655445725932,percent of total final energy consumption,2015.0
-38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Libya,LBY,43.5,percent,2020.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Libya,LBY,59.0,Cases,2019.0
-40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Libya,LBY,100.0,percent of total,2015.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,Libya,LBY,50564.26,kt,2016.0
-43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Libya,LBY,73.0,percent,2019.0
-44,Economics,Volume of imports,H6_Facial Coverings,Libya,LBY,23.344,percent change,2020.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,Libya,LBY,55.77,score,2020.0
-47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Libya,LBY,6.5305,Ones,2017.0
-48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Libya,LBY,15.95744681,proportion,2020.0
-49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Libya,LBY,0.059436,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Libya,LBY,7.788507,metric tons per capita,2016.0
-52,Governance,Human Development Index,H6_Facial Coverings,Libya,LBY,0.724,index,2019.0
-53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Libya,LBY,17.0,score,2020.0
-55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Libya,LBY,100.0,percent of total,2017.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Libya,LBY,-2.565753,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,Libya,LBY,-1.458335,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,Libya,LBY,1050.394750121432,per 1 million people,2019.0
-59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Libya,LBY,73.0,percent,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,Libya,LBY,-2.346947,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Libya,LBY,1.0,score,2021.0
-64,Health,Prevalence of Diabetes,H6_Facial Coverings,Libya,LBY,0.089081,percent,2019.0
-65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Libya,LBY,0.2,percent,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Libya,LBY,8.0,score,2021.0
-68,Governance,Human Freedom Score ,H6_Facial Coverings,Libya,LBY,4.83,score,2018.0
-69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Libya,LBY,0.0,percent of total,2014.0
-70,Economics,Volume of exports,H6_Facial Coverings,Libya,LBY,-4.732,percent change,2020.0
-71,Environment,"Energy imports, net ",H6_Facial Coverings,Libya,LBY,-102.9641120429193,percent of energy use,2014.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,Libya,LBY,-1.922143,score,2019.0
-75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Libya,LBY,18.6259995,percent of total labor force,2020.0
-78,Environment,Access to electricity ,H6_Facial Coverings,Libya,LBY,67.0,percent of population,2018.0
-82,Environment,Electricity production from oil sources,H6_Facial Coverings,Libya,LBY,46.29968445893989,percent of total,2015.0
-83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Libya,LBY,0.093715,percent,2019.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,Libya,LBY,-1.848054,score,2019.0
-92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Libya,LBY,2808.648236406044,kg of oil equivalent per capita,2014.0
-93,Environment,Energy use ,H6_Facial Coverings,Libya,LBY,230.1942657316047,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-96,Environment,Electric power consumption ,H6_Facial Coverings,Libya,LBY,1811.055169908632,kWh per capita,2014.0
+4,Health,Prevalence of COVID-19,H6_Facial Coverings,Libya,LBY,93772.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Libya,LBY,33.8030014,Percentage of females of the total population,2020.0
+6,Environment,"Energy imports, net ",H6_Facial Coverings,Libya,LBY,-102.9641120429193,percent of energy use,2014.0
+7,Governance,Economic Freedom Score,H6_Facial Coverings,Libya,LBY,4.72,score,2018.0
+8,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Libya,LBY,0.093715,percent,2019.0
+9,Governance,Personal Freedom Score ,H6_Facial Coverings,Libya,LBY,4.93,score,2018.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Libya,LBY,8.0,score,2021.0
+12,Environment,Combustible renewables and waste,H6_Facial Coverings,Libya,LBY,0.84635,percent of total energy,2014.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Libya,LBY,1.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Libya,LBY,4.8323,per 100 people,2019.0
+16,Economics,Volume of imports,H6_Facial Coverings,Libya,LBY,23.344,percent change,2020.0
+18,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Libya,LBY,0.0,kWh,2015.0
+19,Social issues ,Net migration,H6_Facial Coverings,Libya,LBY,-9997.0,net total / data are 5 year estimates,2019.0
+23,Environment,Electricity production from oil sources,H6_Facial Coverings,Libya,LBY,46.29968445893989,percent of total,2015.0
+24,Health,Prevalence of obesity,H6_Facial Coverings,Libya,LBY,32.5,percent,2016.0
+25,Environment,Energy use ,H6_Facial Coverings,Libya,LBY,230.1942657316047,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+27,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Libya,LBY,54.25468,micrograms per cubic meter,2017.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,Libya,LBY,50564.26,kt,2016.0
+29,Governance,Corruption Perceptions Index,H6_Facial Coverings,Libya,LBY,17.0,score,2020.0
+30,Health,Prevalence of Diabetes,H6_Facial Coverings,Libya,LBY,0.089081,percent,2019.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,Libya,LBY,1.96655445725932,percent of total final energy consumption,2015.0
+32,Environment,Electric power consumption ,H6_Facial Coverings,Libya,LBY,1811.055169908632,kWh per capita,2014.0
+33,Social issues ,Life Ladder ,H6_Facial Coverings,Libya,LBY,5.410299777984619,score,2021.0
+34,Governance,Fragile States Index Total ,H6_Facial Coverings,Libya,LBY,95.19371849236182,score,2020.0
+35,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Libya,LBY,100.0,percent of total,2015.0
+37,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Libya,LBY,0.059436,percent,2019.0
+38,Governance,Human Freedom Score ,H6_Facial Coverings,Libya,LBY,4.83,score,2018.0
+39,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Libya,LBY,59.5359993,Percentage of total employment,2020.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Libya,LBY,7.788507,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,Libya,LBY,-1.603637,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,Libya,LBY,55.77,score,2020.0
+43,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Libya,LBY,6.5305,Ones,2017.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Libya,LBY,91.4793,per 100 people,2019.0
+45,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Libya,LBY,73.0,percent,2019.0
+46,Health,Prevalence of down syndrome,H6_Facial Coverings,Libya,LBY,0.000387,percent,2019.0
+47,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Libya,LBY,0.050104,percent,2019.0
+48,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Libya,LBY,25.4,percent,2020.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Libya,LBY,18.6259995,percent of total labor force,2020.0
+50,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Libya,LBY,2808.648236406044,kg of oil equivalent per capita,2014.0
+51,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Libya,LBY,0.002907,percent,2019.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,Libya,LBY,1050.394750121432,per 1 million people,2019.0
+53,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Libya,LBY,2.0905,Ones,2017.0
+54,Health,Prevalence of total cancers,H6_Facial Coverings,Libya,LBY,0.006456,percent,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Libya,LBY,59.0,Cases,2019.0
+56,Health,Summary exposure value tobacco,H6_Facial Coverings,Libya,LBY,33.3445,Rate (risk-weighted prevalence),2019.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,Libya,LBY,-2.346947,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,Libya,LBY,0.724,index,2019.0
+60,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Libya,LBY,15.95744681,proportion,2020.0
+61,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Libya,LBY,43.5,percent,2020.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,Libya,LBY,-1.922143,score,2019.0
+68,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Libya,LBY,73.0,percent,2019.0
+69,Health,Mortality due to COVID-19,H6_Facial Coverings,Libya,LBY,1346.0,"Number (cumulative total by Dec 26,2020)",2020.0
+71,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Libya,LBY,0.2,percent,2019.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,Libya,LBY,-1.458335,score,2019.0
+74,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Libya,LBY,100.0,percent of total,2017.0
+75,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Libya,LBY,99.1113,percent of total,2014.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Libya,LBY,-2.565753,score,2019.0
+77,Economics,Volume of exports,H6_Facial Coverings,Libya,LBY,-4.732,percent change,2020.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,Libya,LBY,9.0,score,2021.0
+80,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Libya,LBY,49.5779991,Percentage of total population,2020.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,Libya,LBY,-1.848054,score,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,Libya,LBY,67.0,percent of population,2018.0
+90,Environment,Electricity production from coal sources ,H6_Facial Coverings,Libya,LBY,0.0,percent of total,2015.0
+116,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Libya,LBY,0.0,percent of total,2014.0

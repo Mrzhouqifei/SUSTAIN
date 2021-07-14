@@ -1,75 +1,75 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Cuba,CUB,61.8363,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Cuba,CUB,47.0,score,2020.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Cuba,CUB,9893.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Cuba,CUB,35.3818856921566,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Cuba,CUB,53.3166,per 100 people,2019.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Cuba,CUB,137.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Cuba,CUB,21.55833,Rate (risk-weighted prevalence),2019.0
-10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Cuba,CUB,0.000193,percent,2019.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Cuba,CUB,28283.57,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Cuba,CUB,1450.883716866035,kWh per capita,2014.0
-13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Cuba,CUB,63.81,score,2020.0
-14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Cuba,CUB,0.049511,percent,2019.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Cuba,CUB,0.0,percent of total,2014.0
-16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Cuba,CUB,0.113604,percent,2019.0
-17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Cuba,CUB,99.0,percent,2019.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Cuba,CUB,1.61232,per 100 people,2019.0
-19,Social issues ,Net migration,C7_Restrictions on internal movement,Cuba,CUB,-72000.0,net total / data are 5 year estimates,2019.0
-20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Cuba,CUB,0.221632,percent,2019.0
-21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Cuba,CUB,0.4,percent,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Cuba,CUB,60.50867507886435,percent of total,2015.0
-24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Cuba,CUB,49.77823923801278,percent of energy use,2014.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Cuba,CUB,19.70605,micrograms per cubic meter,2017.0
-27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Cuba,CUB,0.048626,percent,2019.0
-28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Cuba,CUB,0.002582,percent,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Cuba,CUB,-0.1725442,score,2019.0
-30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Cuba,CUB,40.512001,Percentage of females of the total population,2020.0
-33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Cuba,CUB,1034.686070508084,kg of oil equivalent per capita,2014.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Cuba,CUB,45.96805993690852,percent of total,2015.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Cuba,CUB,-0.3224891,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Cuba,CUB,-1.424033,score,2019.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Cuba,CUB,1508070.0,number,2019.0
-39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Cuba,CUB,0.023159,percent,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Cuba,CUB,19.2813206353885,percent of total final energy consumption,2015.0
-41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Cuba,CUB,0.123132,percent,2019.0
-42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Cuba,CUB,99.9999999999811,percent of total,2017.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Cuba,CUB,753000000.0,kWh,2015.0
-44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Cuba,CUB,24.6,percent,2016.0
-45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Cuba,CUB,10.0,percent,2020.0
-46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Cuba,CUB,53.4259987,Percentage of total population,2020.0
-47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Cuba,CUB,11.37567,percent of total energy,2014.0
-48,Demographics,People with basic handwashing facilities including soap and water (% of population),C7_Restrictions on internal movement,Cuba,CUB,85.1982075208693,proportion,2017.0
-50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Cuba,CUB,7.5614,Ones,2018.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Cuba,CUB,2.495218,metric tons per capita,2016.0
-52,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Cuba,CUB,233.0,proportion,2019.0
-53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Cuba,CUB,65.9029999,Percentage of total employment,2020.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Cuba,CUB,0.613414,score,2019.0
-56,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Cuba,CUB,92.8102417631483,proportion,2017.0
-57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Cuba,CUB,59.227756982641615,score,2020.0
-59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Cuba,CUB,7.0,percent,2020.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Cuba,CUB,6.5,Cases,2019.0
-61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Cuba,CUB,8.4218,Ones,2018.0
-62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Cuba,CUB,13.0,score,2021.0
-65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Cuba,CUB,12.0,score,2021.0
-66,Governance,Human Development Index,C7_Restrictions on internal movement,Cuba,CUB,0.783,index,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Cuba,CUB,0.0432405,score,2019.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Cuba,CUB,0.0,percent of total,2015.0
-70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Cuba,CUB,9.9,percent,2018.0
-72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Cuba,CUB,1.59000003,percent of total labor force,2020.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Cuba,CUB,5.0462686372,"proportion, pero 100,000 people",2016.0
-76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Cuba,CUB,1.0,score,2021.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Cuba,CUB,100.0,percent of population,2018.0
-79,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Cuba,CUB,53.3,Ones,2017.0
-81,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Cuba,CUB,22.89100000000001,proportion,2019.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Cuba,CUB,53.2231405,proportion,2020.0
-86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Cuba,CUB,99.0,percent,2019.0
-88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Cuba,CUB,85.59641,percent of total,2014.0
-89,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Cuba,CUB,77.109,total,2019.0
-98,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C7_Restrictions on internal movement,Cuba,CUB,3.9,proportion,2014.0
-101,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Cuba,CUB,46.21445455289027,proportion,2019.0
-103,Demographics,"Population, total",C7_Restrictions on internal movement,Cuba,CUB,11333483.0,total,2019.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Cuba,CUB,-1.486731,score,2019.0
-108,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Cuba,CUB,98.45096,proportion,2017.0
-109,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Cuba,CUB,86.5321502685547,proportion,2019.0
-110,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Cuba,CUB,22.75822013258724,proportion,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Cuba,CUB,0.221632,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Cuba,CUB,1508070.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Cuba,CUB,9893.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Cuba,CUB,-0.3224891,score,2019.0
+6,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Cuba,CUB,85.59641,percent of total,2014.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Cuba,CUB,45.96805993690852,percent of total,2015.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Cuba,CUB,137.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Cuba,CUB,1.61232,per 100 people,2019.0
+12,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Cuba,CUB,0.4,percent,2019.0
+14,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Cuba,CUB,59.227756982641615,score,2020.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Cuba,CUB,2.495218,metric tons per capita,2016.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Cuba,CUB,10.0,percent,2020.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Cuba,CUB,9.9,percent,2018.0
+19,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Cuba,CUB,0.023159,percent,2019.0
+20,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Cuba,CUB,7.0,percent,2020.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Cuba,CUB,-1.424033,score,2019.0
+22,Health,Prevalence of obesity,C7_Restrictions on internal movement,Cuba,CUB,24.6,percent,2016.0
+23,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Cuba,CUB,0.113604,percent,2019.0
+24,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Cuba,CUB,0.048626,percent,2019.0
+26,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Cuba,CUB,0.000193,percent,2019.0
+27,Social issues ,Net migration,C7_Restrictions on internal movement,Cuba,CUB,-72000.0,net total / data are 5 year estimates,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Cuba,CUB,-0.1725442,score,2019.0
+29,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Cuba,CUB,49.77823923801278,percent of energy use,2014.0
+30,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Cuba,CUB,99.0,percent,2019.0
+31,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Cuba,CUB,99.9999999999811,percent of total,2017.0
+32,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Cuba,CUB,47.0,score,2020.0
+33,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Cuba,CUB,53.2231405,proportion,2020.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Cuba,CUB,28283.57,kt,2016.0
+35,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Cuba,CUB,40.512001,Percentage of females of the total population,2020.0
+37,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Cuba,CUB,21.55833,Rate (risk-weighted prevalence),2019.0
+38,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Cuba,CUB,0.123132,percent,2019.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Cuba,CUB,35.3818856921566,per 1 million people,2019.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Cuba,CUB,19.2813206353885,percent of total final energy consumption,2015.0
+42,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Cuba,CUB,8.4218,Ones,2018.0
+43,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Cuba,CUB,11.37567,percent of total energy,2014.0
+44,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Cuba,CUB,22.75822013258724,proportion,2019.0
+45,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Cuba,CUB,46.21445455289027,proportion,2019.0
+46,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Cuba,CUB,7.5614,Ones,2018.0
+47,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Cuba,CUB,53.3,Ones,2017.0
+48,Social issues ,Press freedom score,C7_Restrictions on internal movement,Cuba,CUB,63.81,score,2020.0
+50,Demographics,People with basic handwashing facilities including soap and water (% of population),C7_Restrictions on internal movement,Cuba,CUB,85.1982075208693,proportion,2017.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Cuba,CUB,5.0462686372,"proportion, pero 100,000 people",2016.0
+52,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Cuba,CUB,1.0,score,2021.0
+53,Governance,Human Development Index,C7_Restrictions on internal movement,Cuba,CUB,0.783,index,2019.0
+54,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Cuba,CUB,19.70605,micrograms per cubic meter,2017.0
+55,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Cuba,CUB,99.0,percent,2019.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Cuba,CUB,6.5,Cases,2019.0
+57,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Cuba,CUB,65.9029999,Percentage of total employment,2020.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Cuba,CUB,100.0,percent of population,2018.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Cuba,CUB,0.0,percent of total,2015.0
+61,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C7_Restrictions on internal movement,Cuba,CUB,3.9,proportion,2014.0
+63,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Cuba,CUB,0.049511,percent,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Cuba,CUB,1.59000003,percent of total labor force,2020.0
+65,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Cuba,CUB,92.8102417631483,proportion,2017.0
+67,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Cuba,CUB,77.109,total,2019.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Cuba,CUB,60.50867507886435,percent of total,2015.0
+70,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Cuba,CUB,98.45096,proportion,2017.0
+71,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Cuba,CUB,1034.686070508084,kg of oil equivalent per capita,2014.0
+74,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Cuba,CUB,86.5321502685547,proportion,2019.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Cuba,CUB,53.4259987,Percentage of total population,2020.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Cuba,CUB,0.0432405,score,2019.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Cuba,CUB,753000000.0,kWh,2015.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Cuba,CUB,0.0,percent of total,2014.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Cuba,CUB,0.613414,score,2019.0
+84,Demographics,"Population, total",C7_Restrictions on internal movement,Cuba,CUB,11333483.0,total,2019.0
+85,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Cuba,CUB,22.89100000000001,proportion,2019.0
+86,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Cuba,CUB,13.0,score,2021.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,Cuba,CUB,1450.883716866035,kWh per capita,2014.0
+90,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Cuba,CUB,0.002582,percent,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Cuba,CUB,-1.486731,score,2019.0
+100,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Cuba,CUB,12.0,score,2021.0
+106,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Cuba,CUB,233.0,proportion,2019.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Cuba,CUB,53.3166,per 100 people,2019.0

@@ -1,19 +1,19 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-3,Health,Prevalence of COVID-19,C1_School closing,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Mortality due to COVID-19,C1_School closing,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Prevalence of anxiety disorders,C1_School closing,Cook Islands,COK,0.044727,percent,2019.0
-10,Health,Summary exposure value tobacco,C1_School closing,Cook Islands,COK,24.80129,Rate (risk-weighted prevalence),2019.0
-12,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,Cook Islands,COK,2.4,percent,2018.0
-13,Health,Prevalence of down syndrome,C1_School closing,Cook Islands,COK,0.000101,percent,2019.0
-14,Health,Prevalence of total cancers,C1_School closing,Cook Islands,COK,0.014771,percent,2019.0
-24,Health,Prevalence of Hypertensive heart disease,C1_School closing,Cook Islands,COK,0.009899,percent,2019.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,Cook Islands,COK,0.308144,percent,2019.0
-36,Health,Prevalence of Diabetes,C1_School closing,Cook Islands,COK,0.170428,percent,2019.0
-38,Health,Prevalence of Depressive disorders,C1_School closing,Cook Islands,COK,0.036331,percent,2019.0
-53,Health,Prevalence of obesity,C1_School closing,Cook Islands,COK,55.9,percent,2016.0
-54,Economics,Expenditure on health (% of GDP),C1_School closing,Cook Islands,COK,0.70939,percent,2019.0
-76,Health,Prevalence of chronic kidney disease,C1_School closing,Cook Islands,COK,0.146013,percent,2019.0
-94,Economics,Expenditure on social protection (% of GDP),C1_School closing,Cook Islands,COK,3.79368,percent,2019.0
-103,Economics,"Trade, total as % of GDP",C1_School closing,Cook Islands,COK,40.12978,percent,2019.0
-106,Economics,"International tourism, receipts",C1_School closing,Cook Islands,COK,153000000.0,US Dollar,2017.0
-116,Economics,Expenditure on education (% of GDP),C1_School closing,Cook Islands,COK,2.05039,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,Cook Islands,COK,0.308144,percent,2019.0
+4,Health,Prevalence of COVID-19,C1_School closing,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,Cook Islands,COK,2.4,percent,2018.0
+11,Health,Prevalence of total cancers,C1_School closing,Cook Islands,COK,0.014771,percent,2019.0
+14,Health,Prevalence of anxiety disorders,C1_School closing,Cook Islands,COK,0.044727,percent,2019.0
+27,Health,Prevalence of down syndrome,C1_School closing,Cook Islands,COK,0.000101,percent,2019.0
+32,Health,Prevalence of Diabetes,C1_School closing,Cook Islands,COK,0.170428,percent,2019.0
+42,Health,Prevalence of obesity,C1_School closing,Cook Islands,COK,55.9,percent,2016.0
+50,Health,Summary exposure value tobacco,C1_School closing,Cook Islands,COK,24.80129,Rate (risk-weighted prevalence),2019.0
+55,Economics,Expenditure on education (% of GDP),C1_School closing,Cook Islands,COK,2.05039,percent,2019.0
+56,Health,Mortality due to COVID-19,C1_School closing,Cook Islands,COK,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+58,Health,Prevalence of Hypertensive heart disease,C1_School closing,Cook Islands,COK,0.009899,percent,2019.0
+67,Health,Prevalence of Depressive disorders,C1_School closing,Cook Islands,COK,0.036331,percent,2019.0
+77,Economics,"Trade, total as % of GDP",C1_School closing,Cook Islands,COK,40.12978,percent,2019.0
+82,Health,Prevalence of chronic kidney disease,C1_School closing,Cook Islands,COK,0.146013,percent,2019.0
+106,Economics,Expenditure on health (% of GDP),C1_School closing,Cook Islands,COK,0.70939,percent,2019.0
+107,Economics,Expenditure on social protection (% of GDP),C1_School closing,Cook Islands,COK,3.79368,percent,2019.0
+116,Economics,"International tourism, receipts",C1_School closing,Cook Islands,COK,153000000.0,US Dollar,2017.0

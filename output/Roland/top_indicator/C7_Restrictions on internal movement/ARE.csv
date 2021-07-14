@@ -1,69 +1,69 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,United Arab Emirates,ARE,99.15,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,United Arab Emirates,ARE,71.0,score,2020.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,United Arab Emirates,ARE,191150.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,United Arab Emirates,ARE,1912.076613251954,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,United Arab Emirates,ARE,200.632,per 100 people,2019.0
-7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,United Arab Emirates,ARE,6.560500144958496,score,2021.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,United Arab Emirates,ARE,630.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,United Arab Emirates,ARE,19.57771,Rate (risk-weighted prevalence),2019.0
-10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.000277,percent,2019.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,United Arab Emirates,ARE,206323.8,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,United Arab Emirates,ARE,11088.35028637941,kWh per capita,2014.0
-13,Social issues ,Press freedom score,C7_Restrictions on internal movement,United Arab Emirates,ARE,42.69,score,2020.0
-14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.046316,percent,2019.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.0,percent of total,2014.0
-16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.086426,percent,2019.0
-17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,United Arab Emirates,ARE,99.0,percent,2019.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,United Arab Emirates,ARE,31.1749,per 100 people,2019.0
-19,Social issues ,Net migration,C7_Restrictions on internal movement,United Arab Emirates,ARE,200000.0,net total / data are 5 year estimates,2019.0
-20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.347354,percent,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,United Arab Emirates,ARE,99.76759888824333,percent of total,2015.0
-23,Economics,Volume of imports,C7_Restrictions on internal movement,United Arab Emirates,ARE,2.097,percent change,2020.0
-24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,United Arab Emirates,ARE,-183.8439704346423,percent of energy use,2014.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,United Arab Emirates,ARE,40.91751,micrograms per cubic meter,2017.0
-27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.046418,percent,2019.0
-28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.002051,percent,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.377221,score,2019.0
-30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,United Arab Emirates,ARE,52.4819984,Percentage of females of the total population,2020.0
-31,Economics,Volume of exports,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.747,percent change,2020.0
-32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,United Arab Emirates,ARE,7.05,score,2018.0
-33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,United Arab Emirates,ARE,7648.399883874575,kg of oil equivalent per capita,2014.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.242089725672471,percent of total,2015.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.8402188,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,-1.122036,score,2019.0
-37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,United Arab Emirates,ARE,5.28,score,2018.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,United Arab Emirates,ARE,2362600.0,number,2019.0
-39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.005752,percent,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.137108046073838,percent of total final energy consumption,2015.0
-41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.078659,percent,2019.0
-42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,United Arab Emirates,ARE,100.0,percent of total,2017.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,United Arab Emirates,ARE,296000000.0,kWh,2015.0
-44,Health,Prevalence of obesity,C7_Restrictions on internal movement,United Arab Emirates,ARE,31.7,percent,2016.0
-46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,United Arab Emirates,ARE,82.163002,Percentage of total population,2020.0
-47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.066806,percent of total energy,2014.0
-50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,5.7271,Ones,2018.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,United Arab Emirates,ARE,22.04083,metric tons per capita,2016.0
-53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,United Arab Emirates,ARE,64.4400024,Percentage of total employment,2020.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.7034943,score,2019.0
-57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,United Arab Emirates,ARE,38.099225116036195,score,2020.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,1.0,Cases,2019.0
-61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,2.5278,Ones,2018.0
-62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,United Arab Emirates,ARE,17.0,score,2021.0
-63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,United Arab Emirates,ARE,32.5,index ,2014.0
-65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,United Arab Emirates,ARE,12.0,score,2021.0
-66,Governance,Human Development Index,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.89,index,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.106342,score,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.347354,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,United Arab Emirates,ARE,2362600.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,United Arab Emirates,ARE,191150.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.8402188,score,2019.0
+6,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,United Arab Emirates,ARE,86.12835,percent of total,2014.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.242089725672471,percent of total,2015.0
+8,Governance,Human Freedom Score ,C7_Restrictions on internal movement,United Arab Emirates,ARE,6.17,score,2018.0
+9,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,United Arab Emirates,ARE,15.78,percent,2018.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,United Arab Emirates,ARE,630.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,United Arab Emirates,ARE,31.1749,per 100 people,2019.0
+13,Governance,Economic Freedom Score,C7_Restrictions on internal movement,United Arab Emirates,ARE,7.05,score,2018.0
+14,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,United Arab Emirates,ARE,38.099225116036195,score,2020.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,United Arab Emirates,ARE,22.04083,metric tons per capita,2016.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,United Arab Emirates,ARE,2.2,percent,2018.0
+19,Health,Prevalence of total cancers,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.005752,percent,2019.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,-1.122036,score,2019.0
+22,Health,Prevalence of obesity,C7_Restrictions on internal movement,United Arab Emirates,ARE,31.7,percent,2016.0
+23,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.086426,percent,2019.0
+24,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.046418,percent,2019.0
+25,Economics,Volume of imports,C7_Restrictions on internal movement,United Arab Emirates,ARE,2.097,percent change,2020.0
+26,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.000277,percent,2019.0
+27,Social issues ,Net migration,C7_Restrictions on internal movement,United Arab Emirates,ARE,200000.0,net total / data are 5 year estimates,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.377221,score,2019.0
+29,Environment,"Energy imports, net ",C7_Restrictions on internal movement,United Arab Emirates,ARE,-183.8439704346423,percent of energy use,2014.0
+30,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,United Arab Emirates,ARE,99.0,percent,2019.0
+31,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,United Arab Emirates,ARE,100.0,percent of total,2017.0
+32,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,United Arab Emirates,ARE,71.0,score,2020.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,United Arab Emirates,ARE,206323.8,kt,2016.0
+35,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,United Arab Emirates,ARE,52.4819984,Percentage of females of the total population,2020.0
+37,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,United Arab Emirates,ARE,19.57771,Rate (risk-weighted prevalence),2019.0
+38,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.078659,percent,2019.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,United Arab Emirates,ARE,1912.076613251954,per 1 million people,2019.0
+40,Governance,Serious assault (rate),C7_Restrictions on internal movement,United Arab Emirates,ARE,2.17,rate,2018.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.137108046073838,percent of total final energy consumption,2015.0
+42,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,2.5278,Ones,2018.0
+43,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.066806,percent of total energy,2014.0
+46,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,5.7271,Ones,2018.0
+48,Social issues ,Press freedom score,C7_Restrictions on internal movement,United Arab Emirates,ARE,42.69,score,2020.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,0.4637824877,"proportion, pero 100,000 people",2017.0
+52,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,United Arab Emirates,ARE,5.0,score,2021.0
+53,Governance,Human Development Index,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.89,index,2019.0
+54,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,United Arab Emirates,ARE,40.91751,micrograms per cubic meter,2017.0
+55,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,United Arab Emirates,ARE,99.0,percent,2019.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,1.0,Cases,2019.0
+57,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,United Arab Emirates,ARE,64.4400024,Percentage of total employment,2020.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,United Arab Emirates,ARE,100.0,percent of population,2018.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.0,percent of total,2015.0
+62,Social issues ,Life Ladder ,C7_Restrictions on internal movement,United Arab Emirates,ARE,6.560500144958496,score,2021.0
+63,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.046316,percent,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,United Arab Emirates,ARE,2.44700003,percent of total labor force,2020.0
+66,Economics,Volume of exports,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.747,percent change,2020.0
 68,Environment,Energy use ,C7_Restrictions on internal movement,United Arab Emirates,ARE,122.6124478766745,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.0,percent of total,2015.0
-70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,United Arab Emirates,ARE,2.2,percent,2018.0
-72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,United Arab Emirates,ARE,2.44700003,percent of total labor force,2020.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,United Arab Emirates,ARE,0.4637824877,"proportion, pero 100,000 people",2017.0
-74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,United Arab Emirates,ARE,6.17,score,2018.0
-76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,United Arab Emirates,ARE,5.0,score,2021.0
-77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,United Arab Emirates,ARE,15.78,percent,2018.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,United Arab Emirates,ARE,100.0,percent of population,2018.0
-80,Governance,Serious assault (rate),C7_Restrictions on internal movement,United Arab Emirates,ARE,2.17,rate,2018.0
-86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,United Arab Emirates,ARE,99.0,percent,2019.0
-88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,United Arab Emirates,ARE,86.12835,percent of total,2014.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.9793252,score,2019.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,United Arab Emirates,ARE,99.76759888824333,percent of total,2015.0
+71,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,United Arab Emirates,ARE,7648.399883874575,kg of oil equivalent per capita,2014.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,United Arab Emirates,ARE,82.163002,Percentage of total population,2020.0
+76,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,United Arab Emirates,ARE,5.28,score,2018.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,1.106342,score,2019.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,United Arab Emirates,ARE,296000000.0,kWh,2015.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.0,percent of total,2014.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.7034943,score,2019.0
+86,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,United Arab Emirates,ARE,17.0,score,2021.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,United Arab Emirates,ARE,11088.35028637941,kWh per capita,2014.0
+89,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,United Arab Emirates,ARE,32.5,index ,2014.0
+90,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.002051,percent,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,United Arab Emirates,ARE,0.9793252,score,2019.0
+100,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,United Arab Emirates,ARE,12.0,score,2021.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,United Arab Emirates,ARE,200.632,per 100 people,2019.0

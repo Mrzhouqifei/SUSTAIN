@@ -2,94 +2,94 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C2_Workplace closing,Nepal,NPL,34.0,percent of population,2019.0
 2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Nepal,NPL,1.46599996,percent of total labor force,2020.0
 3,Health,Prevalence of COVID-19,C2_Workplace closing,Nepal,NPL,252474.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Governance,Voice and accountability estimate,C2_Workplace closing,Nepal,NPL,-0.1306429,score,2019.0
-5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Nepal,NPL,1.5,percent,2018.0
+4,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Nepal,NPL,1.5,percent,2018.0
+5,Governance,Voice and accountability estimate,C2_Workplace closing,Nepal,NPL,-0.1306429,score,2019.0
 6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Nepal,NPL,20.1520004,Percentage of total employment,2020.0
-7,Environment,CO2 emissions (kt),C2_Workplace closing,Nepal,NPL,9105.161,kt,2016.0
-8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Nepal,NPL,3.1084,Ones,2018.0
-10,Governance,Government effectiveness estimate,C2_Workplace closing,Nepal,NPL,-1.0452,score,2019.0
-11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Nepal,NPL,2.8188,per 100 people,2019.0
-13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Nepal,NPL,31.0,score,2021.0
-14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Nepal,NPL,30.4,percent,2020.0
-15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Nepal,NPL,100.0,percent of total,2017.0
-16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Nepal,NPL,0.333998,metric tons per capita,2016.0
-17,Social issues ,Life Ladder ,C2_Workplace closing,Nepal,NPL,5.268899917602539,score,2021.0
-18,Governance,Economic Freedom Score,C2_Workplace closing,Nepal,NPL,6.48,score,2018.0
-19,Health,Prevalence of total cancers,C2_Workplace closing,Nepal,NPL,0.002964,percent,2019.0
-20,Social issues ,Net migration,C2_Workplace closing,Nepal,NPL,208549.0,net total / data are 5 year estimates,2019.0
-21,Health,Summary exposure value tobacco,C2_Workplace closing,Nepal,NPL,20.30592,Rate (risk-weighted prevalence),2019.0
-22,Governance,Total freedom in the world score ,C2_Workplace closing,Nepal,NPL,56.0,score,2021.0
-23,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Nepal,NPL,62.0535954492586,proportion,2017.0
-25,Governance,Rule of law estimate ,C2_Workplace closing,Nepal,NPL,-0.5355341,score,2019.0
-27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Nepal,NPL,7000000.0,kWh,2015.0
-28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Nepal,NPL,0.032948,percent,2019.0
-29,Health,Prevalence of Diabetes,C2_Workplace closing,Nepal,NPL,0.048158,percent,2019.0
-30,Demographics,Urban population (% of total population),C2_Workplace closing,Nepal,NPL,20.153,total,2019.0
-31,Social issues ,Proportion of women in managerial positions (%),C2_Workplace closing,Nepal,NPL,13.17,percent,2017.0
-32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Nepal,NPL,0.046381,percent,2019.0
-33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Nepal,NPL,0.0,percent of total,2015.0
-34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Nepal,NPL,93.0,percent,2019.0
-35,Environment,Electricity production from coal sources ,C2_Workplace closing,Nepal,NPL,0.0,percent of total,2015.0
-36,Health,Mortality due to COVID-19,C2_Workplace closing,Nepal,NPL,1765.0,"Number (cumulative total by Dec 26,2020)",2020.0
-37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Nepal,NPL,0.064626,percent,2019.0
-39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Nepal,NPL,434.4492938360926,kg of oil equivalent per capita,2014.0
-40,Governance,Serious assault (rate),C2_Workplace closing,Nepal,NPL,0.24,rate,2016.0
-41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Nepal,NPL,238.0,Cases,2019.0
-42,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Nepal,NPL,36.6915387646386,percent of GNI,2018.0
-43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Nepal,NPL,1.8,percent,2020.0
-44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Nepal,NPL,0.7486,Ones,2018.0
-45,Environment,Electricity production from oil sources,C2_Workplace closing,Nepal,NPL,0.0,percent of total,2015.0
-46,Health,Prevalence of obesity,C2_Workplace closing,Nepal,NPL,4.1,percent,2016.0
-48,Social issues ,Press freedom score,C2_Workplace closing,Nepal,NPL,35.1,score,2020.0
-49,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C2_Workplace closing,Nepal,NPL,5084.3,international $ in PPP,2020.0
-50,Governance,Human Freedom Score ,C2_Workplace closing,Nepal,NPL,6.76,score,2018.0
-51,Environment,Access to electricity ,C2_Workplace closing,Nepal,NPL,93.92,percent of population,2018.0
-52,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Nepal,NPL,3.0,rating,2019.0
-53,Demographics,Secure Internet servers ,C2_Workplace closing,Nepal,NPL,188.8935222874432,per 1 million people,2019.0
-54,Environment,Fossil fuel energy consumption,C2_Workplace closing,Nepal,NPL,15.48268,percent of total,2014.0
-55,Governance,Fragile States Index Total ,C2_Workplace closing,Nepal,NPL,82.56660214637142,score,2020.0
-56,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C2_Workplace closing,Nepal,NPL,67.9084320068359,proportion,2018.0
-57,Environment,Electric power consumption ,C2_Workplace closing,Nepal,NPL,146.4678648166647,kWh per capita,2014.0
-58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Nepal,NPL,32.72727273,proportion,2020.0
-59,Social issues ,Progression to secondary school (%),C2_Workplace closing,Nepal,NPL,82.38135,proportion,2016.0
-61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Nepal,NPL,83.9240036,Percentage of total population,2020.0
-62,Demographics,Age dependency ratio (% of working-age population),C2_Workplace closing,Nepal,NPL,54.68608312364701,proportion,2019.0
-63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Nepal,NPL,25.0,score,2021.0
-64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Nepal,NPL,799368.0,number,2019.0
-65,Governance,Human Development Index,C2_Workplace closing,Nepal,NPL,0.602,index,2019.0
-67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Nepal,NPL,92.0,percent,2019.0
-68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Nepal,NPL,0.194965,percent,2019.0
-69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Nepal,NPL,-0.4656303,score,2019.0
-70,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C2_Workplace closing,Nepal,NPL,28.5,proportion,2016.0
-71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Nepal,NPL,82.8929977,Percentage of females of the total population,2020.0
-72,Governance,Personal Freedom Score ,C2_Workplace closing,Nepal,NPL,7.03,score,2018.0
-73,Demographics,"Age dependency ratio, old (% of working-age population)",C2_Workplace closing,Nepal,NPL,8.944827350165228,proportion,2019.0
-74,Governance,Control of corruption estimate,C2_Workplace closing,Nepal,NPL,-0.6740938,score,2019.0
-75,Demographics,Refugee population by country or territory of asylum,C2_Workplace closing,Nepal,NPL,19570.0,proportion,2019.0
-76,Governance,Regulatory quality estimate,C2_Workplace closing,Nepal,NPL,-0.7013751,score,2019.0
-77,Health,Prevalence of down syndrome,C2_Workplace closing,Nepal,NPL,0.000122,percent,2019.0
-79,Economics,Expenditure on education (% of GDP),C2_Workplace closing,Nepal,NPL,4.10922,percent,2017.0
-80,Economics,"Trade, total as % of GDP",C2_Workplace closing,Nepal,NPL,43.82005,percent,2019.0
-82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Nepal,NPL,0.000441,percent,2019.0
-83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Nepal,NPL,139.446,per 100 people,2019.0
-84,Environment,Combustible renewables and waste,C2_Workplace closing,Nepal,NPL,77.93563,percent of total energy,2014.0
-85,Demographics,"Population, total",C2_Workplace closing,Nepal,NPL,28608710.0,total,2019.0
-86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Nepal,NPL,2.2997839964,"proportion, pero 100,000 people",2016.0
-87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Nepal,NPL,0.1,percent,2019.0
-89,Environment,Energy use ,C2_Workplace closing,Nepal,NPL,153.557247970363,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-91,Social issues ,"Primary completion rate, total (% of relevant age group)",C2_Workplace closing,Nepal,NPL,120.447341918945,proportion,2019.0
-92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Nepal,NPL,99.73437,micrograms per cubic meter,2017.0
-93,Economics,Unemployment rate (%) - Annual,C2_Workplace closing,Nepal,NPL,11.7,percent,2017.0
-94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Nepal,NPL,0.0,percent of total,2014.0
-95,Demographics,People with basic handwashing facilities including soap and water (% of population),C2_Workplace closing,Nepal,NPL,47.7818400003274,proportion,2017.0
-96,Demographics,Rural population (% of total population),C2_Workplace closing,Nepal,NPL,79.84700000000001,proportion,2019.0
-97,Governance,Corruption Perceptions Index,C2_Workplace closing,Nepal,NPL,33.0,score,2020.0
-103,Economics,"International tourism, receipts",C2_Workplace closing,Nepal,NPL,701000000.0,US Dollar,2019.0
-109,Economics,"Foreign direct investment, net",C2_Workplace closing,Nepal,NPL,68186670.0,US Dollar,2018.0
-110,Environment,Renewable energy consumption ,C2_Workplace closing,Nepal,NPL,85.2639581903713,percent of total final energy consumption,2015.0
-111,Demographics,People using safely managed drinking water services (% of population),C2_Workplace closing,Nepal,NPL,27.2433528868722,proportion,2017.0
-113,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C2_Workplace closing,Nepal,NPL,10.7142734527588,proportion,2014.0
-114,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C2_Workplace closing,Nepal,NPL,1.66839528083801,proportion,2014.0
-115,Economics,Expenditure on social protection (% of GDP),C2_Workplace closing,Nepal,NPL,1.44959,percent,2017.0
-116,Economics,Expenditure on health (% of GDP),C2_Workplace closing,Nepal,NPL,1.71578,percent,2017.0
-117,Environment,"Energy imports, net ",C2_Workplace closing,Nepal,NPL,16.67706471383556,percent of energy use,2014.0
+7,Environment,Energy use ,C2_Workplace closing,Nepal,NPL,153.557247970363,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+8,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Nepal,NPL,139.446,per 100 people,2019.0
+9,Social issues ,Proportion of women in managerial positions (%),C2_Workplace closing,Nepal,NPL,13.17,percent,2017.0
+10,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Nepal,NPL,0.333998,metric tons per capita,2016.0
+11,Health,Prevalence of Depressive disorders,C2_Workplace closing,Nepal,NPL,0.046381,percent,2019.0
+12,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Nepal,NPL,92.0,percent,2019.0
+14,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Nepal,NPL,2.8188,per 100 people,2019.0
+15,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Nepal,NPL,30.4,percent,2020.0
+16,Environment,CO2 emissions (kt),C2_Workplace closing,Nepal,NPL,9105.161,kt,2016.0
+17,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Nepal,NPL,31.0,score,2021.0
+18,Social issues ,Net migration,C2_Workplace closing,Nepal,NPL,208549.0,net total / data are 5 year estimates,2019.0
+19,Environment,Renewable energy consumption ,C2_Workplace closing,Nepal,NPL,85.2639581903713,percent of total final energy consumption,2015.0
+20,Governance,Fragile States Index Total ,C2_Workplace closing,Nepal,NPL,82.56660214637142,score,2020.0
+21,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Nepal,NPL,0.064626,percent,2019.0
+22,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Nepal,NPL,99.73437,micrograms per cubic meter,2017.0
+23,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Nepal,NPL,0.7486,Ones,2018.0
+24,Environment,Electricity production from oil sources,C2_Workplace closing,Nepal,NPL,0.0,percent of total,2015.0
+25,Governance,Economic Freedom Score,C2_Workplace closing,Nepal,NPL,6.48,score,2018.0
+26,Governance,Total freedom in the world score ,C2_Workplace closing,Nepal,NPL,56.0,score,2021.0
+27,Health,Prevalence of Diabetes,C2_Workplace closing,Nepal,NPL,0.048158,percent,2019.0
+28,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Nepal,NPL,93.0,percent,2019.0
+29,Health,Prevalence of anxiety disorders,C2_Workplace closing,Nepal,NPL,0.032948,percent,2019.0
+30,Governance,Human Freedom Score ,C2_Workplace closing,Nepal,NPL,6.76,score,2018.0
+31,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Nepal,NPL,0.194965,percent,2019.0
+32,Governance,Corruption Perceptions Index,C2_Workplace closing,Nepal,NPL,33.0,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Nepal,NPL,3.1084,Ones,2018.0
+35,Health,Prevalence of down syndrome,C2_Workplace closing,Nepal,NPL,0.000122,percent,2019.0
+37,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Nepal,NPL,36.6915387646386,percent of GNI,2018.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Nepal,NPL,238.0,Cases,2019.0
+39,Health,Prevalence of total cancers,C2_Workplace closing,Nepal,NPL,0.002964,percent,2019.0
+40,Governance,Government effectiveness estimate,C2_Workplace closing,Nepal,NPL,-1.0452,score,2019.0
+41,Health,Summary exposure value tobacco,C2_Workplace closing,Nepal,NPL,20.30592,Rate (risk-weighted prevalence),2019.0
+42,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Nepal,NPL,1.8,percent,2020.0
+43,Governance,Human Development Index,C2_Workplace closing,Nepal,NPL,0.602,index,2019.0
+44,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Nepal,NPL,-0.4656303,score,2019.0
+45,Social issues ,Life Ladder ,C2_Workplace closing,Nepal,NPL,5.268899917602539,score,2021.0
+46,Environment,Combustible renewables and waste,C2_Workplace closing,Nepal,NPL,77.93563,percent of total energy,2014.0
+47,Environment,Fossil fuel energy consumption,C2_Workplace closing,Nepal,NPL,15.48268,percent of total,2014.0
+48,Governance,Regulatory quality estimate,C2_Workplace closing,Nepal,NPL,-0.7013751,score,2019.0
+49,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Nepal,NPL,0.0,percent of total,2014.0
+50,Environment,Electric power consumption ,C2_Workplace closing,Nepal,NPL,146.4678648166647,kWh per capita,2014.0
+51,Social issues ,Press freedom score,C2_Workplace closing,Nepal,NPL,35.1,score,2020.0
+52,Health,Prevalence of obesity,C2_Workplace closing,Nepal,NPL,4.1,percent,2016.0
+53,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Nepal,NPL,3.0,rating,2019.0
+55,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Nepal,NPL,434.4492938360926,kg of oil equivalent per capita,2014.0
+56,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Nepal,NPL,62.0535954492586,proportion,2017.0
+57,Governance,Control of corruption estimate,C2_Workplace closing,Nepal,NPL,-0.6740938,score,2019.0
+58,Demographics,Secure Internet servers ,C2_Workplace closing,Nepal,NPL,188.8935222874432,per 1 million people,2019.0
+59,Governance,Rule of law estimate ,C2_Workplace closing,Nepal,NPL,-0.5355341,score,2019.0
+60,Economics,"Foreign direct investment, net",C2_Workplace closing,Nepal,NPL,68186670.0,US Dollar,2018.0
+61,Governance,Personal Freedom Score ,C2_Workplace closing,Nepal,NPL,7.03,score,2018.0
+62,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Nepal,NPL,0.000441,percent,2019.0
+63,Environment,Electricity production from coal sources ,C2_Workplace closing,Nepal,NPL,0.0,percent of total,2015.0
+64,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Nepal,NPL,7000000.0,kWh,2015.0
+65,Governance,Serious assault (rate),C2_Workplace closing,Nepal,NPL,0.24,rate,2016.0
+66,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Nepal,NPL,83.9240036,Percentage of total population,2020.0
+67,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Nepal,NPL,32.72727273,proportion,2020.0
+68,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C2_Workplace closing,Nepal,NPL,1.66839528083801,proportion,2014.0
+69,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Nepal,NPL,100.0,percent of total,2017.0
+70,Demographics,Rural population (% of total population),C2_Workplace closing,Nepal,NPL,79.84700000000001,proportion,2019.0
+72,Economics,Expenditure on social protection (% of GDP),C2_Workplace closing,Nepal,NPL,1.44959,percent,2017.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Nepal,NPL,2.2997839964,"proportion, pero 100,000 people",2016.0
+75,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C2_Workplace closing,Nepal,NPL,28.5,proportion,2016.0
+76,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Nepal,NPL,0.0,percent of total,2015.0
+77,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Nepal,NPL,82.8929977,Percentage of females of the total population,2020.0
+79,Demographics,Refugee population by country or territory of asylum,C2_Workplace closing,Nepal,NPL,19570.0,proportion,2019.0
+80,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Nepal,NPL,25.0,score,2021.0
+81,Demographics,Urban population (% of total population),C2_Workplace closing,Nepal,NPL,20.153,total,2019.0
+82,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Nepal,NPL,799368.0,number,2019.0
+83,Health,Mortality due to COVID-19,C2_Workplace closing,Nepal,NPL,1765.0,"Number (cumulative total by Dec 26,2020)",2020.0
+85,Demographics,Age dependency ratio (% of working-age population),C2_Workplace closing,Nepal,NPL,54.68608312364701,proportion,2019.0
+86,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Nepal,NPL,0.1,percent,2019.0
+87,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C2_Workplace closing,Nepal,NPL,10.7142734527588,proportion,2014.0
+88,Demographics,"Age dependency ratio, old (% of working-age population)",C2_Workplace closing,Nepal,NPL,8.944827350165228,proportion,2019.0
+90,Environment,Access to electricity ,C2_Workplace closing,Nepal,NPL,93.92,percent of population,2018.0
+91,Social issues ,Progression to secondary school (%),C2_Workplace closing,Nepal,NPL,82.38135,proportion,2016.0
+93,Demographics,People with basic handwashing facilities including soap and water (% of population),C2_Workplace closing,Nepal,NPL,47.7818400003274,proportion,2017.0
+94,Demographics,"Population, total",C2_Workplace closing,Nepal,NPL,28608710.0,total,2019.0
+95,Economics,"International tourism, receipts",C2_Workplace closing,Nepal,NPL,701000000.0,US Dollar,2019.0
+100,Economics,Unemployment rate (%) - Annual,C2_Workplace closing,Nepal,NPL,11.7,percent,2017.0
+102,Economics,"Trade, total as % of GDP",C2_Workplace closing,Nepal,NPL,43.82005,percent,2019.0
+105,Social issues ,"Primary completion rate, total (% of relevant age group)",C2_Workplace closing,Nepal,NPL,120.447341918945,proportion,2019.0
+106,Demographics,People using safely managed drinking water services (% of population),C2_Workplace closing,Nepal,NPL,27.2433528868722,proportion,2017.0
+107,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C2_Workplace closing,Nepal,NPL,5084.3,international $ in PPP,2020.0
+110,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C2_Workplace closing,Nepal,NPL,67.9084320068359,proportion,2018.0
+113,Economics,Expenditure on health (% of GDP),C2_Workplace closing,Nepal,NPL,1.71578,percent,2017.0
+114,Economics,Expenditure on education (% of GDP),C2_Workplace closing,Nepal,NPL,4.10922,percent,2017.0
+116,Environment,"Energy imports, net ",C2_Workplace closing,Nepal,NPL,16.67706471383556,percent of energy use,2014.0

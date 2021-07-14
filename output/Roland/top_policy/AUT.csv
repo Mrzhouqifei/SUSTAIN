@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
 AUT,H7_Vaccination policy,0.1225047169648623,1
-AUT,H2_Testing policy,0.10853600823342767,2
-AUT,C6_Stay at home requirements,0.08538744812588872,3
+AUT,H2_Testing policy,0.1085360082334276,2
+AUT,C6_Stay at home requirements,0.0853874481258887,3
 AUT,C5_Close public transport,0.0847497854350041,4
-AUT,C1_School closing,0.08254068275425343,5
+AUT,C1_School closing,0.0825406827542534,5
 AUT,C2_Workplace closing,0.069983159192496,6
-AUT,H6_Facial Coverings,0.06747331949974307,7
-AUT,C3_Cancel public events,0.06641651679913715,8
-AUT,C7_Restrictions on internal movement,0.037683999265609114,9
-AUT,C4_Restrictions on gatherings,0.032904496792334065,10
-AUT,H3_Contact tracing,0.03155759276349748,11
-AUT,E1_Income support,0.02671412545448168,12
-AUT,C8_International travel controls,0.02509389186144941,13
+AUT,H6_Facial Coverings,0.067473319499743,7
+AUT,C3_Cancel public events,0.0664165167991371,8
+AUT,C7_Restrictions on internal movement,0.0376839992656091,9
+AUT,C4_Restrictions on gatherings,0.032904496792334,10
+AUT,H3_Contact tracing,0.0315575927634974,11
+AUT,E1_Income support,0.0267141254544816,12
+AUT,C8_International travel controls,0.0250938918614494,13
 AUT,E2_Debt/contract relief,0.0092042831479005,14
-AUT,H1_Public information campaigns,0.002426386256353733,15
+AUT,H1_Public information campaigns,0.0024263862563537,15

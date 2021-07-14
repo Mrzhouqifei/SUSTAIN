@@ -1,73 +1,73 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C1_School closing,Benin,BEN,20.0,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C1_School closing,Benin,BEN,41.0,score,2020.0
-3,Health,Prevalence of COVID-19,C1_School closing,Benin,BEN,3152.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Demographics,Secure Internet servers ,C1_School closing,Benin,BEN,9.914287174191738,per 1 million people,2019.0
-6,Demographics,Fixed broadband subscriptions,C1_School closing,Benin,BEN,0.21553,per 100 people,2019.0
-7,Health,Mortality due to COVID-19,C1_School closing,Benin,BEN,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
-8,Social issues ,Life Ladder ,C1_School closing,Benin,BEN,5.045199871063232,score,2021.0
-9,Health,Prevalence of anxiety disorders,C1_School closing,Benin,BEN,0.029648,percent,2019.0
-10,Health,Summary exposure value tobacco,C1_School closing,Benin,BEN,11.76638,Rate (risk-weighted prevalence),2019.0
-11,Health,"Prevalence of HIV, total (% of population ages 15-49)",C1_School closing,Benin,BEN,1.0,percent,2019.0
-12,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,Benin,BEN,0.5,percent,2018.0
-13,Health,Prevalence of down syndrome,C1_School closing,Benin,BEN,0.000159,percent,2019.0
-14,Health,Prevalence of total cancers,C1_School closing,Benin,BEN,0.001737,percent,2019.0
-15,Environment,Renewable energy consumption ,C1_School closing,Benin,BEN,50.8626179373594,percent of total final energy consumption,2015.0
-16,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C1_School closing,Benin,BEN,2.023,percent of total labor force,2020.0
-17,Environment,"Adjusted net savings, including particulate emission damage",C1_School closing,Benin,BEN,3.15613851834643,percent of GNI,2018.0
-18,Social issues ,Net migration,C1_School closing,Benin,BEN,-10000.0,net total / data are 5 year estimates,2019.0
-19,Environment,Electric power consumption ,C1_School closing,Benin,BEN,100.2251225400371,kWh per capita,2014.0
-21,Environment,CO2 emissions (metric tons per capita),C1_School closing,Benin,BEN,0.595648,metric tons per capita,2016.0
-22,Governance,Rule of law estimate ,C1_School closing,Benin,BEN,-0.6641259,score,2019.0
-23,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,Benin,BEN,-0.3478641,score,2019.0
-24,Health,Prevalence of Hypertensive heart disease,C1_School closing,Benin,BEN,0.000731,percent,2019.0
-25,Social issues ,Gini index (World Bank estimate),C1_School closing,Benin,BEN,47.8,index ,2015.0
-27,Governance,Aggregate score for the Political Rights category,C1_School closing,Benin,BEN,21.0,score,2021.0
-28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C1_School closing,Benin,BEN,31.3,percent,2020.0
-29,Governance,Personal Freedom Score ,C1_School closing,Benin,BEN,7.41,score,2018.0
-30,Demographics,Fixed telephone subscriptions,C1_School closing,Benin,BEN,35917.0,number,2019.0
-31,Health,"Nurses and midwives (per 1,000 people)",C1_School closing,Benin,BEN,0.3888,Ones,2018.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,Benin,BEN,0.227839,percent,2019.0
-33,Governance,Economic Freedom Score,C1_School closing,Benin,BEN,6.2,score,2018.0
-34,Demographics,Mobile cellular subscriptions,C1_School closing,Benin,BEN,87.702,per 100 people,2019.0
-36,Health,Prevalence of Diabetes,C1_School closing,Benin,BEN,0.020487,percent,2019.0
-37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C1_School closing,Benin,BEN,68.9720001,Percentage of females of the total population,2020.0
-38,Health,Prevalence of Depressive disorders,C1_School closing,Benin,BEN,0.031545,percent,2019.0
-39,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,Benin,BEN,38.99996,micrograms per cubic meter,2017.0
-40,Environment,CO2 emissions (kt),C1_School closing,Benin,BEN,6475.922,kt,2016.0
-41,Environment,"Electricity production from oil, gas and coal sources",C1_School closing,Benin,BEN,94.44444444444444,percent of total,2015.0
-42,Economics,Employment in services (% of total employment) (modeled ILO estimate),C1_School closing,Benin,BEN,42.9420013,Percentage of total employment,2020.0
-44,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,Benin,BEN,1.1274974068,"proportion, pero 100,000 people",2017.0
-45,Environment,Energy use ,C1_School closing,Benin,BEN,140.0574456918004,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-46,Economics,Volume of imports,C1_School closing,Benin,BEN,17.959,percent change,2020.0
-47,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C1_School closing,Benin,BEN,2.2,percent,2020.0
-49,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,Benin,BEN,55.0,Cases,2019.0
-50,Health,"Immunization, measles (% of children ages 12-23 months)",C1_School closing,Benin,BEN,71.0,percent,2019.0
-51,Economics,Volume of exports,C1_School closing,Benin,BEN,32.565,percent change,2020.0
-52,Governance,Regulatory quality estimate,C1_School closing,Benin,BEN,-0.3759647,score,2019.0
-53,Health,Prevalence of obesity,C1_School closing,Benin,BEN,9.6,percent,2016.0
-55,Environment,Energy use (kg of oil equivalent per capita),C1_School closing,Benin,BEN,416.7904979973445,kg of oil equivalent per capita,2014.0
-56,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C1_School closing,Benin,BEN,70.9570007,Percentage of total population,2020.0
-57,Governance,Aggregate score for the Civil Liberties category,C1_School closing,Benin,BEN,44.0,score,2021.0
-58,Environment,Electricity production from oil sources,C1_School closing,Benin,BEN,94.44444444444444,percent of total,2015.0
-59,Environment,Fossil fuel energy consumption,C1_School closing,Benin,BEN,36.72458,percent of total,2014.0
-60,Governance,Government effectiveness estimate,C1_School closing,Benin,BEN,-0.4406517,score,2019.0
-62,Social issues ,Press freedom score,C1_School closing,Benin,BEN,35.11,score,2020.0
-63,Governance,Serious assault (rate),C1_School closing,Benin,BEN,47.74,rate,2017.0
-64,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,Benin,BEN,100.0,percent of total,2017.0
-65,Governance,Voice and accountability estimate,C1_School closing,Benin,BEN,0.0920652,score,2019.0
-67,Environment,Access to electricity ,C1_School closing,Benin,BEN,41.529239654541,percent of population,2018.0
-68,Environment,Combustible renewables and waste,C1_School closing,Benin,BEN,41.32633,percent of total energy,2014.0
-72,Health,"Physicians (per 1,000 people)",C1_School closing,Benin,BEN,0.0791,Ones,2018.0
-75,Governance,Fragile States Index Total ,C1_School closing,Benin,BEN,72.54479808532312,score,2020.0
-76,Health,Prevalence of chronic kidney disease,C1_School closing,Benin,BEN,0.037623,percent,2019.0
-77,Environment,"Electricity production from renewable sources, excluding hydroelectric",C1_School closing,Benin,BEN,5000000.0,kWh,2015.0
-78,Governance,Total freedom in the world score ,C1_School closing,Benin,BEN,65.0,score,2021.0
-79,Environment,Electricity production from coal sources ,C1_School closing,Benin,BEN,0.0,percent of total,2015.0
-82,Environment,"Energy imports, net ",C1_School closing,Benin,BEN,46.59070712762667,percent of energy use,2014.0
-83,Governance,Human Development Index,C1_School closing,Benin,BEN,0.545,index,2019.0
-85,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C1_School closing,Benin,BEN,3.5,rating,2019.0
-89,Environment,Electricity production from nuclear sources ,C1_School closing,Benin,BEN,0.0,percent of total,2014.0
-97,Governance,Control of corruption estimate,C1_School closing,Benin,BEN,-0.3237639,score,2019.0
-109,Governance,Human Freedom Score ,C1_School closing,Benin,BEN,6.81,score,2018.0
-114,Health,"Immunization, DPT (% of children ages 12-23 months)",C1_School closing,Benin,BEN,76.0,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,Benin,BEN,0.227839,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C1_School closing,Benin,BEN,35917.0,number,2019.0
+4,Health,Prevalence of COVID-19,C1_School closing,Benin,BEN,3152.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Environment,CO2 emissions (metric tons per capita),C1_School closing,Benin,BEN,0.595648,metric tons per capita,2016.0
+6,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C1_School closing,Benin,BEN,2.2,percent,2020.0
+7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,Benin,BEN,0.5,percent,2018.0
+8,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,Benin,BEN,-0.3478641,score,2019.0
+9,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,Benin,BEN,55.0,Cases,2019.0
+10,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C1_School closing,Benin,BEN,2.023,percent of total labor force,2020.0
+11,Health,Prevalence of total cancers,C1_School closing,Benin,BEN,0.001737,percent,2019.0
+12,Environment,Fossil fuel energy consumption,C1_School closing,Benin,BEN,36.72458,percent of total,2014.0
+13,Social issues ,Gini index (World Bank estimate),C1_School closing,Benin,BEN,47.8,index ,2015.0
+14,Health,Prevalence of anxiety disorders,C1_School closing,Benin,BEN,0.029648,percent,2019.0
+15,Governance,Government effectiveness estimate,C1_School closing,Benin,BEN,-0.4406517,score,2019.0
+16,Environment,Electricity production from coal sources ,C1_School closing,Benin,BEN,0.0,percent of total,2015.0
+17,Demographics,Fixed broadband subscriptions,C1_School closing,Benin,BEN,0.21553,per 100 people,2019.0
+18,Health,"Nurses and midwives (per 1,000 people)",C1_School closing,Benin,BEN,0.3888,Ones,2018.0
+19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C1_School closing,Benin,BEN,5000000.0,kWh,2015.0
+21,Social issues ,Net migration,C1_School closing,Benin,BEN,-10000.0,net total / data are 5 year estimates,2019.0
+22,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C1_School closing,Benin,BEN,31.3,percent,2020.0
+23,Demographics,Mobile cellular subscriptions,C1_School closing,Benin,BEN,87.702,per 100 people,2019.0
+24,Health,"Physicians (per 1,000 people)",C1_School closing,Benin,BEN,0.0791,Ones,2018.0
+25,Environment,CO2 emissions (kt),C1_School closing,Benin,BEN,6475.922,kt,2016.0
+26,Governance,Human Development Index,C1_School closing,Benin,BEN,0.545,index,2019.0
+27,Health,Prevalence of down syndrome,C1_School closing,Benin,BEN,0.000159,percent,2019.0
+29,Governance,Corruption Perceptions Index,C1_School closing,Benin,BEN,41.0,score,2020.0
+30,Governance,Regulatory quality estimate,C1_School closing,Benin,BEN,-0.3759647,score,2019.0
+31,Governance,Fragile States Index Total ,C1_School closing,Benin,BEN,72.54479808532312,score,2020.0
+32,Health,Prevalence of Diabetes,C1_School closing,Benin,BEN,0.020487,percent,2019.0
+33,Economics,Employment in services (% of total employment) (modeled ILO estimate),C1_School closing,Benin,BEN,42.9420013,Percentage of total employment,2020.0
+34,Environment,Energy use (kg of oil equivalent per capita),C1_School closing,Benin,BEN,416.7904979973445,kg of oil equivalent per capita,2014.0
+35,Environment,"Energy imports, net ",C1_School closing,Benin,BEN,46.59070712762667,percent of energy use,2014.0
+36,Health,"Immunization, measles (% of children ages 12-23 months)",C1_School closing,Benin,BEN,71.0,percent,2019.0
+38,Environment,Combustible renewables and waste,C1_School closing,Benin,BEN,41.32633,percent of total energy,2014.0
+39,Governance,Human Freedom Score ,C1_School closing,Benin,BEN,6.81,score,2018.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C1_School closing,Benin,BEN,76.0,percent,2019.0
+42,Health,Prevalence of obesity,C1_School closing,Benin,BEN,9.6,percent,2016.0
+44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C1_School closing,Benin,BEN,1.0,percent,2019.0
+45,Governance,Rule of law estimate ,C1_School closing,Benin,BEN,-0.6641259,score,2019.0
+46,Governance,Voice and accountability estimate,C1_School closing,Benin,BEN,0.0920652,score,2019.0
+47,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,Benin,BEN,38.99996,micrograms per cubic meter,2017.0
+48,Demographics,Secure Internet servers ,C1_School closing,Benin,BEN,9.914287174191738,per 1 million people,2019.0
+49,Governance,Economic Freedom Score,C1_School closing,Benin,BEN,6.2,score,2018.0
+50,Health,Summary exposure value tobacco,C1_School closing,Benin,BEN,11.76638,Rate (risk-weighted prevalence),2019.0
+52,Governance,Aggregate score for the Civil Liberties category,C1_School closing,Benin,BEN,44.0,score,2021.0
+53,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,Benin,BEN,1.1274974068,"proportion, pero 100,000 people",2017.0
+54,Environment,Electric power consumption ,C1_School closing,Benin,BEN,100.2251225400371,kWh per capita,2014.0
+56,Health,Mortality due to COVID-19,C1_School closing,Benin,BEN,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
+57,Environment,Renewable energy consumption ,C1_School closing,Benin,BEN,50.8626179373594,percent of total final energy consumption,2015.0
+58,Health,Prevalence of Hypertensive heart disease,C1_School closing,Benin,BEN,0.000731,percent,2019.0
+59,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C1_School closing,Benin,BEN,70.9570007,Percentage of total population,2020.0
+60,Environment,Access to electricity ,C1_School closing,Benin,BEN,41.529239654541,percent of population,2018.0
+62,Environment,"Adjusted net savings, including particulate emission damage",C1_School closing,Benin,BEN,3.15613851834643,percent of GNI,2018.0
+64,Governance,Personal Freedom Score ,C1_School closing,Benin,BEN,7.41,score,2018.0
+65,Governance,Total freedom in the world score ,C1_School closing,Benin,BEN,65.0,score,2021.0
+67,Health,Prevalence of Depressive disorders,C1_School closing,Benin,BEN,0.031545,percent,2019.0
+69,Social issues ,Life Ladder ,C1_School closing,Benin,BEN,5.045199871063232,score,2021.0
+70,Environment,"Electricity production from oil, gas and coal sources",C1_School closing,Benin,BEN,94.44444444444444,percent of total,2015.0
+73,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C1_School closing,Benin,BEN,68.9720001,Percentage of females of the total population,2020.0
+74,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C1_School closing,Benin,BEN,3.5,rating,2019.0
+76,Governance,Serious assault (rate),C1_School closing,Benin,BEN,47.74,rate,2017.0
+79,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,Benin,BEN,100.0,percent of total,2017.0
+80,Social issues ,Press freedom score,C1_School closing,Benin,BEN,35.11,score,2020.0
+82,Health,Prevalence of chronic kidney disease,C1_School closing,Benin,BEN,0.037623,percent,2019.0
+83,Environment,Electricity production from oil sources,C1_School closing,Benin,BEN,94.44444444444444,percent of total,2015.0
+86,Economics,Volume of exports,C1_School closing,Benin,BEN,32.565,percent change,2020.0
+89,Environment,Energy use ,C1_School closing,Benin,BEN,140.0574456918004,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+90,Governance,Aggregate score for the Political Rights category,C1_School closing,Benin,BEN,21.0,score,2021.0
+91,Governance,Control of corruption estimate,C1_School closing,Benin,BEN,-0.3237639,score,2019.0
+92,Economics,Volume of imports,C1_School closing,Benin,BEN,17.959,percent change,2020.0
+108,Environment,Electricity production from nuclear sources ,C1_School closing,Benin,BEN,0.0,percent of total,2014.0

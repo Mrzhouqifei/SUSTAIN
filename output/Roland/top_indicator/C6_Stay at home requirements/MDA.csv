@@ -1,76 +1,76 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C6_Stay at home requirements,Moldova,MDA,76.1245,percent of population,2019.0
-2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Moldova,MDA,133360.0,"Number (cumulative total by Dec 26,2020)",2020.0
-3,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Moldova,MDA,34.0,score,2020.0
-4,Demographics,Secure Internet servers ,C6_Stay at home requirements,Moldova,MDA,4537.8657807669,per 1 million people,2019.0
-5,Economics,"Central government debt, total",C6_Stay at home requirements,Moldova,MDA,31.88566926065229,percent of GDP,2016.0
-6,Governance,Serious assault (rate),C6_Stay at home requirements,Moldova,MDA,5.08,rate,2018.0
-7,Social issues ,Press freedom score,C6_Stay at home requirements,Moldova,MDA,31.16,score,2020.0
-8,Economics,Volume of exports,C6_Stay at home requirements,Moldova,MDA,5.161,percent change,2020.0
-9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Moldova,MDA,89.3794,per 100 people,2019.0
-10,Health,Summary exposure value tobacco,C6_Stay at home requirements,Moldova,MDA,26.95885,Rate (risk-weighted prevalence),2019.0
-11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Moldova,MDA,16.5839,per 100 people,2019.0
-12,Health,Prevalence of down syndrome,C6_Stay at home requirements,Moldova,MDA,0.000196,percent,2019.0
-13,Social issues ,Net migration,C6_Stay at home requirements,Moldova,MDA,-6935.0,net total / data are 5 year estimates,2019.0
-14,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Moldova,MDA,97.0,percent,2019.0
-15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Moldova,MDA,1071510.0,number,2019.0
-16,Social issues ,Life Ladder ,C6_Stay at home requirements,Moldova,MDA,5.76639986038208,score,2021.0
-17,Health,Prevalence of total cancers,C6_Stay at home requirements,Moldova,MDA,0.013282,percent,2019.0
-18,Health,Prevalence of obesity,C6_Stay at home requirements,Moldova,MDA,18.9,percent,2016.0
-19,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Moldova,MDA,3.2066,Ones,2017.0
-20,Governance,Control of corruption estimate,C6_Stay at home requirements,Moldova,MDA,-0.6186848,score,2019.0
-21,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Moldova,MDA,24.75247525,proportion,2020.0
-22,Health,Prevalence of Diabetes,C6_Stay at home requirements,Moldova,MDA,0.068608,percent,2019.0
-23,Governance,Government effectiveness estimate,C6_Stay at home requirements,Moldova,MDA,-0.3834049,score,2019.0
-24,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Moldova,MDA,3.7,percent,2018.0
-25,Governance,Human Freedom Score ,C6_Stay at home requirements,Moldova,MDA,7.18,score,2018.0
-26,Governance,Human Development Index,C6_Stay at home requirements,Moldova,MDA,0.75,index,2019.0
-27,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Moldova,MDA,0.0,percent of total,2015.0
-28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Moldova,MDA,35.0,score,2021.0
-29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Moldova,MDA,1.825537,metric tons per capita,2016.0
-30,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Moldova,MDA,16.25103,micrograms per cubic meter,2017.0
-31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Moldova,MDA,0.047396,percent,2019.0
-32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Moldova,MDA,2700.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Moldova,MDA,40.0180016,Percentage of females of the total population,2020.0
-34,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Moldova,MDA,5.36499977,percent of total labor force,2020.0
-35,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Moldova,MDA,40.49,percent,2018.0
-36,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Moldova,MDA,4.9235,Ones,2017.0
-38,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Moldova,MDA,80.0,Cases,2019.0
-39,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Moldova,MDA,4.58910436524494,percent of GNI,2018.0
-40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Moldova,MDA,4.9,percent,2020.0
-41,Environment,Renewable energy consumption ,C6_Stay at home requirements,Moldova,MDA,14.2736887091697,percent of total final energy consumption,2015.0
-42,Governance,Voice and accountability estimate,C6_Stay at home requirements,Moldova,MDA,-0.0899362,score,2019.0
+2,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Moldova,MDA,1071510.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Moldova,MDA,0.254663,percent,2019.0
+4,Health,Prevalence of COVID-19,C6_Stay at home requirements,Moldova,MDA,133360.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Moldova,MDA,0.047396,percent,2019.0
+6,Environment,Electric power consumption ,C6_Stay at home requirements,Moldova,MDA,1725.61647911234,kWh per capita,2014.0
+7,Environment,Electricity production from oil sources,C6_Stay at home requirements,Moldova,MDA,0.1477589886718109,percent of total,2015.0
+8,Environment,Energy use ,C6_Stay at home requirements,Moldova,MDA,112.0386423508605,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+9,Governance,Fragile States Index Total ,C6_Stay at home requirements,Moldova,MDA,65.97954327737929,score,2020.0
+10,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Moldova,MDA,4.9235,Ones,2017.0
+11,Governance,Regulatory quality estimate,C6_Stay at home requirements,Moldova,MDA,0.0097867,score,2019.0
+12,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Moldova,MDA,0.04248,percent,2019.0
+13,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Moldova,MDA,88.68802,percent of total,2014.0
+14,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Moldova,MDA,89.3794,per 100 people,2019.0
+15,Governance,Economic Freedom Score,C6_Stay at home requirements,Moldova,MDA,6.99,score,2018.0
+16,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Moldova,MDA,4.3,percent,2020.0
+17,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Moldova,MDA,0.130119,percent,2019.0
+18,Environment,Combustible renewables and waste,C6_Stay at home requirements,Moldova,MDA,8.329097,percent of total energy,2014.0
+19,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Moldova,MDA,16.5839,per 100 people,2019.0
+20,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Moldova,MDA,4.0967929022,"proportion, pero 100,000 people",2018.0
+21,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Moldova,MDA,1155.612453840634,kg of oil equivalent per capita,2014.0
+22,Economics,Volume of exports,C6_Stay at home requirements,Moldova,MDA,5.161,percent change,2020.0
+23,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Moldova,MDA,34.0,score,2020.0
+24,Environment,"Energy imports, net ",C6_Stay at home requirements,Moldova,MDA,90.01107669269402,percent of energy use,2014.0
+25,Environment,CO2 emissions (kt),C6_Stay at home requirements,Moldova,MDA,5115.465,kt,2016.0
+26,Social issues ,Net migration,C6_Stay at home requirements,Moldova,MDA,-6935.0,net total / data are 5 year estimates,2019.0
+27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Moldova,MDA,42.7360001,Percentage of total population,2020.0
+29,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Moldova,MDA,35.0,score,2021.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Moldova,MDA,-0.3827971,score,2019.0
+31,Health,Prevalence of down syndrome,C6_Stay at home requirements,Moldova,MDA,0.000196,percent,2019.0
+32,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Moldova,MDA,0.0,percent of total,2015.0
+33,Governance,Personal Freedom Score ,C6_Stay at home requirements,Moldova,MDA,7.37,score,2018.0
+34,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Moldova,MDA,97.0,percent,2019.0
+35,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Moldova,MDA,24.75247525,proportion,2020.0
+36,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Moldova,MDA,40.0180016,Percentage of females of the total population,2020.0
+37,Economics,Volume of imports,C6_Stay at home requirements,Moldova,MDA,5.61,percent change,2020.0
+38,Health,Mortality due to COVID-19,C6_Stay at home requirements,Moldova,MDA,2700.0,"Number (cumulative total by Dec 26,2020)",2020.0
+39,Health,Summary exposure value tobacco,C6_Stay at home requirements,Moldova,MDA,26.95885,Rate (risk-weighted prevalence),2019.0
+40,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Moldova,MDA,4.58910436524494,percent of GNI,2018.0
+41,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Moldova,MDA,3.2066,Ones,2017.0
+42,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Moldova,MDA,26.0,score,2021.0
 43,Health,"Prevalence of HIV, total (% of population ages 15-49)",C6_Stay at home requirements,Moldova,MDA,0.7,percent,2019.0
-45,Governance,Regulatory quality estimate,C6_Stay at home requirements,Moldova,MDA,0.0097867,score,2019.0
-46,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Moldova,MDA,25.7,index ,2018.0
-47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Moldova,MDA,-0.3827971,score,2019.0
-48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Moldova,MDA,0.130119,percent,2019.0
-49,Governance,Rule of law estimate ,C6_Stay at home requirements,Moldova,MDA,-0.3730286,score,2019.0
-51,Environment,"Energy imports, net ",C6_Stay at home requirements,Moldova,MDA,90.01107669269402,percent of energy use,2014.0
-52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Moldova,MDA,0.001578,percent,2019.0
-53,Environment,Electricity production from oil sources,C6_Stay at home requirements,Moldova,MDA,0.1477589886718109,percent of total,2015.0
-55,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Moldova,MDA,88.68802,percent of total,2014.0
+44,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Moldova,MDA,1.825537,metric tons per capita,2016.0
+47,Governance,Voice and accountability estimate,C6_Stay at home requirements,Moldova,MDA,-0.0899362,score,2019.0
+48,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Moldova,MDA,0.001578,percent,2019.0
+50,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Moldova,MDA,3.7,percent,2018.0
+51,Health,Prevalence of Diabetes,C6_Stay at home requirements,Moldova,MDA,0.068608,percent,2019.0
+52,Health,Prevalence of obesity,C6_Stay at home requirements,Moldova,MDA,18.9,percent,2016.0
+54,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Moldova,MDA,47.5349998,Percentage of total employment,2020.0
+55,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Moldova,MDA,94.63142341159087,percent of total,2015.0
 56,Governance,Total freedom in the world score ,C6_Stay at home requirements,Moldova,MDA,61.0,score,2021.0
-57,Economics,Volume of imports,C6_Stay at home requirements,Moldova,MDA,5.61,percent change,2020.0
-58,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Moldova,MDA,100.0,percent of total,2017.0
-59,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Moldova,MDA,94.63142341159087,percent of total,2015.0
-60,Environment,CO2 emissions (kt),C6_Stay at home requirements,Moldova,MDA,5115.465,kt,2016.0
-61,Environment,Access to electricity ,C6_Stay at home requirements,Moldova,MDA,100.0,percent of population,2018.0
-63,Governance,Economic Freedom Score,C6_Stay at home requirements,Moldova,MDA,6.99,score,2018.0
-64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Moldova,MDA,0.04248,percent,2019.0
-66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Moldova,MDA,26.0,score,2021.0
-68,Environment,Energy use ,C6_Stay at home requirements,Moldova,MDA,112.0386423508605,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-70,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Moldova,MDA,19000000.0,kWh,2015.0
-71,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Moldova,MDA,47.5349998,Percentage of total employment,2020.0
-73,Environment,Combustible renewables and waste,C6_Stay at home requirements,Moldova,MDA,8.329097,percent of total energy,2014.0
-74,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Moldova,MDA,42.7360001,Percentage of total population,2020.0
-75,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Moldova,MDA,0.0,percent of total,2014.0
-77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Moldova,MDA,0.254663,percent,2019.0
-82,Governance,Fragile States Index Total ,C6_Stay at home requirements,Moldova,MDA,65.97954327737929,score,2020.0
-83,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Moldova,MDA,4.3,percent,2020.0
-85,Governance,Personal Freedom Score ,C6_Stay at home requirements,Moldova,MDA,7.37,score,2018.0
-87,Environment,Electric power consumption ,C6_Stay at home requirements,Moldova,MDA,1725.61647911234,kWh per capita,2014.0
-90,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Moldova,MDA,1155.612453840634,kg of oil equivalent per capita,2014.0
-92,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Moldova,MDA,91.0,percent,2019.0
-94,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C6_Stay at home requirements,Moldova,MDA,2.5,rating,2019.0
-105,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Moldova,MDA,4.0967929022,"proportion, pero 100,000 people",2018.0
+57,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Moldova,MDA,4.9,percent,2020.0
+58,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Moldova,MDA,16.25103,micrograms per cubic meter,2017.0
+59,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Moldova,MDA,0.0,percent of total,2014.0
+61,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Moldova,MDA,91.0,percent,2019.0
+62,Governance,Human Freedom Score ,C6_Stay at home requirements,Moldova,MDA,7.18,score,2018.0
+63,Social issues ,Life Ladder ,C6_Stay at home requirements,Moldova,MDA,5.76639986038208,score,2021.0
+66,Health,Prevalence of total cancers,C6_Stay at home requirements,Moldova,MDA,0.013282,percent,2019.0
+68,Social issues ,Press freedom score,C6_Stay at home requirements,Moldova,MDA,31.16,score,2020.0
+69,Governance,Human Development Index,C6_Stay at home requirements,Moldova,MDA,0.75,index,2019.0
+70,Governance,Control of corruption estimate,C6_Stay at home requirements,Moldova,MDA,-0.6186848,score,2019.0
+72,Governance,Government effectiveness estimate,C6_Stay at home requirements,Moldova,MDA,-0.3834049,score,2019.0
+73,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Moldova,MDA,25.7,index ,2018.0
+74,Demographics,Secure Internet servers ,C6_Stay at home requirements,Moldova,MDA,4537.8657807669,per 1 million people,2019.0
+76,Governance,Rule of law estimate ,C6_Stay at home requirements,Moldova,MDA,-0.3730286,score,2019.0
+77,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Moldova,MDA,5.36499977,percent of total labor force,2020.0
+80,Environment,Renewable energy consumption ,C6_Stay at home requirements,Moldova,MDA,14.2736887091697,percent of total final energy consumption,2015.0
+82,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Moldova,MDA,100.0,percent of total,2017.0
+83,Governance,Serious assault (rate),C6_Stay at home requirements,Moldova,MDA,5.08,rate,2018.0
+85,Economics,"Central government debt, total",C6_Stay at home requirements,Moldova,MDA,31.88566926065229,percent of GDP,2016.0
+90,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Moldova,MDA,19000000.0,kWh,2015.0
+92,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C6_Stay at home requirements,Moldova,MDA,2.5,rating,2019.0
+107,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Moldova,MDA,80.0,Cases,2019.0
+109,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Moldova,MDA,40.49,percent,2018.0
+117,Environment,Access to electricity ,C6_Stay at home requirements,Moldova,MDA,100.0,percent of population,2018.0

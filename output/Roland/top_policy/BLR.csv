@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-BLR,H1_Public information campaigns,0.09506074908321956,1
-BLR,C8_International travel controls,0.08407581646368684,2
+BLR,H1_Public information campaigns,0.0950607490832195,1
+BLR,C8_International travel controls,0.0840758164636868,2
 BLR,H6_Facial Coverings,0.06849553054815,3
 BLR,H7_Vaccination policy,0.0674840501612251,4
-BLR,H3_Contact tracing,0.05777902325338405,5
-BLR,C1_School closing,0.055268862696889035,6
-BLR,C3_Cancel public events,0.05486099510384405,7
-BLR,C6_Stay at home requirements,0.052891430339132135,8
-BLR,C4_Restrictions on gatherings,0.04773390743011715,9
+BLR,H3_Contact tracing,0.057779023253384,5
+BLR,C1_School closing,0.055268862696889,6
+BLR,C3_Cancel public events,0.054860995103844,7
+BLR,C6_Stay at home requirements,0.0528914303391321,8
+BLR,C4_Restrictions on gatherings,0.0477339074301171,9
 BLR,E1_Income support,0.0470576152178406,10
-BLR,E2_Debt/contract relief,0.045549747947612663,11
-BLR,C2_Workplace closing,0.04459586482713322,12
-BLR,C7_Restrictions on internal movement,0.03760014258329827,13
-BLR,H2_Testing policy,0.034233015628249965,14
-BLR,C5_Close public transport,0.01746076763593155,15
+BLR,E2_Debt/contract relief,0.0455497479476126,11
+BLR,C2_Workplace closing,0.0445958648271332,12
+BLR,C7_Restrictions on internal movement,0.0376001425832982,13
+BLR,H2_Testing policy,0.0342330156282499,14
+BLR,C5_Close public transport,0.0174607676359315,15

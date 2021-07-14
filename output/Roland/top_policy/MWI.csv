@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-MWI,H7_Vaccination policy,0.09576723887736373,1
-MWI,C5_Close public transport,0.0780514502482562,2
-MWI,C2_Workplace closing,0.07450644425398162,3
-MWI,H3_Contact tracing,0.07272035792414368,4
-MWI,C1_School closing,0.06589428026413008,5
-MWI,E1_Income support,0.06323045604214363,6
-MWI,H6_Facial Coverings,0.060336544931023785,7
-MWI,C3_Cancel public events,0.057969989691736265,8
-MWI,C8_International travel controls,0.0540731213641472,9
-MWI,H2_Testing policy,0.04947160682304101,10
-MWI,C4_Restrictions on gatherings,0.04880547829786374,11
-MWI,E2_Debt/contract relief,0.04833148781368187,12
-MWI,C6_Stay at home requirements,0.026777524840195792,13
-MWI,C7_Restrictions on internal movement,0.004107529773551579,14
-MWI,H1_Public information campaigns,0.0013008794717287823,15
+MWI,H7_Vaccination policy,0.0746383510200581,1
+MWI,C5_Close public transport,0.0718790969533321,2
+MWI,C2_Workplace closing,0.0711883517218451,3
+MWI,H3_Contact tracing,0.0677816305341099,4
+MWI,C1_School closing,0.0667086674999801,5
+MWI,E1_Income support,0.0639514740329616,6
+MWI,H6_Facial Coverings,0.0629450057465939,7
+MWI,C3_Cancel public events,0.0531420575111888,8
+MWI,C8_International travel controls,0.0508222312864799,9
+MWI,H2_Testing policy,0.0444464291435486,10
+MWI,C4_Restrictions on gatherings,0.0437782109433851,11
+MWI,E2_Debt/contract relief,0.0380448073866899,12
+MWI,C6_Stay at home requirements,0.0344440018718589,13
+MWI,C7_Restrictions on internal movement,0.0336065809526,14
+MWI,H1_Public information campaigns,0.0288038219834085,15

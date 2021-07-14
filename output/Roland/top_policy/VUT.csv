@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-VUT,H3_Contact tracing,0.09515951320234498,1
-VUT,E2_Debt/contract relief,0.09155490223854483,2
-VUT,H7_Vaccination policy,0.08759835559513801,3
-VUT,C2_Workplace closing,0.0872751528614627,4
-VUT,C7_Restrictions on internal movement,0.06752546307219888,5
-VUT,H1_Public information campaigns,0.06636353303094147,6
-VUT,H6_Facial Coverings,0.06375003883498888,7
-VUT,H2_Testing policy,0.04586378001499857,8
-VUT,C1_School closing,0.04427767903030756,9
-VUT,E1_Income support,0.03466648112998216,10
-VUT,C8_International travel controls,0.03070206558989917,11
-VUT,C6_Stay at home requirements,0.02365816472929268,12
-VUT,C5_Close public transport,0.014573663775635876,13
-VUT,C4_Restrictions on gatherings,0.009176284439258423,14
-VUT,C3_Cancel public events,0.005477154626837906,15
+VUT,H3_Contact tracing,0.0938583390713886,1
+VUT,E2_Debt/contract relief,0.0804173966193605,2
+VUT,H7_Vaccination policy,0.0737979500157058,3
+VUT,H2_Testing policy,0.0736462680173624,4
+VUT,C2_Workplace closing,0.0714178065039403,5
+VUT,C7_Restrictions on internal movement,0.0577567185905842,6
+VUT,H1_Public information campaigns,0.0570811133048135,7
+VUT,H6_Facial Coverings,0.0533160379033664,8
+VUT,C1_School closing,0.0455508756503653,9
+VUT,E1_Income support,0.0361322966288186,10
+VUT,C8_International travel controls,0.0348373879613507,11
+VUT,C6_Stay at home requirements,0.0341021436014386,12
+VUT,C5_Close public transport,0.0339247246132726,13
+VUT,C4_Restrictions on gatherings,0.0321063814593314,14
+VUT,C3_Cancel public events,0.0108368875697084,15

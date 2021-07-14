@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-KEN,H3_Contact tracing,0.10541939612674248,1
-KEN,H7_Vaccination policy,0.10027161904827117,2
-KEN,E2_Debt/contract relief,0.0808868134223602,3
-KEN,C8_International travel controls,0.0751633619547667,4
-KEN,C5_Close public transport,0.05317012871876861,5
-KEN,C6_Stay at home requirements,0.05295607906534832,6
-KEN,C1_School closing,0.052810947416639165,7
-KEN,C4_Restrictions on gatherings,0.05179153468171213,8
-KEN,C7_Restrictions on internal movement,0.05156739737504126,9
-KEN,H2_Testing policy,0.04813357043598645,10
-KEN,C3_Cancel public events,0.047689541519396514,11
-KEN,C2_Workplace closing,0.041417044969182026,12
-KEN,H6_Facial Coverings,0.04129161967385321,13
-KEN,E1_Income support,0.032629834002693814,14
-KEN,H1_Public information campaigns,0.0128855973281571,15
+KEN,H3_Contact tracing,0.0904429663661918,1
+KEN,H7_Vaccination policy,0.0869196542824562,2
+KEN,E2_Debt/contract relief,0.0803240036455289,3
+KEN,C8_International travel controls,0.0736735822104165,4
+KEN,C5_Close public transport,0.0678287849376027,5
+KEN,C6_Stay at home requirements,0.0620575905233576,6
+KEN,C1_School closing,0.0597617247305663,7
+KEN,H6_Facial Coverings,0.058066897897503,8
+KEN,C7_Restrictions on internal movement,0.0577708568603156,9
+KEN,H2_Testing policy,0.0573489520923994,10
+KEN,C4_Restrictions on gatherings,0.0524540429230572,11
+KEN,C2_Workplace closing,0.0402542652230778,12
+KEN,C3_Cancel public events,0.0359492127106886,13
+KEN,E1_Income support,0.0256208740011975,14
+KEN,H1_Public information campaigns,0.0163050538713745,15

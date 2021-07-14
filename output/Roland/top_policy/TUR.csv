@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-TUR,H7_Vaccination policy,0.0945308123178577,1
-TUR,C5_Close public transport,0.07279409140588608,2
-TUR,C1_School closing,0.07079853674910842,3
-TUR,E1_Income support,0.06905810737263783,4
-TUR,H6_Facial Coverings,0.06648730763984442,5
-TUR,C8_International travel controls,0.0659936509948004,6
-TUR,C4_Restrictions on gatherings,0.06585892471446349,7
-TUR,H3_Contact tracing,0.06225691759236715,8
-TUR,C7_Restrictions on internal movement,0.061750965388832825,9
-TUR,C2_Workplace closing,0.058603984826808224,10
-TUR,C3_Cancel public events,0.04997768180879557,11
-TUR,C6_Stay at home requirements,0.04864414415124771,12
-TUR,E2_Debt/contract relief,0.04088758869879322,13
-TUR,H1_Public information campaigns,0.0236636217280312,14
-TUR,H2_Testing policy,0.019022858546495776,15
+TUR,H7_Vaccination policy,0.1346499371818941,1
+TUR,C7_Restrictions on internal movement,0.0770796512648843,2
+TUR,C1_School closing,0.0674050138573719,3
+TUR,E1_Income support,0.0629381158155224,4
+TUR,H6_Facial Coverings,0.0604474424201448,5
+TUR,C8_International travel controls,0.0602614599400396,6
+TUR,C4_Restrictions on gatherings,0.0592391368874681,7
+TUR,H3_Contact tracing,0.0573570219162175,8
+TUR,C2_Workplace closing,0.0545059184127433,9
+TUR,C6_Stay at home requirements,0.0523978941861856,10
+TUR,E2_Debt/contract relief,0.0522895016131953,11
+TUR,H2_Testing policy,0.0429980593255404,12
+TUR,C5_Close public transport,0.0297534774828513,13
+TUR,C3_Cancel public events,0.0178980972992457,14
+TUR,H1_Public information campaigns,0.0110354899044733,15

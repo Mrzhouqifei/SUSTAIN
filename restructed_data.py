@@ -165,6 +165,6 @@ if __name__ == '__main__':
         ['country', 'iso']]
     population = population.rename(columns={'country': 'Country', 'iso': 'ISO'})
 
-    # re_construct_covid_forecast()
+    re_construct_covid_forecast()
     # re_construct_top_policy()
-    re_construct_top_indicator()
+    # re_construct_top_indicator()

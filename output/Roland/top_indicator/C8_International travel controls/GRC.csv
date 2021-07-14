@@ -1,73 +1,73 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Greece,GRC,75.6712,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Greece,GRC,50.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Greece,GRC,129584.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Greece,GRC,6650.60269745534,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Greece,GRC,0.000582,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Greece,GRC,0.00283,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Greece,GRC,4044.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Greece,GRC,28.8,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Greece,GRC,0.063919,percent,2019.0
-11,Environment,"Energy imports, net ",C8_International travel controls,Greece,GRC,64.17554663878474,percent of energy use,2015.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Greece,GRC,34.63954,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Greece,GRC,0.035651,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Greece,GRC,-0.0118192,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Greece,GRC,39.3195,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Greece,GRC,-1.72419681743416,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Greece,GRC,4.3,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Greece,GRC,21.66666667,proportion,2020.0
-19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Greece,GRC,8752000000.0,kWh,2015.0
-20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Greece,GRC,27.48,percent,2018.0
-21,Social issues ,Net migration,C8_International travel controls,Greece,GRC,-80000.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Greece,GRC,0.4055903,score,2019.0
-24,Health,Prevalence of obesity,C8_International travel controls,Greece,GRC,24.9,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Greece,GRC,97.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Greece,GRC,50.0,score,2021.0
-28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Greece,GRC,2.2,percent,2020.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Greece,GRC,73.1230011,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Greece,GRC,5.722599983215332,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Greece,GRC,4.0,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Greece,GRC,17.170047546133,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Greece,GRC,5.4789,Ones,2017.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Greece,GRC,52.14869722028766,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Greece,GRC,37.0,score,2021.0
-36,Environment,Electricity production from coal sources ,C8_International travel controls,Greece,GRC,42.65948824823434,percent of total,2015.0
-37,Environment,Energy use ,C8_International travel controls,Greece,GRC,77.78831330115128,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Greece,GRC,113.449,per 100 people,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Greece,GRC,99.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Greece,GRC,0.094243,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Greece,GRC,0.123363,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Greece,GRC,5001510.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Greece,GRC,129584.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Greece,GRC,4044.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Greece,GRC,0.94086394499,"proportion, pero 100,000 people",2018.0
+7,Governance,Economic Freedom Score,C8_International travel controls,Greece,GRC,6.71,score,2018.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Greece,GRC,16.21827,micrograms per cubic meter,2017.0
+9,Environment,Fossil fuel energy consumption,C8_International travel controls,Greece,GRC,82.57464,percent of total,2015.0
+10,Environment,Energy use ,C8_International travel controls,Greece,GRC,77.78831330115128,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Greece,GRC,0.000582,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Greece,GRC,4.774,percent change,2020.0
+13,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Greece,GRC,8752000000.0,kWh,2015.0
+14,Environment,Electricity production from coal sources ,C8_International travel controls,Greece,GRC,42.65948824823434,percent of total,2015.0
+15,Social issues ,Net migration,C8_International travel controls,Greece,GRC,-80000.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Greece,GRC,0.9357267,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Greece,GRC,39.3195,per 100 people,2019.0
+18,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Greece,GRC,27.48,percent,2018.0
+19,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Greece,GRC,13.9,percent,2020.0
+20,Environment,Electricity production from nuclear sources ,C8_International travel controls,Greece,GRC,0.0,percent of total,2015.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Greece,GRC,50.0,score,2020.0
+22,Environment,Electricity production from oil sources,C8_International travel controls,Greece,GRC,10.9277912855544,percent of total,2015.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Greece,GRC,50.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Greece,GRC,0.198838,score,2019.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Greece,GRC,0.2909985,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Greece,GRC,87.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Greece,GRC,0.094243,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Greece,GRC,99.9999999998588,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Greece,GRC,0.4055903,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Greece,GRC,34.63954,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Greece,GRC,34.4,index ,2017.0
+33,Health,Prevalence of obesity,C8_International travel controls,Greece,GRC,24.9,percent,2016.0
+34,Governance,Serious assault (rate),C8_International travel controls,Greece,GRC,15.08,rate,2018.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Greece,GRC,3.6331,Ones,2017.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Greece,GRC,37.0,score,2021.0
+37,Governance,Personal Freedom Score ,C8_International travel controls,Greece,GRC,8.04,score,2018.0
+38,Governance,Human Development Index,C8_International travel controls,Greece,GRC,0.888,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Greece,GRC,5.4789,Ones,2017.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Greece,GRC,99.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Greece,GRC,0.063919,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Greece,GRC,43.9070015,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Greece,GRC,99.9999999998588,percent of total,2017.0
-45,Governance,Personal Freedom Score ,C8_International travel controls,Greece,GRC,8.04,score,2018.0
-46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Greece,GRC,13.9,percent,2020.0
-47,Environment,Electric power consumption ,C8_International travel controls,Greece,GRC,5062.606421552323,kWh per capita,2014.0
-48,Environment,Fossil fuel energy consumption,C8_International travel controls,Greece,GRC,82.57464,percent of total,2015.0
-49,Governance,Human Freedom Score ,C8_International travel controls,Greece,GRC,7.38,score,2018.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Greece,GRC,5.793848,metric tons per capita,2016.0
-51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Greece,GRC,0.94086394499,"proportion, pero 100,000 people",2018.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Greece,GRC,0.146722,percent,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Greece,GRC,0.9357267,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Greece,GRC,15.474,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Greece,GRC,0.529879,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Greece,GRC,5001510.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Greece,GRC,0.198838,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Greece,GRC,0.2909985,score,2019.0
-63,Governance,Serious assault (rate),C8_International travel controls,Greece,GRC,15.08,rate,2018.0
-64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Greece,GRC,34.4,index ,2017.0
-66,Environment,Electricity production from oil sources,C8_International travel controls,Greece,GRC,10.9277912855544,percent of total,2015.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Greece,GRC,0.065221,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Greece,GRC,16.21827,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Greece,GRC,4.774,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Greece,GRC,0.888,index,2019.0
-73,Governance,Economic Freedom Score,C8_International travel controls,Greece,GRC,6.71,score,2018.0
-74,Environment,Combustible renewables and waste,C8_International travel controls,Greece,GRC,5.164537,percent of total energy,2015.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Greece,GRC,51.401001,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Greece,GRC,3.6331,Ones,2017.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Greece,GRC,87.0,score,2021.0
-80,Environment,Access to electricity ,C8_International travel controls,Greece,GRC,100.0,percent of population,2018.0
-81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Greece,GRC,2182.071093458824,kg of oil equivalent per capita,2015.0
-82,Economics,Volume of exports,C8_International travel controls,Greece,GRC,5.416,percent change,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Greece,GRC,62434.34,kt,2016.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Greece,GRC,0.123363,percent,2019.0
-91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Greece,GRC,71.12809231600478,percent of total,2015.0
-99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Greece,GRC,0.0,percent of total,2015.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Greece,GRC,4.0,percent,2018.0
+46,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Greece,GRC,2.2,percent,2020.0
+47,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Greece,GRC,2182.071093458824,kg of oil equivalent per capita,2015.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Greece,GRC,0.065221,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Greece,GRC,62434.34,kt,2016.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Greece,GRC,113.449,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Greece,GRC,51.401001,Percentage of total population,2020.0
+58,Environment,Electric power consumption ,C8_International travel controls,Greece,GRC,5062.606421552323,kWh per capita,2014.0
+59,Economics,Volume of exports,C8_International travel controls,Greece,GRC,5.416,percent change,2020.0
+60,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Greece,GRC,71.12809231600478,percent of total,2015.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Greece,GRC,73.1230011,Percentage of total employment,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Greece,GRC,6650.60269745534,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Greece,GRC,15.474,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Greece,GRC,0.035651,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Greece,GRC,-0.0118192,score,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Greece,GRC,-1.72419681743416,percent of GNI,2018.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Greece,GRC,5.793848,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Greece,GRC,5.722599983215332,score,2021.0
+76,Environment,"Energy imports, net ",C8_International travel controls,Greece,GRC,64.17554663878474,percent of energy use,2015.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Greece,GRC,97.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Greece,GRC,100.0,percent of population,2018.0
+80,Environment,Combustible renewables and waste,C8_International travel controls,Greece,GRC,5.164537,percent of total energy,2015.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Greece,GRC,52.14869722028766,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Greece,GRC,28.8,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Greece,GRC,17.170047546133,percent of total final energy consumption,2015.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Greece,GRC,21.66666667,proportion,2020.0
+88,Governance,Human Freedom Score ,C8_International travel controls,Greece,GRC,7.38,score,2018.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Greece,GRC,0.146722,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Greece,GRC,0.529879,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Greece,GRC,0.00283,percent,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Greece,GRC,4.3,Cases,2019.0

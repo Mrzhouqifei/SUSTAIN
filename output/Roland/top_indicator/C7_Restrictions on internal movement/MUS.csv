@@ -1,73 +1,73 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Mauritius,MUS,63.9999,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Mauritius,MUS,53.0,score,2020.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Mauritius,MUS,524.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Mauritius,MUS,515.1254907320865,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Mauritius,MUS,151.359,per 100 people,2019.0
-7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Mauritius,MUS,6.048999786376953,score,2021.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Mauritius,MUS,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Mauritius,MUS,20.56563,Rate (risk-weighted prevalence),2019.0
-10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Mauritius,MUS,0.000122,percent,2019.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Mauritius,MUS,4349.062,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Mauritius,MUS,2182.509155911412,kWh per capita,2014.0
-13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Mauritius,MUS,28.0,score,2020.0
-14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Mauritius,MUS,0.046287,percent,2019.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Mauritius,MUS,0.0,percent of total,2014.0
-16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Mauritius,MUS,0.152737,percent,2019.0
-17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Mauritius,MUS,96.0,percent,2019.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Mauritius,MUS,21.6385,per 100 people,2019.0
-19,Social issues ,Net migration,C7_Restrictions on internal movement,Mauritius,MUS,0.0,net total / data are 5 year estimates,2019.0
-20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Mauritius,MUS,0.317767,percent,2019.0
-21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Mauritius,MUS,1.2,percent,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Mauritius,MUS,77.27727727727728,percent of total,2015.0
-23,Economics,Volume of imports,C7_Restrictions on internal movement,Mauritius,MUS,3.746,percent change,2020.0
-24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Mauritius,MUS,84.5422889477177,percent of energy use,2014.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Mauritius,MUS,14.45783,micrograms per cubic meter,2017.0
-27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Mauritius,MUS,0.043671,percent,2019.0
-28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Mauritius,MUS,0.00492,percent,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.8711399,score,2019.0
-30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Mauritius,MUS,45.1290016,Percentage of females of the total population,2020.0
-31,Economics,Volume of exports,C7_Restrictions on internal movement,Mauritius,MUS,4.446,percent change,2020.0
-32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Mauritius,MUS,8.21,score,2018.0
-33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Mauritius,MUS,1111.422168011966,kg of oil equivalent per capita,2014.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Mauritius,MUS,37.83783783783784,percent of total,2015.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Mauritius,MUS,0.7635766,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.8081411,score,2019.0
-37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Mauritius,MUS,6.89,score,2018.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Mauritius,MUS,434300.0,number,2019.0
-39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Mauritius,MUS,0.009881,percent,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Mauritius,MUS,11.5373619624728,percent of total final energy consumption,2015.0
-41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Mauritius,MUS,0.180578,percent,2019.0
-42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Mauritius,MUS,100.0,percent of total,2017.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Mauritius,MUS,559000000.0,kWh,2015.0
-44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Mauritius,MUS,10.8,percent,2016.0
-45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Mauritius,MUS,7.6,percent,2020.0
-46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Mauritius,MUS,58.132,Percentage of total population,2020.0
-47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Mauritius,MUS,5.095082,percent of total energy,2014.0
-50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,3.5152,Ones,2017.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Mauritius,MUS,3.442149,metric tons per capita,2016.0
-53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Mauritius,MUS,69.0080032,Percentage of total employment,2020.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.8220398,score,2019.0
-57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Mauritius,MUS,37.18472003299283,score,2020.0
-59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Mauritius,MUS,8.7,percent,2020.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,12.0,Cases,2019.0
-61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,2.5331,Ones,2018.0
-62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Mauritius,MUS,87.0,score,2021.0
-63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Mauritius,MUS,36.8,index ,2017.0
-65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Mauritius,MUS,50.0,score,2021.0
-66,Governance,Human Development Index,C7_Restrictions on internal movement,Mauritius,MUS,0.804,index,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.317112,score,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Mauritius,MUS,0.317767,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Mauritius,MUS,434300.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Mauritius,MUS,524.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Mauritius,MUS,0.7635766,score,2019.0
+6,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Mauritius,MUS,84.54236,percent of total,2014.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Mauritius,MUS,37.83783783783784,percent of total,2015.0
+8,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Mauritius,MUS,7.55,score,2018.0
+9,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Mauritius,MUS,32.14,percent,2018.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Mauritius,MUS,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Mauritius,MUS,21.6385,per 100 people,2019.0
+12,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Mauritius,MUS,1.2,percent,2019.0
+13,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Mauritius,MUS,8.21,score,2018.0
+14,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Mauritius,MUS,37.18472003299283,score,2020.0
+15,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Mauritius,MUS,3.04519887841665,percent of GNI,2018.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Mauritius,MUS,3.442149,metric tons per capita,2016.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Mauritius,MUS,7.6,percent,2020.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Mauritius,MUS,2.5,percent,2018.0
+19,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Mauritius,MUS,0.009881,percent,2019.0
+20,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Mauritius,MUS,8.7,percent,2020.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.8081411,score,2019.0
+22,Health,Prevalence of obesity,C7_Restrictions on internal movement,Mauritius,MUS,10.8,percent,2016.0
+23,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Mauritius,MUS,0.152737,percent,2019.0
+24,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Mauritius,MUS,0.043671,percent,2019.0
+25,Economics,Volume of imports,C7_Restrictions on internal movement,Mauritius,MUS,3.746,percent change,2020.0
+26,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Mauritius,MUS,0.000122,percent,2019.0
+27,Social issues ,Net migration,C7_Restrictions on internal movement,Mauritius,MUS,0.0,net total / data are 5 year estimates,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.8711399,score,2019.0
+29,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Mauritius,MUS,84.5422889477177,percent of energy use,2014.0
+30,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Mauritius,MUS,96.0,percent,2019.0
+31,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Mauritius,MUS,100.0,percent of total,2017.0
+32,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Mauritius,MUS,53.0,score,2020.0
+33,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Mauritius,MUS,20.0,proportion,2020.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Mauritius,MUS,4349.062,kt,2016.0
+35,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Mauritius,MUS,45.1290016,Percentage of females of the total population,2020.0
+37,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Mauritius,MUS,20.56563,Rate (risk-weighted prevalence),2019.0
+38,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Mauritius,MUS,0.180578,percent,2019.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Mauritius,MUS,515.1254907320865,per 1 million people,2019.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Mauritius,MUS,11.5373619624728,percent of total final energy consumption,2015.0
+42,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,2.5331,Ones,2018.0
+43,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Mauritius,MUS,5.095082,percent of total energy,2014.0
+46,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,3.5152,Ones,2017.0
+48,Social issues ,Press freedom score,C7_Restrictions on internal movement,Mauritius,MUS,28.0,score,2020.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,2.9198600992,"proportion, pero 100,000 people",2018.0
+52,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Mauritius,MUS,37.0,score,2021.0
+53,Governance,Human Development Index,C7_Restrictions on internal movement,Mauritius,MUS,0.804,index,2019.0
+54,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Mauritius,MUS,14.45783,micrograms per cubic meter,2017.0
+55,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Mauritius,MUS,99.0,percent,2019.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,12.0,Cases,2019.0
+57,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Mauritius,MUS,69.0080032,Percentage of total employment,2020.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Mauritius,MUS,97.4660034179688,percent of population,2018.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Mauritius,MUS,39.43943943943944,percent of total,2015.0
+62,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Mauritius,MUS,6.048999786376953,score,2021.0
+63,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Mauritius,MUS,0.046287,percent,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Mauritius,MUS,6.68900013,percent of total labor force,2020.0
+66,Economics,Volume of exports,C7_Restrictions on internal movement,Mauritius,MUS,4.446,percent change,2020.0
 68,Environment,Energy use ,C7_Restrictions on internal movement,Mauritius,MUS,57.765550292607,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Mauritius,MUS,39.43943943943944,percent of total,2015.0
-70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Mauritius,MUS,2.5,percent,2018.0
-72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Mauritius,MUS,6.68900013,percent of total labor force,2020.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Mauritius,MUS,2.9198600992,"proportion, pero 100,000 people",2018.0
-74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Mauritius,MUS,7.55,score,2018.0
-75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Mauritius,MUS,3.04519887841665,percent of GNI,2018.0
-76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Mauritius,MUS,37.0,score,2021.0
-77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Mauritius,MUS,32.14,percent,2018.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Mauritius,MUS,97.4660034179688,percent of population,2018.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Mauritius,MUS,20.0,proportion,2020.0
-86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Mauritius,MUS,99.0,percent,2019.0
-88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Mauritius,MUS,84.54236,percent of total,2014.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.9965204,score,2019.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Mauritius,MUS,77.27727727727728,percent of total,2015.0
+71,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Mauritius,MUS,1111.422168011966,kg of oil equivalent per capita,2014.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Mauritius,MUS,58.132,Percentage of total population,2020.0
+76,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Mauritius,MUS,6.89,score,2018.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.317112,score,2019.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Mauritius,MUS,559000000.0,kWh,2015.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Mauritius,MUS,0.0,percent of total,2014.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.8220398,score,2019.0
+86,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Mauritius,MUS,87.0,score,2021.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,Mauritius,MUS,2182.509155911412,kWh per capita,2014.0
+89,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Mauritius,MUS,36.8,index ,2017.0
+90,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Mauritius,MUS,0.00492,percent,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Mauritius,MUS,0.9965204,score,2019.0
+100,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Mauritius,MUS,50.0,score,2021.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Mauritius,MUS,151.359,per 100 people,2019.0

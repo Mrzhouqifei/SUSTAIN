@@ -2,26 +2,26 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H7_Vaccination policy,Cayman Islands,CYM,81.0677,percent of population,2019.0
 3,Health,Prevalence of COVID-19,H7_Vaccination policy,Cayman Islands,CYM,311.0,"Number (cumulative total by Dec 26,2020)",2020.0
 5,Demographics,Secure Internet servers ,H7_Vaccination policy,Cayman Islands,CYM,16952.02315698713,per 1 million people,2019.0
-8,Environment,CO2 emissions (kt),H7_Vaccination policy,Cayman Islands,CYM,546.383,kt,2016.0
-9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Cayman Islands,CYM,34768.0,number,2019.0
-12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Cayman Islands,CYM,49.2758,per 100 people,2019.0
-15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Cayman Islands,CYM,1.4457,score,2019.0
-16,Environment,Renewable energy consumption ,H7_Vaccination policy,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Cayman Islands,CYM,6.0,Cases,2019.0
-22,Governance,Rule of law estimate ,H7_Vaccination policy,Cayman Islands,CYM,0.7690086,score,2019.0
-34,Health,Mortality due to COVID-19,H7_Vaccination policy,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
-36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Cayman Islands,CYM,152.498,per 100 people,2019.0
-48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
-54,Demographics,Urban population (% of total population),H7_Vaccination policy,Cayman Islands,CYM,100.0,total,2019.0
-56,Governance,Control of corruption estimate,H7_Vaccination policy,Cayman Islands,CYM,0.4661654,score,2019.0
-60,Social issues ,"Primary completion rate, total (% of relevant age group)",H7_Vaccination policy,Cayman Islands,CYM,89.5522384643555,proportion,2018.0
-64,Demographics,People using at least basic sanitation services (% of population),H7_Vaccination policy,Cayman Islands,CYM,83.654025,proportion,2016.0
-68,Demographics,Rural population (% of total population),H7_Vaccination policy,Cayman Islands,CYM,0.0,proportion,2019.0
-76,Demographics,Refugee population by country or territory of asylum,H7_Vaccination policy,Cayman Islands,CYM,34.0,proportion,2019.0
-80,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
-82,Governance,Voice and accountability estimate,H7_Vaccination policy,Cayman Islands,CYM,0.4956726,score,2019.0
-84,Governance,Government effectiveness estimate,H7_Vaccination policy,Cayman Islands,CYM,1.169394,score,2019.0
-88,Environment,Access to electricity ,H7_Vaccination policy,Cayman Islands,CYM,100.0,percent of population,2018.0
-93,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H7_Vaccination policy,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
-97,Governance,Regulatory quality estimate,H7_Vaccination policy,Cayman Islands,CYM,0.9827613,score,2019.0
-100,Demographics,"Population, total",H7_Vaccination policy,Cayman Islands,CYM,64948.0,total,2019.0
+10,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Cayman Islands,CYM,34768.0,number,2019.0
+13,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Cayman Islands,CYM,6.0,Cases,2019.0
+14,Environment,Renewable energy consumption ,H7_Vaccination policy,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
+19,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Cayman Islands,CYM,49.2758,per 100 people,2019.0
+20,Environment,CO2 emissions (kt),H7_Vaccination policy,Cayman Islands,CYM,546.383,kt,2016.0
+29,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Cayman Islands,CYM,152.498,per 100 people,2019.0
+33,Health,Mortality due to COVID-19,H7_Vaccination policy,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
+49,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Cayman Islands,CYM,1.4457,score,2019.0
+54,Environment,Access to electricity ,H7_Vaccination policy,Cayman Islands,CYM,100.0,percent of population,2018.0
+55,Governance,Rule of law estimate ,H7_Vaccination policy,Cayman Islands,CYM,0.7690086,score,2019.0
+57,Demographics,"Population, total",H7_Vaccination policy,Cayman Islands,CYM,64948.0,total,2019.0
+64,Governance,Government effectiveness estimate,H7_Vaccination policy,Cayman Islands,CYM,1.169394,score,2019.0
+67,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H7_Vaccination policy,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
+68,Governance,Voice and accountability estimate,H7_Vaccination policy,Cayman Islands,CYM,0.4956726,score,2019.0
+69,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
+72,Demographics,Refugee population by country or territory of asylum,H7_Vaccination policy,Cayman Islands,CYM,34.0,proportion,2019.0
+79,Governance,Regulatory quality estimate,H7_Vaccination policy,Cayman Islands,CYM,0.9827613,score,2019.0
+80,Demographics,People using at least basic sanitation services (% of population),H7_Vaccination policy,Cayman Islands,CYM,83.654025,proportion,2016.0
+82,Governance,Control of corruption estimate,H7_Vaccination policy,Cayman Islands,CYM,0.4661654,score,2019.0
+83,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
+88,Social issues ,"Primary completion rate, total (% of relevant age group)",H7_Vaccination policy,Cayman Islands,CYM,89.5522384643555,proportion,2018.0
+92,Demographics,Rural population (% of total population),H7_Vaccination policy,Cayman Islands,CYM,0.0,proportion,2019.0
+98,Demographics,Urban population (% of total population),H7_Vaccination policy,Cayman Islands,CYM,100.0,total,2019.0

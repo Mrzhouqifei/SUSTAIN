@@ -2,84 +2,84 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,East Timor,TLS,27.4927,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,East Timor,TLS,0.383368,percent,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,East Timor,TLS,2075.0,number,2019.0
-4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,East Timor,TLS,46.4160004,Percentage of total employment,2020.0
-5,Health,Prevalence of COVID-19,H6_Facial Coverings,East Timor,TLS,31.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,East Timor,TLS,0.024059,percent,2019.0
-7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,East Timor,TLS,61.9220009,Percentage of females of the total population,2020.0
-8,Governance,Economic Freedom Score,H6_Facial Coverings,East Timor,TLS,6.29,score,2018.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,East Timor,TLS,110.218,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,East Timor,TLS,2.6,percent,2020.0
-12,Governance,Personal Freedom Score ,H6_Facial Coverings,East Timor,TLS,7.48,score,2018.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,East Timor,TLS,0.0463994,per 100 people,2019.0
-14,Social issues ,Net migration,H6_Facial Coverings,East Timor,TLS,-26924.0,net total / data are 5 year estimates,2019.0
-15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,East Timor,TLS,0.001852,percent,2019.0
-16,Health,Mortality due to COVID-19,H6_Facial Coverings,East Timor,TLS,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,East Timor,TLS,0.7224,Ones,2018.0
-18,Health,Prevalence of total cancers,H6_Facial Coverings,East Timor,TLS,0.002777,percent,2019.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,East Timor,TLS,72.0,score,2021.0
-21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,East Timor,TLS,67.3339996,Percentage of total population,2020.0
+4,Health,Prevalence of COVID-19,H6_Facial Coverings,East Timor,TLS,31.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,East Timor,TLS,61.9220009,Percentage of females of the total population,2020.0
+7,Governance,Economic Freedom Score,H6_Facial Coverings,East Timor,TLS,6.29,score,2018.0
+8,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,East Timor,TLS,0.073541,percent,2019.0
+9,Governance,Personal Freedom Score ,H6_Facial Coverings,East Timor,TLS,7.48,score,2018.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,East Timor,TLS,39.0,score,2021.0
+11,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,East Timor,TLS,24.51,percent,2016.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,East Timor,TLS,33.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,East Timor,TLS,0.0463994,per 100 people,2019.0
+15,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H6_Facial Coverings,East Timor,TLS,17691.4,international $ in PPP,2020.0
+17,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,East Timor,TLS,105.198341369629,proportion,2019.0
+19,Social issues ,Net migration,H6_Facial Coverings,East Timor,TLS,-26924.0,net total / data are 5 year estimates,2019.0
+20,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,East Timor,TLS,2.6,percent,2018.0
+21,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,East Timor,TLS,4.0959830945,"proportion, pero 100,000 people",2015.0
 22,Environment,"Adjusted net savings, including particulate emission damage",H6_Facial Coverings,East Timor,TLS,-11.5159455681386,percent of GNI,2018.0
-23,Health,Prevalence of obesity,H6_Facial Coverings,East Timor,TLS,3.8,percent,2016.0
-24,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,East Timor,TLS,28.7,index ,2014.0
-25,Health,Prevalence of down syndrome,H6_Facial Coverings,East Timor,TLS,0.000254,percent,2019.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,East Timor,TLS,-0.3829827,score,2019.0
-29,Health,Summary exposure value tobacco,H6_Facial Coverings,East Timor,TLS,30.01449,Rate (risk-weighted prevalence),2019.0
-30,Governance,Fragile States Index Total ,H6_Facial Coverings,East Timor,TLS,82.66311377505994,score,2020.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,East Timor,TLS,2.6,percent,2018.0
-32,Social issues ,Proportion of people living below 50 percent of median income (%),H6_Facial Coverings,East Timor,TLS,5.4,proportion,2014.0
-36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,East Timor,TLS,19.25721,micrograms per cubic meter,2017.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,East Timor,TLS,18.2236892844473,percent of total final energy consumption,2015.0
-38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,East Timor,TLS,48.8,percent,2020.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,East Timor,TLS,498.0,Cases,2019.0
-41,Demographics,Urban population (% of total population),H6_Facial Coverings,East Timor,TLS,30.947,total,2019.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,East Timor,TLS,495.045,kt,2016.0
-43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,East Timor,TLS,85.0,percent,2019.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,East Timor,TLS,29.9,score,2020.0
-47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,East Timor,TLS,1.668,Ones,2018.0
-48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,East Timor,TLS,38.46153846,proportion,2020.0
-49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,East Timor,TLS,0.035978,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,East Timor,TLS,0.406012,metric tons per capita,2016.0
-52,Governance,Human Development Index,H6_Facial Coverings,East Timor,TLS,0.606,index,2019.0
-53,Governance,Corruption Perceptions Index,H6_Facial Coverings,East Timor,TLS,40.0,score,2020.0
-54,Economics,Expenditure on education (% of GDP),H6_Facial Coverings,East Timor,TLS,4.72845,percent,2018.0
-55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,East Timor,TLS,100.0,percent of total,2017.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,East Timor,TLS,0.2398703,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,East Timor,TLS,0.3827664,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,East Timor,TLS,37.89287760832529,per 1 million people,2019.0
-59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,East Timor,TLS,83.0,percent,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,East Timor,TLS,-0.784347,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,East Timor,TLS,33.0,score,2021.0
-62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,East Timor,TLS,4.0959830945,"proportion, pero 100,000 people",2015.0
-63,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H6_Facial Coverings,East Timor,TLS,17691.4,international $ in PPP,2020.0
-64,Health,Prevalence of Diabetes,H6_Facial Coverings,East Timor,TLS,0.033862,percent,2019.0
-65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,East Timor,TLS,0.2,percent,2019.0
-66,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,East Timor,TLS,7.337270900566279,proportion,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,East Timor,TLS,39.0,score,2021.0
-68,Governance,Human Freedom Score ,H6_Facial Coverings,East Timor,TLS,6.89,score,2018.0
-73,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H6_Facial Coverings,East Timor,TLS,3.0,rating,2019.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,East Timor,TLS,-0.8846924,score,2019.0
-75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,East Timor,TLS,4.60300016,percent of total labor force,2020.0
-76,Social issues ,Progression to secondary school (%),H6_Facial Coverings,East Timor,TLS,93.20697,proportion,2017.0
-77,Economics,"International tourism, receipts",H6_Facial Coverings,East Timor,TLS,70000000.0,US Dollar,2019.0
-78,Environment,Access to electricity ,H6_Facial Coverings,East Timor,TLS,85.5918350219727,percent of population,2018.0
-79,Economics,Expenditure on social protection (% of GDP),H6_Facial Coverings,East Timor,TLS,8.62674,percent,2018.0
-81,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),H6_Facial Coverings,East Timor,TLS,74.0,proportion,2016.0
-83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,East Timor,TLS,0.073541,percent,2019.0
-84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,East Timor,TLS,53.5190078259669,proportion,2017.0
-85,Demographics,"Population, total",H6_Facial Coverings,East Timor,TLS,1293119.0,total,2019.0
-86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,East Timor,TLS,24.51,percent,2016.0
-88,Demographics,Rural population (% of total population),H6_Facial Coverings,East Timor,TLS,69.053,proportion,2019.0
-89,Economics,Expenditure on health (% of GDP),H6_Facial Coverings,East Timor,TLS,3.36514,percent,2018.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,East Timor,TLS,-1.111015,score,2019.0
-94,Demographics,People with basic handwashing facilities including soap and water (% of population),H6_Facial Coverings,East Timor,TLS,28.1782288377724,proportion,2017.0
-100,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,East Timor,TLS,71.17020403516807,proportion,2019.0
-104,Economics,"Trade, total as % of GDP",H6_Facial Coverings,East Timor,TLS,38.98658,percent,2018.0
-106,Demographics,Mobile cellular (per 100 people),H6_Facial Coverings,East Timor,TLS,115.8143,per 100 population,2018.0
-107,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H6_Facial Coverings,East Timor,TLS,68.0668334960938,proportion,2018.0
-108,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,East Timor,TLS,105.198341369629,proportion,2019.0
-109,Economics,Starting a Business (Score),H6_Facial Coverings,East Timor,TLS,89.4,Score,2019.0
-111,Demographics,Internet users (per 100 people),H6_Facial Coverings,East Timor,TLS,27.49273,per 100 population,2017.0
-113,Economics,"Foreign direct investment, net",H6_Facial Coverings,East Timor,TLS,74580320.0,US Dollar,2019.0
-114,Economics,"Lending interest rates, percent per annum",H6_Facial Coverings,East Timor,TLS,15.36218,percent per annum,2019.0
-115,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H6_Facial Coverings,East Timor,TLS,2.92760682106018,proportion,2014.0
-116,Demographics,Fixed telephone (per 100 people),H6_Facial Coverings,East Timor,TLS,0.17398,per 100 population,2018.0
+24,Health,Prevalence of obesity,H6_Facial Coverings,East Timor,TLS,3.8,percent,2016.0
+26,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,East Timor,TLS,28.7,index ,2014.0
+27,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,East Timor,TLS,19.25721,micrograms per cubic meter,2017.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,East Timor,TLS,495.045,kt,2016.0
+29,Governance,Corruption Perceptions Index,H6_Facial Coverings,East Timor,TLS,40.0,score,2020.0
+30,Health,Prevalence of Diabetes,H6_Facial Coverings,East Timor,TLS,0.033862,percent,2019.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,East Timor,TLS,18.2236892844473,percent of total final energy consumption,2015.0
+34,Governance,Fragile States Index Total ,H6_Facial Coverings,East Timor,TLS,82.66311377505994,score,2020.0
+37,Health,Prevalence of anxiety disorders,H6_Facial Coverings,East Timor,TLS,0.035978,percent,2019.0
+38,Governance,Human Freedom Score ,H6_Facial Coverings,East Timor,TLS,6.89,score,2018.0
+39,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,East Timor,TLS,46.4160004,Percentage of total employment,2020.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,East Timor,TLS,0.406012,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,East Timor,TLS,-0.3829827,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,East Timor,TLS,29.9,score,2020.0
+43,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,East Timor,TLS,1.668,Ones,2018.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,East Timor,TLS,110.218,per 100 people,2019.0
+45,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,East Timor,TLS,85.0,percent,2019.0
+46,Health,Prevalence of down syndrome,H6_Facial Coverings,East Timor,TLS,0.000254,percent,2019.0
+47,Health,Prevalence of Depressive disorders,H6_Facial Coverings,East Timor,TLS,0.024059,percent,2019.0
+48,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,East Timor,TLS,2.6,percent,2020.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,East Timor,TLS,4.60300016,percent of total labor force,2020.0
+51,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,East Timor,TLS,0.001852,percent,2019.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,East Timor,TLS,37.89287760832529,per 1 million people,2019.0
+53,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,East Timor,TLS,0.7224,Ones,2018.0
+54,Health,Prevalence of total cancers,H6_Facial Coverings,East Timor,TLS,0.002777,percent,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,East Timor,TLS,498.0,Cases,2019.0
+56,Health,Summary exposure value tobacco,H6_Facial Coverings,East Timor,TLS,30.01449,Rate (risk-weighted prevalence),2019.0
+57,Social issues ,Progression to secondary school (%),H6_Facial Coverings,East Timor,TLS,93.20697,proportion,2017.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,East Timor,TLS,-0.784347,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,East Timor,TLS,0.606,index,2019.0
+60,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,East Timor,TLS,38.46153846,proportion,2020.0
+61,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,East Timor,TLS,48.8,percent,2020.0
+63,Economics,"International tourism, receipts",H6_Facial Coverings,East Timor,TLS,70000000.0,US Dollar,2019.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,East Timor,TLS,-0.8846924,score,2019.0
+66,Demographics,Urban population (% of total population),H6_Facial Coverings,East Timor,TLS,30.947,total,2019.0
+67,Demographics,Rural population (% of total population),H6_Facial Coverings,East Timor,TLS,69.053,proportion,2019.0
+68,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,East Timor,TLS,83.0,percent,2019.0
+69,Health,Mortality due to COVID-19,H6_Facial Coverings,East Timor,TLS,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+70,Demographics,People with basic handwashing facilities including soap and water (% of population),H6_Facial Coverings,East Timor,TLS,28.1782288377724,proportion,2017.0
+71,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,East Timor,TLS,0.2,percent,2019.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,East Timor,TLS,0.3827664,score,2019.0
+73,Demographics,Mobile cellular (per 100 people),H6_Facial Coverings,East Timor,TLS,115.8143,per 100 population,2018.0
+74,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,East Timor,TLS,100.0,percent of total,2017.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,East Timor,TLS,0.2398703,score,2019.0
+78,Social issues ,Proportion of people living below 50 percent of median income (%),H6_Facial Coverings,East Timor,TLS,5.4,proportion,2014.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,East Timor,TLS,72.0,score,2021.0
+80,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,East Timor,TLS,67.3339996,Percentage of total population,2020.0
+81,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,East Timor,TLS,53.5190078259669,proportion,2017.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,East Timor,TLS,-1.111015,score,2019.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H6_Facial Coverings,East Timor,TLS,3.0,rating,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,East Timor,TLS,85.5918350219727,percent of population,2018.0
+85,Economics,Expenditure on education (% of GDP),H6_Facial Coverings,East Timor,TLS,4.72845,percent,2018.0
+86,Economics,"Trade, total as % of GDP",H6_Facial Coverings,East Timor,TLS,38.98658,percent,2018.0
+88,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H6_Facial Coverings,East Timor,TLS,2.92760682106018,proportion,2014.0
+91,Economics,Expenditure on social protection (% of GDP),H6_Facial Coverings,East Timor,TLS,8.62674,percent,2018.0
+93,Demographics,"Population, total",H6_Facial Coverings,East Timor,TLS,1293119.0,total,2019.0
+94,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,East Timor,TLS,7.337270900566279,proportion,2019.0
+96,Demographics,Fixed telephone (per 100 people),H6_Facial Coverings,East Timor,TLS,0.17398,per 100 population,2018.0
+97,Demographics,Internet users (per 100 people),H6_Facial Coverings,East Timor,TLS,27.49273,per 100 population,2017.0
+99,Economics,"Lending interest rates, percent per annum",H6_Facial Coverings,East Timor,TLS,15.36218,percent per annum,2019.0
+100,Economics,"Foreign direct investment, net",H6_Facial Coverings,East Timor,TLS,74580320.0,US Dollar,2019.0
+104,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),H6_Facial Coverings,East Timor,TLS,74.0,proportion,2016.0
+105,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H6_Facial Coverings,East Timor,TLS,68.0668334960938,proportion,2018.0
+107,Economics,Starting a Business (Score),H6_Facial Coverings,East Timor,TLS,89.4,Score,2019.0
+111,Economics,Expenditure on health (% of GDP),H6_Facial Coverings,East Timor,TLS,3.36514,percent,2018.0
+112,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,East Timor,TLS,71.17020403516807,proportion,2019.0

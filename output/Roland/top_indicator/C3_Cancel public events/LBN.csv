@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Lebanon,LBN,78.1808,percent of population,2019.0
-3,Economics,Volume of exports,C3_Cancel public events,Lebanon,LBN,4.234,percent change,2020.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,Lebanon,LBN,-0.4255922,score,2019.0
-5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Lebanon,LBN,13.0,score,2021.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Lebanon,LBN,154944.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Lebanon,LBN,24796.25,kt,2016.0
-9,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Lebanon,LBN,2.1038,Ones,2018.0
-10,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Lebanon,LBN,19.7,percent,2020.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,Lebanon,LBN,0.000335,percent,2019.0
-12,Environment,Electric power consumption ,C3_Cancel public events,Lebanon,LBN,2588.300670189272,kWh per capita,2014.0
-13,Social issues ,Net migration,C3_Cancel public events,Lebanon,LBN,-150060.0,net total / data are 5 year estimates,2019.0
-14,Economics,Volume of imports,C3_Cancel public events,Lebanon,LBN,3.972,percent change,2020.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Lebanon,LBN,6.12628,per 100 people,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Lebanon,LBN,0.064286,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Lebanon,LBN,0.004562,percent,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Lebanon,LBN,13.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Lebanon,LBN,61.8165,per 100 people,2019.0
-20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Lebanon,LBN,82.0,percent,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Lebanon,LBN,1.6735,Ones,2018.0
-22,Governance,Serious assault (rate),C3_Cancel public events,Lebanon,LBN,111.57,rate,2016.0
-23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Lebanon,LBN,4.2,percent,2018.0
-24,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Lebanon,LBN,97.39617308110459,percent of total,2015.0
-25,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Lebanon,LBN,64.310997,Percentage of total employment,2020.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,Lebanon,LBN,206.3972047838059,per 1 million people,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Lebanon,LBN,2.4929265033,"proportion, pero 100,000 people",2018.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,Lebanon,LBN,-0.8328025,score,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,Lebanon,LBN,40.4644,Rate (risk-weighted prevalence),2019.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Lebanon,LBN,0.157004,percent,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Lebanon,LBN,-1.63874,score,2019.0
-35,Environment,Electricity production from coal sources ,C3_Cancel public events,Lebanon,LBN,0.0,percent of total,2015.0
-36,Environment,Combustible renewables and waste,C3_Cancel public events,Lebanon,LBN,1.53202,percent of total energy,2014.0
-37,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Lebanon,LBN,46.9720001,Percentage of total population,2020.0
-39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Lebanon,LBN,4.6875,proportion,2020.0
-40,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Lebanon,LBN,-23.2527132319496,percent of GNI,2018.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Lebanon,LBN,0.12227,percent,2019.0
-42,Governance,Human Freedom Score ,C3_Cancel public events,Lebanon,LBN,6.7,score,2018.0
-43,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Lebanon,LBN,10.4,percent,2020.0
-45,Social issues ,Life Ladder ,C3_Cancel public events,Lebanon,LBN,4.583799839019775,score,2021.0
-46,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Lebanon,LBN,0.0,kWh,2015.0
-47,Environment,"Energy imports, net ",C3_Cancel public events,Lebanon,LBN,97.86553521755464,percent of energy use,2014.0
-48,Environment,Energy use ,C3_Cancel public events,Lebanon,LBN,70.52654949596491,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-49,Governance,Corruption Perceptions Index,C3_Cancel public events,Lebanon,LBN,25.0,score,2020.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Lebanon,LBN,3.694801,metric tons per capita,2016.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Lebanon,LBN,6.27600002,percent of total labor force,2020.0
-53,Governance,Human Development Index,C3_Cancel public events,Lebanon,LBN,0.744,index,2019.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,Lebanon,LBN,-1.160213,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,Lebanon,LBN,100.0,percent of population,2018.0
-57,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Lebanon,LBN,1196.605619881164,kg of oil equivalent per capita,2014.0
-59,Governance,Personal Freedom Score ,C3_Cancel public events,Lebanon,LBN,6.52,score,2018.0
-60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Lebanon,LBN,30.62111,micrograms per cubic meter,2017.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Lebanon,LBN,0.050605,percent,2019.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Lebanon,LBN,882175.0,number,2019.0
-63,Governance,Fragile States Index Total ,C3_Cancel public events,Lebanon,LBN,84.72043333917239,score,2020.0
-64,Health,Prevalence of obesity,C3_Cancel public events,Lebanon,LBN,32.0,percent,2016.0
-65,Environment,Fossil fuel energy consumption,C3_Cancel public events,Lebanon,LBN,97.6211,percent of total,2014.0
-66,Governance,Total freedom in the world score ,C3_Cancel public events,Lebanon,LBN,43.0,score,2021.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,Lebanon,LBN,-0.8582801,score,2019.0
-70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Lebanon,LBN,83.0,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Lebanon,LBN,882175.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Lebanon,LBN,0.157004,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Lebanon,LBN,154944.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,Lebanon,LBN,-0.8582801,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Lebanon,LBN,13.0,Cases,2019.0
+7,Environment,Fossil fuel energy consumption,C3_Cancel public events,Lebanon,LBN,97.6211,percent of total,2014.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,Lebanon,LBN,0.064286,percent,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Lebanon,LBN,6.12628,per 100 people,2019.0
+10,Governance,Economic Freedom Score,C3_Cancel public events,Lebanon,LBN,6.88,score,2018.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Lebanon,LBN,3.64671967049883,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,Lebanon,LBN,-0.8328025,score,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,Lebanon,LBN,0.086103,percent,2019.0
+14,Environment,"Energy imports, net ",C3_Cancel public events,Lebanon,LBN,97.86553521755464,percent of energy use,2014.0
+16,Social issues ,Net migration,C3_Cancel public events,Lebanon,LBN,-150060.0,net total / data are 5 year estimates,2019.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Lebanon,LBN,19.7,percent,2020.0
+18,Environment,Electricity production from coal sources ,C3_Cancel public events,Lebanon,LBN,0.0,percent of total,2015.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,Lebanon,LBN,206.3972047838059,per 1 million people,2019.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Lebanon,LBN,0.004562,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,Lebanon,LBN,0.050605,percent,2019.0
+22,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Lebanon,LBN,4.2,percent,2018.0
+23,Economics,Volume of exports,C3_Cancel public events,Lebanon,LBN,4.234,percent change,2020.0
+24,Environment,Combustible renewables and waste,C3_Cancel public events,Lebanon,LBN,1.53202,percent of total energy,2014.0
+25,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Lebanon,LBN,10.4,percent,2020.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,Lebanon,LBN,0.000335,percent,2019.0
+28,Governance,Fragile States Index Total ,C3_Cancel public events,Lebanon,LBN,84.72043333917239,score,2020.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Lebanon,LBN,100.0,percent of total,2017.0
+30,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Lebanon,LBN,97.39617308110459,percent of total,2015.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Lebanon,LBN,64.310997,Percentage of total employment,2020.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Lebanon,LBN,61.8165,per 100 people,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Lebanon,LBN,0.12227,percent,2019.0
+34,Governance,Personal Freedom Score ,C3_Cancel public events,Lebanon,LBN,6.52,score,2018.0
+35,Environment,Electric power consumption ,C3_Cancel public events,Lebanon,LBN,2588.300670189272,kWh per capita,2014.0
+36,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Lebanon,LBN,-23.2527132319496,percent of GNI,2018.0
+37,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Lebanon,LBN,1.6735,Ones,2018.0
+38,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Lebanon,LBN,2.1038,Ones,2018.0
+39,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Lebanon,LBN,0.1,percent,2019.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,Lebanon,LBN,-0.4943317,score,2019.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Lebanon,LBN,0.0,kWh,2015.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Lebanon,LBN,82.0,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,Lebanon,LBN,40.4644,Rate (risk-weighted prevalence),2019.0
+44,Environment,Electricity production from oil sources,C3_Cancel public events,Lebanon,LBN,97.39617308110459,percent of total,2015.0
+45,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Lebanon,LBN,30.62111,micrograms per cubic meter,2017.0
+49,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Lebanon,LBN,13.0,score,2021.0
+50,Economics,Volume of imports,C3_Cancel public events,Lebanon,LBN,3.972,percent change,2020.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Lebanon,LBN,2.4929265033,"proportion, pero 100,000 people",2018.0
+52,Governance,Human Development Index,C3_Cancel public events,Lebanon,LBN,0.744,index,2019.0
+54,Governance,Corruption Perceptions Index,C3_Cancel public events,Lebanon,LBN,25.0,score,2020.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,Lebanon,LBN,-1.160213,score,2019.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,Lebanon,LBN,0.01951,percent,2019.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Lebanon,LBN,-1.63874,score,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,Lebanon,LBN,-0.4255922,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Lebanon,LBN,24796.25,kt,2016.0
+66,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Lebanon,LBN,6.27600002,percent of total labor force,2020.0
+67,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Lebanon,LBN,46.9720001,Percentage of total population,2020.0
+69,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Lebanon,LBN,4.6875,proportion,2020.0
+70,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Lebanon,LBN,22.8719997,Percentage of females of the total population,2020.0
 71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,Lebanon,LBN,30.0,score,2021.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,Lebanon,LBN,0.01951,percent,2019.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Lebanon,LBN,3.64671967049883,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,Lebanon,LBN,-0.4943317,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Lebanon,LBN,1259.0,"Number (cumulative total by Dec 26,2020)",2020.0
-83,Social issues ,Press freedom score,C3_Cancel public events,Lebanon,LBN,33.19,score,2020.0
-85,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Lebanon,LBN,0.1,percent,2019.0
-87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Lebanon,LBN,100.0,percent of total,2017.0
-89,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Lebanon,LBN,22.8719997,Percentage of females of the total population,2020.0
-93,Governance,Economic Freedom Score,C3_Cancel public events,Lebanon,LBN,6.88,score,2018.0
-94,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Lebanon,LBN,0.0,percent of total,2014.0
-95,Environment,Electricity production from oil sources,C3_Cancel public events,Lebanon,LBN,97.39617308110459,percent of total,2015.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,Lebanon,LBN,0.086103,percent,2019.0
+74,Social issues ,Life Ladder ,C3_Cancel public events,Lebanon,LBN,4.583799839019775,score,2021.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Lebanon,LBN,1259.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Lebanon,LBN,83.0,percent,2019.0
+77,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Lebanon,LBN,1196.605619881164,kg of oil equivalent per capita,2014.0
+78,Environment,Energy use ,C3_Cancel public events,Lebanon,LBN,70.52654949596491,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+80,Health,Prevalence of obesity,C3_Cancel public events,Lebanon,LBN,32.0,percent,2016.0
+81,Social issues ,Press freedom score,C3_Cancel public events,Lebanon,LBN,33.19,score,2020.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Lebanon,LBN,3.694801,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,Lebanon,LBN,100.0,percent of population,2018.0
+85,Governance,Human Freedom Score ,C3_Cancel public events,Lebanon,LBN,6.7,score,2018.0
+91,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Lebanon,LBN,0.0,percent of total,2014.0
+92,Governance,Serious assault (rate),C3_Cancel public events,Lebanon,LBN,111.57,rate,2016.0
+93,Governance,Total freedom in the world score ,C3_Cancel public events,Lebanon,LBN,43.0,score,2021.0

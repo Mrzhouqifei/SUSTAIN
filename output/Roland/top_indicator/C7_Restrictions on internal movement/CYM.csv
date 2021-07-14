@@ -1,27 +1,27 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Cayman Islands,CYM,81.0677,percent of population,2019.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Cayman Islands,CYM,311.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Cayman Islands,CYM,16952.02315698713,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Cayman Islands,CYM,152.498,per 100 people,2019.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Cayman Islands,CYM,546.383,kt,2016.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Cayman Islands,CYM,49.2758,per 100 people,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,1.169394,score,2019.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Cayman Islands,CYM,0.7690086,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,0.4956726,score,2019.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Cayman Islands,CYM,34768.0,number,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
-52,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Cayman Islands,CYM,34.0,proportion,2019.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,1.4457,score,2019.0
-56,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Cayman Islands,CYM,83.654025,proportion,2016.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Cayman Islands,CYM,6.0,Cases,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,0.4661654,score,2019.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Cayman Islands,CYM,100.0,percent of population,2018.0
-81,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Cayman Islands,CYM,0.0,proportion,2019.0
-89,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Cayman Islands,CYM,100.0,total,2019.0
-103,Demographics,"Population, total",C7_Restrictions on internal movement,Cayman Islands,CYM,64948.0,total,2019.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,0.9827613,score,2019.0
-109,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Cayman Islands,CYM,89.5522384643555,proportion,2018.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Cayman Islands,CYM,34768.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Cayman Islands,CYM,311.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Cayman Islands,CYM,0.7690086,score,2019.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Cayman Islands,CYM,49.2758,per 100 people,2019.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,0.4956726,score,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,1.169394,score,2019.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Cayman Islands,CYM,546.383,kt,2016.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Cayman Islands,CYM,16952.02315698713,per 1 million people,2019.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Cayman Islands,CYM,6.0,Cases,2019.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Cayman Islands,CYM,100.0,percent of population,2018.0
+65,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Cayman Islands,CYM,83.654025,proportion,2016.0
+67,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Cayman Islands,CYM,100.0,total,2019.0
+74,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Cayman Islands,CYM,89.5522384643555,proportion,2018.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,0.4661654,score,2019.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,1.4457,score,2019.0
+84,Demographics,"Population, total",C7_Restrictions on internal movement,Cayman Islands,CYM,64948.0,total,2019.0
+85,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Cayman Islands,CYM,0.0,proportion,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Cayman Islands,CYM,0.9827613,score,2019.0
+95,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
+106,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Cayman Islands,CYM,34.0,proportion,2019.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Cayman Islands,CYM,152.498,per 100 people,2019.0

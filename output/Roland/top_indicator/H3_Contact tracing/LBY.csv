@@ -1,68 +1,68 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H3_Contact tracing,Libya,LBY,21.7589,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,H3_Contact tracing,Libya,LBY,17.0,score,2020.0
-3,Health,Prevalence of COVID-19,H3_Contact tracing,Libya,LBY,93772.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,H3_Contact tracing,Libya,LBY,1050.394750121432,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,H3_Contact tracing,Libya,LBY,1346.0,"Number (cumulative total by Dec 26,2020)",2020.0
-8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Libya,LBY,0.20474,percent,2019.0
-9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Libya,LBY,91.4793,per 100 people,2019.0
-10,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Libya,LBY,33.8030014,Percentage of females of the total population,2020.0
-11,Governance,Government effectiveness estimate,H3_Contact tracing,Libya,LBY,-1.922143,score,2019.0
-12,Environment,Electricity production from nuclear sources ,H3_Contact tracing,Libya,LBY,0.0,percent of total,2014.0
-13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Libya,LBY,8.0,score,2021.0
-14,Health,Summary exposure value tobacco,H3_Contact tracing,Libya,LBY,33.3445,Rate (risk-weighted prevalence),2019.0
-15,Environment,CO2 emissions (kt),H3_Contact tracing,Libya,LBY,50564.26,kt,2016.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Libya,LBY,59.5359993,Percentage of total employment,2020.0
-17,Environment,"Energy imports, net ",H3_Contact tracing,Libya,LBY,-102.9641120429193,percent of energy use,2014.0
-18,Social issues ,Life Ladder ,H3_Contact tracing,Libya,LBY,5.410299777984619,score,2021.0
-19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Libya,LBY,4.8323,per 100 people,2019.0
-20,Environment,Electricity production from oil sources,H3_Contact tracing,Libya,LBY,46.29968445893989,percent of total,2015.0
-21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Libya,LBY,6.5305,Ones,2017.0
-22,Social issues ,Press freedom score,H3_Contact tracing,Libya,LBY,55.77,score,2020.0
-24,Governance,Economic Freedom Score,H3_Contact tracing,Libya,LBY,4.72,score,2018.0
-27,Environment,"Electricity production from renewable sources, excluding hydroelectric",H3_Contact tracing,Libya,LBY,0.0,kWh,2015.0
+2,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Libya,LBY,1576000.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Libya,LBY,0.20474,percent,2019.0
+4,Health,Prevalence of COVID-19,H3_Contact tracing,Libya,LBY,93772.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Economic Freedom Score,H3_Contact tracing,Libya,LBY,4.72,score,2018.0
+6,Social issues ,Press freedom score,H3_Contact tracing,Libya,LBY,55.77,score,2020.0
+7,Health,Mortality due to COVID-19,H3_Contact tracing,Libya,LBY,1346.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Libya,LBY,25.4,percent,2020.0
+9,Governance,Rule of law estimate ,H3_Contact tracing,Libya,LBY,-1.848054,score,2019.0
+10,Health,Prevalence of down syndrome,H3_Contact tracing,Libya,LBY,0.000387,percent,2019.0
+11,Environment,Fossil fuel energy consumption,H3_Contact tracing,Libya,LBY,99.1113,percent of total,2014.0
+12,Governance,Regulatory quality estimate,H3_Contact tracing,Libya,LBY,-2.346947,score,2019.0
+13,Health,Prevalence of Diabetes,H3_Contact tracing,Libya,LBY,0.089081,percent,2019.0
+15,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Libya,LBY,4.8323,per 100 people,2019.0
+16,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Libya,LBY,15.95744681,proportion,2020.0
+17,Environment,Combustible renewables and waste,H3_Contact tracing,Libya,LBY,0.84635,percent of total energy,2014.0
+18,Health,Prevalence of total cancers,H3_Contact tracing,Libya,LBY,0.006456,percent,2019.0
+20,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Libya,LBY,59.5359993,Percentage of total employment,2020.0
+22,Environment,Electricity production from coal sources ,H3_Contact tracing,Libya,LBY,0.0,percent of total,2015.0
+23,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Libya,LBY,54.25468,micrograms per cubic meter,2017.0
+24,Health,Prevalence of anxiety disorders,H3_Contact tracing,Libya,LBY,0.059436,percent,2019.0
+25,Environment,Renewable energy consumption ,H3_Contact tracing,Libya,LBY,1.96655445725932,percent of total final energy consumption,2015.0
+26,Governance,Corruption Perceptions Index,H3_Contact tracing,Libya,LBY,17.0,score,2020.0
+27,Social issues ,Life Ladder ,H3_Contact tracing,Libya,LBY,5.410299777984619,score,2021.0
 28,Social issues ,Net migration,H3_Contact tracing,Libya,LBY,-9997.0,net total / data are 5 year estimates,2019.0
-29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Libya,LBY,-2.565753,score,2019.0
-30,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Libya,LBY,25.4,percent,2020.0
-31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Libya,LBY,0.059436,percent,2019.0
-32,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Libya,LBY,54.25468,micrograms per cubic meter,2017.0
-33,Health,Prevalence of Diabetes,H3_Contact tracing,Libya,LBY,0.089081,percent,2019.0
-34,Governance,Human Development Index,H3_Contact tracing,Libya,LBY,0.724,index,2019.0
-35,Governance,Fragile States Index Total ,H3_Contact tracing,Libya,LBY,95.19371849236182,score,2020.0
-37,Environment,Renewable energy consumption ,H3_Contact tracing,Libya,LBY,1.96655445725932,percent of total final energy consumption,2015.0
-38,Environment,Energy use ,H3_Contact tracing,Libya,LBY,230.1942657316047,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-39,Governance,Control of corruption estimate,H3_Contact tracing,Libya,LBY,-1.603637,score,2019.0
-41,Environment,Fossil fuel energy consumption,H3_Contact tracing,Libya,LBY,99.1113,percent of total,2014.0
-42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Libya,LBY,73.0,percent,2019.0
-44,Economics,Volume of imports,H3_Contact tracing,Libya,LBY,23.344,percent change,2020.0
-45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Libya,LBY,7.788507,metric tons per capita,2016.0
-46,Governance,Voice and accountability estimate,H3_Contact tracing,Libya,LBY,-1.458335,score,2019.0
-48,Health,Prevalence of total cancers,H3_Contact tracing,Libya,LBY,0.006456,percent,2019.0
+29,Environment,"Electricity production from renewable sources, excluding hydroelectric",H3_Contact tracing,Libya,LBY,0.0,kWh,2015.0
+30,Governance,Total freedom in the world score ,H3_Contact tracing,Libya,LBY,9.0,score,2021.0
+31,Demographics,Secure Internet servers ,H3_Contact tracing,Libya,LBY,1050.394750121432,per 1 million people,2019.0
+32,Governance,Fragile States Index Total ,H3_Contact tracing,Libya,LBY,95.19371849236182,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Libya,LBY,6.5305,Ones,2017.0
+34,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Libya,LBY,59.0,Cases,2019.0
+35,Governance,Human Development Index,H3_Contact tracing,Libya,LBY,0.724,index,2019.0
+36,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Libya,LBY,43.5,percent,2020.0
+37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Libya,LBY,33.8030014,Percentage of females of the total population,2020.0
+40,Health,Prevalence of obesity,H3_Contact tracing,Libya,LBY,32.5,percent,2016.0
+41,Environment,CO2 emissions (kt),H3_Contact tracing,Libya,LBY,50564.26,kt,2016.0
+42,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Libya,LBY,8.0,score,2021.0
+45,Environment,"Electricity production from oil, gas and coal sources",H3_Contact tracing,Libya,LBY,100.0,percent of total,2015.0
 49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Libya,LBY,2.0905,Ones,2017.0
-51,Environment,Access to electricity ,H3_Contact tracing,Libya,LBY,67.0,percent of population,2018.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Libya,LBY,18.6259995,percent of total labor force,2020.0
-53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Libya,LBY,100.0,percent of total,2017.0
-54,Health,Prevalence of obesity,H3_Contact tracing,Libya,LBY,32.5,percent,2016.0
-55,Environment,Combustible renewables and waste,H3_Contact tracing,Libya,LBY,0.84635,percent of total energy,2014.0
-56,Environment,Electricity production from coal sources ,H3_Contact tracing,Libya,LBY,0.0,percent of total,2015.0
-57,Governance,Human Freedom Score ,H3_Contact tracing,Libya,LBY,4.83,score,2018.0
-58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Libya,LBY,0.093715,percent,2019.0
-59,Governance,Rule of law estimate ,H3_Contact tracing,Libya,LBY,-1.848054,score,2019.0
-60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Libya,LBY,1.0,score,2021.0
-62,Health,"Prevalence of HIV, total (% of population ages 15-49)",H3_Contact tracing,Libya,LBY,0.2,percent,2019.0
-64,Environment,Energy use (kg of oil equivalent per capita),H3_Contact tracing,Libya,LBY,2808.648236406044,kg of oil equivalent per capita,2014.0
-66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Libya,LBY,0.050104,percent,2019.0
-68,Governance,Total freedom in the world score ,H3_Contact tracing,Libya,LBY,9.0,score,2021.0
-69,Governance,Personal Freedom Score ,H3_Contact tracing,Libya,LBY,4.93,score,2018.0
-70,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Libya,LBY,49.5779991,Percentage of total population,2020.0
-71,Environment,Electric power consumption ,H3_Contact tracing,Libya,LBY,1811.055169908632,kWh per capita,2014.0
-72,Environment,"Electricity production from oil, gas and coal sources",H3_Contact tracing,Libya,LBY,100.0,percent of total,2015.0
-73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Libya,LBY,59.0,Cases,2019.0
-74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Libya,LBY,1576000.0,number,2019.0
-75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Libya,LBY,73.0,percent,2019.0
-77,Health,Prevalence of down syndrome,H3_Contact tracing,Libya,LBY,0.000387,percent,2019.0
-78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Libya,LBY,0.002907,percent,2019.0
-79,Economics,Volume of exports,H3_Contact tracing,Libya,LBY,-4.732,percent change,2020.0
-82,Governance,Regulatory quality estimate,H3_Contact tracing,Libya,LBY,-2.346947,score,2019.0
-83,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Libya,LBY,43.5,percent,2020.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Libya,LBY,15.95744681,proportion,2020.0
+50,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Libya,LBY,91.4793,per 100 people,2019.0
+51,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Libya,LBY,0.002907,percent,2019.0
+52,Governance,Human Freedom Score ,H3_Contact tracing,Libya,LBY,4.83,score,2018.0
+53,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Libya,LBY,0.093715,percent,2019.0
+54,Governance,Voice and accountability estimate,H3_Contact tracing,Libya,LBY,-1.458335,score,2019.0
+55,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Libya,LBY,1.0,score,2021.0
+56,Environment,Electric power consumption ,H3_Contact tracing,Libya,LBY,1811.055169908632,kWh per capita,2014.0
+57,Health,Prevalence of Depressive disorders,H3_Contact tracing,Libya,LBY,0.050104,percent,2019.0
+58,Health,Summary exposure value tobacco,H3_Contact tracing,Libya,LBY,33.3445,Rate (risk-weighted prevalence),2019.0
+61,Environment,Electricity production from nuclear sources ,H3_Contact tracing,Libya,LBY,0.0,percent of total,2014.0
+62,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Libya,LBY,100.0,percent of total,2017.0
+63,Environment,Electricity production from oil sources,H3_Contact tracing,Libya,LBY,46.29968445893989,percent of total,2015.0
+64,Environment,Energy use ,H3_Contact tracing,Libya,LBY,230.1942657316047,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Libya,LBY,73.0,percent,2019.0
+66,Environment,"Energy imports, net ",H3_Contact tracing,Libya,LBY,-102.9641120429193,percent of energy use,2014.0
+68,Governance,Personal Freedom Score ,H3_Contact tracing,Libya,LBY,4.93,score,2018.0
+71,Environment,Access to electricity ,H3_Contact tracing,Libya,LBY,67.0,percent of population,2018.0
+73,Governance,Control of corruption estimate,H3_Contact tracing,Libya,LBY,-1.603637,score,2019.0
+74,Health,"Prevalence of HIV, total (% of population ages 15-49)",H3_Contact tracing,Libya,LBY,0.2,percent,2019.0
+75,Economics,Volume of imports,H3_Contact tracing,Libya,LBY,23.344,percent change,2020.0
+79,Environment,Energy use (kg of oil equivalent per capita),H3_Contact tracing,Libya,LBY,2808.648236406044,kg of oil equivalent per capita,2014.0
+80,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Libya,LBY,18.6259995,percent of total labor force,2020.0
+81,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Libya,LBY,-2.565753,score,2019.0
+84,Governance,Government effectiveness estimate,H3_Contact tracing,Libya,LBY,-1.922143,score,2019.0
+85,Economics,Volume of exports,H3_Contact tracing,Libya,LBY,-4.732,percent change,2020.0
+87,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Libya,LBY,7.788507,metric tons per capita,2016.0
+92,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Libya,LBY,73.0,percent,2019.0
+96,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Libya,LBY,49.5779991,Percentage of total population,2020.0

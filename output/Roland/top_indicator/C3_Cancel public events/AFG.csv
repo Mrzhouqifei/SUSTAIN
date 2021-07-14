@@ -1,81 +1,81 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Afghanistan,AFG,13.5,percent of population,2019.0
-2,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Afghanistan,AFG,43.4176100145511,proportion,2017.0
-3,Economics,Volume of exports,C3_Cancel public events,Afghanistan,AFG,7.79,percent change,2020.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,Afghanistan,AFG,-1.120555,score,2019.0
-5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Afghanistan,AFG,13.0,score,2021.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Afghanistan,AFG,50456.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Afghanistan,AFG,8672.455,kt,2016.0
-9,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Afghanistan,AFG,0.2782,Ones,2016.0
-10,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Afghanistan,AFG,3.9,percent,2020.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,Afghanistan,AFG,0.000495,percent,2019.0
-13,Social issues ,Net migration,C3_Cancel public events,Afghanistan,AFG,-314602.0,net total / data are 5 year estimates,2019.0
-14,Economics,Volume of imports,C3_Cancel public events,Afghanistan,AFG,-0.206,percent change,2020.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Afghanistan,AFG,0.0517405,per 100 people,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Afghanistan,AFG,0.047432,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Afghanistan,AFG,0.001093,percent,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Afghanistan,AFG,189.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Afghanistan,AFG,59.356,per 100 people,2019.0
-20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Afghanistan,AFG,64.0,percent,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Afghanistan,AFG,0.1755,Ones,2017.0
-23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Afghanistan,AFG,0.5,percent,2018.0
-25,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Afghanistan,AFG,39.3959999,Percentage of total employment,2020.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,Afghanistan,AFG,27.5223902662322,per 1 million people,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Afghanistan,AFG,6.6555611518,"proportion, per 100,000 people",2018.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,Afghanistan,AFG,-1.463875,score,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,Afghanistan,AFG,25.57435,Rate (risk-weighted prevalence),2019.0
-31,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Afghanistan,AFG,4.05,percent,2017.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Afghanistan,AFG,0.218059,percent,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Afghanistan,AFG,-2.649407,score,2019.0
-34,Demographics,People with basic handwashing facilities including soap and water (% of population),C3_Cancel public events,Afghanistan,AFG,37.7460320188898,proportion,2017.0
-37,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Afghanistan,AFG,48.9360008,Percentage of total population,2020.0
-39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Afghanistan,AFG,27.01612903,proportion,2020.0
-40,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Afghanistan,AFG,5.38364792673744,percent of GNI,2018.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Afghanistan,AFG,0.044898,percent,2019.0
-43,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Afghanistan,AFG,35.1,percent,2020.0
-44,Demographics,Rural population (% of total population),C3_Cancel public events,Afghanistan,AFG,74.246,proportion,2019.0
-45,Social issues ,Life Ladder ,C3_Cancel public events,Afghanistan,AFG,2.522900104522705,score,2021.0
-49,Governance,Corruption Perceptions Index,C3_Cancel public events,Afghanistan,AFG,19.0,score,2020.0
-50,Economics,Unemployment rate (%) - Annual,C3_Cancel public events,Afghanistan,AFG,8.0,percent,2014.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Afghanistan,AFG,0.245101,metric tons per capita,2016.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Afghanistan,AFG,11.1639996,percent of total labor force,2020.0
-53,Governance,Human Development Index,C3_Cancel public events,Afghanistan,AFG,0.511,index,2019.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,Afghanistan,AFG,-1.401076,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,Afghanistan,AFG,98.7132034301758,percent of population,2018.0
-60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Afghanistan,AFG,56.91081,micrograms per cubic meter,2017.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Afghanistan,AFG,0.039641,percent,2019.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Afghanistan,AFG,134636.0,number,2019.0
-63,Governance,Fragile States Index Total ,C3_Cancel public events,Afghanistan,AFG,102.90118710068992,score,2020.0
-64,Health,Prevalence of obesity,C3_Cancel public events,Afghanistan,AFG,5.5,percent,2016.0
-66,Governance,Total freedom in the world score ,C3_Cancel public events,Afghanistan,AFG,27.0,score,2021.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,Afghanistan,AFG,-1.713527,score,2019.0
-68,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,Afghanistan,AFG,4.763616948889495,proportion,2019.0
-69,Demographics,Urban population (% of total population),C3_Cancel public events,Afghanistan,AFG,25.754,total,2019.0
-70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Afghanistan,AFG,66.0,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Afghanistan,AFG,134636.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Afghanistan,AFG,0.218059,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Afghanistan,AFG,50456.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,Afghanistan,AFG,-1.713527,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Afghanistan,AFG,189.0,Cases,2019.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,Afghanistan,AFG,0.047432,percent,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Afghanistan,AFG,0.0517405,per 100 people,2019.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Afghanistan,AFG,18.4234771693218,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,Afghanistan,AFG,-1.463875,score,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,Afghanistan,AFG,0.041059,percent,2019.0
+15,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Afghanistan,AFG,85.6253280639648,proportion,2018.0
+16,Social issues ,Net migration,C3_Cancel public events,Afghanistan,AFG,-314602.0,net total / data are 5 year estimates,2019.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Afghanistan,AFG,3.9,percent,2020.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,Afghanistan,AFG,27.5223902662322,per 1 million people,2019.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Afghanistan,AFG,0.001093,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,Afghanistan,AFG,0.039641,percent,2019.0
+22,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Afghanistan,AFG,0.5,percent,2018.0
+23,Economics,Volume of exports,C3_Cancel public events,Afghanistan,AFG,7.79,percent change,2020.0
+25,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Afghanistan,AFG,35.1,percent,2020.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,Afghanistan,AFG,0.000495,percent,2019.0
+28,Governance,Fragile States Index Total ,C3_Cancel public events,Afghanistan,AFG,102.90118710068992,score,2020.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Afghanistan,AFG,100.0,percent of total,2017.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Afghanistan,AFG,39.3959999,Percentage of total employment,2020.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Afghanistan,AFG,59.356,per 100 people,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Afghanistan,AFG,0.044898,percent,2019.0
+36,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Afghanistan,AFG,5.38364792673744,percent of GNI,2018.0
+37,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Afghanistan,AFG,0.1755,Ones,2017.0
+38,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Afghanistan,AFG,0.2782,Ones,2016.0
+39,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Afghanistan,AFG,0.1,percent,2019.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,Afghanistan,AFG,-0.9880323,score,2019.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Afghanistan,AFG,64.0,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,Afghanistan,AFG,25.57435,Rate (risk-weighted prevalence),2019.0
+45,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Afghanistan,AFG,56.91081,micrograms per cubic meter,2017.0
+46,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,Afghanistan,AFG,82.10977467443755,proportion,2019.0
+47,Economics,Expenditure on health (% of GDP),C3_Cancel public events,Afghanistan,AFG,1.48424,percent,2019.0
+48,Demographics,People with basic handwashing facilities including soap and water (% of population),C3_Cancel public events,Afghanistan,AFG,37.7460320188898,proportion,2017.0
+49,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Afghanistan,AFG,13.0,score,2021.0
+50,Economics,Volume of imports,C3_Cancel public events,Afghanistan,AFG,-0.206,percent change,2020.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Afghanistan,AFG,6.6555611518,"proportion, per 100,000 people",2018.0
+52,Governance,Human Development Index,C3_Cancel public events,Afghanistan,AFG,0.511,index,2019.0
+54,Governance,Corruption Perceptions Index,C3_Cancel public events,Afghanistan,AFG,19.0,score,2020.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,Afghanistan,AFG,-1.401076,score,2019.0
+56,Economics,Expenditure on education (% of GDP),C3_Cancel public events,Afghanistan,AFG,3.4442,percent,2019.0
+57,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C3_Cancel public events,Afghanistan,AFG,80.2,proportion,2015.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,Afghanistan,AFG,0.002198,percent,2019.0
+59,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Afghanistan,AFG,4.05,percent,2017.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Afghanistan,AFG,-2.649407,score,2019.0
+61,Demographics,Urban population (% of total population),C3_Cancel public events,Afghanistan,AFG,25.754,total,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,Afghanistan,AFG,-1.120555,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Afghanistan,AFG,8672.455,kt,2016.0
+65,Health,Hospital beds (per 10 000 population),C3_Cancel public events,Afghanistan,AFG,3.9,Ones,2017.0
+66,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Afghanistan,AFG,11.1639996,percent of total labor force,2020.0
+67,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Afghanistan,AFG,48.9360008,Percentage of total population,2020.0
+68,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C3_Cancel public events,Afghanistan,AFG,2.0,rating,2019.0
+69,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Afghanistan,AFG,27.01612903,proportion,2020.0
+70,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Afghanistan,AFG,21.7709999,Percentage of females of the total population,2020.0
 71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,Afghanistan,AFG,14.0,score,2021.0
-72,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,Afghanistan,AFG,82.10977467443755,proportion,2019.0
-73,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Afghanistan,AFG,85.6253280639648,proportion,2018.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,Afghanistan,AFG,0.002198,percent,2019.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Afghanistan,AFG,18.4234771693218,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,Afghanistan,AFG,-0.9880323,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Afghanistan,AFG,2037.0,"Number (cumulative total by Dec 26,2020)",2020.0
-81,Economics,"Trade, total as % of GDP",C3_Cancel public events,Afghanistan,AFG,42.74213,percent,2019.0
-83,Social issues ,Press freedom score,C3_Cancel public events,Afghanistan,AFG,37.7,score,2020.0
-84,Social issues ,Progression to secondary school (%),C3_Cancel public events,Afghanistan,AFG,90.76541,proportion,2017.0
-85,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Afghanistan,AFG,0.1,percent,2019.0
-87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Afghanistan,AFG,100.0,percent of total,2017.0
-88,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C3_Cancel public events,Afghanistan,AFG,80.2,proportion,2015.0
-89,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Afghanistan,AFG,21.7709999,Percentage of females of the total population,2020.0
-91,Economics,Expenditure on social protection (% of GDP),C3_Cancel public events,Afghanistan,AFG,1.29404,percent,2019.0
-92,Economics,"Foreign direct investment, net",C3_Cancel public events,Afghanistan,AFG,23419360.0,US Dollar,2019.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,Afghanistan,AFG,0.041059,percent,2019.0
-97,Demographics,"Population, total",C3_Cancel public events,Afghanistan,AFG,38041754.0,total,2019.0
-99,Economics,"International tourism, receipts",C3_Cancel public events,Afghanistan,AFG,72000000.0,US Dollar,2019.0
-100,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C3_Cancel public events,Afghanistan,AFG,43.019718170166,proportion,2018.0
-101,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,Afghanistan,AFG,14.83667,percent per annum,2017.0
-103,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C3_Cancel public events,Afghanistan,AFG,6983.4,international $ in PPP,2020.0
-108,Economics,Expenditure on education (% of GDP),C3_Cancel public events,Afghanistan,AFG,3.4442,percent,2019.0
-110,Economics,Expenditure on health (% of GDP),C3_Cancel public events,Afghanistan,AFG,1.48424,percent,2019.0
-112,Health,Hospital beds (per 10 000 population),C3_Cancel public events,Afghanistan,AFG,3.9,Ones,2017.0
-113,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Afghanistan,AFG,72227.0,proportion,2019.0
-115,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C3_Cancel public events,Afghanistan,AFG,2.0,rating,2019.0
+73,Social issues ,Progression to secondary school (%),C3_Cancel public events,Afghanistan,AFG,90.76541,proportion,2017.0
+74,Social issues ,Life Ladder ,C3_Cancel public events,Afghanistan,AFG,2.522900104522705,score,2021.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Afghanistan,AFG,2037.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Afghanistan,AFG,66.0,percent,2019.0
+79,Economics,Expenditure on social protection (% of GDP),C3_Cancel public events,Afghanistan,AFG,1.29404,percent,2019.0
+80,Health,Prevalence of obesity,C3_Cancel public events,Afghanistan,AFG,5.5,percent,2016.0
+81,Social issues ,Press freedom score,C3_Cancel public events,Afghanistan,AFG,37.7,score,2020.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Afghanistan,AFG,0.245101,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,Afghanistan,AFG,98.7132034301758,percent of population,2018.0
+86,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C3_Cancel public events,Afghanistan,AFG,6983.4,international $ in PPP,2020.0
+87,Economics,Unemployment rate (%) - Annual,C3_Cancel public events,Afghanistan,AFG,8.0,percent,2014.0
+88,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Afghanistan,AFG,43.4176100145511,proportion,2017.0
+90,Economics,"Trade, total as % of GDP",C3_Cancel public events,Afghanistan,AFG,42.74213,percent,2019.0
+93,Governance,Total freedom in the world score ,C3_Cancel public events,Afghanistan,AFG,27.0,score,2021.0
+94,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Afghanistan,AFG,72227.0,proportion,2019.0
+96,Economics,"International tourism, receipts",C3_Cancel public events,Afghanistan,AFG,72000000.0,US Dollar,2019.0
+97,Economics,"Foreign direct investment, net",C3_Cancel public events,Afghanistan,AFG,23419360.0,US Dollar,2019.0
+105,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,Afghanistan,AFG,14.83667,percent per annum,2017.0
+108,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,Afghanistan,AFG,4.763616948889495,proportion,2019.0
+109,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C3_Cancel public events,Afghanistan,AFG,43.019718170166,proportion,2018.0
+116,Demographics,"Population, total",C3_Cancel public events,Afghanistan,AFG,38041754.0,total,2019.0
+117,Demographics,Rural population (% of total population),C3_Cancel public events,Afghanistan,AFG,74.246,proportion,2019.0

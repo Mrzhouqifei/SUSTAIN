@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SRB,H7_Vaccination policy,0.12110135784029954,1
-SRB,H2_Testing policy,0.11554007748414175,2
-SRB,C1_School closing,0.1062465461051544,3
-SRB,H6_Facial Coverings,0.0785791277897726,4
-SRB,C7_Restrictions on internal movement,0.07791344094676221,5
-SRB,C8_International travel controls,0.059351269939312924,6
-SRB,E1_Income support,0.05776114427411407,7
-SRB,C5_Close public transport,0.05066817704317178,8
-SRB,C2_Workplace closing,0.04497541955395271,9
-SRB,C4_Restrictions on gatherings,0.03580075470519696,10
-SRB,C3_Cancel public events,0.028748902567069662,11
-SRB,C6_Stay at home requirements,0.027912031217400875,12
-SRB,H3_Contact tracing,0.024053799969519413,13
-SRB,E2_Debt/contract relief,0.023067034487728004,14
-SRB,H1_Public information campaigns,0.01223546327129605,15
+SRB,H7_Vaccination policy,0.1479084573692942,1
+SRB,H2_Testing policy,0.0886110691209254,2
+SRB,C1_School closing,0.0715458509170457,3
+SRB,H6_Facial Coverings,0.0711255376124639,4
+SRB,C7_Restrictions on internal movement,0.0646384299486916,5
+SRB,C8_International travel controls,0.0554123339227469,6
+SRB,E1_Income support,0.0537793718350393,7
+SRB,C5_Close public transport,0.0486907936575299,8
+SRB,C2_Workplace closing,0.047350457522876,9
+SRB,C4_Restrictions on gatherings,0.0461934915318168,10
+SRB,H3_Contact tracing,0.0373623197855897,11
+SRB,C6_Stay at home requirements,0.0370959003030851,12
+SRB,E2_Debt/contract relief,0.0313547929342764,13
+SRB,H1_Public information campaigns,0.024042371568229,14
+SRB,C3_Cancel public events,0.0201090373297661,15

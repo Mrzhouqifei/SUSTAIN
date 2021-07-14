@@ -2,60 +2,60 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C2_Workplace closing,Guinea-Bissau,GNB,3.93051,percent of population,2019.0
 2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Guinea-Bissau,GNB,2.48699999,percent of total labor force,2020.0
 3,Health,Prevalence of COVID-19,C2_Workplace closing,Guinea-Bissau,GNB,2447.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Governance,Voice and accountability estimate,C2_Workplace closing,Guinea-Bissau,GNB,-0.4587073,score,2019.0
-5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Guinea-Bissau,GNB,0.6,percent,2018.0
+4,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Guinea-Bissau,GNB,0.6,percent,2018.0
+5,Governance,Voice and accountability estimate,C2_Workplace closing,Guinea-Bissau,GNB,-0.4587073,score,2019.0
 6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Guinea-Bissau,GNB,25.1870003,Percentage of total employment,2020.0
-7,Environment,CO2 emissions (kt),C2_Workplace closing,Guinea-Bissau,GNB,293.36,kt,2016.0
-8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,0.6851,Ones,2018.0
-10,Governance,Government effectiveness estimate,C2_Workplace closing,Guinea-Bissau,GNB,-1.514441,score,2019.0
-11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Guinea-Bissau,GNB,0.0638756,per 100 people,2019.0
-12,Economics,Volume of exports,C2_Workplace closing,Guinea-Bissau,GNB,6.86,percent change,2020.0
-13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Guinea-Bissau,GNB,27.0,score,2021.0
-14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Guinea-Bissau,GNB,28.0,percent,2020.0
-15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Guinea-Bissau,GNB,100.0,percent of total,2017.0
-16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Guinea-Bissau,GNB,0.164584,metric tons per capita,2016.0
-18,Governance,Economic Freedom Score,C2_Workplace closing,Guinea-Bissau,GNB,5.46,score,2018.0
-19,Health,Prevalence of total cancers,C2_Workplace closing,Guinea-Bissau,GNB,0.002135,percent,2019.0
-20,Social issues ,Net migration,C2_Workplace closing,Guinea-Bissau,GNB,-6996.0,net total / data are 5 year estimates,2019.0
-21,Health,Summary exposure value tobacco,C2_Workplace closing,Guinea-Bissau,GNB,13.76451,Rate (risk-weighted prevalence),2019.0
-22,Governance,Total freedom in the world score ,C2_Workplace closing,Guinea-Bissau,GNB,44.0,score,2021.0
-25,Governance,Rule of law estimate ,C2_Workplace closing,Guinea-Bissau,GNB,-1.264045,score,2019.0
-26,Economics,Volume of imports,C2_Workplace closing,Guinea-Bissau,GNB,4.957,percent change,2020.0
-28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Guinea-Bissau,GNB,0.029601,percent,2019.0
-29,Health,Prevalence of Diabetes,C2_Workplace closing,Guinea-Bissau,GNB,0.020877,percent,2019.0
-32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Guinea-Bissau,GNB,0.033807,percent,2019.0
-34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Guinea-Bissau,GNB,84.0,percent,2019.0
-36,Health,Mortality due to COVID-19,C2_Workplace closing,Guinea-Bissau,GNB,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
-37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Guinea-Bissau,GNB,0.039581,percent,2019.0
-40,Governance,Serious assault (rate),C2_Workplace closing,Guinea-Bissau,GNB,112.21,rate,2016.0
-41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,361.0,Cases,2019.0
-42,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Guinea-Bissau,GNB,-2.20239855154791,percent of GNI,2018.0
-43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Guinea-Bissau,GNB,3.4,percent,2020.0
-44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,0.1274,Ones,2016.0
-46,Health,Prevalence of obesity,C2_Workplace closing,Guinea-Bissau,GNB,9.5,percent,2016.0
-48,Social issues ,Press freedom score,C2_Workplace closing,Guinea-Bissau,GNB,32.06,score,2020.0
-50,Governance,Human Freedom Score ,C2_Workplace closing,Guinea-Bissau,GNB,6.15,score,2018.0
-51,Environment,Access to electricity ,C2_Workplace closing,Guinea-Bissau,GNB,28.6620216369629,percent of population,2018.0
-52,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Guinea-Bissau,GNB,1.5,rating,2019.0
-53,Demographics,Secure Internet servers ,C2_Workplace closing,Guinea-Bissau,GNB,3.644083414110515,per 1 million people,2019.0
-55,Governance,Fragile States Index Total ,C2_Workplace closing,Guinea-Bissau,GNB,92.90207550854626,score,2020.0
-58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Guinea-Bissau,GNB,13.7254902,proportion,2020.0
-61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Guinea-Bissau,GNB,71.9940033,Percentage of total population,2020.0
-63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Guinea-Bissau,GNB,17.0,score,2021.0
-64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Guinea-Bissau,GNB,0.0,number,2019.0
-65,Governance,Human Development Index,C2_Workplace closing,Guinea-Bissau,GNB,0.48,index,2019.0
-67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Guinea-Bissau,GNB,86.0,percent,2019.0
-68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Guinea-Bissau,GNB,0.26891,percent,2019.0
-69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Guinea-Bissau,GNB,-0.562632,score,2019.0
-71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Guinea-Bissau,GNB,65.9110031,Percentage of females of the total population,2020.0
-72,Governance,Personal Freedom Score ,C2_Workplace closing,Guinea-Bissau,GNB,6.84,score,2018.0
-74,Governance,Control of corruption estimate,C2_Workplace closing,Guinea-Bissau,GNB,-1.453986,score,2019.0
-76,Governance,Regulatory quality estimate,C2_Workplace closing,Guinea-Bissau,GNB,-1.233335,score,2019.0
-77,Health,Prevalence of down syndrome,C2_Workplace closing,Guinea-Bissau,GNB,0.000217,percent,2019.0
-82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Guinea-Bissau,GNB,0.000642,percent,2019.0
-83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Guinea-Bissau,GNB,82.7926,per 100 people,2019.0
-86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,1.1487047533,"proportion, pero 100,000 people",2017.0
-87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Guinea-Bissau,GNB,3.4,percent,2019.0
-92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Guinea-Bissau,GNB,29.7747,micrograms per cubic meter,2017.0
-97,Governance,Corruption Perceptions Index,C2_Workplace closing,Guinea-Bissau,GNB,19.0,score,2020.0
-110,Environment,Renewable energy consumption ,C2_Workplace closing,Guinea-Bissau,GNB,86.8517939369185,percent of total final energy consumption,2015.0
+8,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Guinea-Bissau,GNB,82.7926,per 100 people,2019.0
+10,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Guinea-Bissau,GNB,0.164584,metric tons per capita,2016.0
+11,Health,Prevalence of Depressive disorders,C2_Workplace closing,Guinea-Bissau,GNB,0.033807,percent,2019.0
+12,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Guinea-Bissau,GNB,86.0,percent,2019.0
+14,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Guinea-Bissau,GNB,0.0638756,per 100 people,2019.0
+15,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Guinea-Bissau,GNB,28.0,percent,2020.0
+16,Environment,CO2 emissions (kt),C2_Workplace closing,Guinea-Bissau,GNB,293.36,kt,2016.0
+17,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Guinea-Bissau,GNB,27.0,score,2021.0
+18,Social issues ,Net migration,C2_Workplace closing,Guinea-Bissau,GNB,-6996.0,net total / data are 5 year estimates,2019.0
+19,Environment,Renewable energy consumption ,C2_Workplace closing,Guinea-Bissau,GNB,86.8517939369185,percent of total final energy consumption,2015.0
+20,Governance,Fragile States Index Total ,C2_Workplace closing,Guinea-Bissau,GNB,92.90207550854626,score,2020.0
+21,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Guinea-Bissau,GNB,0.039581,percent,2019.0
+22,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Guinea-Bissau,GNB,29.7747,micrograms per cubic meter,2017.0
+23,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,0.1274,Ones,2016.0
+25,Governance,Economic Freedom Score,C2_Workplace closing,Guinea-Bissau,GNB,5.46,score,2018.0
+26,Governance,Total freedom in the world score ,C2_Workplace closing,Guinea-Bissau,GNB,44.0,score,2021.0
+27,Health,Prevalence of Diabetes,C2_Workplace closing,Guinea-Bissau,GNB,0.020877,percent,2019.0
+28,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Guinea-Bissau,GNB,84.0,percent,2019.0
+29,Health,Prevalence of anxiety disorders,C2_Workplace closing,Guinea-Bissau,GNB,0.029601,percent,2019.0
+30,Governance,Human Freedom Score ,C2_Workplace closing,Guinea-Bissau,GNB,6.15,score,2018.0
+31,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Guinea-Bissau,GNB,0.26891,percent,2019.0
+32,Governance,Corruption Perceptions Index,C2_Workplace closing,Guinea-Bissau,GNB,19.0,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,0.6851,Ones,2018.0
+34,Economics,Volume of imports,C2_Workplace closing,Guinea-Bissau,GNB,4.957,percent change,2020.0
+35,Health,Prevalence of down syndrome,C2_Workplace closing,Guinea-Bissau,GNB,0.000217,percent,2019.0
+37,Environment,"Adjusted net savings, including particulate emission damage",C2_Workplace closing,Guinea-Bissau,GNB,-2.20239855154791,percent of GNI,2018.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,361.0,Cases,2019.0
+39,Health,Prevalence of total cancers,C2_Workplace closing,Guinea-Bissau,GNB,0.002135,percent,2019.0
+40,Governance,Government effectiveness estimate,C2_Workplace closing,Guinea-Bissau,GNB,-1.514441,score,2019.0
+41,Health,Summary exposure value tobacco,C2_Workplace closing,Guinea-Bissau,GNB,13.76451,Rate (risk-weighted prevalence),2019.0
+42,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Guinea-Bissau,GNB,3.4,percent,2020.0
+43,Governance,Human Development Index,C2_Workplace closing,Guinea-Bissau,GNB,0.48,index,2019.0
+44,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Guinea-Bissau,GNB,-0.562632,score,2019.0
+48,Governance,Regulatory quality estimate,C2_Workplace closing,Guinea-Bissau,GNB,-1.233335,score,2019.0
+51,Social issues ,Press freedom score,C2_Workplace closing,Guinea-Bissau,GNB,32.06,score,2020.0
+52,Health,Prevalence of obesity,C2_Workplace closing,Guinea-Bissau,GNB,9.5,percent,2016.0
+53,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Guinea-Bissau,GNB,1.5,rating,2019.0
+54,Economics,Volume of exports,C2_Workplace closing,Guinea-Bissau,GNB,6.86,percent change,2020.0
+57,Governance,Control of corruption estimate,C2_Workplace closing,Guinea-Bissau,GNB,-1.453986,score,2019.0
+58,Demographics,Secure Internet servers ,C2_Workplace closing,Guinea-Bissau,GNB,3.644083414110515,per 1 million people,2019.0
+59,Governance,Rule of law estimate ,C2_Workplace closing,Guinea-Bissau,GNB,-1.264045,score,2019.0
+61,Governance,Personal Freedom Score ,C2_Workplace closing,Guinea-Bissau,GNB,6.84,score,2018.0
+62,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Guinea-Bissau,GNB,0.000642,percent,2019.0
+65,Governance,Serious assault (rate),C2_Workplace closing,Guinea-Bissau,GNB,112.21,rate,2016.0
+66,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Guinea-Bissau,GNB,71.9940033,Percentage of total population,2020.0
+67,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Guinea-Bissau,GNB,13.7254902,proportion,2020.0
+69,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Guinea-Bissau,GNB,100.0,percent of total,2017.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Guinea-Bissau,GNB,1.1487047533,"proportion, pero 100,000 people",2017.0
+77,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Guinea-Bissau,GNB,65.9110031,Percentage of females of the total population,2020.0
+80,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Guinea-Bissau,GNB,17.0,score,2021.0
+82,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Guinea-Bissau,GNB,0.0,number,2019.0
+83,Health,Mortality due to COVID-19,C2_Workplace closing,Guinea-Bissau,GNB,44.0,"Number (cumulative total by Dec 26,2020)",2020.0
+86,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Guinea-Bissau,GNB,3.4,percent,2019.0
+90,Environment,Access to electricity ,C2_Workplace closing,Guinea-Bissau,GNB,28.6620216369629,percent of population,2018.0

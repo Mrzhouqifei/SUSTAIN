@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-EGY,H6_Facial Coverings,0.1067248924836575,1
-EGY,H2_Testing policy,0.09153545891256816,2
-EGY,C8_International travel controls,0.08642012583453125,3
-EGY,C1_School closing,0.07776673201862798,4
-EGY,H7_Vaccination policy,0.06861906534567218,5
-EGY,C5_Close public transport,0.06813999644257783,6
-EGY,C4_Restrictions on gatherings,0.05575725327495585,7
-EGY,C6_Stay at home requirements,0.05567069756904844,8
-EGY,C7_Restrictions on internal movement,0.05550621121222273,9
-EGY,E1_Income support,0.04404995990839915,10
-EGY,C2_Workplace closing,0.03832948647935299,11
-EGY,C3_Cancel public events,0.02923027748135185,12
-EGY,E2_Debt/contract relief,0.02532440876913311,13
-EGY,H1_Public information campaigns,0.02177118928307924,14
-EGY,H3_Contact tracing,0.005756778031546608,15
+EGY,H6_Facial Coverings,0.0945688749013562,1
+EGY,H2_Testing policy,0.0928147304205982,2
+EGY,C8_International travel controls,0.0786775934985092,3
+EGY,C5_Close public transport,0.0720320305526038,4
+EGY,H7_Vaccination policy,0.068566289174578,5
+EGY,C1_School closing,0.0642493305234186,6
+EGY,C4_Restrictions on gatherings,0.0604086897875339,7
+EGY,C7_Restrictions on internal movement,0.0585934097861445,8
+EGY,H3_Contact tracing,0.0564995357987612,9
+EGY,C2_Workplace closing,0.0463185816112374,10
+EGY,E1_Income support,0.0433109926841021,11
+EGY,E2_Debt/contract relief,0.0289577192626387,12
+EGY,H1_Public information campaigns,0.0255923036081668,13
+EGY,C3_Cancel public events,0.0243759247885455,14
+EGY,C6_Stay at home requirements,0.0053451158223711,15

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-VNM,H7_Vaccination policy,0.10284403140567927,1
-VNM,H3_Contact tracing,0.07600263601063834,2
-VNM,H6_Facial Coverings,0.07570795207530512,3
-VNM,C7_Restrictions on internal movement,0.07421009190021767,4
-VNM,E2_Debt/contract relief,0.06670425062815316,5
-VNM,H2_Testing policy,0.0662006567974481,6
-VNM,C1_School closing,0.0622528696287691,7
-VNM,C6_Stay at home requirements,0.058587667970689386,8
-VNM,C5_Close public transport,0.05758736142972491,9
-VNM,C8_International travel controls,0.05689675488902396,10
-VNM,C2_Workplace closing,0.04753804530396427,11
-VNM,C4_Restrictions on gatherings,0.04359135610863157,12
-VNM,C3_Cancel public events,0.041388338565096584,13
-VNM,H1_Public information campaigns,0.01747835714566015,14
-VNM,E1_Income support,0.011549370679712505,15
+VNM,H7_Vaccination policy,0.1017536249651197,1
+VNM,H3_Contact tracing,0.0890635981547324,2
+VNM,H6_Facial Coverings,0.0805644966633144,3
+VNM,C7_Restrictions on internal movement,0.0799049703834356,4
+VNM,E2_Debt/contract relief,0.0791059897700648,5
+VNM,C5_Close public transport,0.0563306300692212,6
+VNM,H2_Testing policy,0.0558880066957357,7
+VNM,C1_School closing,0.0558422513842971,8
+VNM,C6_Stay at home requirements,0.0555208429664886,9
+VNM,C8_International travel controls,0.0544627912645233,10
+VNM,C3_Cancel public events,0.0513710703042345,11
+VNM,C2_Workplace closing,0.0513496883336157,12
+VNM,C4_Restrictions on gatherings,0.0481458917462525,13
+VNM,E1_Income support,0.0401963768489372,14
+VNM,H1_Public information campaigns,0.0,15

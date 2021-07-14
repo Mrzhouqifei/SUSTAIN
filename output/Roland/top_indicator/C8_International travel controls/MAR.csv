@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Morocco,MAR,74.3763,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Morocco,MAR,40.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Morocco,MAR,412393.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Morocco,MAR,369.5735186302589,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Morocco,MAR,0.000401,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Morocco,MAR,0.003008,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Morocco,MAR,6854.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Morocco,MAR,42.88,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Morocco,MAR,0.051775,percent,2019.0
-11,Environment,"Energy imports, net ",C8_International travel controls,Morocco,MAR,90.72183409217001,percent of energy use,2014.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Morocco,MAR,21.20052,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Morocco,MAR,0.005806,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Morocco,MAR,-0.2765363,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Morocco,MAR,4.80191,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Morocco,MAR,19.6707043219934,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Morocco,MAR,97.0,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Morocco,MAR,20.50632911,proportion,2020.0
-19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Morocco,MAR,2525000000.0,kWh,2015.0
-21,Social issues ,Net migration,C8_International travel controls,Morocco,MAR,-257096.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Morocco,MAR,-0.1192252,score,2019.0
-24,Health,Prevalence of obesity,C8_International travel controls,Morocco,MAR,26.1,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Morocco,MAR,99.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Morocco,MAR,24.0,score,2021.0
-28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Morocco,MAR,12.9,percent,2020.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Morocco,MAR,44.0340004,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Morocco,MAR,4.918000221252441,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Morocco,MAR,2.1,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Morocco,MAR,11.3174596346938,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Morocco,MAR,0.7308,Ones,2017.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Morocco,MAR,71.22105197870692,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Morocco,MAR,13.0,score,2021.0
-36,Environment,Electricity production from coal sources ,C8_International travel controls,Morocco,MAR,55.52563270603505,percent of total,2015.0
-37,Environment,Energy use ,C8_International travel controls,Morocco,MAR,79.12131659430487,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Morocco,MAR,127.953,per 100 people,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Morocco,MAR,99.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Morocco,MAR,0.071492,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Morocco,MAR,0.23129,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Morocco,MAR,2054550.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Morocco,MAR,412393.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Morocco,MAR,6854.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Morocco,MAR,1.4155228849,"proportion, pero 100,000 people",2018.0
+7,Governance,Economic Freedom Score,C8_International travel controls,Morocco,MAR,6.7,score,2018.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Morocco,MAR,32.59354,micrograms per cubic meter,2017.0
+9,Environment,Fossil fuel energy consumption,C8_International travel controls,Morocco,MAR,88.46886,percent of total,2014.0
+10,Environment,Energy use ,C8_International travel controls,Morocco,MAR,79.12131659430487,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Morocco,MAR,0.000401,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Morocco,MAR,4.126,percent change,2020.0
+13,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Morocco,MAR,2525000000.0,kWh,2015.0
+14,Environment,Electricity production from coal sources ,C8_International travel controls,Morocco,MAR,55.52563270603505,percent of total,2015.0
+15,Social issues ,Net migration,C8_International travel controls,Morocco,MAR,-257096.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Morocco,MAR,-0.6268054,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Morocco,MAR,4.80191,per 100 people,2019.0
+19,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Morocco,MAR,11.3,percent,2020.0
+20,Environment,Electricity production from nuclear sources ,C8_International travel controls,Morocco,MAR,0.0,percent of total,2014.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Morocco,MAR,40.0,score,2020.0
+22,Environment,Electricity production from oil sources,C8_International travel controls,Morocco,MAR,7.173913043478261,percent of total,2015.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Morocco,MAR,24.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Morocco,MAR,-0.1356491,score,2019.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Morocco,MAR,-0.3693984,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Morocco,MAR,37.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Morocco,MAR,0.071492,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Morocco,MAR,100.0,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Morocco,MAR,-0.1192252,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Morocco,MAR,21.20052,Rate (risk-weighted prevalence),2019.0
+33,Health,Prevalence of obesity,C8_International travel controls,Morocco,MAR,26.1,percent,2016.0
+34,Governance,Serious assault (rate),C8_International travel controls,Morocco,MAR,308.99,rate,2018.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Morocco,MAR,1.3887,Ones,2017.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Morocco,MAR,13.0,score,2021.0
+37,Governance,Personal Freedom Score ,C8_International travel controls,Morocco,MAR,5.86,score,2018.0
+38,Governance,Human Development Index,C8_International travel controls,Morocco,MAR,0.686,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Morocco,MAR,0.7308,Ones,2017.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Morocco,MAR,99.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Morocco,MAR,0.051775,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Morocco,MAR,21.3500004,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Morocco,MAR,100.0,percent of total,2017.0
-45,Governance,Personal Freedom Score ,C8_International travel controls,Morocco,MAR,5.86,score,2018.0
-46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Morocco,MAR,11.3,percent,2020.0
-47,Environment,Electric power consumption ,C8_International travel controls,Morocco,MAR,904.4421548482765,kWh per capita,2014.0
-48,Environment,Fossil fuel energy consumption,C8_International travel controls,Morocco,MAR,88.46886,percent of total,2014.0
-49,Governance,Human Freedom Score ,C8_International travel controls,Morocco,MAR,6.28,score,2018.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Morocco,MAR,1.744436,metric tons per capita,2016.0
-51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Morocco,MAR,1.4155228849,"proportion, pero 100,000 people",2018.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Morocco,MAR,0.09644,percent,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Morocco,MAR,-0.6268054,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Morocco,MAR,8.95499992,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Morocco,MAR,-0.2115284,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Morocco,MAR,2054550.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Morocco,MAR,-0.1356491,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Morocco,MAR,-0.3693984,score,2019.0
-63,Governance,Serious assault (rate),C8_International travel controls,Morocco,MAR,308.99,rate,2018.0
-66,Environment,Electricity production from oil sources,C8_International travel controls,Morocco,MAR,7.173913043478261,percent of total,2015.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Morocco,MAR,0.054923,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Morocco,MAR,32.59354,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Morocco,MAR,4.126,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Morocco,MAR,0.686,index,2019.0
-73,Governance,Economic Freedom Score,C8_International travel controls,Morocco,MAR,6.7,score,2018.0
-74,Environment,Combustible renewables and waste,C8_International travel controls,Morocco,MAR,7.151581,percent of total energy,2014.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Morocco,MAR,45.1469994,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Morocco,MAR,1.3887,Ones,2017.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Morocco,MAR,37.0,score,2021.0
-79,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Morocco,MAR,0.1,percent,2019.0
-80,Environment,Access to electricity ,C8_International travel controls,Morocco,MAR,100.0,percent of population,2018.0
-81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Morocco,MAR,555.1378792453177,kg of oil equivalent per capita,2014.0
-82,Economics,Volume of exports,C8_International travel controls,Morocco,MAR,5.545,percent change,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Morocco,MAR,61275.57,kt,2016.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Morocco,MAR,0.23129,percent,2019.0
-91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Morocco,MAR,81.46658014276443,percent of total,2015.0
-99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Morocco,MAR,0.0,percent of total,2014.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Morocco,MAR,2.1,percent,2018.0
+46,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Morocco,MAR,12.9,percent,2020.0
+47,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Morocco,MAR,555.1378792453177,kg of oil equivalent per capita,2014.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Morocco,MAR,0.054923,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Morocco,MAR,61275.57,kt,2016.0
+55,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Morocco,MAR,0.1,percent,2019.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Morocco,MAR,127.953,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Morocco,MAR,45.1469994,Percentage of total population,2020.0
+58,Environment,Electric power consumption ,C8_International travel controls,Morocco,MAR,904.4421548482765,kWh per capita,2014.0
+59,Economics,Volume of exports,C8_International travel controls,Morocco,MAR,5.545,percent change,2020.0
+60,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Morocco,MAR,81.46658014276443,percent of total,2015.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Morocco,MAR,44.0340004,Percentage of total employment,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Morocco,MAR,369.5735186302589,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Morocco,MAR,8.95499992,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Morocco,MAR,0.005806,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Morocco,MAR,-0.2765363,score,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Morocco,MAR,19.6707043219934,percent of GNI,2018.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Morocco,MAR,1.744436,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Morocco,MAR,4.918000221252441,score,2021.0
+76,Environment,"Energy imports, net ",C8_International travel controls,Morocco,MAR,90.72183409217001,percent of energy use,2014.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Morocco,MAR,99.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Morocco,MAR,100.0,percent of population,2018.0
+80,Environment,Combustible renewables and waste,C8_International travel controls,Morocco,MAR,7.151581,percent of total energy,2014.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Morocco,MAR,71.22105197870692,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Morocco,MAR,42.88,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Morocco,MAR,11.3174596346938,percent of total final energy consumption,2015.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Morocco,MAR,20.50632911,proportion,2020.0
+88,Governance,Human Freedom Score ,C8_International travel controls,Morocco,MAR,6.28,score,2018.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Morocco,MAR,0.09644,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Morocco,MAR,-0.2115284,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Morocco,MAR,0.003008,percent,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Morocco,MAR,97.0,Cases,2019.0

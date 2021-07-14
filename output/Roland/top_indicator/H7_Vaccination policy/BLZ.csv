@@ -4,69 +4,69 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 5,Demographics,Secure Internet servers ,H7_Vaccination policy,Belize,BLZ,42179.77061787664,per 1 million people,2019.0
 6,Governance,Serious assault (rate),H7_Vaccination policy,Belize,BLZ,278.09,rate,2017.0
 7,Social issues ,Press freedom score,H7_Vaccination policy,Belize,BLZ,27.5,score,2020.0
-8,Environment,CO2 emissions (kt),H7_Vaccination policy,Belize,BLZ,568.385,kt,2016.0
-9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Belize,BLZ,18500.0,number,2019.0
-11,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Belize,BLZ,67.6699982,Percentage of total employment,2020.0
-12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Belize,BLZ,7.58288,per 100 people,2019.0
-13,Economics,Volume of imports,H7_Vaccination policy,Belize,BLZ,7.819,percent change,2020.0
-14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Belize,BLZ,0.269858,percent,2019.0
-15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Belize,BLZ,0.0698153,score,2019.0
-16,Environment,Renewable energy consumption ,H7_Vaccination policy,Belize,BLZ,35.0236296024311,percent of total final energy consumption,2015.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Belize,BLZ,27.0,Cases,2019.0
-18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Belize,BLZ,3.9,percent,2018.0
-19,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Belize,BLZ,1.1229,Ones,2017.0
-20,Health,Summary exposure value tobacco,H7_Vaccination policy,Belize,BLZ,16.32674,Rate (risk-weighted prevalence),2019.0
-21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Belize,BLZ,0.044091,percent,2019.0
-22,Governance,Rule of law estimate ,H7_Vaccination policy,Belize,BLZ,-0.7755125,score,2019.0
+9,Health,Prevalence of total cancers,H7_Vaccination policy,Belize,BLZ,0.005561,percent,2019.0
+10,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Belize,BLZ,18500.0,number,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Belize,BLZ,3.9,percent,2018.0
+12,Social issues ,Life Ladder ,H7_Vaccination policy,Belize,BLZ,5.955646514892578,score,2014.0
+13,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Belize,BLZ,27.0,Cases,2019.0
+14,Environment,Renewable energy consumption ,H7_Vaccination policy,Belize,BLZ,35.0236296024311,percent of total final energy consumption,2015.0
+15,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Belize,BLZ,0.269858,percent,2019.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Belize,BLZ,67.6699982,Percentage of total employment,2020.0
+17,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Belize,BLZ,23.01189,micrograms per cubic meter,2017.0
+18,Health,Prevalence of Diabetes,H7_Vaccination policy,Belize,BLZ,0.053475,percent,2019.0
+19,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Belize,BLZ,7.58288,per 100 people,2019.0
+20,Environment,CO2 emissions (kt),H7_Vaccination policy,Belize,BLZ,568.385,kt,2016.0
+21,Health,Summary exposure value tobacco,H7_Vaccination policy,Belize,BLZ,16.32674,Rate (risk-weighted prevalence),2019.0
+22,Economics,Volume of exports,H7_Vaccination policy,Belize,BLZ,3.394,percent change,2020.0
+23,Social issues ,Net migration,H7_Vaccination policy,Belize,BLZ,6000.0,net total / data are 5 year estimates,2019.0
 24,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H7_Vaccination policy,Belize,BLZ,6.35699987,percent of total labor force,2020.0
-26,Social issues ,Net migration,H7_Vaccination policy,Belize,BLZ,6000.0,net total / data are 5 year estimates,2019.0
-27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Belize,BLZ,65.1669998,Percentage of total population,2020.0
-28,Health,Prevalence of total cancers,H7_Vaccination policy,Belize,BLZ,0.005561,percent,2019.0
-29,Governance,Total freedom in the world score ,H7_Vaccination policy,Belize,BLZ,87.0,score,2021.0
-30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Belize,BLZ,53.0,score,2021.0
-31,Health,Prevalence of obesity,H7_Vaccination policy,Belize,BLZ,24.1,percent,2016.0
-33,Governance,Personal Freedom Score ,H7_Vaccination policy,Belize,BLZ,7.23,score,2018.0
-34,Health,Mortality due to COVID-19,H7_Vaccination policy,Belize,BLZ,213.0,"Number (cumulative total by Dec 26,2020)",2020.0
-35,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Belize,BLZ,23.01189,micrograms per cubic meter,2017.0
-36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Belize,BLZ,65.3047,per 100 people,2019.0
-37,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Belize,BLZ,9.375,proportion,2020.0
-38,Governance,Fragile States Index Total ,H7_Vaccination policy,Belize,BLZ,60.79466738189765,score,2020.0
-39,Governance,Economic Freedom Score,H7_Vaccination policy,Belize,BLZ,6.6,score,2018.0
-40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Belize,BLZ,13.3,percent,2020.0
-45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Belize,BLZ,0.076029,percent,2019.0
-47,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Belize,BLZ,-3.85242932616162,percent of GNI,2018.0
-48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Belize,BLZ,1.542847,metric tons per capita,2016.0
-49,Economics,Volume of exports,H7_Vaccination policy,Belize,BLZ,3.394,percent change,2020.0
-50,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Belize,BLZ,51.08,percent,2017.0
-51,Health,Prevalence of down syndrome,H7_Vaccination policy,Belize,BLZ,0.000367,percent,2019.0
-52,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Belize,BLZ,8.0,percent,2020.0
-53,Social issues ,Life Ladder ,H7_Vaccination policy,Belize,BLZ,5.955646514892578,score,2014.0
-54,Demographics,Urban population (% of total population),H7_Vaccination policy,Belize,BLZ,45.866,total,2019.0
-55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Belize,BLZ,34.0,score,2021.0
-56,Governance,Control of corruption estimate,H7_Vaccination policy,Belize,BLZ,-0.1960228,score,2019.0
-59,Demographics,People with basic handwashing facilities including soap and water (% of population),H7_Vaccination policy,Belize,BLZ,90.082766643261,proportion,2017.0
-60,Social issues ,"Primary completion rate, total (% of relevant age group)",H7_Vaccination policy,Belize,BLZ,102.84693145752,proportion,2019.0
-64,Demographics,People using at least basic sanitation services (% of population),H7_Vaccination policy,Belize,BLZ,87.8585235497944,proportion,2017.0
-65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Belize,BLZ,0.033159,percent,2019.0
-66,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Belize,BLZ,100.0,percent of total,2017.0
-67,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Belize,BLZ,98.0,percent,2019.0
-68,Demographics,Rural population (% of total population),H7_Vaccination policy,Belize,BLZ,54.134,proportion,2019.0
-69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Belize,BLZ,0.001632,percent,2019.0
-70,Health,Prevalence of Diabetes,H7_Vaccination policy,Belize,BLZ,0.053475,percent,2019.0
-71,Social issues ,Progression to secondary school (%),H7_Vaccination policy,Belize,BLZ,97.35556,proportion,2017.0
-72,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Belize,BLZ,2.3414,Ones,2018.0
-73,Governance,Human Development Index,H7_Vaccination policy,Belize,BLZ,0.716,index,2019.0
-75,Economics,"Central government debt, total",H7_Vaccination policy,Belize,BLZ,78.48129660813086,percent of GDP,2014.0
-76,Demographics,Refugee population by country or territory of asylum,H7_Vaccination policy,Belize,BLZ,29.0,proportion,2019.0
-77,Demographics,"Age dependency ratio, old (% of working-age population)",H7_Vaccination policy,Belize,BLZ,7.439281756923426,proportion,2019.0
-80,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Belize,BLZ,37.788570288,"proportion, pero 100,000 people",2017.0
-81,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Belize,BLZ,50.1679993,Percentage of females of the total population,2020.0
-82,Governance,Voice and accountability estimate,H7_Vaccination policy,Belize,BLZ,0.5317144,score,2019.0
-84,Governance,Government effectiveness estimate,H7_Vaccination policy,Belize,BLZ,-0.6767014,score,2019.0
-87,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Belize,BLZ,96.0,percent,2019.0
-88,Environment,Access to electricity ,H7_Vaccination policy,Belize,BLZ,99.5400161743164,percent of population,2018.0
-90,Governance,Human Freedom Score ,H7_Vaccination policy,Belize,BLZ,6.92,score,2018.0
-95,Health,Hospital beds (per 10 000 population),H7_Vaccination policy,Belize,BLZ,10.4,Ones,2016.0
-97,Governance,Regulatory quality estimate,H7_Vaccination policy,Belize,BLZ,-0.5442569,score,2019.0
-100,Demographics,"Population, total",H7_Vaccination policy,Belize,BLZ,390353.0,total,2019.0
-101,Demographics,Age dependency ratio (% of working-age population),H7_Vaccination policy,Belize,BLZ,52.83926061370159,proportion,2019.0
+26,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Belize,BLZ,0.044091,percent,2019.0
+27,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Belize,BLZ,50.1679993,Percentage of females of the total population,2020.0
+28,Governance,Economic Freedom Score,H7_Vaccination policy,Belize,BLZ,6.6,score,2018.0
+29,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Belize,BLZ,65.3047,per 100 people,2019.0
+30,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Belize,BLZ,9.375,proportion,2020.0
+32,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Belize,BLZ,0.076029,percent,2019.0
+33,Health,Mortality due to COVID-19,H7_Vaccination policy,Belize,BLZ,213.0,"Number (cumulative total by Dec 26,2020)",2020.0
+34,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Belize,BLZ,51.08,percent,2017.0
+35,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Belize,BLZ,-3.85242932616162,percent of GNI,2018.0
+36,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Belize,BLZ,34.0,score,2021.0
+37,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Belize,BLZ,8.0,percent,2020.0
+38,Health,Prevalence of down syndrome,H7_Vaccination policy,Belize,BLZ,0.000367,percent,2019.0
+42,Economics,Volume of imports,H7_Vaccination policy,Belize,BLZ,7.819,percent change,2020.0
+44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Belize,BLZ,100.0,percent of total,2017.0
+45,Health,Prevalence of obesity,H7_Vaccination policy,Belize,BLZ,24.1,percent,2016.0
+46,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Belize,BLZ,0.001632,percent,2019.0
+48,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Belize,BLZ,98.0,percent,2019.0
+49,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Belize,BLZ,0.0698153,score,2019.0
+50,Governance,Personal Freedom Score ,H7_Vaccination policy,Belize,BLZ,7.23,score,2018.0
+51,Governance,Human Freedom Score ,H7_Vaccination policy,Belize,BLZ,6.92,score,2018.0
+53,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Belize,BLZ,65.1669998,Percentage of total population,2020.0
+54,Environment,Access to electricity ,H7_Vaccination policy,Belize,BLZ,99.5400161743164,percent of population,2018.0
+55,Governance,Rule of law estimate ,H7_Vaccination policy,Belize,BLZ,-0.7755125,score,2019.0
+57,Demographics,"Population, total",H7_Vaccination policy,Belize,BLZ,390353.0,total,2019.0
+58,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Belize,BLZ,13.3,percent,2020.0
+59,Governance,Fragile States Index Total ,H7_Vaccination policy,Belize,BLZ,60.79466738189765,score,2020.0
+60,Economics,"Central government debt, total",H7_Vaccination policy,Belize,BLZ,78.48129660813086,percent of GDP,2014.0
+62,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Belize,BLZ,0.033159,percent,2019.0
+63,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Belize,BLZ,96.0,percent,2019.0
+64,Governance,Government effectiveness estimate,H7_Vaccination policy,Belize,BLZ,-0.6767014,score,2019.0
+65,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Belize,BLZ,1.1229,Ones,2017.0
+68,Governance,Voice and accountability estimate,H7_Vaccination policy,Belize,BLZ,0.5317144,score,2019.0
+69,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Belize,BLZ,37.788570288,"proportion, pero 100,000 people",2017.0
+71,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Belize,BLZ,53.0,score,2021.0
+72,Demographics,Refugee population by country or territory of asylum,H7_Vaccination policy,Belize,BLZ,29.0,proportion,2019.0
+73,Demographics,"Age dependency ratio, old (% of working-age population)",H7_Vaccination policy,Belize,BLZ,7.439281756923426,proportion,2019.0
+75,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Belize,BLZ,2.3414,Ones,2018.0
+79,Governance,Regulatory quality estimate,H7_Vaccination policy,Belize,BLZ,-0.5442569,score,2019.0
+80,Demographics,People using at least basic sanitation services (% of population),H7_Vaccination policy,Belize,BLZ,87.8585235497944,proportion,2017.0
+82,Governance,Control of corruption estimate,H7_Vaccination policy,Belize,BLZ,-0.1960228,score,2019.0
+83,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Belize,BLZ,1.542847,metric tons per capita,2016.0
+84,Governance,Total freedom in the world score ,H7_Vaccination policy,Belize,BLZ,87.0,score,2021.0
+86,Demographics,Age dependency ratio (% of working-age population),H7_Vaccination policy,Belize,BLZ,52.83926061370159,proportion,2019.0
+88,Social issues ,"Primary completion rate, total (% of relevant age group)",H7_Vaccination policy,Belize,BLZ,102.84693145752,proportion,2019.0
+92,Demographics,Rural population (% of total population),H7_Vaccination policy,Belize,BLZ,54.134,proportion,2019.0
+95,Social issues ,Progression to secondary school (%),H7_Vaccination policy,Belize,BLZ,97.35556,proportion,2017.0
+96,Governance,Human Development Index,H7_Vaccination policy,Belize,BLZ,0.716,index,2019.0
+97,Health,Hospital beds (per 10 000 population),H7_Vaccination policy,Belize,BLZ,10.4,Ones,2016.0
+98,Demographics,Urban population (% of total population),H7_Vaccination policy,Belize,BLZ,45.866,total,2019.0
+104,Demographics,People with basic handwashing facilities including soap and water (% of population),H7_Vaccination policy,Belize,BLZ,90.082766643261,proportion,2017.0

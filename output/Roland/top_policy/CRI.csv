@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-CRI,H6_Facial Coverings,0.09891920073129153,1
-CRI,H7_Vaccination policy,0.08815039902178731,2
-CRI,C7_Restrictions on internal movement,0.07208594916178884,3
-CRI,C1_School closing,0.0686462994274804,4
-CRI,C8_International travel controls,0.06786857400585147,5
-CRI,C5_Close public transport,0.06601708409438464,6
-CRI,H3_Contact tracing,0.06156354969768525,7
-CRI,C2_Workplace closing,0.060846879433298764,8
-CRI,H2_Testing policy,0.05446460564635983,9
-CRI,E1_Income support,0.042109496786054336,10
-CRI,C4_Restrictions on gatherings,0.03520096029665039,11
-CRI,C6_Stay at home requirements,0.034861607001507866,12
-CRI,E2_Debt/contract relief,0.02423336082213337,13
-CRI,H1_Public information campaigns,0.019356103642835458,14
+CRI,H6_Facial Coverings,0.1170301987792257,1
+CRI,H7_Vaccination policy,0.110866941677918,2
+CRI,C7_Restrictions on internal movement,0.0737295657225091,3
+CRI,C1_School closing,0.0733785122790196,4
+CRI,C8_International travel controls,0.0728723014966741,5
+CRI,C5_Close public transport,0.0720691314207405,6
+CRI,H3_Contact tracing,0.0615756049417039,7
+CRI,C2_Workplace closing,0.0524661341890507,8
+CRI,H2_Testing policy,0.0499199664559131,9
+CRI,E1_Income support,0.034861124062554,10
+CRI,C4_Restrictions on gatherings,0.0246402525818334,11
+CRI,C6_Stay at home requirements,0.0231582353942071,12
+CRI,E2_Debt/contract relief,0.0130598738928115,13
+CRI,H1_Public information campaigns,0.0061000318055176,14
 CRI,C3_Cancel public events,0.0,15

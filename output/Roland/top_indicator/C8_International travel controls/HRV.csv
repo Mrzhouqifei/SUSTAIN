@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Croatia,HRV,79.0798,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Croatia,HRV,47.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Croatia,HRV,190235.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Croatia,HRV,22742.96250768285,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Croatia,HRV,0.000132,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Croatia,HRV,0.002651,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Croatia,HRV,3023.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Croatia,HRV,28.51,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Croatia,HRV,0.042878,percent,2019.0
-11,Environment,"Energy imports, net ",C8_International travel controls,Croatia,HRV,45.85969270444382,percent of energy use,2014.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Croatia,HRV,32.92863,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Croatia,HRV,0.032925,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Croatia,HRV,0.1255409,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Croatia,HRV,27.9585,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Croatia,HRV,14.4461735801751,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Croatia,HRV,8.0,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Croatia,HRV,29.8013245,proportion,2020.0
-19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Croatia,HRV,1119000000.0,kWh,2015.0
-20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Croatia,HRV,29.98,percent,2018.0
-21,Social issues ,Net migration,C8_International travel controls,Croatia,HRV,-40004.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Croatia,HRV,0.4099745,score,2019.0
-24,Health,Prevalence of obesity,C8_International travel controls,Croatia,HRV,24.4,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Croatia,HRV,93.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Croatia,HRV,49.0,score,2021.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Croatia,HRV,66.7750015,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Croatia,HRV,5.881700038909912,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Croatia,HRV,5.7,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Croatia,HRV,33.1274666358571,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Croatia,HRV,2.9996,Ones,2016.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Croatia,HRV,46.094521183346394,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Croatia,HRV,36.0,score,2021.0
-36,Environment,Electricity production from coal sources ,C8_International travel controls,Croatia,HRV,20.5552589428724,percent of total,2015.0
-37,Environment,Energy use ,C8_International travel controls,Croatia,HRV,80.1778813876197,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Croatia,HRV,106.642,per 100 people,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Croatia,HRV,94.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Croatia,HRV,0.111561,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Croatia,HRV,0.177546,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Croatia,HRV,1333660.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Croatia,HRV,190235.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Croatia,HRV,3023.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Croatia,HRV,0.57742179724,"proportion, pero 100,000 people",2018.0
+7,Governance,Economic Freedom Score,C8_International travel controls,Croatia,HRV,7.36,score,2018.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Croatia,HRV,17.90177,micrograms per cubic meter,2017.0
+9,Environment,Fossil fuel energy consumption,C8_International travel controls,Croatia,HRV,70.70366,percent of total,2014.0
+10,Environment,Energy use ,C8_International travel controls,Croatia,HRV,80.1778813876197,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Croatia,HRV,0.000132,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Croatia,HRV,6.2,percent change,2020.0
+13,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Croatia,HRV,1119000000.0,kWh,2015.0
+14,Environment,Electricity production from coal sources ,C8_International travel controls,Croatia,HRV,20.5552589428724,percent of total,2015.0
+15,Social issues ,Net migration,C8_International travel controls,Croatia,HRV,-40004.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Croatia,HRV,0.5347807,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Croatia,HRV,27.9585,per 100 people,2019.0
+18,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Croatia,HRV,29.98,percent,2018.0
+20,Environment,Electricity production from nuclear sources ,C8_International travel controls,Croatia,HRV,0.0,percent of total,2014.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Croatia,HRV,47.0,score,2020.0
+22,Environment,Electricity production from oil sources,C8_International travel controls,Croatia,HRV,1.96654208933974,percent of total,2015.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Croatia,HRV,49.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Croatia,HRV,0.3661346,score,2019.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Croatia,HRV,0.7554738,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Croatia,HRV,85.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Croatia,HRV,0.111561,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Croatia,HRV,99.7796052732656,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Croatia,HRV,0.4099745,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Croatia,HRV,32.92863,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Croatia,HRV,30.4,index ,2017.0
+33,Health,Prevalence of obesity,C8_International travel controls,Croatia,HRV,24.4,percent,2016.0
+34,Governance,Serious assault (rate),C8_International travel controls,Croatia,HRV,17.64,rate,2018.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Croatia,HRV,8.1224,Ones,2016.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Croatia,HRV,36.0,score,2021.0
+37,Governance,Personal Freedom Score ,C8_International travel controls,Croatia,HRV,8.47,score,2018.0
+38,Governance,Human Development Index,C8_International travel controls,Croatia,HRV,0.851,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Croatia,HRV,2.9996,Ones,2016.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Croatia,HRV,94.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Croatia,HRV,0.042878,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Croatia,HRV,45.3310013,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Croatia,HRV,99.7796052732656,percent of total,2017.0
-45,Governance,Personal Freedom Score ,C8_International travel controls,Croatia,HRV,8.47,score,2018.0
-47,Environment,Electric power consumption ,C8_International travel controls,Croatia,HRV,3714.382988442071,kWh per capita,2014.0
-48,Environment,Fossil fuel energy consumption,C8_International travel controls,Croatia,HRV,70.70366,percent of total,2014.0
-49,Governance,Human Freedom Score ,C8_International travel controls,Croatia,HRV,7.92,score,2018.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Croatia,HRV,4.189377,metric tons per capita,2016.0
-51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Croatia,HRV,0.57742179724,"proportion, pero 100,000 people",2018.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Croatia,HRV,0.142291,percent,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Croatia,HRV,0.5347807,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Croatia,HRV,7.11399984,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Croatia,HRV,0.5910058,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Croatia,HRV,1333660.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Croatia,HRV,0.3661346,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Croatia,HRV,0.7554738,score,2019.0
-63,Governance,Serious assault (rate),C8_International travel controls,Croatia,HRV,17.64,rate,2018.0
-64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Croatia,HRV,30.4,index ,2017.0
-66,Environment,Electricity production from oil sources,C8_International travel controls,Croatia,HRV,1.96654208933974,percent of total,2015.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Croatia,HRV,0.041346,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Croatia,HRV,17.90177,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Croatia,HRV,6.2,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Croatia,HRV,0.851,index,2019.0
-73,Governance,Economic Freedom Score,C8_International travel controls,Croatia,HRV,7.36,score,2018.0
-74,Environment,Combustible renewables and waste,C8_International travel controls,Croatia,HRV,13.60565,percent of total energy,2014.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Croatia,HRV,50.9690018,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Croatia,HRV,8.1224,Ones,2016.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Croatia,HRV,85.0,score,2021.0
-79,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Croatia,HRV,0.1,percent,2019.0
-80,Environment,Access to electricity ,C8_International travel controls,Croatia,HRV,100.0,percent of population,2018.0
-81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Croatia,HRV,1897.840665403766,kg of oil equivalent per capita,2014.0
-82,Economics,Volume of exports,C8_International travel controls,Croatia,HRV,5.145,percent change,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Croatia,HRV,17487.92,kt,2016.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Croatia,HRV,0.177546,percent,2019.0
-91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Croatia,HRV,33.17316248442783,percent of total,2015.0
-99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Croatia,HRV,0.0,percent of total,2014.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Croatia,HRV,5.7,percent,2018.0
+47,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Croatia,HRV,1897.840665403766,kg of oil equivalent per capita,2014.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Croatia,HRV,0.041346,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Croatia,HRV,17487.92,kt,2016.0
+55,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Croatia,HRV,0.1,percent,2019.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Croatia,HRV,106.642,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Croatia,HRV,50.9690018,Percentage of total population,2020.0
+58,Environment,Electric power consumption ,C8_International travel controls,Croatia,HRV,3714.382988442071,kWh per capita,2014.0
+59,Economics,Volume of exports,C8_International travel controls,Croatia,HRV,5.145,percent change,2020.0
+60,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Croatia,HRV,33.17316248442783,percent of total,2015.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Croatia,HRV,66.7750015,Percentage of total employment,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Croatia,HRV,22742.96250768285,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Croatia,HRV,7.11399984,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Croatia,HRV,0.032925,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Croatia,HRV,0.1255409,score,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Croatia,HRV,14.4461735801751,percent of GNI,2018.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Croatia,HRV,4.189377,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Croatia,HRV,5.881700038909912,score,2021.0
+76,Environment,"Energy imports, net ",C8_International travel controls,Croatia,HRV,45.85969270444382,percent of energy use,2014.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Croatia,HRV,93.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Croatia,HRV,100.0,percent of population,2018.0
+80,Environment,Combustible renewables and waste,C8_International travel controls,Croatia,HRV,13.60565,percent of total energy,2014.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Croatia,HRV,46.094521183346394,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Croatia,HRV,28.51,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Croatia,HRV,33.1274666358571,percent of total final energy consumption,2015.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Croatia,HRV,29.8013245,proportion,2020.0
+88,Governance,Human Freedom Score ,C8_International travel controls,Croatia,HRV,7.92,score,2018.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Croatia,HRV,0.142291,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Croatia,HRV,0.5910058,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Croatia,HRV,0.002651,percent,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Croatia,HRV,8.0,Cases,2019.0

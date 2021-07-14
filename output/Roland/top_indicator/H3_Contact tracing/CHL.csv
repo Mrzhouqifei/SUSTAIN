@@ -1,92 +1,92 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H3_Contact tracing,Chile,CHL,82.3275,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,H3_Contact tracing,Chile,CHL,67.0,score,2020.0
-3,Health,Prevalence of COVID-19,H3_Contact tracing,Chile,CHL,581135.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,H3_Contact tracing,Chile,CHL,11013.69678553832,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,H3_Contact tracing,Chile,CHL,16051.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Social issues ,"Intentional homicides (per 100,000 people)",H3_Contact tracing,Chile,CHL,4.4048944838,"proportion, pero 100,000 people",2018.0
-8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Chile,CHL,0.201343,percent,2019.0
-9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Chile,CHL,132.185,per 100 people,2019.0
-10,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Chile,CHL,51.9659996,Percentage of females of the total population,2020.0
-11,Governance,Government effectiveness estimate,H3_Contact tracing,Chile,CHL,1.06042,score,2019.0
-12,Environment,Electricity production from nuclear sources ,H3_Contact tracing,Chile,CHL,0.0,percent of total,2015.0
-13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Chile,CHL,55.0,score,2021.0
-14,Health,Summary exposure value tobacco,H3_Contact tracing,Chile,CHL,25.21771,Rate (risk-weighted prevalence),2019.0
-15,Environment,CO2 emissions (kt),H3_Contact tracing,Chile,CHL,85822.47,kt,2016.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Chile,CHL,69.1869965,Percentage of total employment,2020.0
-17,Environment,"Energy imports, net ",H3_Contact tracing,Chile,CHL,65.23645644631547,percent of energy use,2015.0
-18,Social issues ,Life Ladder ,H3_Contact tracing,Chile,CHL,6.171899795532227,score,2021.0
-19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Chile,CHL,18.0947,per 100 people,2019.0
-20,Environment,Electricity production from oil sources,H3_Contact tracing,Chile,CHL,4.186398185363524,percent of total,2015.0
-21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Chile,CHL,13.3248,Ones,2018.0
-22,Social issues ,Press freedom score,H3_Contact tracing,Chile,CHL,27.31,score,2020.0
-24,Governance,Economic Freedom Score,H3_Contact tracing,Chile,CHL,7.96,score,2018.0
-25,Social issues ,Proportion of women in managerial positions (%),H3_Contact tracing,Chile,CHL,27.26,percent,2018.0
-26,Demographics,Age dependency ratio (% of working-age population),H3_Contact tracing,Chile,CHL,45.72121631145525,proportion,2019.0
-27,Environment,"Electricity production from renewable sources, excluding hydroelectric",H3_Contact tracing,Chile,CHL,8991000000.0,kWh,2015.0
+2,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Chile,CHL,2750270.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Chile,CHL,0.201343,percent,2019.0
+4,Health,Prevalence of COVID-19,H3_Contact tracing,Chile,CHL,581135.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Economic Freedom Score,H3_Contact tracing,Chile,CHL,7.96,score,2018.0
+6,Social issues ,Press freedom score,H3_Contact tracing,Chile,CHL,27.31,score,2020.0
+7,Health,Mortality due to COVID-19,H3_Contact tracing,Chile,CHL,16051.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Chile,CHL,9.8,percent,2020.0
+9,Governance,Rule of law estimate ,H3_Contact tracing,Chile,CHL,1.073613,score,2019.0
+10,Health,Prevalence of down syndrome,H3_Contact tracing,Chile,CHL,0.000576,percent,2019.0
+11,Environment,Fossil fuel energy consumption,H3_Contact tracing,Chile,CHL,74.64721,percent of total,2015.0
+12,Governance,Regulatory quality estimate,H3_Contact tracing,Chile,CHL,1.224169,score,2019.0
+13,Health,Prevalence of Diabetes,H3_Contact tracing,Chile,CHL,0.083622,percent,2019.0
+14,Social issues ,Proportion of women in managerial positions (%),H3_Contact tracing,Chile,CHL,27.26,percent,2018.0
+15,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Chile,CHL,18.0947,per 100 people,2019.0
+16,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Chile,CHL,22.58064516,proportion,2020.0
+17,Environment,Combustible renewables and waste,H3_Contact tracing,Chile,CHL,11.30849,percent of total energy,2015.0
+18,Health,Prevalence of total cancers,H3_Contact tracing,Chile,CHL,0.014596,percent,2019.0
+19,Governance,Serious assault (rate),H3_Contact tracing,Chile,CHL,65.21,rate,2018.0
+20,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Chile,CHL,69.1869965,Percentage of total employment,2020.0
+21,Social issues ,Gini index (World Bank estimate),H3_Contact tracing,Chile,CHL,44.4,index ,2017.0
+22,Environment,Electricity production from coal sources ,H3_Contact tracing,Chile,CHL,37.14433523021211,percent of total,2015.0
+23,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Chile,CHL,21.0363,micrograms per cubic meter,2017.0
+24,Health,Prevalence of anxiety disorders,H3_Contact tracing,Chile,CHL,0.061691,percent,2019.0
+25,Environment,Renewable energy consumption ,H3_Contact tracing,Chile,CHL,24.8825542739544,percent of total final energy consumption,2015.0
+26,Governance,Corruption Perceptions Index,H3_Contact tracing,Chile,CHL,67.0,score,2020.0
+27,Social issues ,Life Ladder ,H3_Contact tracing,Chile,CHL,6.171899795532227,score,2021.0
 28,Social issues ,Net migration,H3_Contact tracing,Chile,CHL,558539.0,net total / data are 5 year estimates,2019.0
-29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Chile,CHL,0.2063824,score,2019.0
-30,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Chile,CHL,9.8,percent,2020.0
-31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Chile,CHL,0.061691,percent,2019.0
-32,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Chile,CHL,21.0363,micrograms per cubic meter,2017.0
-33,Health,Prevalence of Diabetes,H3_Contact tracing,Chile,CHL,0.083622,percent,2019.0
-34,Governance,Human Development Index,H3_Contact tracing,Chile,CHL,0.851,index,2019.0
-35,Governance,Fragile States Index Total ,H3_Contact tracing,Chile,CHL,42.51352691171396,score,2020.0
-36,Social issues ,Gini index (World Bank estimate),H3_Contact tracing,Chile,CHL,44.4,index ,2017.0
-37,Environment,Renewable energy consumption ,H3_Contact tracing,Chile,CHL,24.8825542739544,percent of total final energy consumption,2015.0
-38,Environment,Energy use ,H3_Contact tracing,Chile,CHL,84.85993014999052,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-39,Governance,Control of corruption estimate,H3_Contact tracing,Chile,CHL,1.088457,score,2019.0
-40,Social issues ,Progression to secondary school (%),H3_Contact tracing,Chile,CHL,97.90418,proportion,2016.0
-41,Environment,Fossil fuel energy consumption,H3_Contact tracing,Chile,CHL,74.64721,percent of total,2015.0
-42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Chile,CHL,95.0,percent,2019.0
-43,Demographics,Rural population (% of total population),H3_Contact tracing,Chile,CHL,12.357,proportion,2019.0
-44,Economics,Volume of imports,H3_Contact tracing,Chile,CHL,2.414,percent change,2020.0
-45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Chile,CHL,4.713172,metric tons per capita,2016.0
-46,Governance,Voice and accountability estimate,H3_Contact tracing,Chile,CHL,1.019602,score,2019.0
-47,Environment,"Adjusted net savings, including particulate emission damage",H3_Contact tracing,Chile,CHL,0.526902592218389,percent of GNI,2018.0
-48,Health,Prevalence of total cancers,H3_Contact tracing,Chile,CHL,0.014596,percent,2019.0
+29,Environment,"Electricity production from renewable sources, excluding hydroelectric",H3_Contact tracing,Chile,CHL,8991000000.0,kWh,2015.0
+30,Governance,Total freedom in the world score ,H3_Contact tracing,Chile,CHL,93.0,score,2021.0
+31,Demographics,Secure Internet servers ,H3_Contact tracing,Chile,CHL,11013.69678553832,per 1 million people,2019.0
+32,Governance,Fragile States Index Total ,H3_Contact tracing,Chile,CHL,42.51352691171396,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Chile,CHL,13.3248,Ones,2018.0
+34,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Chile,CHL,18.0,Cases,2019.0
+35,Governance,Human Development Index,H3_Contact tracing,Chile,CHL,0.851,index,2019.0
+36,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Chile,CHL,1.6,percent,2020.0
+37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Chile,CHL,51.9659996,Percentage of females of the total population,2020.0
+40,Health,Prevalence of obesity,H3_Contact tracing,Chile,CHL,28.0,percent,2016.0
+41,Environment,CO2 emissions (kt),H3_Contact tracing,Chile,CHL,85822.47,kt,2016.0
+42,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Chile,CHL,55.0,score,2021.0
+43,Demographics,Age dependency ratio (% of working-age population),H3_Contact tracing,Chile,CHL,45.72121631145525,proportion,2019.0
+44,Environment,"Adjusted net savings, including particulate emission damage",H3_Contact tracing,Chile,CHL,0.526902592218389,percent of GNI,2018.0
+45,Environment,"Electricity production from oil, gas and coal sources",H3_Contact tracing,Chile,CHL,56.39566503508563,percent of total,2015.0
+48,Demographics,"Population, total",H3_Contact tracing,Chile,CHL,18952038.0,total,2019.0
 49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Chile,CHL,2.5912,Ones,2018.0
-50,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,Chile,CHL,96.4022827148438,proportion,2017.0
-51,Environment,Access to electricity ,H3_Contact tracing,Chile,CHL,100.0,percent of population,2018.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Chile,CHL,7.09600019,percent of total labor force,2020.0
-53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Chile,CHL,97.6630177077565,percent of total,2017.0
-54,Health,Prevalence of obesity,H3_Contact tracing,Chile,CHL,28.0,percent,2016.0
-55,Environment,Combustible renewables and waste,H3_Contact tracing,Chile,CHL,11.30849,percent of total energy,2015.0
-56,Environment,Electricity production from coal sources ,H3_Contact tracing,Chile,CHL,37.14433523021211,percent of total,2015.0
-57,Governance,Human Freedom Score ,H3_Contact tracing,Chile,CHL,8.18,score,2018.0
-58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Chile,CHL,0.101495,percent,2019.0
-59,Governance,Rule of law estimate ,H3_Contact tracing,Chile,CHL,1.073613,score,2019.0
-60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Chile,CHL,38.0,score,2021.0
-61,Governance,Serious assault (rate),H3_Contact tracing,Chile,CHL,65.21,rate,2018.0
-62,Health,"Prevalence of HIV, total (% of population ages 15-49)",H3_Contact tracing,Chile,CHL,0.5,percent,2019.0
-63,Demographics,"Population, total",H3_Contact tracing,Chile,CHL,18952038.0,total,2019.0
-64,Environment,Energy use (kg of oil equivalent per capita),H3_Contact tracing,Chile,CHL,2005.551062411652,kg of oil equivalent per capita,2015.0
-66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Chile,CHL,0.042849,percent,2019.0
-67,Social issues ,Proportion of people living below 50 percent of median income (%),H3_Contact tracing,Chile,CHL,13.6,proportion,2017.0
-68,Governance,Total freedom in the world score ,H3_Contact tracing,Chile,CHL,93.0,score,2021.0
-69,Governance,Personal Freedom Score ,H3_Contact tracing,Chile,CHL,8.4,score,2018.0
-70,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Chile,CHL,62.7799988,Percentage of total population,2020.0
-71,Environment,Electric power consumption ,H3_Contact tracing,Chile,CHL,3879.675604859497,kWh per capita,2014.0
-72,Environment,"Electricity production from oil, gas and coal sources",H3_Contact tracing,Chile,CHL,56.39566503508563,percent of total,2015.0
-73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Chile,CHL,18.0,Cases,2019.0
-74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Chile,CHL,2750270.0,number,2019.0
-75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Chile,CHL,96.0,percent,2019.0
-76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Chile,CHL,4.6,percent,2018.0
-77,Health,Prevalence of down syndrome,H3_Contact tracing,Chile,CHL,0.000576,percent,2019.0
-78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Chile,CHL,0.003437,percent,2019.0
-79,Economics,Volume of exports,H3_Contact tracing,Chile,CHL,3.277,percent change,2020.0
-80,Social issues ,Coverage of unemployment benefits and ALMP (% of population),H3_Contact tracing,Chile,CHL,22.32237852,proportion,2017.0
-82,Governance,Regulatory quality estimate,H3_Contact tracing,Chile,CHL,1.224169,score,2019.0
-83,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Chile,CHL,1.6,percent,2020.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Chile,CHL,22.58064516,proportion,2020.0
-86,Demographics,Urban population (% of total population),H3_Contact tracing,Chile,CHL,87.643,total,2019.0
-88,Demographics,Refugee population by country or territory of asylum,H3_Contact tracing,Chile,CHL,2046.0,proportion,2019.0
-89,Social issues ,Coverage of social safety net programs (% of population),H3_Contact tracing,Chile,CHL,82.60616856,proportion,2017.0
-90,Social issues ,"Primary completion rate, total (% of relevant age group)",H3_Contact tracing,Chile,CHL,96.2421035766602,proportion,2018.0
-98,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H3_Contact tracing,Chile,CHL,14.6437301635742,proportion,2017.0
-99,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H3_Contact tracing,Chile,CHL,14.6021337509155,proportion,2016.0
-102,Health,Hospital beds (per 10 000 population),H3_Contact tracing,Chile,CHL,20.6,Ones,2018.0
-106,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,Chile,CHL,100.000001352226,proportion,2017.0
-107,Demographics,People using safely managed drinking water services (% of population),H3_Contact tracing,Chile,CHL,98.6391697263652,proportion,2017.0
-112,Demographics,"Age dependency ratio, old (% of working-age population)",H3_Contact tracing,Chile,CHL,17.3139247907184,proportion,2019.0
-116,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H3_Contact tracing,Chile,CHL,0.0,proportion,2016.0
+50,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Chile,CHL,132.185,per 100 people,2019.0
+51,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Chile,CHL,0.003437,percent,2019.0
+52,Governance,Human Freedom Score ,H3_Contact tracing,Chile,CHL,8.18,score,2018.0
+53,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Chile,CHL,0.101495,percent,2019.0
+54,Governance,Voice and accountability estimate,H3_Contact tracing,Chile,CHL,1.019602,score,2019.0
+55,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Chile,CHL,38.0,score,2021.0
+56,Environment,Electric power consumption ,H3_Contact tracing,Chile,CHL,3879.675604859497,kWh per capita,2014.0
+57,Health,Prevalence of Depressive disorders,H3_Contact tracing,Chile,CHL,0.042849,percent,2019.0
+58,Health,Summary exposure value tobacco,H3_Contact tracing,Chile,CHL,25.21771,Rate (risk-weighted prevalence),2019.0
+59,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H3_Contact tracing,Chile,CHL,14.6437301635742,proportion,2017.0
+60,Demographics,Urban population (% of total population),H3_Contact tracing,Chile,CHL,87.643,total,2019.0
+61,Environment,Electricity production from nuclear sources ,H3_Contact tracing,Chile,CHL,0.0,percent of total,2015.0
+62,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Chile,CHL,97.6630177077565,percent of total,2017.0
+63,Environment,Electricity production from oil sources,H3_Contact tracing,Chile,CHL,4.186398185363524,percent of total,2015.0
+64,Environment,Energy use ,H3_Contact tracing,Chile,CHL,84.85993014999052,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Chile,CHL,96.0,percent,2019.0
+66,Environment,"Energy imports, net ",H3_Contact tracing,Chile,CHL,65.23645644631547,percent of energy use,2015.0
+67,Social issues ,"Primary completion rate, total (% of relevant age group)",H3_Contact tracing,Chile,CHL,96.2421035766602,proportion,2018.0
+68,Governance,Personal Freedom Score ,H3_Contact tracing,Chile,CHL,8.4,score,2018.0
+70,Social issues ,Proportion of people living below 50 percent of median income (%),H3_Contact tracing,Chile,CHL,13.6,proportion,2017.0
+71,Environment,Access to electricity ,H3_Contact tracing,Chile,CHL,100.0,percent of population,2018.0
+73,Governance,Control of corruption estimate,H3_Contact tracing,Chile,CHL,1.088457,score,2019.0
+74,Health,"Prevalence of HIV, total (% of population ages 15-49)",H3_Contact tracing,Chile,CHL,0.5,percent,2019.0
+75,Economics,Volume of imports,H3_Contact tracing,Chile,CHL,2.414,percent change,2020.0
+76,Social issues ,"Intentional homicides (per 100,000 people)",H3_Contact tracing,Chile,CHL,4.4048944838,"proportion, pero 100,000 people",2018.0
+77,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,Chile,CHL,100.000001352226,proportion,2017.0
+78,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Chile,CHL,4.6,percent,2018.0
+79,Environment,Energy use (kg of oil equivalent per capita),H3_Contact tracing,Chile,CHL,2005.551062411652,kg of oil equivalent per capita,2015.0
+80,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Chile,CHL,7.09600019,percent of total labor force,2020.0
+81,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Chile,CHL,0.2063824,score,2019.0
+83,Demographics,Rural population (% of total population),H3_Contact tracing,Chile,CHL,12.357,proportion,2019.0
+84,Governance,Government effectiveness estimate,H3_Contact tracing,Chile,CHL,1.06042,score,2019.0
+85,Economics,Volume of exports,H3_Contact tracing,Chile,CHL,3.277,percent change,2020.0
+86,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H3_Contact tracing,Chile,CHL,14.6021337509155,proportion,2016.0
+87,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Chile,CHL,4.713172,metric tons per capita,2016.0
+88,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,Chile,CHL,96.4022827148438,proportion,2017.0
+92,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Chile,CHL,95.0,percent,2019.0
+93,Demographics,"Age dependency ratio, old (% of working-age population)",H3_Contact tracing,Chile,CHL,17.3139247907184,proportion,2019.0
+96,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Chile,CHL,62.7799988,Percentage of total population,2020.0
+99,Social issues ,Coverage of social safety net programs (% of population),H3_Contact tracing,Chile,CHL,82.60616856,proportion,2017.0
+105,Demographics,People using safely managed drinking water services (% of population),H3_Contact tracing,Chile,CHL,98.6391697263652,proportion,2017.0
+112,Social issues ,Progression to secondary school (%),H3_Contact tracing,Chile,CHL,97.90418,proportion,2016.0
+113,Health,Hospital beds (per 10 000 population),H3_Contact tracing,Chile,CHL,20.6,Ones,2018.0
+114,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H3_Contact tracing,Chile,CHL,0.0,proportion,2016.0
+115,Social issues ,Coverage of unemployment benefits and ALMP (% of population),H3_Contact tracing,Chile,CHL,22.32237852,proportion,2017.0
+116,Demographics,Refugee population by country or territory of asylum,H3_Contact tracing,Chile,CHL,2046.0,proportion,2019.0

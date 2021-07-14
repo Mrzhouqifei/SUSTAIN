@@ -1,83 +1,83 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C6_Stay at home requirements,Armenia,ARM,64.7449,percent of population,2019.0
-2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Armenia,ARM,153173.0,"Number (cumulative total by Dec 26,2020)",2020.0
-3,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Armenia,ARM,49.0,score,2020.0
-4,Demographics,Secure Internet servers ,C6_Stay at home requirements,Armenia,ARM,478.7453625769213,per 1 million people,2019.0
-6,Governance,Serious assault (rate),C6_Stay at home requirements,Armenia,ARM,6.06,rate,2018.0
-7,Social issues ,Press freedom score,C6_Stay at home requirements,Armenia,ARM,28.6,score,2020.0
-8,Economics,Volume of exports,C6_Stay at home requirements,Armenia,ARM,4.622,percent change,2020.0
-9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Armenia,ARM,122.349,per 100 people,2019.0
-10,Health,Summary exposure value tobacco,C6_Stay at home requirements,Armenia,ARM,35.02888,Rate (risk-weighted prevalence),2019.0
-11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Armenia,ARM,13.0405,per 100 people,2019.0
-12,Health,Prevalence of down syndrome,C6_Stay at home requirements,Armenia,ARM,0.00015,percent,2019.0
-13,Social issues ,Net migration,C6_Stay at home requirements,Armenia,ARM,-24989.0,net total / data are 5 year estimates,2019.0
-14,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Armenia,ARM,95.0,percent,2019.0
-15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Armenia,ARM,451571.0,number,2019.0
-16,Social issues ,Life Ladder ,C6_Stay at home requirements,Armenia,ARM,5.282599925994873,score,2021.0
-17,Health,Prevalence of total cancers,C6_Stay at home requirements,Armenia,ARM,0.013212,percent,2019.0
-18,Health,Prevalence of obesity,C6_Stay at home requirements,Armenia,ARM,20.2,percent,2016.0
-19,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Armenia,ARM,4.4023,Ones,2017.0
-20,Governance,Control of corruption estimate,C6_Stay at home requirements,Armenia,ARM,-0.1841683,score,2019.0
-21,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Armenia,ARM,23.48484848,proportion,2020.0
-22,Health,Prevalence of Diabetes,C6_Stay at home requirements,Armenia,ARM,0.078642,percent,2019.0
-23,Governance,Government effectiveness estimate,C6_Stay at home requirements,Armenia,ARM,-0.0668174,score,2019.0
-24,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Armenia,ARM,1.2,percent,2018.0
-25,Governance,Human Freedom Score ,C6_Stay at home requirements,Armenia,ARM,7.69,score,2018.0
-26,Governance,Human Development Index,C6_Stay at home requirements,Armenia,ARM,0.776,index,2019.0
-27,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Armenia,ARM,0.0,percent of total,2015.0
-28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Armenia,ARM,33.0,score,2021.0
-29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Armenia,ARM,1.755976,metric tons per capita,2016.0
-30,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Armenia,ARM,32.52812,micrograms per cubic meter,2017.0
-31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Armenia,ARM,0.035694,percent,2019.0
-32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Armenia,ARM,2616.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Armenia,ARM,46.9910011,Percentage of females of the total population,2020.0
-34,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Armenia,ARM,16.625,percent of total labor force,2020.0
-35,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Armenia,ARM,28.71,percent,2017.0
-36,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Armenia,ARM,6.107,Ones,2017.0
-38,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Armenia,ARM,26.0,Cases,2019.0
-39,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Armenia,ARM,-4.18397124218414,percent of GNI,2018.0
-40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Armenia,ARM,9.1,percent,2020.0
-41,Environment,Renewable energy consumption ,C6_Stay at home requirements,Armenia,ARM,15.7920038357833,percent of total final energy consumption,2015.0
-42,Governance,Voice and accountability estimate,C6_Stay at home requirements,Armenia,ARM,0.0500427,score,2019.0
+2,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Armenia,ARM,451571.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Armenia,ARM,0.238689,percent,2019.0
+4,Health,Prevalence of COVID-19,C6_Stay at home requirements,Armenia,ARM,153173.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Armenia,ARM,0.035694,percent,2019.0
+6,Environment,Electric power consumption ,C6_Stay at home requirements,Armenia,ARM,1961.610395264666,kWh per capita,2014.0
+7,Environment,Electricity production from oil sources,C6_Stay at home requirements,Armenia,ARM,0.0,percent of total,2015.0
+8,Environment,Energy use ,C6_Stay at home requirements,Armenia,ARM,92.18917861938355,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+9,Governance,Fragile States Index Total ,C6_Stay at home requirements,Armenia,ARM,64.2,score,2020.0
+10,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Armenia,ARM,6.107,Ones,2017.0
+11,Governance,Regulatory quality estimate,C6_Stay at home requirements,Armenia,ARM,0.2495153,score,2019.0
+12,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Armenia,ARM,0.036686,percent,2019.0
+13,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Armenia,ARM,74.56187,percent of total,2014.0
+14,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Armenia,ARM,122.349,per 100 people,2019.0
+15,Governance,Economic Freedom Score,C6_Stay at home requirements,Armenia,ARM,7.92,score,2018.0
+16,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Armenia,ARM,10.8,percent,2020.0
+17,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Armenia,ARM,0.121943,percent,2019.0
+18,Environment,Combustible renewables and waste,C6_Stay at home requirements,Armenia,ARM,1.145285,percent of total energy,2014.0
+19,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Armenia,ARM,13.0405,per 100 people,2019.0
+20,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Armenia,ARM,1.693915557,"proportion, pero 100,000 people",2018.0
+21,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Armenia,ARM,1015.909886097494,kg of oil equivalent per capita,2014.0
+22,Economics,Volume of exports,C6_Stay at home requirements,Armenia,ARM,4.622,percent change,2020.0
+23,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Armenia,ARM,49.0,score,2020.0
+24,Environment,"Energy imports, net ",C6_Stay at home requirements,Armenia,ARM,71.3413045219602,percent of energy use,2014.0
+25,Environment,CO2 emissions (kt),C6_Stay at home requirements,Armenia,ARM,5155.802,kt,2016.0
+26,Social issues ,Net migration,C6_Stay at home requirements,Armenia,ARM,-24989.0,net total / data are 5 year estimates,2019.0
+27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Armenia,ARM,55.5320015,Percentage of total population,2020.0
+29,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Armenia,ARM,33.0,score,2021.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Armenia,ARM,-0.5064107,score,2019.0
+31,Health,Prevalence of down syndrome,C6_Stay at home requirements,Armenia,ARM,0.00015,percent,2019.0
+32,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Armenia,ARM,0.0,percent of total,2015.0
+33,Governance,Personal Freedom Score ,C6_Stay at home requirements,Armenia,ARM,7.45,score,2018.0
+34,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Armenia,ARM,95.0,percent,2019.0
+35,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Armenia,ARM,23.48484848,proportion,2020.0
+36,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Armenia,ARM,46.9910011,Percentage of females of the total population,2020.0
+37,Economics,Volume of imports,C6_Stay at home requirements,Armenia,ARM,2.386,percent change,2020.0
+38,Health,Mortality due to COVID-19,C6_Stay at home requirements,Armenia,ARM,2616.0,"Number (cumulative total by Dec 26,2020)",2020.0
+39,Health,Summary exposure value tobacco,C6_Stay at home requirements,Armenia,ARM,35.02888,Rate (risk-weighted prevalence),2019.0
+40,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Armenia,ARM,-4.18397124218414,percent of GNI,2018.0
+41,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Armenia,ARM,4.4023,Ones,2017.0
+42,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Armenia,ARM,22.0,score,2021.0
 43,Health,"Prevalence of HIV, total (% of population ages 15-49)",C6_Stay at home requirements,Armenia,ARM,0.2,percent,2019.0
-45,Governance,Regulatory quality estimate,C6_Stay at home requirements,Armenia,ARM,0.2495153,score,2019.0
-46,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Armenia,ARM,34.4,index ,2018.0
-47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Armenia,ARM,-0.5064107,score,2019.0
-48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Armenia,ARM,0.121943,percent,2019.0
-49,Governance,Rule of law estimate ,C6_Stay at home requirements,Armenia,ARM,-0.1312758,score,2019.0
-50,Economics,Expenditure on social protection (% of GDP),C6_Stay at home requirements,Armenia,ARM,6.95527,percent,2019.0
-51,Environment,"Energy imports, net ",C6_Stay at home requirements,Armenia,ARM,71.3413045219602,percent of energy use,2014.0
-52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Armenia,ARM,0.001701,percent,2019.0
-53,Environment,Electricity production from oil sources,C6_Stay at home requirements,Armenia,ARM,0.0,percent of total,2015.0
-55,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Armenia,ARM,74.56187,percent of total,2014.0
+44,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Armenia,ARM,1.755976,metric tons per capita,2016.0
+47,Governance,Voice and accountability estimate,C6_Stay at home requirements,Armenia,ARM,0.0500427,score,2019.0
+48,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Armenia,ARM,0.001701,percent,2019.0
+50,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Armenia,ARM,1.2,percent,2018.0
+51,Health,Prevalence of Diabetes,C6_Stay at home requirements,Armenia,ARM,0.078642,percent,2019.0
+52,Health,Prevalence of obesity,C6_Stay at home requirements,Armenia,ARM,20.2,percent,2016.0
+54,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Armenia,ARM,53.5880013,Percentage of total employment,2020.0
+55,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Armenia,ARM,35.91486087959995,percent of total,2015.0
 56,Governance,Total freedom in the world score ,C6_Stay at home requirements,Armenia,ARM,55.0,score,2021.0
-57,Economics,Volume of imports,C6_Stay at home requirements,Armenia,ARM,2.386,percent change,2020.0
-58,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Armenia,ARM,100.0,percent of total,2017.0
-59,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Armenia,ARM,35.91486087959995,percent of total,2015.0
-60,Environment,CO2 emissions (kt),C6_Stay at home requirements,Armenia,ARM,5155.802,kt,2016.0
-61,Environment,Access to electricity ,C6_Stay at home requirements,Armenia,ARM,100.0,percent of population,2018.0
-63,Governance,Economic Freedom Score,C6_Stay at home requirements,Armenia,ARM,7.92,score,2018.0
-64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Armenia,ARM,0.036686,percent,2019.0
-66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Armenia,ARM,22.0,score,2021.0
-68,Environment,Energy use ,C6_Stay at home requirements,Armenia,ARM,92.18917861938355,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-70,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Armenia,ARM,4000000.0,kWh,2015.0
-71,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Armenia,ARM,53.5880013,Percentage of total employment,2020.0
-73,Environment,Combustible renewables and waste,C6_Stay at home requirements,Armenia,ARM,1.145285,percent of total energy,2014.0
-74,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Armenia,ARM,55.5320015,Percentage of total population,2020.0
-75,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Armenia,ARM,31.80645161290322,percent of total,2014.0
-77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Armenia,ARM,0.238689,percent,2019.0
-79,Economics,"International tourism, receipts",C6_Stay at home requirements,Armenia,ARM,1528000000.0,US Dollar,2019.0
-81,Economics,"Trade, total as % of GDP",C6_Stay at home requirements,Armenia,ARM,59.63738,percent,2019.0
-82,Governance,Fragile States Index Total ,C6_Stay at home requirements,Armenia,ARM,64.2,score,2020.0
-83,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Armenia,ARM,10.8,percent,2020.0
-85,Governance,Personal Freedom Score ,C6_Stay at home requirements,Armenia,ARM,7.45,score,2018.0
-86,Economics,"Foreign direct investment, net",C6_Stay at home requirements,Armenia,ARM,254483080.0,US Dollar,2019.0
-87,Environment,Electric power consumption ,C6_Stay at home requirements,Armenia,ARM,1961.610395264666,kWh per capita,2014.0
-89,Economics,Expenditure on health (% of GDP),C6_Stay at home requirements,Armenia,ARM,1.52049,percent,2019.0
-90,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Armenia,ARM,1015.909886097494,kg of oil equivalent per capita,2014.0
-92,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Armenia,ARM,92.0,percent,2019.0
-97,Economics,Growth rates of household expenditure or income per capita (%),C6_Stay at home requirements,Armenia,ARM,2.0,percent,2018.0
-98,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C6_Stay at home requirements,Armenia,ARM,27712.3,international $ in PPP,2020.0
-103,Economics,"Lending interest rates, percent per annum",C6_Stay at home requirements,Armenia,ARM,12.14199,percent per annum,2019.0
-105,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Armenia,ARM,1.693915557,"proportion, pero 100,000 people",2018.0
-114,Economics,Expenditure on education (% of GDP),C6_Stay at home requirements,Armenia,ARM,2.42498,percent,2019.0
+57,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Armenia,ARM,9.1,percent,2020.0
+58,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Armenia,ARM,32.52812,micrograms per cubic meter,2017.0
+59,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Armenia,ARM,31.80645161290322,percent of total,2014.0
+60,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C6_Stay at home requirements,Armenia,ARM,27712.3,international $ in PPP,2020.0
+61,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Armenia,ARM,92.0,percent,2019.0
+62,Governance,Human Freedom Score ,C6_Stay at home requirements,Armenia,ARM,7.69,score,2018.0
+63,Social issues ,Life Ladder ,C6_Stay at home requirements,Armenia,ARM,5.282599925994873,score,2021.0
+65,Economics,"Trade, total as % of GDP",C6_Stay at home requirements,Armenia,ARM,59.63738,percent,2019.0
+66,Health,Prevalence of total cancers,C6_Stay at home requirements,Armenia,ARM,0.013212,percent,2019.0
+68,Social issues ,Press freedom score,C6_Stay at home requirements,Armenia,ARM,28.6,score,2020.0
+69,Governance,Human Development Index,C6_Stay at home requirements,Armenia,ARM,0.776,index,2019.0
+70,Governance,Control of corruption estimate,C6_Stay at home requirements,Armenia,ARM,-0.1841683,score,2019.0
+71,Economics,Expenditure on health (% of GDP),C6_Stay at home requirements,Armenia,ARM,1.52049,percent,2019.0
+72,Governance,Government effectiveness estimate,C6_Stay at home requirements,Armenia,ARM,-0.0668174,score,2019.0
+73,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Armenia,ARM,34.4,index ,2018.0
+74,Demographics,Secure Internet servers ,C6_Stay at home requirements,Armenia,ARM,478.7453625769213,per 1 million people,2019.0
+76,Governance,Rule of law estimate ,C6_Stay at home requirements,Armenia,ARM,-0.1312758,score,2019.0
+77,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Armenia,ARM,16.625,percent of total labor force,2020.0
+78,Economics,"Lending interest rates, percent per annum",C6_Stay at home requirements,Armenia,ARM,12.14199,percent per annum,2019.0
+80,Environment,Renewable energy consumption ,C6_Stay at home requirements,Armenia,ARM,15.7920038357833,percent of total final energy consumption,2015.0
+82,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Armenia,ARM,100.0,percent of total,2017.0
+83,Governance,Serious assault (rate),C6_Stay at home requirements,Armenia,ARM,6.06,rate,2018.0
+86,Economics,"International tourism, receipts",C6_Stay at home requirements,Armenia,ARM,1528000000.0,US Dollar,2019.0
+87,Economics,"Foreign direct investment, net",C6_Stay at home requirements,Armenia,ARM,254483080.0,US Dollar,2019.0
+90,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Armenia,ARM,4000000.0,kWh,2015.0
+97,Economics,Expenditure on social protection (% of GDP),C6_Stay at home requirements,Armenia,ARM,6.95527,percent,2019.0
+98,Economics,Expenditure on education (% of GDP),C6_Stay at home requirements,Armenia,ARM,2.42498,percent,2019.0
+106,Economics,Growth rates of household expenditure or income per capita (%),C6_Stay at home requirements,Armenia,ARM,2.0,percent,2018.0
+107,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Armenia,ARM,26.0,Cases,2019.0
+109,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Armenia,ARM,28.71,percent,2017.0
+117,Environment,Access to electricity ,C6_Stay at home requirements,Armenia,ARM,100.0,percent of population,2018.0

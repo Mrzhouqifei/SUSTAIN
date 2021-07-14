@@ -1,96 +1,96 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,South Korea,KOR,96.1576,percent of population,2019.0
-2,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,South Korea,KOR,100.0,proportion,2017.0
-3,Economics,Volume of exports,C3_Cancel public events,South Korea,KOR,2.555,percent change,2020.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,South Korea,KOR,1.069813,score,2019.0
-5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,South Korea,KOR,33.0,score,2021.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,South Korea,KOR,48570.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,South Korea,KOR,620302.4,kt,2016.0
-9,Health,"Physicians (per 1,000 people)",C3_Cancel public events,South Korea,KOR,2.3608,Ones,2017.0
-10,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,South Korea,KOR,8.8,percent,2020.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,South Korea,KOR,0.000458,percent,2019.0
-12,Environment,Electric power consumption ,C3_Cancel public events,South Korea,KOR,10496.5136719641,kWh per capita,2014.0
-13,Social issues ,Net migration,C3_Cancel public events,South Korea,KOR,58657.0,net total / data are 5 year estimates,2019.0
-14,Economics,Volume of imports,C3_Cancel public events,South Korea,KOR,3.178,percent change,2020.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,South Korea,KOR,42.7644,per 100 people,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,South Korea,KOR,0.036473,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,South Korea,KOR,0.001841,percent,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,South Korea,KOR,59.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,South Korea,KOR,134.489,per 100 people,2019.0
-20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,South Korea,KOR,98.0,percent,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,South Korea,KOR,7.3009,Ones,2018.0
-22,Governance,Serious assault (rate),C3_Cancel public events,South Korea,KOR,103.31,rate,2018.0
-23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,South Korea,KOR,4.4,percent,2018.0
-24,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,South Korea,KOR,67.72439760681395,percent of total,2015.0
-25,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,South Korea,KOR,70.2249985,Percentage of total employment,2020.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,South Korea,KOR,4543.842555520887,per 1 million people,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,South Korea,KOR,0.60384939332,"proportion, pero 100,000 people",2018.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,South Korea,KOR,1.376418,score,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,South Korea,KOR,23.53409,Rate (risk-weighted prevalence),2019.0
-31,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,South Korea,KOR,14.46,percent,2018.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,South Korea,KOR,0.228997,percent,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,South Korea,KOR,0.4780881,score,2019.0
-35,Environment,Electricity production from coal sources ,C3_Cancel public events,South Korea,KOR,43.07625640446738,percent of total,2015.0
-36,Environment,Combustible renewables and waste,C3_Cancel public events,South Korea,KOR,0.817775,percent of total energy,2015.0
-37,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,South Korea,KOR,62.9249992,Percentage of total population,2020.0
-39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,South Korea,KOR,19.0,proportion,2020.0
-40,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,South Korea,KOR,19.1661548278841,percent of GNI,2018.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,South Korea,KOR,0.108339,percent,2019.0
-42,Governance,Human Freedom Score ,C3_Cancel public events,South Korea,KOR,8.27,score,2018.0
-43,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,South Korea,KOR,2.2,percent,2020.0
-44,Demographics,Rural population (% of total population),C3_Cancel public events,South Korea,KOR,18.56999999999999,proportion,2019.0
-45,Social issues ,Life Ladder ,C3_Cancel public events,South Korea,KOR,5.8454999923706055,score,2021.0
-46,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,South Korea,KOR,8260000000.0,kWh,2015.0
-47,Environment,"Energy imports, net ",C3_Cancel public events,South Korea,KOR,81.44832917317333,percent of energy use,2015.0
-48,Environment,Energy use ,C3_Cancel public events,South Korea,KOR,139.2675834321938,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-49,Governance,Corruption Perceptions Index,C3_Cancel public events,South Korea,KOR,61.0,score,2020.0
-50,Economics,Unemployment rate (%) - Annual,C3_Cancel public events,South Korea,KOR,3.8,percent,2019.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,South Korea,KOR,12.11107,metric tons per capita,2016.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,South Korea,KOR,4.59700012,percent of total labor force,2020.0
-53,Governance,Human Development Index,C3_Cancel public events,South Korea,KOR,0.916,index,2019.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,South Korea,KOR,0.7567343,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,South Korea,KOR,100.0,percent of population,2018.0
-57,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,South Korea,KOR,5413.347856658559,kg of oil equivalent per capita,2015.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C3_Cancel public events,South Korea,KOR,28.6821708679199,proportion,2015.0
-59,Governance,Personal Freedom Score ,C3_Cancel public events,South Korea,KOR,8.85,score,2018.0
-60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,South Korea,KOR,25.03943,micrograms per cubic meter,2017.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,South Korea,KOR,0.026399,percent,2019.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,South Korea,KOR,24727400.0,number,2019.0
-63,Governance,Fragile States Index Total ,C3_Cancel public events,South Korea,KOR,32.01527342958986,score,2020.0
-64,Health,Prevalence of obesity,C3_Cancel public events,South Korea,KOR,4.7,percent,2016.0
-65,Environment,Fossil fuel energy consumption,C3_Cancel public events,South Korea,KOR,81.02848,percent of total,2015.0
-66,Governance,Total freedom in the world score ,C3_Cancel public events,South Korea,KOR,83.0,score,2021.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,South Korea,KOR,1.194071,score,2019.0
-68,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,South Korea,KOR,20.86088483305026,proportion,2019.0
-69,Demographics,Urban population (% of total population),C3_Cancel public events,South Korea,KOR,81.43,total,2019.0
-70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,South Korea,KOR,98.0,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,South Korea,KOR,24727400.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,South Korea,KOR,0.228997,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,South Korea,KOR,48570.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,South Korea,KOR,1.194071,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,South Korea,KOR,59.0,Cases,2019.0
+7,Environment,Fossil fuel energy consumption,C3_Cancel public events,South Korea,KOR,81.02848,percent of total,2015.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,South Korea,KOR,0.036473,percent,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,South Korea,KOR,42.7644,per 100 people,2019.0
+10,Governance,Economic Freedom Score,C3_Cancel public events,South Korea,KOR,7.69,score,2018.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,South Korea,KOR,2.70770280422964,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,South Korea,KOR,1.376418,score,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,South Korea,KOR,0.082582,percent,2019.0
+14,Environment,"Energy imports, net ",C3_Cancel public events,South Korea,KOR,81.44832917317333,percent of energy use,2015.0
+15,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,South Korea,KOR,95.3767700195313,proportion,2018.0
+16,Social issues ,Net migration,C3_Cancel public events,South Korea,KOR,58657.0,net total / data are 5 year estimates,2019.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,South Korea,KOR,8.8,percent,2020.0
+18,Environment,Electricity production from coal sources ,C3_Cancel public events,South Korea,KOR,43.07625640446738,percent of total,2015.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,South Korea,KOR,4543.842555520887,per 1 million people,2019.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,South Korea,KOR,0.001841,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,South Korea,KOR,0.026399,percent,2019.0
+22,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,South Korea,KOR,4.4,percent,2018.0
+23,Economics,Volume of exports,C3_Cancel public events,South Korea,KOR,2.555,percent change,2020.0
+24,Environment,Combustible renewables and waste,C3_Cancel public events,South Korea,KOR,0.817775,percent of total energy,2015.0
+25,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,South Korea,KOR,2.2,percent,2020.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,South Korea,KOR,0.000458,percent,2019.0
+27,Economics,"Central government debt, total",C3_Cancel public events,South Korea,KOR,38.06551415689224,percent of GDP,2016.0
+28,Governance,Fragile States Index Total ,C3_Cancel public events,South Korea,KOR,32.01527342958986,score,2020.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,South Korea,KOR,100.0,percent of total,2017.0
+30,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,South Korea,KOR,67.72439760681395,percent of total,2015.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,South Korea,KOR,70.2249985,Percentage of total employment,2020.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,South Korea,KOR,134.489,per 100 people,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,South Korea,KOR,0.108339,percent,2019.0
+34,Governance,Personal Freedom Score ,C3_Cancel public events,South Korea,KOR,8.85,score,2018.0
+35,Environment,Electric power consumption ,C3_Cancel public events,South Korea,KOR,10496.5136719641,kWh per capita,2014.0
+36,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,South Korea,KOR,19.1661548278841,percent of GNI,2018.0
+37,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,South Korea,KOR,7.3009,Ones,2018.0
+38,Health,"Physicians (per 1,000 people)",C3_Cancel public events,South Korea,KOR,2.3608,Ones,2017.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,South Korea,KOR,0.7721228,score,2019.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,South Korea,KOR,8260000000.0,kWh,2015.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,South Korea,KOR,98.0,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,South Korea,KOR,23.53409,Rate (risk-weighted prevalence),2019.0
+44,Environment,Electricity production from oil sources,C3_Cancel public events,South Korea,KOR,2.279207466507412,percent of total,2015.0
+45,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,South Korea,KOR,25.03943,micrograms per cubic meter,2017.0
+46,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,South Korea,KOR,38.51685797783022,proportion,2019.0
+47,Economics,Expenditure on health (% of GDP),C3_Cancel public events,South Korea,KOR,0.23707,percent,2018.0
+49,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,South Korea,KOR,33.0,score,2021.0
+50,Economics,Volume of imports,C3_Cancel public events,South Korea,KOR,3.178,percent change,2020.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,South Korea,KOR,0.60384939332,"proportion, pero 100,000 people",2018.0
+52,Governance,Human Development Index,C3_Cancel public events,South Korea,KOR,0.916,index,2019.0
+54,Governance,Corruption Perceptions Index,C3_Cancel public events,South Korea,KOR,61.0,score,2020.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,South Korea,KOR,0.7567343,score,2019.0
+56,Economics,Expenditure on education (% of GDP),C3_Cancel public events,South Korea,KOR,3.36452,percent,2018.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,South Korea,KOR,0.021079,percent,2019.0
+59,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,South Korea,KOR,14.46,percent,2018.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,South Korea,KOR,0.4780881,score,2019.0
+61,Demographics,Urban population (% of total population),C3_Cancel public events,South Korea,KOR,81.43,total,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,South Korea,KOR,1.069813,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,South Korea,KOR,620302.4,kt,2016.0
+66,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,South Korea,KOR,4.59700012,percent of total labor force,2020.0
+67,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,South Korea,KOR,62.9249992,Percentage of total population,2020.0
+69,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,South Korea,KOR,19.0,proportion,2020.0
+70,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,South Korea,KOR,52.8170013,Percentage of females of the total population,2020.0
 71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,South Korea,KOR,50.0,score,2021.0
-72,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,South Korea,KOR,38.51685797783022,proportion,2019.0
-73,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,South Korea,KOR,95.3767700195313,proportion,2018.0
-74,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C3_Cancel public events,South Korea,KOR,0.0,proportion,2015.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,South Korea,KOR,0.021079,percent,2019.0
-76,Economics,Stock market capitalization (US$ million),C3_Cancel public events,South Korea,KOR,1413716510000.0,US Dollar,2018.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,South Korea,KOR,2.70770280422964,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,South Korea,KOR,0.7721228,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,South Korea,KOR,659.0,"Number (cumulative total by Dec 26,2020)",2020.0
-81,Economics,"Trade, total as % of GDP",C3_Cancel public events,South Korea,KOR,63.66208,percent,2019.0
-82,Economics,"Central government debt, total",C3_Cancel public events,South Korea,KOR,38.06551415689224,percent of GDP,2016.0
-83,Social issues ,Press freedom score,C3_Cancel public events,South Korea,KOR,23.7,score,2020.0
-84,Social issues ,Progression to secondary school (%),C3_Cancel public events,South Korea,KOR,99.6427,proportion,2016.0
-86,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C3_Cancel public events,South Korea,KOR,21.78318,proportion,2015.0
-87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,South Korea,KOR,100.0,percent of total,2017.0
-89,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,South Korea,KOR,52.8170013,Percentage of females of the total population,2020.0
-90,Demographics,People using safely managed drinking water services (% of population),C3_Cancel public events,South Korea,KOR,98.2138611255522,proportion,2017.0
-91,Economics,Expenditure on social protection (% of GDP),C3_Cancel public events,South Korea,KOR,5.71028,percent,2018.0
-92,Economics,"Foreign direct investment, net",C3_Cancel public events,South Korea,KOR,10565600000.0,US Dollar,2019.0
-93,Governance,Economic Freedom Score,C3_Cancel public events,South Korea,KOR,7.69,score,2018.0
-94,Environment,Electricity production from nuclear sources ,C3_Cancel public events,South Korea,KOR,29.99894396842102,percent of total,2015.0
-95,Environment,Electricity production from oil sources,C3_Cancel public events,South Korea,KOR,2.279207466507412,percent of total,2015.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,South Korea,KOR,0.082582,percent,2019.0
-97,Demographics,"Population, total",C3_Cancel public events,South Korea,KOR,51709098.0,total,2019.0
-99,Economics,"International tourism, receipts",C3_Cancel public events,South Korea,KOR,21628000000.0,US Dollar,2019.0
-101,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,South Korea,KOR,3.44583,percent per annum,2019.0
-103,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C3_Cancel public events,South Korea,KOR,72863.5,international $ in PPP,2020.0
-108,Economics,Expenditure on education (% of GDP),C3_Cancel public events,South Korea,KOR,3.36452,percent,2018.0
-110,Economics,Expenditure on health (% of GDP),C3_Cancel public events,South Korea,KOR,0.23707,percent,2018.0
-113,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,South Korea,KOR,3196.0,proportion,2019.0
+73,Social issues ,Progression to secondary school (%),C3_Cancel public events,South Korea,KOR,99.6427,proportion,2016.0
+74,Social issues ,Life Ladder ,C3_Cancel public events,South Korea,KOR,5.8454999923706055,score,2021.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,South Korea,KOR,659.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,South Korea,KOR,98.0,percent,2019.0
+77,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,South Korea,KOR,5413.347856658559,kg of oil equivalent per capita,2015.0
+78,Environment,Energy use ,C3_Cancel public events,South Korea,KOR,139.2675834321938,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+79,Economics,Expenditure on social protection (% of GDP),C3_Cancel public events,South Korea,KOR,5.71028,percent,2018.0
+80,Health,Prevalence of obesity,C3_Cancel public events,South Korea,KOR,4.7,percent,2016.0
+81,Social issues ,Press freedom score,C3_Cancel public events,South Korea,KOR,23.7,score,2020.0
+82,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C3_Cancel public events,South Korea,KOR,28.6821708679199,proportion,2015.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,South Korea,KOR,12.11107,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,South Korea,KOR,100.0,percent of population,2018.0
+85,Governance,Human Freedom Score ,C3_Cancel public events,South Korea,KOR,8.27,score,2018.0
+86,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C3_Cancel public events,South Korea,KOR,72863.5,international $ in PPP,2020.0
+87,Economics,Unemployment rate (%) - Annual,C3_Cancel public events,South Korea,KOR,3.8,percent,2019.0
+88,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,South Korea,KOR,100.0,proportion,2017.0
+89,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C3_Cancel public events,South Korea,KOR,0.0,proportion,2015.0
+90,Economics,"Trade, total as % of GDP",C3_Cancel public events,South Korea,KOR,63.66208,percent,2019.0
+91,Environment,Electricity production from nuclear sources ,C3_Cancel public events,South Korea,KOR,29.99894396842102,percent of total,2015.0
+92,Governance,Serious assault (rate),C3_Cancel public events,South Korea,KOR,103.31,rate,2018.0
+93,Governance,Total freedom in the world score ,C3_Cancel public events,South Korea,KOR,83.0,score,2021.0
+94,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,South Korea,KOR,3196.0,proportion,2019.0
+96,Economics,"International tourism, receipts",C3_Cancel public events,South Korea,KOR,21628000000.0,US Dollar,2019.0
+97,Economics,"Foreign direct investment, net",C3_Cancel public events,South Korea,KOR,10565600000.0,US Dollar,2019.0
+102,Economics,Stock market capitalization (US$ million),C3_Cancel public events,South Korea,KOR,1413716510000.0,US Dollar,2018.0
+105,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,South Korea,KOR,3.44583,percent per annum,2019.0
+108,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,South Korea,KOR,20.86088483305026,proportion,2019.0
+112,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C3_Cancel public events,South Korea,KOR,21.78318,proportion,2015.0
+115,Demographics,People using safely managed drinking water services (% of population),C3_Cancel public events,South Korea,KOR,98.2138611255522,proportion,2017.0
+116,Demographics,"Population, total",C3_Cancel public events,South Korea,KOR,51709098.0,total,2019.0
+117,Demographics,Rural population (% of total population),C3_Cancel public events,South Korea,KOR,18.56999999999999,proportion,2019.0

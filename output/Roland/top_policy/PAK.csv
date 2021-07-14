@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-PAK,H7_Vaccination policy,0.1541793937884004,1
-PAK,H6_Facial Coverings,0.08073006396074986,2
-PAK,C7_Restrictions on internal movement,0.07968204149249307,3
-PAK,C8_International travel controls,0.07385185078453761,4
-PAK,C2_Workplace closing,0.06623639084238724,5
-PAK,H3_Contact tracing,0.06329012403798061,6
-PAK,E2_Debt/contract relief,0.06093259277704704,7
-PAK,C1_School closing,0.059449180670965523,8
-PAK,C5_Close public transport,0.05759465976322314,9
-PAK,C4_Restrictions on gatherings,0.042983617341395976,10
-PAK,C6_Stay at home requirements,0.03325163263429763,11
-PAK,E1_Income support,0.026626044094011796,12
-PAK,H2_Testing policy,0.021380474009478376,13
-PAK,C3_Cancel public events,0.01960703352912248,14
-PAK,H1_Public information campaigns,0.0,15
+PAK,H7_Vaccination policy,0.1021009968892559,1
+PAK,H6_Facial Coverings,0.0852998929108173,2
+PAK,H3_Contact tracing,0.0772177170962749,3
+PAK,C8_International travel controls,0.0753799823257563,4
+PAK,C2_Workplace closing,0.0732256337980565,5
+PAK,C6_Stay at home requirements,0.0648270175446702,6
+PAK,E2_Debt/contract relief,0.0644612460573903,7
+PAK,C3_Cancel public events,0.0628336846903721,8
+PAK,C7_Restrictions on internal movement,0.0549465282197945,9
+PAK,C1_School closing,0.0541569093503968,10
+PAK,C5_Close public transport,0.051750158845994,11
+PAK,C4_Restrictions on gatherings,0.0448600855305226,12
+PAK,E1_Income support,0.038069749640552,13
+PAK,H2_Testing policy,0.0195676099759095,14
+PAK,H1_Public information campaigns,0.0026511129788812,15

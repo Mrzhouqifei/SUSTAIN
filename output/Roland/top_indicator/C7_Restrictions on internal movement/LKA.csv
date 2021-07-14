@@ -1,103 +1,103 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Sri Lanka,LKA,34.1133,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Sri Lanka,LKA,38.0,score,2020.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Sri Lanka,LKA,35387.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,Sri Lanka,LKA,1610543970.0,US Dollar,2018.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Sri Lanka,LKA,328.4410402238224,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Sri Lanka,LKA,115.061,per 100 people,2019.0
-7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Sri Lanka,LKA,4.324999809265137,score,2021.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Sri Lanka,LKA,160.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Sri Lanka,LKA,15.51287,Rate (risk-weighted prevalence),2019.0
-10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Sri Lanka,LKA,0.000134,percent,2019.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Sri Lanka,LKA,23362.46,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Sri Lanka,LKA,531.0905765713736,kWh per capita,2014.0
-13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Sri Lanka,LKA,41.94,score,2020.0
-14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Sri Lanka,LKA,0.032599,percent,2019.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Sri Lanka,LKA,0.0,percent of total,2014.0
-16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Sri Lanka,LKA,0.113079,percent,2019.0
-17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Sri Lanka,LKA,99.0,percent,2019.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Sri Lanka,LKA,7.21059,per 100 people,2019.0
-19,Social issues ,Net migration,C7_Restrictions on internal movement,Sri Lanka,LKA,-489932.0,net total / data are 5 year estimates,2019.0
-20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Sri Lanka,LKA,0.326654,percent,2019.0
-21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Sri Lanka,LKA,0.1,percent,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Sri Lanka,LKA,51.52480655439236,percent of total,2015.0
-23,Economics,Volume of imports,C7_Restrictions on internal movement,Sri Lanka,LKA,3.834,percent change,2020.0
-24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Sri Lanka,LKA,50.26849245394205,percent of energy use,2014.0
-25,Economics,"Central government debt, total",C7_Restrictions on internal movement,Sri Lanka,LKA,77.65039412093437,percent of GDP,2015.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Sri Lanka,LKA,11.09962,micrograms per cubic meter,2017.0
-27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Sri Lanka,LKA,0.044596,percent,2019.0
-28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Sri Lanka,LKA,0.003608,percent,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.1135499,score,2019.0
-30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Sri Lanka,LKA,35.2939987,Percentage of females of the total population,2020.0
-31,Economics,Volume of exports,C7_Restrictions on internal movement,Sri Lanka,LKA,5.414,percent change,2020.0
-32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Sri Lanka,LKA,6.88,score,2018.0
-33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Sri Lanka,LKA,515.5110212724998,kg of oil equivalent per capita,2014.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Sri Lanka,LKA,17.81975421028675,percent of total,2015.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.0119834,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.0425837,score,2019.0
-37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Sri Lanka,LKA,6.56,score,2018.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Sri Lanka,LKA,2466260.0,number,2019.0
-39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Sri Lanka,LKA,0.006763,percent,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Sri Lanka,LKA,52.8758920368984,percent of total final energy consumption,2015.0
-41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Sri Lanka,LKA,0.134867,percent,2019.0
-42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Sri Lanka,LKA,45.5384172591341,percent of total,2017.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Sri Lanka,LKA,421000000.0,kWh,2015.0
-44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Sri Lanka,LKA,5.2,percent,2016.0
-45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Sri Lanka,LKA,1.3,percent,2020.0
-46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Sri Lanka,LKA,53.6800003,Percentage of total population,2020.0
-47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Sri Lanka,LKA,45.23556,percent of total energy,2014.0
-49,Economics,Unemployment rate (%) - Annual,C7_Restrictions on internal movement,Sri Lanka,LKA,4.6,percent,2018.0
-50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,2.1803,Ones,2018.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Sri Lanka,LKA,1.101847,metric tons per capita,2016.0
-52,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Sri Lanka,LKA,1041.0,proportion,2019.0
-53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Sri Lanka,LKA,45.8959999,Percentage of total employment,2020.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.2281242,score,2019.0
-56,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Sri Lanka,LKA,95.7817263595986,proportion,2017.0
-57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Sri Lanka,LKA,81.8,score,2020.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Sri Lanka,LKA,4.38589000701904,proportion,2018.0
-59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Sri Lanka,LKA,16.0,percent,2020.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,64.0,Cases,2019.0
-61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,1.0041,Ones,2018.0
-62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Sri Lanka,LKA,56.0,score,2021.0
-63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Sri Lanka,LKA,39.8,index ,2016.0
-64,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Sri Lanka,LKA,3.0,rating,2019.0
-65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Sri Lanka,LKA,33.0,score,2021.0
-66,Governance,Human Development Index,C7_Restrictions on internal movement,Sri Lanka,LKA,0.782,index,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.3194701,score,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Sri Lanka,LKA,0.326654,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Sri Lanka,LKA,2466260.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Sri Lanka,LKA,35387.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.0119834,score,2019.0
+6,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Sri Lanka,LKA,50.54557,percent of total,2014.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Sri Lanka,LKA,17.81975421028675,percent of total,2015.0
+8,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Sri Lanka,LKA,6.72,score,2018.0
+9,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Sri Lanka,LKA,27.58,percent,2017.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Sri Lanka,LKA,160.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Sri Lanka,LKA,7.21059,per 100 people,2019.0
+12,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Sri Lanka,LKA,0.1,percent,2019.0
+13,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Sri Lanka,LKA,6.88,score,2018.0
+14,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Sri Lanka,LKA,81.8,score,2020.0
+15,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Sri Lanka,LKA,20.9691260316901,percent of GNI,2018.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Sri Lanka,LKA,1.101847,metric tons per capita,2016.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Sri Lanka,LKA,1.3,percent,2020.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Sri Lanka,LKA,1.5,percent,2018.0
+19,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Sri Lanka,LKA,0.006763,percent,2019.0
+20,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Sri Lanka,LKA,16.0,percent,2020.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.0425837,score,2019.0
+22,Health,Prevalence of obesity,C7_Restrictions on internal movement,Sri Lanka,LKA,5.2,percent,2016.0
+23,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Sri Lanka,LKA,0.113079,percent,2019.0
+24,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Sri Lanka,LKA,0.044596,percent,2019.0
+25,Economics,Volume of imports,C7_Restrictions on internal movement,Sri Lanka,LKA,3.834,percent change,2020.0
+26,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Sri Lanka,LKA,0.000134,percent,2019.0
+27,Social issues ,Net migration,C7_Restrictions on internal movement,Sri Lanka,LKA,-489932.0,net total / data are 5 year estimates,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.1135499,score,2019.0
+29,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Sri Lanka,LKA,50.26849245394205,percent of energy use,2014.0
+30,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Sri Lanka,LKA,99.0,percent,2019.0
+31,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Sri Lanka,LKA,45.5384172591341,percent of total,2017.0
+32,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Sri Lanka,LKA,38.0,score,2020.0
+33,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Sri Lanka,LKA,5.333333333,proportion,2020.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Sri Lanka,LKA,23362.46,kt,2016.0
+35,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Sri Lanka,LKA,35.2939987,Percentage of females of the total population,2020.0
+37,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Sri Lanka,LKA,15.51287,Rate (risk-weighted prevalence),2019.0
+38,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Sri Lanka,LKA,0.134867,percent,2019.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Sri Lanka,LKA,328.4410402238224,per 1 million people,2019.0
+40,Governance,Serious assault (rate),C7_Restrictions on internal movement,Sri Lanka,LKA,13.61,rate,2018.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Sri Lanka,LKA,52.8758920368984,percent of total final energy consumption,2015.0
+42,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,1.0041,Ones,2018.0
+43,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Sri Lanka,LKA,45.23556,percent of total energy,2014.0
+44,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Sri Lanka,LKA,16.62272972952441,proportion,2019.0
+45,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Sri Lanka,LKA,53.36309950038645,proportion,2019.0
+46,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,2.1803,Ones,2018.0
+47,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Sri Lanka,LKA,41.5,Ones,2017.0
+48,Social issues ,Press freedom score,C7_Restrictions on internal movement,Sri Lanka,LKA,41.94,score,2020.0
+49,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,Sri Lanka,LKA,1610543970.0,US Dollar,2018.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,2.4212436336,"proportion, pero 100,000 people",2018.0
+52,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Sri Lanka,LKA,23.0,score,2021.0
+53,Governance,Human Development Index,C7_Restrictions on internal movement,Sri Lanka,LKA,0.782,index,2019.0
+54,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Sri Lanka,LKA,11.09962,micrograms per cubic meter,2017.0
+55,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Sri Lanka,LKA,99.0,percent,2019.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,64.0,Cases,2019.0
+57,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Sri Lanka,LKA,45.8959999,Percentage of total employment,2020.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Sri Lanka,LKA,99.5834045410156,percent of population,2018.0
+59,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C7_Restrictions on internal movement,Sri Lanka,LKA,91.7098236083984,proportion,2018.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Sri Lanka,LKA,33.7050523441056,percent of total,2015.0
+62,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Sri Lanka,LKA,4.324999809265137,score,2021.0
+63,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Sri Lanka,LKA,0.032599,percent,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Sri Lanka,LKA,4.17799997,percent of total labor force,2020.0
+65,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Sri Lanka,LKA,95.7817263595986,proportion,2017.0
+66,Economics,Volume of exports,C7_Restrictions on internal movement,Sri Lanka,LKA,5.414,percent change,2020.0
+67,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Sri Lanka,LKA,18.585,total,2019.0
 68,Environment,Energy use ,C7_Restrictions on internal movement,Sri Lanka,LKA,45.10904523628118,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Sri Lanka,LKA,33.7050523441056,percent of total,2015.0
-70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Sri Lanka,LKA,1.5,percent,2018.0
-71,Economics,"International tourism, receipts",C7_Restrictions on internal movement,Sri Lanka,LKA,3607000000.0,US Dollar,2019.0
-72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Sri Lanka,LKA,4.17799997,percent of total labor force,2020.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Sri Lanka,LKA,2.4212436336,"proportion, pero 100,000 people",2018.0
-74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Sri Lanka,LKA,6.72,score,2018.0
-75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Sri Lanka,LKA,20.9691260316901,percent of GNI,2018.0
-76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Sri Lanka,LKA,23.0,score,2021.0
-77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Sri Lanka,LKA,27.58,percent,2017.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Sri Lanka,LKA,99.5834045410156,percent of population,2018.0
-79,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Sri Lanka,LKA,41.5,Ones,2017.0
-80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Sri Lanka,LKA,13.61,rate,2018.0
-81,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Sri Lanka,LKA,81.41499999999999,proportion,2019.0
-82,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,Sri Lanka,LKA,1.93283,percent,2019.0
-83,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Sri Lanka,LKA,0.0679729953408241,proportion,2016.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Sri Lanka,LKA,5.333333333,proportion,2020.0
-86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Sri Lanka,LKA,99.0,percent,2019.0
-87,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,Sri Lanka,LKA,37.95798,percent,2019.0
-88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Sri Lanka,LKA,50.54557,percent of total,2014.0
-89,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Sri Lanka,LKA,18.585,total,2019.0
-92,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,Sri Lanka,LKA,1.62697,percent,2019.0
-93,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,Sri Lanka,LKA,5.12447,percent,2016.0
-95,Social issues ,Coverage of social safety net programs (% of population),C7_Restrictions on internal movement,Sri Lanka,LKA,28.1265527534856,proportion,2016.0
-96,Economics,Stock market capitalization (US$ million),C7_Restrictions on internal movement,Sri Lanka,LKA,15720540000.0,US Dollar,2019.0
-101,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Sri Lanka,LKA,53.36309950038645,proportion,2019.0
-103,Demographics,"Population, total",C7_Restrictions on internal movement,Sri Lanka,LKA,21803000.0,total,2019.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.1843704,score,2019.0
-105,Economics,Growth rates of household expenditure or income per capita (%),C7_Restrictions on internal movement,Sri Lanka,LKA,5.0,percent,2016.0
-106,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Sri Lanka,LKA,5.41860818862915,proportion,2016.0
-107,Social issues ,Proportion of people living below 50 percent of median income (%),C7_Restrictions on internal movement,Sri Lanka,LKA,9.9,proportion,2016.0
-108,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Sri Lanka,LKA,99.43399,proportion,2017.0
-109,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Sri Lanka,LKA,102.390380859375,proportion,2017.0
-110,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Sri Lanka,LKA,16.62272972952441,proportion,2019.0
-112,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,Sri Lanka,LKA,11.24417,percent per annum,2019.0
-113,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C7_Restrictions on internal movement,Sri Lanka,LKA,91.7098236083984,proportion,2018.0
-116,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,Sri Lanka,LKA,32117.9,international $ in PPP,2020.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Sri Lanka,LKA,51.52480655439236,percent of total,2015.0
+70,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Sri Lanka,LKA,99.43399,proportion,2017.0
+71,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Sri Lanka,LKA,515.5110212724998,kg of oil equivalent per capita,2014.0
+72,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Sri Lanka,LKA,5.41860818862915,proportion,2016.0
+73,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,Sri Lanka,LKA,11.24417,percent per annum,2019.0
+74,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Sri Lanka,LKA,102.390380859375,proportion,2017.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Sri Lanka,LKA,53.6800003,Percentage of total population,2020.0
+76,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Sri Lanka,LKA,6.56,score,2018.0
+77,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Sri Lanka,LKA,0.0679729953408241,proportion,2016.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.3194701,score,2019.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Sri Lanka,LKA,421000000.0,kWh,2015.0
+80,Social issues ,Proportion of people living below 50 percent of median income (%),C7_Restrictions on internal movement,Sri Lanka,LKA,9.9,proportion,2016.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Sri Lanka,LKA,0.0,percent of total,2014.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.2281242,score,2019.0
+83,Economics,"Central government debt, total",C7_Restrictions on internal movement,Sri Lanka,LKA,77.65039412093437,percent of GDP,2015.0
+84,Demographics,"Population, total",C7_Restrictions on internal movement,Sri Lanka,LKA,21803000.0,total,2019.0
+85,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Sri Lanka,LKA,81.41499999999999,proportion,2019.0
+86,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Sri Lanka,LKA,56.0,score,2021.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,Sri Lanka,LKA,531.0905765713736,kWh per capita,2014.0
+89,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Sri Lanka,LKA,39.8,index ,2016.0
+90,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Sri Lanka,LKA,0.003608,percent,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Sri Lanka,LKA,-0.1843704,score,2019.0
+92,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Sri Lanka,LKA,3.0,rating,2019.0
+93,Social issues ,Coverage of social safety net programs (% of population),C7_Restrictions on internal movement,Sri Lanka,LKA,28.1265527534856,proportion,2016.0
+95,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Sri Lanka,LKA,4.38589000701904,proportion,2018.0
+97,Economics,Stock market capitalization (US$ million),C7_Restrictions on internal movement,Sri Lanka,LKA,15720540000.0,US Dollar,2019.0
+98,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,Sri Lanka,LKA,37.95798,percent,2019.0
+100,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Sri Lanka,LKA,33.0,score,2021.0
+101,Economics,Unemployment rate (%) - Annual,C7_Restrictions on internal movement,Sri Lanka,LKA,4.6,percent,2018.0
+106,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Sri Lanka,LKA,1041.0,proportion,2019.0
+108,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,Sri Lanka,LKA,1.93283,percent,2019.0
+109,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,Sri Lanka,LKA,1.62697,percent,2019.0
+110,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,Sri Lanka,LKA,5.12447,percent,2016.0
+112,Economics,Growth rates of household expenditure or income per capita (%),C7_Restrictions on internal movement,Sri Lanka,LKA,5.0,percent,2016.0
+113,Economics,"International tourism, receipts",C7_Restrictions on internal movement,Sri Lanka,LKA,3607000000.0,US Dollar,2019.0
+115,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,Sri Lanka,LKA,32117.9,international $ in PPP,2020.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Sri Lanka,LKA,115.061,per 100 people,2019.0

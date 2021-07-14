@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-BWA,H7_Vaccination policy,0.10352714943626287,1
-BWA,H2_Testing policy,0.08189364413165141,2
-BWA,H6_Facial Coverings,0.08184425753076371,3
-BWA,C8_International travel controls,0.07834710133673656,4
-BWA,C4_Restrictions on gatherings,0.06990369262366425,5
+BWA,H7_Vaccination policy,0.1035271494362628,1
+BWA,H2_Testing policy,0.0818936441316514,2
+BWA,H6_Facial Coverings,0.0818442575307637,3
+BWA,C8_International travel controls,0.0783471013367365,4
+BWA,C4_Restrictions on gatherings,0.0699036926236642,5
 BWA,H3_Contact tracing,0.0638761684966867,6
-BWA,E1_Income support,0.056816104087076574,7
-BWA,C2_Workplace closing,0.05236462121606581,8
-BWA,C7_Restrictions on internal movement,0.05211743345319923,9
-BWA,C6_Stay at home requirements,0.051293441390860985,10
-BWA,C1_School closing,0.051027491721075915,11
-BWA,C3_Cancel public events,0.046329282515540124,12
-BWA,C5_Close public transport,0.040757711002052034,13
-BWA,H1_Public information campaigns,0.031986356831051395,14
-BWA,E2_Debt/contract relief,0.01047990384993797,15
+BWA,E1_Income support,0.0568161040870765,7
+BWA,C2_Workplace closing,0.0523646212160658,8
+BWA,C7_Restrictions on internal movement,0.0521174334531992,9
+BWA,C6_Stay at home requirements,0.0512934413908609,10
+BWA,C1_School closing,0.0510274917210759,11
+BWA,C3_Cancel public events,0.0463292825155401,12
+BWA,C5_Close public transport,0.040757711002052,13
+BWA,H1_Public information campaigns,0.0319863568310513,14
+BWA,E2_Debt/contract relief,0.0104799038499379,15

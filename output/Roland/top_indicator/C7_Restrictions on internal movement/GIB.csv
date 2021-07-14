@@ -1,22 +1,22 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Gibraltar,GIB,94.4445,percent of population,2019.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Gibraltar,GIB,120.284,per 100 people,2019.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Gibraltar,GIB,634.391,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total,2014.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Gibraltar,GIB,56.2891,per 100 people,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of total,2015.0
-24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of energy use,2014.0
-33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of total,2015.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Gibraltar,GIB,16968.0,number,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Gibraltar,GIB,0.0,kWh,2015.0
-47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total energy,2014.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total,2015.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of population,2018.0
-88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Gibraltar,GIB,99.51282,percent of total,2014.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Gibraltar,GIB,16968.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Gibraltar,GIB,99.51282,percent of total,2014.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of total,2015.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Gibraltar,GIB,56.2891,per 100 people,2019.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
+29,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of energy use,2014.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Gibraltar,GIB,634.391,kt,2016.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
+43,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total energy,2014.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of population,2018.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Gibraltar,GIB,100.0,percent of total,2015.0
+71,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Gibraltar,GIB,0.0,kWh,2015.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Gibraltar,GIB,0.0,percent of total,2014.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Gibraltar,GIB,120.284,per 100 people,2019.0

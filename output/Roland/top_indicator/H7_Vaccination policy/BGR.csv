@@ -5,70 +5,70 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 5,Demographics,Secure Internet servers ,H7_Vaccination policy,Bulgaria,BGR,40238.04714639736,per 1 million people,2019.0
 6,Governance,Serious assault (rate),H7_Vaccination policy,Bulgaria,BGR,35.71,rate,2018.0
 7,Social issues ,Press freedom score,H7_Vaccination policy,Bulgaria,BGR,35.06,score,2020.0
-8,Environment,CO2 emissions (kt),H7_Vaccination policy,Bulgaria,BGR,41708.46,kt,2016.0
-9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Bulgaria,BGR,972255.0,number,2019.0
-10,Environment,Electric power consumption ,H7_Vaccination policy,Bulgaria,BGR,4708.92745757231,kWh per capita,2014.0
-11,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Bulgaria,BGR,63.6520004,Percentage of total employment,2020.0
-12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Bulgaria,BGR,27.6502,per 100 people,2019.0
-13,Economics,Volume of imports,H7_Vaccination policy,Bulgaria,BGR,5.185,percent change,2020.0
-14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Bulgaria,BGR,0.225973,percent,2019.0
-15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Bulgaria,BGR,0.5401217,score,2019.0
-16,Environment,Renewable energy consumption ,H7_Vaccination policy,Bulgaria,BGR,17.6500779274042,percent of total final energy consumption,2015.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Bulgaria,BGR,21.0,Cases,2019.0
-18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Bulgaria,BGR,4.2,percent,2018.0
-19,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Bulgaria,BGR,4.0332,Ones,2015.0
-20,Health,Summary exposure value tobacco,H7_Vaccination policy,Bulgaria,BGR,33.85154,Rate (risk-weighted prevalence),2019.0
-21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Bulgaria,BGR,0.040476,percent,2019.0
-22,Governance,Rule of law estimate ,H7_Vaccination policy,Bulgaria,BGR,0.0358966,score,2019.0
-23,Environment,Electricity production from oil sources,H7_Vaccination policy,Bulgaria,BGR,0.373394608345985,percent of total,2015.0
+8,Environment,Electricity production from oil sources,H7_Vaccination policy,Bulgaria,BGR,0.373394608345985,percent of total,2015.0
+9,Health,Prevalence of total cancers,H7_Vaccination policy,Bulgaria,BGR,0.025146,percent,2019.0
+10,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Bulgaria,BGR,972255.0,number,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Bulgaria,BGR,4.2,percent,2018.0
+12,Social issues ,Life Ladder ,H7_Vaccination policy,Bulgaria,BGR,5.265500068664551,score,2021.0
+13,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Bulgaria,BGR,21.0,Cases,2019.0
+14,Environment,Renewable energy consumption ,H7_Vaccination policy,Bulgaria,BGR,17.6500779274042,percent of total final energy consumption,2015.0
+15,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Bulgaria,BGR,0.225973,percent,2019.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Bulgaria,BGR,63.6520004,Percentage of total employment,2020.0
+17,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Bulgaria,BGR,19.14913,micrograms per cubic meter,2017.0
+18,Health,Prevalence of Diabetes,H7_Vaccination policy,Bulgaria,BGR,0.098452,percent,2019.0
+19,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Bulgaria,BGR,27.6502,per 100 people,2019.0
+20,Environment,CO2 emissions (kt),H7_Vaccination policy,Bulgaria,BGR,41708.46,kt,2016.0
+21,Health,Summary exposure value tobacco,H7_Vaccination policy,Bulgaria,BGR,33.85154,Rate (risk-weighted prevalence),2019.0
+22,Economics,Volume of exports,H7_Vaccination policy,Bulgaria,BGR,4.358,percent change,2020.0
+23,Social issues ,Net migration,H7_Vaccination policy,Bulgaria,BGR,-24001.0,net total / data are 5 year estimates,2019.0
 24,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H7_Vaccination policy,Bulgaria,BGR,3.8499999,percent of total labor force,2020.0
-25,Environment,Fossil fuel energy consumption,H7_Vaccination policy,Bulgaria,BGR,71.04592,percent of total,2014.0
-26,Social issues ,Net migration,H7_Vaccination policy,Bulgaria,BGR,-24001.0,net total / data are 5 year estimates,2019.0
-27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Bulgaria,BGR,55.243,Percentage of total population,2020.0
-28,Health,Prevalence of total cancers,H7_Vaccination policy,Bulgaria,BGR,0.025146,percent,2019.0
-29,Governance,Total freedom in the world score ,H7_Vaccination policy,Bulgaria,BGR,78.0,score,2021.0
-30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Bulgaria,BGR,45.0,score,2021.0
-31,Health,Prevalence of obesity,H7_Vaccination policy,Bulgaria,BGR,25.0,percent,2016.0
-32,Environment,Combustible renewables and waste,H7_Vaccination policy,Bulgaria,BGR,5.996297,percent of total energy,2014.0
-33,Governance,Personal Freedom Score ,H7_Vaccination policy,Bulgaria,BGR,8.11,score,2018.0
-34,Health,Mortality due to COVID-19,H7_Vaccination policy,Bulgaria,BGR,6496.0,"Number (cumulative total by Dec 26,2020)",2020.0
-35,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Bulgaria,BGR,19.14913,micrograms per cubic meter,2017.0
-36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Bulgaria,BGR,116.206,per 100 people,2019.0
-37,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Bulgaria,BGR,26.66666667,proportion,2020.0
-38,Governance,Fragile States Index Total ,H7_Vaccination policy,Bulgaria,BGR,49.17165481543572,score,2020.0
-39,Governance,Economic Freedom Score,H7_Vaccination policy,Bulgaria,BGR,7.74,score,2018.0
-40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Bulgaria,BGR,6.4,percent,2020.0
-41,Environment,"Energy imports, net ",H7_Vaccination policy,Bulgaria,BGR,36.55077772468187,percent of energy use,2014.0
-42,Health,"Prevalence of HIV, total (% of population ages 15-49)",H7_Vaccination policy,Bulgaria,BGR,0.1,percent,2019.0
-45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Bulgaria,BGR,0.141258,percent,2019.0
-46,Social issues ,Gini index (World Bank estimate),H7_Vaccination policy,Bulgaria,BGR,40.4,index ,2017.0
-47,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Bulgaria,BGR,15.1401354438355,percent of GNI,2018.0
-48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Bulgaria,BGR,5.851501,metric tons per capita,2016.0
-49,Economics,Volume of exports,H7_Vaccination policy,Bulgaria,BGR,4.358,percent change,2020.0
-50,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Bulgaria,BGR,38.57,percent,2018.0
-51,Health,Prevalence of down syndrome,H7_Vaccination policy,Bulgaria,BGR,0.000145,percent,2019.0
-52,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Bulgaria,BGR,5.7,percent,2020.0
-53,Social issues ,Life Ladder ,H7_Vaccination policy,Bulgaria,BGR,5.265500068664551,score,2021.0
-55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Bulgaria,BGR,33.0,score,2021.0
-56,Governance,Control of corruption estimate,H7_Vaccination policy,Bulgaria,BGR,-0.1551902,score,2019.0
-58,Environment,Electricity production from coal sources ,H7_Vaccination policy,Bulgaria,BGR,46.20655697345205,percent of total,2015.0
-61,Environment,Electricity production from nuclear sources ,H7_Vaccination policy,Bulgaria,BGR,33.81209112025061,percent of total,2014.0
-63,Environment,"Electricity production from oil, gas and coal sources",H7_Vaccination policy,Bulgaria,BGR,50.40416888925362,percent of total,2015.0
-65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Bulgaria,BGR,0.037262,percent,2019.0
-66,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Bulgaria,BGR,99.8946743201431,percent of total,2017.0
-67,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Bulgaria,BGR,92.0,percent,2019.0
-69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Bulgaria,BGR,0.006279,percent,2019.0
-70,Health,Prevalence of Diabetes,H7_Vaccination policy,Bulgaria,BGR,0.098452,percent,2019.0
-72,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Bulgaria,BGR,4.8156,Ones,2015.0
-73,Governance,Human Development Index,H7_Vaccination policy,Bulgaria,BGR,0.816,index,2019.0
-74,Environment,Energy use (kg of oil equivalent per capita),H7_Vaccination policy,Bulgaria,BGR,2477.65540069696,kg of oil equivalent per capita,2014.0
-80,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Bulgaria,BGR,1.3046665939,"proportion, pero 100,000 people",2018.0
-81,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Bulgaria,BGR,49.112999,Percentage of females of the total population,2020.0
-82,Governance,Voice and accountability estimate,H7_Vaccination policy,Bulgaria,BGR,0.3849187,score,2019.0
-84,Governance,Government effectiveness estimate,H7_Vaccination policy,Bulgaria,BGR,0.3390003,score,2019.0
-87,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Bulgaria,BGR,93.0,percent,2019.0
-88,Environment,Access to electricity ,H7_Vaccination policy,Bulgaria,BGR,100.0,percent of population,2018.0
-90,Governance,Human Freedom Score ,H7_Vaccination policy,Bulgaria,BGR,7.93,score,2018.0
-91,Environment,Energy use ,H7_Vaccination policy,Bulgaria,BGR,132.2621599661743,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-94,Environment,"Electricity production from renewable sources, excluding hydroelectric",H7_Vaccination policy,Bulgaria,BGR,3107000000.0,kWh,2015.0
-97,Governance,Regulatory quality estimate,H7_Vaccination policy,Bulgaria,BGR,0.5316786,score,2019.0
+25,Environment,"Energy imports, net ",H7_Vaccination policy,Bulgaria,BGR,36.55077772468187,percent of energy use,2014.0
+26,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Bulgaria,BGR,0.040476,percent,2019.0
+27,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Bulgaria,BGR,49.112999,Percentage of females of the total population,2020.0
+28,Governance,Economic Freedom Score,H7_Vaccination policy,Bulgaria,BGR,7.74,score,2018.0
+29,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Bulgaria,BGR,116.206,per 100 people,2019.0
+30,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Bulgaria,BGR,26.66666667,proportion,2020.0
+31,Environment,Electricity production from coal sources ,H7_Vaccination policy,Bulgaria,BGR,46.20655697345205,percent of total,2015.0
+32,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Bulgaria,BGR,0.141258,percent,2019.0
+33,Health,Mortality due to COVID-19,H7_Vaccination policy,Bulgaria,BGR,6496.0,"Number (cumulative total by Dec 26,2020)",2020.0
+34,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Bulgaria,BGR,38.57,percent,2018.0
+35,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Bulgaria,BGR,15.1401354438355,percent of GNI,2018.0
+36,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Bulgaria,BGR,33.0,score,2021.0
+37,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H7_Vaccination policy,Bulgaria,BGR,5.7,percent,2020.0
+38,Health,Prevalence of down syndrome,H7_Vaccination policy,Bulgaria,BGR,0.000145,percent,2019.0
+39,Health,"Prevalence of HIV, total (% of population ages 15-49)",H7_Vaccination policy,Bulgaria,BGR,0.1,percent,2019.0
+42,Economics,Volume of imports,H7_Vaccination policy,Bulgaria,BGR,5.185,percent change,2020.0
+44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Bulgaria,BGR,99.8946743201431,percent of total,2017.0
+45,Health,Prevalence of obesity,H7_Vaccination policy,Bulgaria,BGR,25.0,percent,2016.0
+46,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Bulgaria,BGR,0.006279,percent,2019.0
+47,Environment,Combustible renewables and waste,H7_Vaccination policy,Bulgaria,BGR,5.996297,percent of total energy,2014.0
+48,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Bulgaria,BGR,92.0,percent,2019.0
+49,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Bulgaria,BGR,0.5401217,score,2019.0
+50,Governance,Personal Freedom Score ,H7_Vaccination policy,Bulgaria,BGR,8.11,score,2018.0
+51,Governance,Human Freedom Score ,H7_Vaccination policy,Bulgaria,BGR,7.93,score,2018.0
+52,Social issues ,Gini index (World Bank estimate),H7_Vaccination policy,Bulgaria,BGR,40.4,index ,2017.0
+53,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Bulgaria,BGR,55.243,Percentage of total population,2020.0
+54,Environment,Access to electricity ,H7_Vaccination policy,Bulgaria,BGR,100.0,percent of population,2018.0
+55,Governance,Rule of law estimate ,H7_Vaccination policy,Bulgaria,BGR,0.0358966,score,2019.0
+56,Environment,"Electricity production from oil, gas and coal sources",H7_Vaccination policy,Bulgaria,BGR,50.40416888925362,percent of total,2015.0
+58,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H7_Vaccination policy,Bulgaria,BGR,6.4,percent,2020.0
+59,Governance,Fragile States Index Total ,H7_Vaccination policy,Bulgaria,BGR,49.17165481543572,score,2020.0
+62,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Bulgaria,BGR,0.037262,percent,2019.0
+63,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Bulgaria,BGR,93.0,percent,2019.0
+64,Governance,Government effectiveness estimate,H7_Vaccination policy,Bulgaria,BGR,0.3390003,score,2019.0
+65,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Bulgaria,BGR,4.0332,Ones,2015.0
+66,Environment,Electric power consumption ,H7_Vaccination policy,Bulgaria,BGR,4708.92745757231,kWh per capita,2014.0
+68,Governance,Voice and accountability estimate,H7_Vaccination policy,Bulgaria,BGR,0.3849187,score,2019.0
+69,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Bulgaria,BGR,1.3046665939,"proportion, pero 100,000 people",2018.0
+71,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Bulgaria,BGR,45.0,score,2021.0
+74,Environment,Fossil fuel energy consumption,H7_Vaccination policy,Bulgaria,BGR,71.04592,percent of total,2014.0
+75,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Bulgaria,BGR,4.8156,Ones,2015.0
+76,Environment,Electricity production from nuclear sources ,H7_Vaccination policy,Bulgaria,BGR,33.81209112025061,percent of total,2014.0
+77,Environment,Energy use ,H7_Vaccination policy,Bulgaria,BGR,132.2621599661743,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+79,Governance,Regulatory quality estimate,H7_Vaccination policy,Bulgaria,BGR,0.5316786,score,2019.0
+82,Governance,Control of corruption estimate,H7_Vaccination policy,Bulgaria,BGR,-0.1551902,score,2019.0
+83,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Bulgaria,BGR,5.851501,metric tons per capita,2016.0
+84,Governance,Total freedom in the world score ,H7_Vaccination policy,Bulgaria,BGR,78.0,score,2021.0
+85,Environment,Energy use (kg of oil equivalent per capita),H7_Vaccination policy,Bulgaria,BGR,2477.65540069696,kg of oil equivalent per capita,2014.0
+90,Environment,"Electricity production from renewable sources, excluding hydroelectric",H7_Vaccination policy,Bulgaria,BGR,3107000000.0,kWh,2015.0
+96,Governance,Human Development Index,H7_Vaccination policy,Bulgaria,BGR,0.816,index,2019.0

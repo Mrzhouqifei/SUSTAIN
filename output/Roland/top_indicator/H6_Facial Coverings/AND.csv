@@ -2,42 +2,42 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,Andorra,AND,91.5675,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Andorra,AND,0.119104,percent,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Andorra,AND,39657.0,number,2019.0
-5,Health,Prevalence of COVID-19,H6_Facial Coverings,Andorra,AND,7519.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Andorra,AND,0.046543,percent,2019.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Andorra,AND,113.957,per 100 people,2019.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Andorra,AND,47.1313,per 100 people,2019.0
-15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Andorra,AND,0.0027,percent,2019.0
-16,Health,Mortality due to COVID-19,H6_Facial Coverings,Andorra,AND,80.0,"Number (cumulative total by Dec 26,2020)",2020.0
-17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Andorra,AND,3.3333,Ones,2015.0
-18,Health,Prevalence of total cancers,H6_Facial Coverings,Andorra,AND,0.037396,percent,2019.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,Andorra,AND,93.0,score,2021.0
-23,Health,Prevalence of obesity,H6_Facial Coverings,Andorra,AND,25.6,percent,2016.0
-25,Health,Prevalence of down syndrome,H6_Facial Coverings,Andorra,AND,0.000571,percent,2019.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,Andorra,AND,1.234392,score,2019.0
-29,Health,Summary exposure value tobacco,H6_Facial Coverings,Andorra,AND,25.36384,Rate (risk-weighted prevalence),2019.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Andorra,AND,4.6,percent,2018.0
-33,Governance,Serious assault (rate),H6_Facial Coverings,Andorra,AND,170.53,rate,2015.0
-36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Andorra,AND,10.30762,micrograms per cubic meter,2017.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,Andorra,AND,19.7478086257358,percent of total final energy consumption,2015.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Andorra,AND,7.5,Cases,2019.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,Andorra,AND,469.376,kt,2016.0
-43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Andorra,AND,99.0,percent,2019.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,Andorra,AND,23.23,score,2020.0
-47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Andorra,AND,4.0128,Ones,2015.0
-49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Andorra,AND,0.061518,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Andorra,AND,6.07237,metric tons per capita,2016.0
-52,Governance,Human Development Index,H6_Facial Coverings,Andorra,AND,0.868,index,2019.0
-55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Andorra,AND,17.8244594869492,percent of total,2017.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Andorra,AND,1.615139,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,Andorra,AND,1.139154,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,Andorra,AND,20183.55759508439,per 1 million people,2019.0
-59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Andorra,AND,99.0,percent,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,Andorra,AND,1.228176,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Andorra,AND,38.0,score,2021.0
-62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Andorra,AND,0.0,"proportion, pero 100,000 people",2015.0
-64,Health,Prevalence of Diabetes,H6_Facial Coverings,Andorra,AND,0.078072,percent,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Andorra,AND,55.0,score,2021.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,Andorra,AND,1.908749,score,2019.0
-78,Environment,Access to electricity ,H6_Facial Coverings,Andorra,AND,100.0,percent of population,2018.0
-83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Andorra,AND,0.091687,percent,2019.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,Andorra,AND,1.579939,score,2019.0
+4,Health,Prevalence of COVID-19,H6_Facial Coverings,Andorra,AND,7519.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Andorra,AND,0.091687,percent,2019.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Andorra,AND,55.0,score,2021.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Andorra,AND,38.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Andorra,AND,47.1313,per 100 people,2019.0
+20,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Andorra,AND,4.6,percent,2018.0
+21,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Andorra,AND,0.0,"proportion, pero 100,000 people",2015.0
+24,Health,Prevalence of obesity,H6_Facial Coverings,Andorra,AND,25.6,percent,2016.0
+27,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Andorra,AND,10.30762,micrograms per cubic meter,2017.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,Andorra,AND,469.376,kt,2016.0
+30,Health,Prevalence of Diabetes,H6_Facial Coverings,Andorra,AND,0.078072,percent,2019.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,Andorra,AND,19.7478086257358,percent of total final energy consumption,2015.0
+37,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Andorra,AND,0.061518,percent,2019.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Andorra,AND,6.07237,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,Andorra,AND,1.234392,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,Andorra,AND,23.23,score,2020.0
+43,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Andorra,AND,4.0128,Ones,2015.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Andorra,AND,113.957,per 100 people,2019.0
+45,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Andorra,AND,99.0,percent,2019.0
+46,Health,Prevalence of down syndrome,H6_Facial Coverings,Andorra,AND,0.000571,percent,2019.0
+47,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Andorra,AND,0.046543,percent,2019.0
+51,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Andorra,AND,0.0027,percent,2019.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,Andorra,AND,20183.55759508439,per 1 million people,2019.0
+53,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Andorra,AND,3.3333,Ones,2015.0
+54,Health,Prevalence of total cancers,H6_Facial Coverings,Andorra,AND,0.037396,percent,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Andorra,AND,7.5,Cases,2019.0
+56,Health,Summary exposure value tobacco,H6_Facial Coverings,Andorra,AND,25.36384,Rate (risk-weighted prevalence),2019.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,Andorra,AND,1.228176,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,Andorra,AND,0.868,index,2019.0
+62,Governance,Serious assault (rate),H6_Facial Coverings,Andorra,AND,170.53,rate,2015.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,Andorra,AND,1.908749,score,2019.0
+68,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Andorra,AND,99.0,percent,2019.0
+69,Health,Mortality due to COVID-19,H6_Facial Coverings,Andorra,AND,80.0,"Number (cumulative total by Dec 26,2020)",2020.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,Andorra,AND,1.139154,score,2019.0
+74,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Andorra,AND,17.8244594869492,percent of total,2017.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Andorra,AND,1.615139,score,2019.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,Andorra,AND,93.0,score,2021.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,Andorra,AND,1.579939,score,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,Andorra,AND,100.0,percent of population,2018.0

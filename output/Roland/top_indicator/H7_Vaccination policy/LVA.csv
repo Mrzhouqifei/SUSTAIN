@@ -5,68 +5,68 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 5,Demographics,Secure Internet servers ,H7_Vaccination policy,Latvia,LVA,19868.37021752007,per 1 million people,2019.0
 6,Governance,Serious assault (rate),H7_Vaccination policy,Latvia,LVA,33.5,rate,2018.0
 7,Social issues ,Press freedom score,H7_Vaccination policy,Latvia,LVA,18.56,score,2020.0
-8,Environment,CO2 emissions (kt),H7_Vaccination policy,Latvia,LVA,7003.97,kt,2016.0
-9,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Latvia,LVA,227616.0,number,2019.0
-10,Environment,Electric power consumption ,H7_Vaccination policy,Latvia,LVA,3507.404520654716,kWh per capita,2014.0
-11,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Latvia,LVA,69.7659988,Percentage of total employment,2020.0
-12,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Latvia,LVA,26.6892,per 100 people,2019.0
-13,Economics,Volume of imports,H7_Vaccination policy,Latvia,LVA,3.1,percent change,2020.0
-14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Latvia,LVA,0.213861,percent,2019.0
-15,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Latvia,LVA,0.4488481,score,2019.0
-16,Environment,Renewable energy consumption ,H7_Vaccination policy,Latvia,LVA,38.0980171666829,percent of total final energy consumption,2015.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Latvia,LVA,26.0,Cases,2019.0
-18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Latvia,LVA,3.7,percent,2018.0
-19,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Latvia,LVA,3.1905,Ones,2017.0
-20,Health,Summary exposure value tobacco,H7_Vaccination policy,Latvia,LVA,26.12643,Rate (risk-weighted prevalence),2019.0
-21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Latvia,LVA,0.043602,percent,2019.0
-22,Governance,Rule of law estimate ,H7_Vaccination policy,Latvia,LVA,1.013924,score,2019.0
-23,Environment,Electricity production from oil sources,H7_Vaccination policy,Latvia,LVA,0.0180733779143322,percent of total,2015.0
+8,Environment,Electricity production from oil sources,H7_Vaccination policy,Latvia,LVA,0.0180733779143322,percent of total,2015.0
+9,Health,Prevalence of total cancers,H7_Vaccination policy,Latvia,LVA,0.024702,percent,2019.0
+10,Demographics,Fixed telephone subscriptions,H7_Vaccination policy,Latvia,LVA,227616.0,number,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Latvia,LVA,3.7,percent,2018.0
+12,Social issues ,Life Ladder ,H7_Vaccination policy,Latvia,LVA,6.0320000648498535,score,2021.0
+13,Health,"Incidence of tuberculosis (per 100,000 people)",H7_Vaccination policy,Latvia,LVA,26.0,Cases,2019.0
+14,Environment,Renewable energy consumption ,H7_Vaccination policy,Latvia,LVA,38.0980171666829,percent of total final energy consumption,2015.0
+15,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Latvia,LVA,0.213861,percent,2019.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H7_Vaccination policy,Latvia,LVA,69.7659988,Percentage of total employment,2020.0
+17,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Latvia,LVA,13.42646,micrograms per cubic meter,2017.0
+18,Health,Prevalence of Diabetes,H7_Vaccination policy,Latvia,LVA,0.071487,percent,2019.0
+19,Demographics,Fixed broadband subscriptions,H7_Vaccination policy,Latvia,LVA,26.6892,per 100 people,2019.0
+20,Environment,CO2 emissions (kt),H7_Vaccination policy,Latvia,LVA,7003.97,kt,2016.0
+21,Health,Summary exposure value tobacco,H7_Vaccination policy,Latvia,LVA,26.12643,Rate (risk-weighted prevalence),2019.0
+22,Economics,Volume of exports,H7_Vaccination policy,Latvia,LVA,1.8,percent change,2020.0
+23,Social issues ,Net migration,H7_Vaccination policy,Latvia,LVA,-74186.0,net total / data are 5 year estimates,2019.0
 24,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H7_Vaccination policy,Latvia,LVA,6.53299999,percent of total labor force,2020.0
-25,Environment,Fossil fuel energy consumption,H7_Vaccination policy,Latvia,LVA,56.71743,percent of total,2014.0
-26,Social issues ,Net migration,H7_Vaccination policy,Latvia,LVA,-74186.0,net total / data are 5 year estimates,2019.0
-27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Latvia,LVA,60.9690018,Percentage of total population,2020.0
-28,Health,Prevalence of total cancers,H7_Vaccination policy,Latvia,LVA,0.024702,percent,2019.0
-29,Governance,Total freedom in the world score ,H7_Vaccination policy,Latvia,LVA,89.0,score,2021.0
-30,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Latvia,LVA,52.0,score,2021.0
-31,Health,Prevalence of obesity,H7_Vaccination policy,Latvia,LVA,23.6,percent,2016.0
-32,Environment,Combustible renewables and waste,H7_Vaccination policy,Latvia,LVA,28.1941,percent of total energy,2014.0
-33,Governance,Personal Freedom Score ,H7_Vaccination policy,Latvia,LVA,8.78,score,2018.0
-34,Health,Mortality due to COVID-19,H7_Vaccination policy,Latvia,LVA,409.0,"Number (cumulative total by Dec 26,2020)",2020.0
-35,Environment,"PM2.5 air pollution, mean annual exposure",H7_Vaccination policy,Latvia,LVA,13.42646,micrograms per cubic meter,2017.0
-36,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Latvia,LVA,108.657,per 100 people,2019.0
-37,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Latvia,LVA,30.0,proportion,2020.0
-38,Governance,Fragile States Index Total ,H7_Vaccination policy,Latvia,LVA,42.31122746144478,score,2020.0
-39,Governance,Economic Freedom Score,H7_Vaccination policy,Latvia,LVA,7.89,score,2018.0
-41,Environment,"Energy imports, net ",H7_Vaccination policy,Latvia,LVA,45.16008774809908,percent of energy use,2014.0
-42,Health,"Prevalence of HIV, total (% of population ages 15-49)",H7_Vaccination policy,Latvia,LVA,0.5,percent,2019.0
-45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Latvia,LVA,0.160106,percent,2019.0
-46,Social issues ,Gini index (World Bank estimate),H7_Vaccination policy,Latvia,LVA,35.6,index ,2017.0
-47,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Latvia,LVA,4.68337356926135,percent of GNI,2018.0
-48,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Latvia,LVA,3.574298,metric tons per capita,2016.0
-49,Economics,Volume of exports,H7_Vaccination policy,Latvia,LVA,1.8,percent change,2020.0
-50,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Latvia,LVA,44.87,percent,2018.0
-51,Health,Prevalence of down syndrome,H7_Vaccination policy,Latvia,LVA,0.000188,percent,2019.0
-53,Social issues ,Life Ladder ,H7_Vaccination policy,Latvia,LVA,6.0320000648498535,score,2021.0
-55,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Latvia,LVA,37.0,score,2021.0
-56,Governance,Control of corruption estimate,H7_Vaccination policy,Latvia,LVA,0.4849398,score,2019.0
-58,Environment,Electricity production from coal sources ,H7_Vaccination policy,Latvia,LVA,0.0,percent of total,2015.0
-61,Environment,Electricity production from nuclear sources ,H7_Vaccination policy,Latvia,LVA,0.0,percent of total,2014.0
-63,Environment,"Electricity production from oil, gas and coal sources",H7_Vaccination policy,Latvia,LVA,49.82830290981384,percent of total,2015.0
-65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Latvia,LVA,0.051567,percent,2019.0
-66,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Latvia,LVA,89.0140461977576,percent of total,2017.0
-67,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Latvia,LVA,99.0,percent,2019.0
-69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Latvia,LVA,0.001599,percent,2019.0
-70,Health,Prevalence of Diabetes,H7_Vaccination policy,Latvia,LVA,0.071487,percent,2019.0
-72,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Latvia,LVA,4.7517,Ones,2017.0
-73,Governance,Human Development Index,H7_Vaccination policy,Latvia,LVA,0.866,index,2019.0
-74,Environment,Energy use (kg of oil equivalent per capita),H7_Vaccination policy,Latvia,LVA,2176.84330583785,kg of oil equivalent per capita,2014.0
-80,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Latvia,LVA,4.3558049657,"proportion, pero 100,000 people",2018.0
-81,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Latvia,LVA,55.3370018,Percentage of females of the total population,2020.0
-82,Governance,Voice and accountability estimate,H7_Vaccination policy,Latvia,LVA,0.8849515,score,2019.0
-84,Governance,Government effectiveness estimate,H7_Vaccination policy,Latvia,LVA,1.105028,score,2019.0
-87,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Latvia,LVA,99.0,percent,2019.0
-88,Environment,Access to electricity ,H7_Vaccination policy,Latvia,LVA,100.0,percent of population,2018.0
-90,Governance,Human Freedom Score ,H7_Vaccination policy,Latvia,LVA,8.34,score,2018.0
-91,Environment,Energy use ,H7_Vaccination policy,Latvia,LVA,85.70529646438861,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-94,Environment,"Electricity production from renewable sources, excluding hydroelectric",H7_Vaccination policy,Latvia,LVA,916000000.0,kWh,2015.0
-97,Governance,Regulatory quality estimate,H7_Vaccination policy,Latvia,LVA,1.192686,score,2019.0
+25,Environment,"Energy imports, net ",H7_Vaccination policy,Latvia,LVA,45.16008774809908,percent of energy use,2014.0
+26,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Latvia,LVA,0.043602,percent,2019.0
+27,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Latvia,LVA,55.3370018,Percentage of females of the total population,2020.0
+28,Governance,Economic Freedom Score,H7_Vaccination policy,Latvia,LVA,7.89,score,2018.0
+29,Demographics,Mobile cellular subscriptions,H7_Vaccination policy,Latvia,LVA,108.657,per 100 people,2019.0
+30,Social issues ,Proportion of seats held by women in national parliaments (%),H7_Vaccination policy,Latvia,LVA,30.0,proportion,2020.0
+31,Environment,Electricity production from coal sources ,H7_Vaccination policy,Latvia,LVA,0.0,percent of total,2015.0
+32,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Latvia,LVA,0.160106,percent,2019.0
+33,Health,Mortality due to COVID-19,H7_Vaccination policy,Latvia,LVA,409.0,"Number (cumulative total by Dec 26,2020)",2020.0
+34,Social issues ,Proportion of women in managerial positions (%),H7_Vaccination policy,Latvia,LVA,44.87,percent,2018.0
+35,Environment,"Adjusted net savings, including particulate emission damage",H7_Vaccination policy,Latvia,LVA,4.68337356926135,percent of GNI,2018.0
+36,Governance,Aggregate score for the Political Rights category,H7_Vaccination policy,Latvia,LVA,37.0,score,2021.0
+38,Health,Prevalence of down syndrome,H7_Vaccination policy,Latvia,LVA,0.000188,percent,2019.0
+39,Health,"Prevalence of HIV, total (% of population ages 15-49)",H7_Vaccination policy,Latvia,LVA,0.5,percent,2019.0
+42,Economics,Volume of imports,H7_Vaccination policy,Latvia,LVA,3.1,percent change,2020.0
+44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H7_Vaccination policy,Latvia,LVA,89.0140461977576,percent of total,2017.0
+45,Health,Prevalence of obesity,H7_Vaccination policy,Latvia,LVA,23.6,percent,2016.0
+46,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Latvia,LVA,0.001599,percent,2019.0
+47,Environment,Combustible renewables and waste,H7_Vaccination policy,Latvia,LVA,28.1941,percent of total energy,2014.0
+48,Health,"Immunization, DPT (% of children ages 12-23 months)",H7_Vaccination policy,Latvia,LVA,99.0,percent,2019.0
+49,Governance,Political stability and absence of violence/terrorism estimate,H7_Vaccination policy,Latvia,LVA,0.4488481,score,2019.0
+50,Governance,Personal Freedom Score ,H7_Vaccination policy,Latvia,LVA,8.78,score,2018.0
+51,Governance,Human Freedom Score ,H7_Vaccination policy,Latvia,LVA,8.34,score,2018.0
+52,Social issues ,Gini index (World Bank estimate),H7_Vaccination policy,Latvia,LVA,35.6,index ,2017.0
+53,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H7_Vaccination policy,Latvia,LVA,60.9690018,Percentage of total population,2020.0
+54,Environment,Access to electricity ,H7_Vaccination policy,Latvia,LVA,100.0,percent of population,2018.0
+55,Governance,Rule of law estimate ,H7_Vaccination policy,Latvia,LVA,1.013924,score,2019.0
+56,Environment,"Electricity production from oil, gas and coal sources",H7_Vaccination policy,Latvia,LVA,49.82830290981384,percent of total,2015.0
+59,Governance,Fragile States Index Total ,H7_Vaccination policy,Latvia,LVA,42.31122746144478,score,2020.0
+62,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Latvia,LVA,0.051567,percent,2019.0
+63,Health,"Immunization, measles (% of children ages 12-23 months)",H7_Vaccination policy,Latvia,LVA,99.0,percent,2019.0
+64,Governance,Government effectiveness estimate,H7_Vaccination policy,Latvia,LVA,1.105028,score,2019.0
+65,Health,"Physicians (per 1,000 people)",H7_Vaccination policy,Latvia,LVA,3.1905,Ones,2017.0
+66,Environment,Electric power consumption ,H7_Vaccination policy,Latvia,LVA,3507.404520654716,kWh per capita,2014.0
+68,Governance,Voice and accountability estimate,H7_Vaccination policy,Latvia,LVA,0.8849515,score,2019.0
+69,Social issues ,"Intentional homicides (per 100,000 people)",H7_Vaccination policy,Latvia,LVA,4.3558049657,"proportion, pero 100,000 people",2018.0
+71,Governance,Aggregate score for the Civil Liberties category,H7_Vaccination policy,Latvia,LVA,52.0,score,2021.0
+74,Environment,Fossil fuel energy consumption,H7_Vaccination policy,Latvia,LVA,56.71743,percent of total,2014.0
+75,Health,"Nurses and midwives (per 1,000 people)",H7_Vaccination policy,Latvia,LVA,4.7517,Ones,2017.0
+76,Environment,Electricity production from nuclear sources ,H7_Vaccination policy,Latvia,LVA,0.0,percent of total,2014.0
+77,Environment,Energy use ,H7_Vaccination policy,Latvia,LVA,85.70529646438861,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+79,Governance,Regulatory quality estimate,H7_Vaccination policy,Latvia,LVA,1.192686,score,2019.0
+82,Governance,Control of corruption estimate,H7_Vaccination policy,Latvia,LVA,0.4849398,score,2019.0
+83,Environment,CO2 emissions (metric tons per capita),H7_Vaccination policy,Latvia,LVA,3.574298,metric tons per capita,2016.0
+84,Governance,Total freedom in the world score ,H7_Vaccination policy,Latvia,LVA,89.0,score,2021.0
+85,Environment,Energy use (kg of oil equivalent per capita),H7_Vaccination policy,Latvia,LVA,2176.84330583785,kg of oil equivalent per capita,2014.0
+90,Environment,"Electricity production from renewable sources, excluding hydroelectric",H7_Vaccination policy,Latvia,LVA,916000000.0,kWh,2015.0
+96,Governance,Human Development Index,H7_Vaccination policy,Latvia,LVA,0.866,index,2019.0

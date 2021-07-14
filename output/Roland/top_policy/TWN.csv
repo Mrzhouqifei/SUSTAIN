@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-TWN,C3_Cancel public events,0.09294103765091707,1
-TWN,H1_Public information campaigns,0.090388120342675,2
-TWN,C7_Restrictions on internal movement,0.0886742424018604,3
-TWN,H6_Facial Coverings,0.07626741128662014,4
-TWN,C1_School closing,0.07206130841830087,5
-TWN,E2_Debt/contract relief,0.07089065848635755,6
-TWN,E1_Income support,0.0706173309644983,7
-TWN,H7_Vaccination policy,0.06808866718803329,8
-TWN,C8_International travel controls,0.06131365083091499,9
-TWN,H2_Testing policy,0.04666490557007129,10
-TWN,C2_Workplace closing,0.0339410503642536,11
-TWN,C6_Stay at home requirements,0.022237823389683945,12
-TWN,H3_Contact tracing,0.021201468612100854,13
-TWN,C5_Close public transport,0.004891702404009849,14
+TWN,C6_Stay at home requirements,0.1094308868403578,1
+TWN,H1_Public information campaigns,0.1018349725199638,2
+TWN,C7_Restrictions on internal movement,0.0845448922874771,3
+TWN,H6_Facial Coverings,0.0776936201942823,4
+TWN,C1_School closing,0.0773072046980272,5
+TWN,E2_Debt/contract relief,0.0749100690697734,6
+TWN,C3_Cancel public events,0.0719579243402878,7
+TWN,E1_Income support,0.0657812188647734,8
+TWN,H7_Vaccination policy,0.0503181766873227,9
+TWN,C8_International travel controls,0.0455148435921392,10
+TWN,C2_Workplace closing,0.039529839847994,11
+TWN,H2_Testing policy,0.0381927359702678,12
+TWN,H3_Contact tracing,0.018222324082136,13
+TWN,C5_Close public transport,0.0003079134979007,14
 TWN,C4_Restrictions on gatherings,0.0,15

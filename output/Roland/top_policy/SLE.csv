@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SLE,H6_Facial Coverings,0.1343199223741911,1
-SLE,C1_School closing,0.11325643350023265,2
-SLE,C2_Workplace closing,0.0962324016786648,3
-SLE,C5_Close public transport,0.08929033633227176,4
-SLE,C8_International travel controls,0.08448660428796631,5
-SLE,H7_Vaccination policy,0.07400944791970229,6
-SLE,C7_Restrictions on internal movement,0.052650520269102656,7
-SLE,E2_Debt/contract relief,0.0474231025900535,8
-SLE,C6_Stay at home requirements,0.04638714224775558,9
-SLE,H3_Contact tracing,0.03943514990668054,10
-SLE,C3_Cancel public events,0.039332239528522835,11
-SLE,C4_Restrictions on gatherings,0.03680999745918903,12
-SLE,H1_Public information campaigns,0.029688145812936613,13
-SLE,H2_Testing policy,0.024029961205703426,14
-SLE,E1_Income support,0.011491225636871476,15
+SLE,H6_Facial Coverings,0.1210896636469788,1
+SLE,C1_School closing,0.0891108353992371,2
+SLE,C2_Workplace closing,0.0828383073081509,3
+SLE,C5_Close public transport,0.0773671376317974,4
+SLE,C8_International travel controls,0.0755401290935112,5
+SLE,H7_Vaccination policy,0.0689042435064998,6
+SLE,C7_Restrictions on internal movement,0.0678998654914276,7
+SLE,E2_Debt/contract relief,0.0586784968929658,8
+SLE,C6_Stay at home requirements,0.051505469391027,9
+SLE,C4_Restrictions on gatherings,0.049849387569646,10
+SLE,H3_Contact tracing,0.0453317431512847,11
+SLE,C3_Cancel public events,0.0398676908676321,12
+SLE,H1_Public information campaigns,0.0343642982573087,13
+SLE,H2_Testing policy,0.0336217070705225,14
+SLE,E1_Income support,0.0,15

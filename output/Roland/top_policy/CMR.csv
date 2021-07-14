@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-CMR,H3_Contact tracing,0.11486166916199232,1
-CMR,H1_Public information campaigns,0.11466225716205312,2
-CMR,C2_Workplace closing,0.08550775690359637,3
-CMR,E2_Debt/contract relief,0.07473007559665082,4
-CMR,C3_Cancel public events,0.07247665575481403,5
-CMR,C8_International travel controls,0.07033569309578509,6
-CMR,E1_Income support,0.05888561398339533,7
-CMR,H2_Testing policy,0.05697508830354765,8
-CMR,C1_School closing,0.054519875729655456,9
-CMR,C5_Close public transport,0.054255408143705205,10
-CMR,H6_Facial Coverings,0.032800821618855815,11
-CMR,C7_Restrictions on internal movement,0.024298934026026158,12
-CMR,C6_Stay at home requirements,0.018635477466107647,13
+CMR,H3_Contact tracing,0.1148616691619923,1
+CMR,H1_Public information campaigns,0.1146622571620531,2
+CMR,C2_Workplace closing,0.0855077569035963,3
+CMR,E2_Debt/contract relief,0.0747300755966508,4
+CMR,C3_Cancel public events,0.072476655754814,5
+CMR,C8_International travel controls,0.070335693095785,6
+CMR,E1_Income support,0.0588856139833953,7
+CMR,H2_Testing policy,0.0569750883035476,8
+CMR,C1_School closing,0.0545198757296554,9
+CMR,C5_Close public transport,0.0542554081437052,10
+CMR,H6_Facial Coverings,0.0328008216188558,11
+CMR,C7_Restrictions on internal movement,0.0242989340260261,12
+CMR,C6_Stay at home requirements,0.0186354774661076,13
 CMR,C4_Restrictions on gatherings,0.00888762537424,14
 CMR,H7_Vaccination policy,0.0,15

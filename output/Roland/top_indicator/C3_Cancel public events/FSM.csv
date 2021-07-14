@@ -1,58 +1,58 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Micronesia,FSM,35.3041,percent of population,2019.0
-2,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Micronesia,FSM,88.3093315478836,proportion,2017.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,Micronesia,FSM,-0.9603013,score,2019.0
-5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Micronesia,FSM,37.0,score,2021.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Micronesia,FSM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Micronesia,FSM,143.013,kt,2016.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,Micronesia,FSM,0.00017,percent,2019.0
-13,Social issues ,Net migration,C3_Cancel public events,Micronesia,FSM,-2999.0,net total / data are 5 year estimates,2019.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Micronesia,FSM,3.38779,per 100 people,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Micronesia,FSM,0.041918,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Micronesia,FSM,0.001935,percent,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Micronesia,FSM,100.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Micronesia,FSM,20.7377,per 100 people,2019.0
-20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Micronesia,FSM,78.0,percent,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Micronesia,FSM,2.0426,Ones,2018.0
-23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Micronesia,FSM,3.3,percent,2018.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,Micronesia,FSM,210.8685146948996,per 1 million people,2019.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,Micronesia,FSM,-0.1870816,score,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,Micronesia,FSM,25.30581,Rate (risk-weighted prevalence),2019.0
-31,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Micronesia,FSM,20.26,percent,2014.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Micronesia,FSM,0.414042,percent,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Micronesia,FSM,0.9964124,score,2019.0
-39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Micronesia,FSM,0.0,proportion,2020.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Micronesia,FSM,0.096116,percent,2019.0
-44,Demographics,Rural population (% of total population),C3_Cancel public events,Micronesia,FSM,77.188,proportion,2019.0
-50,Economics,Unemployment rate (%) - Annual,C3_Cancel public events,Micronesia,FSM,9.1,percent,2014.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Micronesia,FSM,1.297582,metric tons per capita,2016.0
-53,Governance,Human Development Index,C3_Cancel public events,Micronesia,FSM,0.62,index,2019.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,Micronesia,FSM,0.7497162,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,Micronesia,FSM,82.099723815918,percent of population,2018.0
-60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Micronesia,FSM,11.2834,micrograms per cubic meter,2017.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Micronesia,FSM,0.028717,percent,2019.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Micronesia,FSM,6947.0,number,2019.0
-63,Governance,Fragile States Index Total ,C3_Cancel public events,Micronesia,FSM,71.23563007855653,score,2020.0
-64,Health,Prevalence of obesity,C3_Cancel public events,Micronesia,FSM,45.8,percent,2016.0
-66,Governance,Total freedom in the world score ,C3_Cancel public events,Micronesia,FSM,92.0,score,2021.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,Micronesia,FSM,0.0241157,score,2019.0
-68,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,Micronesia,FSM,6.515387346058272,proportion,2019.0
-69,Demographics,Urban population (% of total population),C3_Cancel public events,Micronesia,FSM,22.812,total,2019.0
-70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Micronesia,FSM,78.0,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Micronesia,FSM,6947.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Micronesia,FSM,0.414042,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Micronesia,FSM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,Micronesia,FSM,0.0241157,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Micronesia,FSM,100.0,Cases,2019.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,Micronesia,FSM,0.041918,percent,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Micronesia,FSM,3.38779,per 100 people,2019.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Micronesia,FSM,1.19623786232284,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,Micronesia,FSM,-0.1870816,score,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,Micronesia,FSM,0.105494,percent,2019.0
+15,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Micronesia,FSM,88.4534301757813,proportion,2019.0
+16,Social issues ,Net migration,C3_Cancel public events,Micronesia,FSM,-2999.0,net total / data are 5 year estimates,2019.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,Micronesia,FSM,210.8685146948996,per 1 million people,2019.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Micronesia,FSM,0.001935,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,Micronesia,FSM,0.028717,percent,2019.0
+22,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Micronesia,FSM,3.3,percent,2018.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,Micronesia,FSM,0.00017,percent,2019.0
+27,Economics,"Central government debt, total",C3_Cancel public events,Micronesia,FSM,25.39177741153753,percent of GDP,2016.0
+28,Governance,Fragile States Index Total ,C3_Cancel public events,Micronesia,FSM,71.23563007855653,score,2020.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Micronesia,FSM,99.9999999837514,percent of total,2017.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Micronesia,FSM,20.7377,per 100 people,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Micronesia,FSM,0.096116,percent,2019.0
+37,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Micronesia,FSM,2.0426,Ones,2018.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,Micronesia,FSM,1.094265,score,2019.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Micronesia,FSM,78.0,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,Micronesia,FSM,25.30581,Rate (risk-weighted prevalence),2019.0
+45,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Micronesia,FSM,11.2834,micrograms per cubic meter,2017.0
+46,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,Micronesia,FSM,55.39581114660987,proportion,2019.0
+49,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Micronesia,FSM,37.0,score,2021.0
+52,Governance,Human Development Index,C3_Cancel public events,Micronesia,FSM,0.62,index,2019.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,Micronesia,FSM,0.7497162,score,2019.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,Micronesia,FSM,0.006194,percent,2019.0
+59,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Micronesia,FSM,20.26,percent,2014.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Micronesia,FSM,0.9964124,score,2019.0
+61,Demographics,Urban population (% of total population),C3_Cancel public events,Micronesia,FSM,22.812,total,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,Micronesia,FSM,-0.9603013,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Micronesia,FSM,143.013,kt,2016.0
+68,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C3_Cancel public events,Micronesia,FSM,3.5,rating,2019.0
+69,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Micronesia,FSM,0.0,proportion,2020.0
 71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,Micronesia,FSM,55.0,score,2021.0
-72,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,Micronesia,FSM,55.39581114660987,proportion,2019.0
-73,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Micronesia,FSM,88.4534301757813,proportion,2019.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,Micronesia,FSM,0.006194,percent,2019.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Micronesia,FSM,1.19623786232284,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,Micronesia,FSM,1.094265,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Micronesia,FSM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-81,Economics,"Trade, total as % of GDP",C3_Cancel public events,Micronesia,FSM,60.89328,percent,2018.0
-82,Economics,"Central government debt, total",C3_Cancel public events,Micronesia,FSM,25.39177741153753,percent of GDP,2016.0
-87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Micronesia,FSM,99.9999999837514,percent of total,2017.0
-92,Economics,"Foreign direct investment, net",C3_Cancel public events,Micronesia,FSM,800000.0,US Dollar,2015.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,Micronesia,FSM,0.105494,percent,2019.0
-97,Demographics,"Population, total",C3_Cancel public events,Micronesia,FSM,113815.0,total,2019.0
-99,Economics,"International tourism, receipts",C3_Cancel public events,Micronesia,FSM,25000000.0,US Dollar,2015.0
-101,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,Micronesia,FSM,15.7,percent per annum,2018.0
-113,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Micronesia,FSM,5.0,proportion,2016.0
-115,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C3_Cancel public events,Micronesia,FSM,3.5,rating,2019.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Micronesia,FSM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Micronesia,FSM,78.0,percent,2019.0
+80,Health,Prevalence of obesity,C3_Cancel public events,Micronesia,FSM,45.8,percent,2016.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Micronesia,FSM,1.297582,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,Micronesia,FSM,82.099723815918,percent of population,2018.0
+87,Economics,Unemployment rate (%) - Annual,C3_Cancel public events,Micronesia,FSM,9.1,percent,2014.0
+88,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Micronesia,FSM,88.3093315478836,proportion,2017.0
+90,Economics,"Trade, total as % of GDP",C3_Cancel public events,Micronesia,FSM,60.89328,percent,2018.0
+93,Governance,Total freedom in the world score ,C3_Cancel public events,Micronesia,FSM,92.0,score,2021.0
+94,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Micronesia,FSM,5.0,proportion,2016.0
+96,Economics,"International tourism, receipts",C3_Cancel public events,Micronesia,FSM,25000000.0,US Dollar,2015.0
+97,Economics,"Foreign direct investment, net",C3_Cancel public events,Micronesia,FSM,800000.0,US Dollar,2015.0
+105,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,Micronesia,FSM,15.7,percent per annum,2018.0
+108,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,Micronesia,FSM,6.515387346058272,proportion,2019.0
+116,Demographics,"Population, total",C3_Cancel public events,Micronesia,FSM,113815.0,total,2019.0
+117,Demographics,Rural population (% of total population),C3_Cancel public events,Micronesia,FSM,77.188,proportion,2019.0

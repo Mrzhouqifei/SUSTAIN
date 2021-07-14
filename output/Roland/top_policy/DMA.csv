@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-DMA,H7_Vaccination policy,0.12262664200233366,1
-DMA,C3_Cancel public events,0.08458644435497302,2
-DMA,E1_Income support,0.07841769355667516,3
-DMA,H2_Testing policy,0.07302362799668974,4
-DMA,H6_Facial Coverings,0.07230924119580205,5
-DMA,C4_Restrictions on gatherings,0.07087525167481176,6
-DMA,C1_School closing,0.06717650037755207,7
-DMA,C8_International travel controls,0.06094002303511434,8
-DMA,E2_Debt/contract relief,0.0583992064354864,9
-DMA,C5_Close public transport,0.0565808123675234,10
-DMA,C7_Restrictions on internal movement,0.04987462207771858,11
-DMA,H3_Contact tracing,0.04179208375400103,12
-DMA,H1_Public information campaigns,0.027100647465174682,13
-DMA,C2_Workplace closing,0.020617085799185482,14
-DMA,C6_Stay at home requirements,0.0,15
+DMA,H7_Vaccination policy,0.097443774320387,1
+DMA,C3_Cancel public events,0.0951561220155104,2
+DMA,E1_Income support,0.0866848958191336,3
+DMA,H2_Testing policy,0.0713410555962797,4
+DMA,H6_Facial Coverings,0.0682369108671311,5
+DMA,C8_International travel controls,0.0660369170337712,6
+DMA,C1_School closing,0.0636291358704915,7
+DMA,E2_Debt/contract relief,0.0605436387677828,8
+DMA,C5_Close public transport,0.0555250690371646,9
+DMA,C6_Stay at home requirements,0.0487141962897455,10
+DMA,C4_Restrictions on gatherings,0.0461868099111291,11
+DMA,H3_Contact tracing,0.0377391114638442,12
+DMA,H1_Public information campaigns,0.0301894312879432,13
+DMA,C2_Workplace closing,0.0283930633753452,14
+DMA,C7_Restrictions on internal movement,0.0226604340222479,15

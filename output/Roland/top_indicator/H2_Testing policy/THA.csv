@@ -1,106 +1,106 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H2_Testing policy,Thailand,THA,66.6524,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H2_Testing policy,Thailand,THA,0.318023,percent,2019.0
-3,Demographics,Fixed telephone subscriptions,H2_Testing policy,Thailand,THA,2614000.0,number,2019.0
-4,Health,Prevalence of COVID-19,H2_Testing policy,Thailand,THA,4297.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Thailand,THA,0.001725,percent,2019.0
+3,Health,Prevalence of COVID-19,H2_Testing policy,Thailand,THA,4297.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Fixed telephone subscriptions,H2_Testing policy,Thailand,THA,2614000.0,number,2019.0
+5,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Thailand,THA,100.0,percent of total,2017.0
 6,Environment,Electricity production from oil sources,H2_Testing policy,Thailand,THA,0.5704320432043205,percent of total,2015.0
-7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Thailand,THA,2.9,percent,2018.0
-8,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Thailand,THA,2.7593,Ones,2018.0
-9,Demographics,Fixed broadband subscriptions,H2_Testing policy,Thailand,THA,14.5188,per 100 people,2019.0
-10,Environment,Electricity production from coal sources ,H2_Testing policy,Thailand,THA,19.4543204320432,percent of total,2015.0
-11,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H2_Testing policy,Thailand,THA,93.7677612304688,proportion,2018.0
-12,Economics,Volume of imports,H2_Testing policy,Thailand,THA,5.844,percent change,2020.0
-13,Governance,Government effectiveness estimate,H2_Testing policy,Thailand,THA,0.3570563,score,2019.0
-14,Environment,Combustible renewables and waste,H2_Testing policy,Thailand,THA,12.05166,percent of total energy,2014.0
-15,Health,Prevalence of total cancers,H2_Testing policy,Thailand,THA,0.00967,percent,2019.0
-16,Governance,Control of corruption estimate,H2_Testing policy,Thailand,THA,-0.4073985,score,2019.0
-17,Demographics,Mobile cellular subscriptions,H2_Testing policy,Thailand,THA,186.159,per 100 people,2019.0
-18,Economics,Employment in services (% of total employment) (modeled ILO estimate),H2_Testing policy,Thailand,THA,46.3250008,Percentage of total employment,2020.0
-19,Environment,Electricity production from nuclear sources ,H2_Testing policy,Thailand,THA,0.0,percent of total,2014.0
-20,Social issues ,Net migration,H2_Testing policy,Thailand,THA,97222.0,net total / data are 5 year estimates,2019.0
-21,Health,Prevalence of down syndrome,H2_Testing policy,Thailand,THA,0.000104,percent,2019.0
-22,Social issues ,Gini index (World Bank estimate),H2_Testing policy,Thailand,THA,36.4,index ,2018.0
-23,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Thailand,THA,4.114223,metric tons per capita,2016.0
-24,Health,Mortality due to COVID-19,H2_Testing policy,Thailand,THA,60.0,"Number (cumulative total by Dec 26,2020)",2020.0
-25,Environment,Energy use ,H2_Testing policy,Thailand,THA,124.0716111294026,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-26,Health,Prevalence of chronic kidney disease,H2_Testing policy,Thailand,THA,0.166682,percent,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Thailand,THA,2.5820036484,"proportion, pero 100,000 people",2017.0
-28,Health,"Physicians (per 1,000 people)",H2_Testing policy,Thailand,THA,0.805,Ones,2018.0
+7,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Thailand,THA,150.0,Cases,2019.0
+8,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Thailand,THA,96.0,percent,2019.0
+9,Social issues ,Proportion of women in managerial positions (%),H2_Testing policy,Thailand,THA,33.91,percent,2018.0
+10,Governance,Control of corruption estimate,H2_Testing policy,Thailand,THA,-0.4073985,score,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Thailand,THA,2.9,percent,2018.0
+12,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H2_Testing policy,Thailand,THA,93.7677612304688,proportion,2018.0
+13,Social issues ,Net migration,H2_Testing policy,Thailand,THA,97222.0,net total / data are 5 year estimates,2019.0
+14,Demographics,Mobile cellular subscriptions,H2_Testing policy,Thailand,THA,186.159,per 100 people,2019.0
+15,Economics,"Central government debt, total",H2_Testing policy,Thailand,THA,35.27396297425183,percent of GDP,2015.0
+16,Demographics,Fixed broadband subscriptions,H2_Testing policy,Thailand,THA,14.5188,per 100 people,2019.0
+17,Governance,Rule of law estimate ,H2_Testing policy,Thailand,THA,0.1028816,score,2019.0
+18,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Thailand,THA,2.5820036484,"proportion, pero 100,000 people",2017.0
+19,Social issues ,Proportion of people living below 50 percent of median income (%),H2_Testing policy,Thailand,THA,11.3,proportion,2018.0
+21,Health,Prevalence of chronic kidney disease,H2_Testing policy,Thailand,THA,0.166682,percent,2019.0
+22,Governance,Serious assault (rate),H2_Testing policy,Thailand,THA,13.31,rate,2018.0
+23,Economics,Employment in services (% of total employment) (modeled ILO estimate),H2_Testing policy,Thailand,THA,46.3250008,Percentage of total employment,2020.0
+24,Health,Prevalence of Diabetes,H2_Testing policy,Thailand,THA,0.070922,percent,2019.0
+25,Health,Prevalence of down syndrome,H2_Testing policy,Thailand,THA,0.000104,percent,2019.0
+26,Social issues ,Gini index (World Bank estimate),H2_Testing policy,Thailand,THA,36.4,index ,2018.0
+27,Environment,Fossil fuel energy consumption,H2_Testing policy,Thailand,THA,79.83902,percent of total,2014.0
+28,Health,Summary exposure value tobacco,H2_Testing policy,Thailand,THA,18.28799,Rate (risk-weighted prevalence),2019.0
 29,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H2_Testing policy,Thailand,THA,58.9179993,Percentage of females of the total population,2020.0
-30,Demographics,Age dependency ratio (% of working-age population),H2_Testing policy,Thailand,THA,41.30238573461192,proportion,2019.0
+30,Economics,Expenditure on social protection (% of GDP),H2_Testing policy,Thailand,THA,3.07589,percent,2019.0
 31,Demographics,Secure Internet servers ,H2_Testing policy,Thailand,THA,1403.808732255911,per 1 million people,2019.0
-32,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H2_Testing policy,Thailand,THA,32113.5,international $ in PPP,2020.0
-33,Health,Prevalence of anxiety disorders,H2_Testing policy,Thailand,THA,0.039603,percent,2019.0
-34,Health,Prevalence of obesity,H2_Testing policy,Thailand,THA,14.2,percent,2016.0
+32,Environment,"Energy imports, net ",H2_Testing policy,Thailand,THA,41.56815174142518,percent of energy use,2014.0
+33,Governance,Economic Freedom Score,H2_Testing policy,Thailand,THA,6.75,score,2018.0
+34,Health,"Physicians (per 1,000 people)",H2_Testing policy,Thailand,THA,0.805,Ones,2018.0
 35,Environment,"Adjusted net savings, including particulate emission damage",H2_Testing policy,Thailand,THA,15.038305785651,percent of GNI,2018.0
-36,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Thailand,THA,96.0,percent,2019.0
-37,Demographics,Fixed telephone (per 100 people),H2_Testing policy,Thailand,THA,4.21873,per 100 population,2018.0
-38,Governance,Serious assault (rate),H2_Testing policy,Thailand,THA,13.31,rate,2018.0
-39,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Thailand,THA,97.0,percent,2019.0
-40,Health,"Prevalence of HIV, total (% of population ages 15-49)",H2_Testing policy,Thailand,THA,1.0,percent,2019.0
-41,Economics,Volume of exports,H2_Testing policy,Thailand,THA,4.317,percent change,2020.0
-42,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H2_Testing policy,Thailand,THA,0.80299997,percent of total labor force,2020.0
-43,Social issues ,"Primary completion rate, total (% of relevant age group)",H2_Testing policy,Thailand,THA,94.411376953125,proportion,2019.0
-44,Environment,Fossil fuel energy consumption,H2_Testing policy,Thailand,THA,79.83902,percent of total,2014.0
-45,Environment,Renewable energy consumption ,H2_Testing policy,Thailand,THA,22.8630701280756,percent of total final energy consumption,2015.0
-46,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Thailand,THA,5.0,score,2021.0
-47,Environment,"Electricity production from renewable sources, excluding hydroelectric",H2_Testing policy,Thailand,THA,10439000000.0,kWh,2015.0
-48,Governance,Rule of law estimate ,H2_Testing policy,Thailand,THA,0.1028816,score,2019.0
-49,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H2_Testing policy,Thailand,THA,12.3,percent,2020.0
-50,Health,Prevalence of Depressive disorders,H2_Testing policy,Thailand,THA,0.036951,percent,2019.0
-51,Governance,Total freedom in the world score ,H2_Testing policy,Thailand,THA,30.0,score,2021.0
-52,Economics,"Central government debt, total",H2_Testing policy,Thailand,THA,35.27396297425183,percent of GDP,2015.0
-53,Social issues ,Proportion of women in managerial positions (%),H2_Testing policy,Thailand,THA,33.91,percent,2018.0
-54,Governance,Fragile States Index Total ,H2_Testing policy,Thailand,THA,70.81357974524154,score,2020.0
-55,Environment,CO2 emissions (kt),H2_Testing policy,Thailand,THA,283763.5,kt,2016.0
-56,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Thailand,THA,26.25673,micrograms per cubic meter,2017.0
-57,Social issues ,Life Ladder ,H2_Testing policy,Thailand,THA,5.9847002029418945,score,2021.0
-58,Social issues ,Proportion of seats held by women in national parliaments (%),H2_Testing policy,Thailand,THA,15.74642127,proportion,2020.0
-59,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Thailand,THA,150.0,Cases,2019.0
-60,Governance,Human Development Index,H2_Testing policy,Thailand,THA,0.777,index,2019.0
-63,Governance,Economic Freedom Score,H2_Testing policy,Thailand,THA,6.75,score,2018.0
-64,Governance,Corruption Perceptions Index,H2_Testing policy,Thailand,THA,36.0,score,2020.0
-65,Governance,Regulatory quality estimate,H2_Testing policy,Thailand,THA,0.116105,score,2019.0
-66,Economics,"International tourism, receipts",H2_Testing policy,Thailand,THA,60521000000.0,US Dollar,2019.0
-68,Governance,Human Freedom Score ,H2_Testing policy,Thailand,THA,6.37,score,2018.0
-69,Environment,Electric power consumption ,H2_Testing policy,Thailand,THA,2538.796380353639,kWh per capita,2014.0
-72,Environment,Access to electricity ,H2_Testing policy,Thailand,THA,100.0,percent of population,2018.0
-73,Health,Prevalence of Diabetes,H2_Testing policy,Thailand,THA,0.070922,percent,2019.0
-74,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H2_Testing policy,Thailand,THA,9.2,percent,2020.0
-75,Social issues ,Proportion of people living below 50 percent of median income (%),H2_Testing policy,Thailand,THA,11.3,proportion,2018.0
-76,Economics,"Lending interest rates, percent per annum",H2_Testing policy,Thailand,THA,4.08417,percent per annum,2019.0
-77,Governance,Voice and accountability estimate,H2_Testing policy,Thailand,THA,-0.8272713,score,2019.0
-78,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H2_Testing policy,Thailand,THA,2.22008872032165,proportion,2017.0
-79,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Thailand,THA,25.0,score,2021.0
-80,Health,Summary exposure value tobacco,H2_Testing policy,Thailand,THA,18.28799,Rate (risk-weighted prevalence),2019.0
-81,Environment,"Energy imports, net ",H2_Testing policy,Thailand,THA,41.56815174142518,percent of energy use,2014.0
-83,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H2_Testing policy,Thailand,THA,67.0370026,Percentage of total population,2020.0
-84,Demographics,People with basic handwashing facilities including soap and water (% of population),H2_Testing policy,Thailand,THA,83.9233581954672,proportion,2017.0
-85,Demographics,Mobile cellular (per 100 people),H2_Testing policy,Thailand,THA,180.1826,per 100 population,2018.0
-86,Environment,"Electricity production from oil, gas and coal sources",H2_Testing policy,Thailand,THA,91.46152115211521,percent of total,2015.0
-87,Economics,Expenditure on social protection (% of GDP),H2_Testing policy,Thailand,THA,3.07589,percent,2019.0
-88,Environment,Energy use (kg of oil equivalent per capita),H2_Testing policy,Thailand,THA,1969.00171876363,kg of oil equivalent per capita,2014.0
-89,Economics,Stock market capitalization (US$ million),H2_Testing policy,Thailand,THA,569228320000.0,US Dollar,2019.0
-90,Demographics,Rural population (% of total population),H2_Testing policy,Thailand,THA,49.308,proportion,2019.0
-91,Social issues ,Press freedom score,H2_Testing policy,Thailand,THA,44.94,score,2020.0
-92,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Thailand,THA,-0.5375581,score,2019.0
-93,Demographics,People using at least basic sanitation services (% of population),H2_Testing policy,Thailand,THA,98.7507346105258,proportion,2017.0
-94,Demographics,"Population, total",H2_Testing policy,Thailand,THA,69625582.0,total,2019.0
-95,Governance,Personal Freedom Score ,H2_Testing policy,Thailand,THA,5.98,score,2018.0
-96,Economics,"Foreign direct investment, net",H2_Testing policy,Thailand,THA,6315808260.0,US Dollar,2019.0
-97,Demographics,Urban population (% of total population),H2_Testing policy,Thailand,THA,50.692,total,2019.0
-98,Economics,Starting a Business (Score),H2_Testing policy,Thailand,THA,92.4,Score,2019.0
-99,Demographics,Internet users (per 100 people),H2_Testing policy,Thailand,THA,56.81748,per 100 population,2018.0
-102,Demographics,Age dependency ratio,H2_Testing policy,Thailand,THA,41.30241,percent of total population,2019.0
-103,Demographics,"Age dependency ratio, old (% of working-age population)",H2_Testing policy,Thailand,THA,17.53032770331833,proportion,2019.0
-104,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H2_Testing policy,Thailand,THA,14.9390001296997,proportion,2018.0
-106,Economics,"Trade, total as % of GDP",H2_Testing policy,Thailand,THA,84.49826,percent,2019.0
-108,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Thailand,THA,100.0,percent of total,2017.0
-109,Demographics,"Net migration rate, per 1000 population",H2_Testing policy,Thailand,THA,0.281,per thousand persons,2015.0
-110,Economics,Expenditure on education (% of GDP),H2_Testing policy,Thailand,THA,2.96895,percent,2019.0
-111,Economics,Expenditure on health (% of GDP),H2_Testing policy,Thailand,THA,1.29822,percent,2019.0
-113,Social issues ,Progression to secondary school (%),H2_Testing policy,Thailand,THA,98.49383,proportion,2017.0
-114,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H2_Testing policy,Thailand,THA,0.0,proportion,2017.0
-115,Economics,Growth rates of household expenditure or income per capita (%),H2_Testing policy,Thailand,THA,1.0,percent,2018.0
-116,Demographics,Refugee population by country or territory of asylum,H2_Testing policy,Thailand,THA,97556.0,proportion,2019.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Thailand,THA,26.25673,micrograms per cubic meter,2017.0
+37,Health,Prevalence of anxiety disorders,H2_Testing policy,Thailand,THA,0.039603,percent,2019.0
+38,Environment,Electricity production from coal sources ,H2_Testing policy,Thailand,THA,19.4543204320432,percent of total,2015.0
+39,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Thailand,THA,0.001725,percent,2019.0
+40,Health,Prevalence of Depressive disorders,H2_Testing policy,Thailand,THA,0.036951,percent,2019.0
+41,Economics,Stock market capitalization (US$ million),H2_Testing policy,Thailand,THA,569228320000.0,US Dollar,2019.0
+42,Environment,Electricity production from nuclear sources ,H2_Testing policy,Thailand,THA,0.0,percent of total,2014.0
+43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H2_Testing policy,Thailand,THA,0.80299997,percent of total labor force,2020.0
+44,Environment,"Electricity production from renewable sources, excluding hydroelectric",H2_Testing policy,Thailand,THA,10439000000.0,kWh,2015.0
+46,Health,"Prevalence of HIV, total (% of population ages 15-49)",H2_Testing policy,Thailand,THA,1.0,percent,2019.0
+47,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Thailand,THA,97.0,percent,2019.0
+48,Governance,Corruption Perceptions Index,H2_Testing policy,Thailand,THA,36.0,score,2020.0
+49,Economics,Volume of imports,H2_Testing policy,Thailand,THA,5.844,percent change,2020.0
+50,Environment,Energy use ,H2_Testing policy,Thailand,THA,124.0716111294026,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+51,Environment,"Electricity production from oil, gas and coal sources",H2_Testing policy,Thailand,THA,91.46152115211521,percent of total,2015.0
+52,Governance,Total freedom in the world score ,H2_Testing policy,Thailand,THA,30.0,score,2021.0
+53,Governance,Fragile States Index Total ,H2_Testing policy,Thailand,THA,70.81357974524154,score,2020.0
+54,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Thailand,THA,25.0,score,2021.0
+55,Environment,Combustible renewables and waste,H2_Testing policy,Thailand,THA,12.05166,percent of total energy,2014.0
+56,Governance,Human Freedom Score ,H2_Testing policy,Thailand,THA,6.37,score,2018.0
+57,Demographics,Age dependency ratio (% of working-age population),H2_Testing policy,Thailand,THA,41.30238573461192,proportion,2019.0
+58,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H2_Testing policy,Thailand,THA,9.2,percent,2020.0
+60,Economics,Volume of exports,H2_Testing policy,Thailand,THA,4.317,percent change,2020.0
+61,Governance,Regulatory quality estimate,H2_Testing policy,Thailand,THA,0.116105,score,2019.0
+62,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Thailand,THA,4.114223,metric tons per capita,2016.0
+63,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",H2_Testing policy,Thailand,THA,14.9390001296997,proportion,2018.0
+65,Health,Prevalence of total cancers,H2_Testing policy,Thailand,THA,0.00967,percent,2019.0
+66,Health,Prevalence of obesity,H2_Testing policy,Thailand,THA,14.2,percent,2016.0
+67,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H2_Testing policy,Thailand,THA,32113.5,international $ in PPP,2020.0
+68,Demographics,People using at least basic sanitation services (% of population),H2_Testing policy,Thailand,THA,98.7507346105258,proportion,2017.0
+70,Social issues ,Press freedom score,H2_Testing policy,Thailand,THA,44.94,score,2020.0
+71,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Thailand,THA,-0.5375581,score,2019.0
+72,Governance,Personal Freedom Score ,H2_Testing policy,Thailand,THA,5.98,score,2018.0
+73,Demographics,"Age dependency ratio, old (% of working-age population)",H2_Testing policy,Thailand,THA,17.53032770331833,proportion,2019.0
+74,Environment,Electric power consumption ,H2_Testing policy,Thailand,THA,2538.796380353639,kWh per capita,2014.0
+75,Social issues ,Life Ladder ,H2_Testing policy,Thailand,THA,5.9847002029418945,score,2021.0
+76,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Thailand,THA,2.7593,Ones,2018.0
+77,Environment,Renewable energy consumption ,H2_Testing policy,Thailand,THA,22.8630701280756,percent of total final energy consumption,2015.0
+78,Social issues ,"Primary completion rate, total (% of relevant age group)",H2_Testing policy,Thailand,THA,94.411376953125,proportion,2019.0
+79,Governance,Human Development Index,H2_Testing policy,Thailand,THA,0.777,index,2019.0
+80,Environment,Access to electricity ,H2_Testing policy,Thailand,THA,100.0,percent of population,2018.0
+81,Social issues ,Proportion of seats held by women in national parliaments (%),H2_Testing policy,Thailand,THA,15.74642127,proportion,2020.0
+82,Economics,"Lending interest rates, percent per annum",H2_Testing policy,Thailand,THA,4.08417,percent per annum,2019.0
+83,Health,Mortality due to COVID-19,H2_Testing policy,Thailand,THA,60.0,"Number (cumulative total by Dec 26,2020)",2020.0
+84,Environment,CO2 emissions (kt),H2_Testing policy,Thailand,THA,283763.5,kt,2016.0
+85,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Thailand,THA,5.0,score,2021.0
+86,Governance,Government effectiveness estimate,H2_Testing policy,Thailand,THA,0.3570563,score,2019.0
+87,Economics,"Foreign direct investment, net",H2_Testing policy,Thailand,THA,6315808260.0,US Dollar,2019.0
+88,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H2_Testing policy,Thailand,THA,67.0370026,Percentage of total population,2020.0
+89,Demographics,Refugee population by country or territory of asylum,H2_Testing policy,Thailand,THA,97556.0,proportion,2019.0
+90,Economics,"International tourism, receipts",H2_Testing policy,Thailand,THA,60521000000.0,US Dollar,2019.0
+91,Environment,Energy use (kg of oil equivalent per capita),H2_Testing policy,Thailand,THA,1969.00171876363,kg of oil equivalent per capita,2014.0
+92,Demographics,Rural population (% of total population),H2_Testing policy,Thailand,THA,49.308,proportion,2019.0
+93,Demographics,Internet users (per 100 people),H2_Testing policy,Thailand,THA,56.81748,per 100 population,2018.0
+94,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H2_Testing policy,Thailand,THA,12.3,percent,2020.0
+96,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H2_Testing policy,Thailand,THA,0.0,proportion,2017.0
+97,Economics,Expenditure on health (% of GDP),H2_Testing policy,Thailand,THA,1.29822,percent,2019.0
+98,Demographics,"Population, total",H2_Testing policy,Thailand,THA,69625582.0,total,2019.0
+99,Economics,Growth rates of household expenditure or income per capita (%),H2_Testing policy,Thailand,THA,1.0,percent,2018.0
+104,Governance,Voice and accountability estimate,H2_Testing policy,Thailand,THA,-0.8272713,score,2019.0
+105,Demographics,Urban population (% of total population),H2_Testing policy,Thailand,THA,50.692,total,2019.0
+106,Economics,Expenditure on education (% of GDP),H2_Testing policy,Thailand,THA,2.96895,percent,2019.0
+107,Economics,"Trade, total as % of GDP",H2_Testing policy,Thailand,THA,84.49826,percent,2019.0
+108,Demographics,Age dependency ratio,H2_Testing policy,Thailand,THA,41.30241,percent of total population,2019.0
+109,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H2_Testing policy,Thailand,THA,2.22008872032165,proportion,2017.0
+110,Demographics,"Net migration rate, per 1000 population",H2_Testing policy,Thailand,THA,0.281,per thousand persons,2015.0
+111,Demographics,Mobile cellular (per 100 people),H2_Testing policy,Thailand,THA,180.1826,per 100 population,2018.0
+112,Economics,Starting a Business (Score),H2_Testing policy,Thailand,THA,92.4,Score,2019.0
+115,Social issues ,Progression to secondary school (%),H2_Testing policy,Thailand,THA,98.49383,proportion,2017.0
+116,Demographics,People with basic handwashing facilities including soap and water (% of population),H2_Testing policy,Thailand,THA,83.9233581954672,proportion,2017.0
+117,Demographics,Fixed telephone (per 100 people),H2_Testing policy,Thailand,THA,4.21873,per 100 population,2018.0

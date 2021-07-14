@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Croatia,HRV,79.0798,percent of population,2019.0
 2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Croatia,HRV,47.0,score,2020.0
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Croatia,HRV,22742.96250768285,per 1 million people,2019.0
+3,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Croatia,HRV,0.5910058,score,2019.0
 4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Croatia,HRV,27.9585,per 100 people,2019.0
-6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Croatia,HRV,28.51,score,2020.0
-7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Croatia,HRV,14.4461735801751,percent of GNI,2018.0
-8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Croatia,HRV,7.36,score,2018.0
-9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Croatia,HRV,46.094521183346394,score,2020.0
-10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Croatia,HRV,17487.92,kt,2016.0
-11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Croatia,HRV,0.5347807,score,2019.0
-12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Croatia,HRV,66.7750015,Percentage of total employment,2020.0
-13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Croatia,HRV,32.92863,Rate (risk-weighted prevalence),2019.0
-14,Economics,Volume of imports,C4_Restrictions on gatherings,Croatia,HRV,6.2,percent change,2020.0
-15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Croatia,HRV,5.7,percent,2018.0
-16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Croatia,HRV,17.64,rate,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Croatia,HRV,8.0,Cases,2019.0
-18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Croatia,HRV,94.0,percent,2019.0
-19,Governance,Human Development Index,C4_Restrictions on gatherings,Croatia,HRV,0.851,index,2019.0
-20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Croatia,HRV,50.9690018,Percentage of total population,2020.0
-21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Croatia,HRV,0.042878,percent,2019.0
-22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Croatia,HRV,1119000000.0,kWh,2015.0
-23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Croatia,HRV,85.0,score,2021.0
-24,Social issues ,Net migration,C4_Restrictions on gatherings,Croatia,HRV,-40004.0,net total / data are 5 year estimates,2019.0
-25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Croatia,HRV,29.8013245,proportion,2020.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Croatia,HRV,190235.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Croatia,HRV,32.92863,Rate (risk-weighted prevalence),2019.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Croatia,HRV,22742.96250768285,per 1 million people,2019.0
+8,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Croatia,HRV,7.92,score,2018.0
+9,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Croatia,HRV,45.85969270444382,percent of energy use,2014.0
+10,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Croatia,HRV,1.96654208933974,percent of total,2015.0
+11,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Croatia,HRV,0.1255409,score,2019.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Croatia,HRV,106.642,per 100 people,2019.0
+14,Social issues ,Press freedom score,C4_Restrictions on gatherings,Croatia,HRV,28.51,score,2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Croatia,HRV,3023.0,"Number (cumulative total by Dec 26,2020)",2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Croatia,HRV,66.7750015,Percentage of total employment,2020.0
+18,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Croatia,HRV,29.8013245,proportion,2020.0
+19,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Croatia,HRV,17.90177,micrograms per cubic meter,2017.0
+20,Health,Prevalence of obesity,C4_Restrictions on gatherings,Croatia,HRV,24.4,percent,2016.0
+21,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Croatia,HRV,20.5552589428724,percent of total,2015.0
+22,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Croatia,HRV,1897.840665403766,kg of oil equivalent per capita,2014.0
+23,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Croatia,HRV,0.142291,percent,2019.0
+24,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Croatia,HRV,1119000000.0,kWh,2015.0
+25,Social issues ,Net migration,C4_Restrictions on gatherings,Croatia,HRV,-40004.0,net total / data are 5 year estimates,2019.0
 26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Croatia,HRV,93.0,percent,2019.0
-27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Croatia,HRV,0.177546,percent,2019.0
-28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Croatia,HRV,8.1224,Ones,2016.0
-29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Croatia,HRV,106.642,per 100 people,2019.0
-30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Croatia,HRV,0.7554738,score,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Croatia,HRV,190235.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Croatia,HRV,49.0,score,2021.0
-34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Croatia,HRV,0.57742179724,"proportion, pero 100,000 people",2018.0
-35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Croatia,HRV,33.17316248442783,percent of total,2015.0
-36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Croatia,HRV,1897.840665403766,kg of oil equivalent per capita,2014.0
-37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Croatia,HRV,7.92,score,2018.0
-38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Croatia,HRV,0.3661346,score,2019.0
-39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Croatia,HRV,1.96654208933974,percent of total,2015.0
-40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Croatia,HRV,45.85969270444382,percent of energy use,2014.0
-42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Croatia,HRV,2.9996,Ones,2016.0
-43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Croatia,HRV,20.5552589428724,percent of total,2015.0
-44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Croatia,HRV,0.1,percent,2019.0
-45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Croatia,HRV,29.98,percent,2018.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Croatia,HRV,3023.0,"Number (cumulative total by Dec 26,2020)",2020.0
-47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Croatia,HRV,70.70366,percent of total,2014.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Croatia,HRV,100.0,percent of population,2018.0
-49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Croatia,HRV,4.189377,metric tons per capita,2016.0
-50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Croatia,HRV,7.11399984,percent of total labor force,2020.0
-51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Croatia,HRV,5.881700038909912,score,2021.0
-53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Croatia,HRV,0.5910058,score,2019.0
-54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Croatia,HRV,0.000132,percent,2019.0
-55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Croatia,HRV,13.60565,percent of total energy,2014.0
-56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Croatia,HRV,0.041346,percent,2019.0
-57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Croatia,HRV,1333660.0,number,2019.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Croatia,HRV,33.1274666358571,percent of total final energy consumption,2015.0
-59,Economics,Volume of exports,C4_Restrictions on gatherings,Croatia,HRV,5.145,percent change,2020.0
-60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Croatia,HRV,0.1255409,score,2019.0
-64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Croatia,HRV,24.4,percent,2016.0
-68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Croatia,HRV,8.47,score,2018.0
-69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Croatia,HRV,36.0,score,2021.0
-70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Croatia,HRV,0.002651,percent,2019.0
-71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Croatia,HRV,0.032925,percent,2019.0
-72,Environment,Energy use ,C4_Restrictions on gatherings,Croatia,HRV,80.1778813876197,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Croatia,HRV,3714.382988442071,kWh per capita,2014.0
-74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Croatia,HRV,0.142291,percent,2019.0
-76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Croatia,HRV,0.111561,percent,2019.0
-78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Croatia,HRV,0.4099745,score,2019.0
-79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Croatia,HRV,45.3310013,Percentage of females of the total population,2020.0
-80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Croatia,HRV,17.90177,micrograms per cubic meter,2017.0
-88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Croatia,HRV,99.7796052732656,percent of total,2017.0
-89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Croatia,HRV,0.0,percent of total,2014.0
-106,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Croatia,HRV,30.4,index ,2017.0
+27,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Croatia,HRV,2.9996,Ones,2016.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Croatia,HRV,0.57742179724,"proportion, pero 100,000 people",2018.0
+29,Environment,Energy use ,C4_Restrictions on gatherings,Croatia,HRV,80.1778813876197,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+30,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Croatia,HRV,8.0,Cases,2019.0
+31,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Croatia,HRV,70.70366,percent of total,2014.0
+32,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Croatia,HRV,5.7,percent,2018.0
+33,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Croatia,HRV,46.094521183346394,score,2020.0
+34,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Croatia,HRV,0.042878,percent,2019.0
+35,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Croatia,HRV,0.041346,percent,2019.0
+36,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Croatia,HRV,36.0,score,2021.0
+37,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Croatia,HRV,0.4099745,score,2019.0
+38,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Croatia,HRV,14.4461735801751,percent of GNI,2018.0
+40,Economics,Volume of imports,C4_Restrictions on gatherings,Croatia,HRV,6.2,percent change,2020.0
+41,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Croatia,HRV,0.1,percent,2019.0
+42,Governance,Human Development Index,C4_Restrictions on gatherings,Croatia,HRV,0.851,index,2019.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Croatia,HRV,17487.92,kt,2016.0
+44,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Croatia,HRV,0.111561,percent,2019.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Croatia,HRV,1333660.0,number,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Croatia,HRV,0.7554738,score,2019.0
+48,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Croatia,HRV,29.98,percent,2018.0
+49,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Croatia,HRV,85.0,score,2021.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Croatia,HRV,4.189377,metric tons per capita,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Croatia,HRV,49.0,score,2021.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Croatia,HRV,100.0,percent of population,2018.0
+55,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Croatia,HRV,0.177546,percent,2019.0
+57,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Croatia,HRV,7.11399984,percent of total labor force,2020.0
+58,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Croatia,HRV,94.0,percent,2019.0
+60,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Croatia,HRV,45.3310013,Percentage of females of the total population,2020.0
+61,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Croatia,HRV,99.7796052732656,percent of total,2017.0
+62,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Croatia,HRV,0.5347807,score,2019.0
+64,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Croatia,HRV,8.1224,Ones,2016.0
+65,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Croatia,HRV,13.60565,percent of total energy,2014.0
+66,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Croatia,HRV,0.002651,percent,2019.0
+68,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Croatia,HRV,0.032925,percent,2019.0
+71,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Croatia,HRV,7.36,score,2018.0
+72,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Croatia,HRV,5.881700038909912,score,2021.0
+74,Environment,Electric power consumption ,C4_Restrictions on gatherings,Croatia,HRV,3714.382988442071,kWh per capita,2014.0
+75,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Croatia,HRV,0.000132,percent,2019.0
+76,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Croatia,HRV,0.3661346,score,2019.0
+77,Economics,Volume of exports,C4_Restrictions on gatherings,Croatia,HRV,5.145,percent change,2020.0
+80,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Croatia,HRV,30.4,index ,2017.0
+81,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Croatia,HRV,33.17316248442783,percent of total,2015.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Croatia,HRV,33.1274666358571,percent of total final energy consumption,2015.0
+85,Governance,Serious assault (rate),C4_Restrictions on gatherings,Croatia,HRV,17.64,rate,2018.0
+86,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Croatia,HRV,8.47,score,2018.0
+90,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Croatia,HRV,50.9690018,Percentage of total population,2020.0
+93,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Croatia,HRV,0.0,percent of total,2014.0

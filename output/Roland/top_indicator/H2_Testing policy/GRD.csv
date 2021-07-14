@@ -1,59 +1,59 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H2_Testing policy,Grenada,GRD,59.0717,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H2_Testing policy,Grenada,GRD,0.273052,percent,2019.0
-3,Demographics,Fixed telephone subscriptions,H2_Testing policy,Grenada,GRD,32491.0,number,2019.0
-4,Health,Prevalence of COVID-19,H2_Testing policy,Grenada,GRD,94.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Grenada,GRD,0.002272,percent,2019.0
-7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Grenada,GRD,1.7,percent,2018.0
-8,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Grenada,GRD,6.2837,Ones,2018.0
-9,Demographics,Fixed broadband subscriptions,H2_Testing policy,Grenada,GRD,22.836,per 100 people,2019.0
-11,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H2_Testing policy,Grenada,GRD,98.5999984741211,proportion,2014.0
-12,Economics,Volume of imports,H2_Testing policy,Grenada,GRD,4.199,percent change,2020.0
-13,Governance,Government effectiveness estimate,H2_Testing policy,Grenada,GRD,-0.1359288,score,2019.0
-15,Health,Prevalence of total cancers,H2_Testing policy,Grenada,GRD,0.016018,percent,2019.0
-16,Governance,Control of corruption estimate,H2_Testing policy,Grenada,GRD,0.3397682,score,2019.0
-17,Demographics,Mobile cellular subscriptions,H2_Testing policy,Grenada,GRD,102.077,per 100 people,2019.0
-20,Social issues ,Net migration,H2_Testing policy,Grenada,GRD,-1000.0,net total / data are 5 year estimates,2019.0
-21,Health,Prevalence of down syndrome,H2_Testing policy,Grenada,GRD,0.000323,percent,2019.0
-23,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Grenada,GRD,2.427794,metric tons per capita,2016.0
-24,Health,Mortality due to COVID-19,H2_Testing policy,Grenada,GRD,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-26,Health,Prevalence of chronic kidney disease,H2_Testing policy,Grenada,GRD,0.108467,percent,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Grenada,GRD,10.823096488,"proportion, pero 100,000 people",2017.0
-28,Health,"Physicians (per 1,000 people)",H2_Testing policy,Grenada,GRD,1.4067,Ones,2017.0
-30,Demographics,Age dependency ratio (% of working-age population),H2_Testing policy,Grenada,GRD,50.13806970509383,proportion,2019.0
+3,Health,Prevalence of COVID-19,H2_Testing policy,Grenada,GRD,94.0,"Number (cumulative total by Dec 26,2020)",2020.0
+4,Demographics,Fixed telephone subscriptions,H2_Testing policy,Grenada,GRD,32491.0,number,2019.0
+5,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Grenada,GRD,100.0,percent of total,2017.0
+7,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Grenada,GRD,3.1,Cases,2019.0
+8,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Grenada,GRD,94.0,percent,2019.0
+10,Governance,Control of corruption estimate,H2_Testing policy,Grenada,GRD,0.3397682,score,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H2_Testing policy,Grenada,GRD,1.7,percent,2018.0
+12,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H2_Testing policy,Grenada,GRD,98.5999984741211,proportion,2014.0
+13,Social issues ,Net migration,H2_Testing policy,Grenada,GRD,-1000.0,net total / data are 5 year estimates,2019.0
+14,Demographics,Mobile cellular subscriptions,H2_Testing policy,Grenada,GRD,102.077,per 100 people,2019.0
+16,Demographics,Fixed broadband subscriptions,H2_Testing policy,Grenada,GRD,22.836,per 100 people,2019.0
+17,Governance,Rule of law estimate ,H2_Testing policy,Grenada,GRD,0.1758633,score,2019.0
+18,Social issues ,"Intentional homicides (per 100,000 people)",H2_Testing policy,Grenada,GRD,10.823096488,"proportion, pero 100,000 people",2017.0
+21,Health,Prevalence of chronic kidney disease,H2_Testing policy,Grenada,GRD,0.108467,percent,2019.0
+22,Governance,Serious assault (rate),H2_Testing policy,Grenada,GRD,338.22,rate,2017.0
+24,Health,Prevalence of Diabetes,H2_Testing policy,Grenada,GRD,0.111266,percent,2019.0
+25,Health,Prevalence of down syndrome,H2_Testing policy,Grenada,GRD,0.000323,percent,2019.0
+28,Health,Summary exposure value tobacco,H2_Testing policy,Grenada,GRD,12.41066,Rate (risk-weighted prevalence),2019.0
 31,Demographics,Secure Internet servers ,H2_Testing policy,Grenada,GRD,499.9866075015847,per 1 million people,2019.0
-33,Health,Prevalence of anxiety disorders,H2_Testing policy,Grenada,GRD,0.047496,percent,2019.0
-34,Health,Prevalence of obesity,H2_Testing policy,Grenada,GRD,21.3,percent,2016.0
-36,Health,"Immunization, measles (% of children ages 12-23 months)",H2_Testing policy,Grenada,GRD,94.0,percent,2019.0
-38,Governance,Serious assault (rate),H2_Testing policy,Grenada,GRD,338.22,rate,2017.0
-39,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Grenada,GRD,92.0,percent,2019.0
-41,Economics,Volume of exports,H2_Testing policy,Grenada,GRD,3.994,percent change,2020.0
-43,Social issues ,"Primary completion rate, total (% of relevant age group)",H2_Testing policy,Grenada,GRD,123.00122833252,proportion,2018.0
-45,Environment,Renewable energy consumption ,H2_Testing policy,Grenada,GRD,10.9195721498431,percent of total final energy consumption,2015.0
-46,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Grenada,GRD,37.0,score,2021.0
-48,Governance,Rule of law estimate ,H2_Testing policy,Grenada,GRD,0.1758633,score,2019.0
-50,Health,Prevalence of Depressive disorders,H2_Testing policy,Grenada,GRD,0.036803,percent,2019.0
-51,Governance,Total freedom in the world score ,H2_Testing policy,Grenada,GRD,89.0,score,2021.0
-54,Governance,Fragile States Index Total ,H2_Testing policy,Grenada,GRD,55.24684546356435,score,2020.0
-55,Environment,CO2 emissions (kt),H2_Testing policy,Grenada,GRD,267.691,kt,2016.0
-56,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Grenada,GRD,22.72269,micrograms per cubic meter,2017.0
-58,Social issues ,Proportion of seats held by women in national parliaments (%),H2_Testing policy,Grenada,GRD,46.66666667,proportion,2020.0
-59,Health,"Incidence of tuberculosis (per 100,000 people)",H2_Testing policy,Grenada,GRD,3.1,Cases,2019.0
-60,Governance,Human Development Index,H2_Testing policy,Grenada,GRD,0.779,index,2019.0
-64,Governance,Corruption Perceptions Index,H2_Testing policy,Grenada,GRD,53.0,score,2020.0
-65,Governance,Regulatory quality estimate,H2_Testing policy,Grenada,GRD,-0.3131911,score,2019.0
-70,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H2_Testing policy,Grenada,GRD,4.0,rating,2019.0
-72,Environment,Access to electricity ,H2_Testing policy,Grenada,GRD,95.2919845581055,percent of population,2018.0
-73,Health,Prevalence of Diabetes,H2_Testing policy,Grenada,GRD,0.111266,percent,2019.0
-77,Governance,Voice and accountability estimate,H2_Testing policy,Grenada,GRD,0.707514,score,2019.0
-79,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Grenada,GRD,52.0,score,2021.0
-80,Health,Summary exposure value tobacco,H2_Testing policy,Grenada,GRD,12.41066,Rate (risk-weighted prevalence),2019.0
-82,Demographics,People using safely managed drinking water services (% of population),H2_Testing policy,Grenada,GRD,87.1152683516591,proportion,2017.0
-90,Demographics,Rural population (% of total population),H2_Testing policy,Grenada,GRD,63.604,proportion,2019.0
-92,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Grenada,GRD,0.959709,score,2019.0
-93,Demographics,People using at least basic sanitation services (% of population),H2_Testing policy,Grenada,GRD,91.4938921337197,proportion,2017.0
-94,Demographics,"Population, total",H2_Testing policy,Grenada,GRD,112003.0,total,2019.0
-97,Demographics,Urban population (% of total population),H2_Testing policy,Grenada,GRD,36.396,total,2019.0
-103,Demographics,"Age dependency ratio, old (% of working-age population)",H2_Testing policy,Grenada,GRD,14.52949061662199,proportion,2019.0
-108,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H2_Testing policy,Grenada,GRD,100.0,percent of total,2017.0
-113,Social issues ,Progression to secondary school (%),H2_Testing policy,Grenada,GRD,97.70955,proportion,2017.0
+34,Health,"Physicians (per 1,000 people)",H2_Testing policy,Grenada,GRD,1.4067,Ones,2017.0
+36,Environment,"PM2.5 air pollution, mean annual exposure",H2_Testing policy,Grenada,GRD,22.72269,micrograms per cubic meter,2017.0
+37,Health,Prevalence of anxiety disorders,H2_Testing policy,Grenada,GRD,0.047496,percent,2019.0
+39,Health,Prevalence of Hypertensive heart disease,H2_Testing policy,Grenada,GRD,0.002272,percent,2019.0
+40,Health,Prevalence of Depressive disorders,H2_Testing policy,Grenada,GRD,0.036803,percent,2019.0
+47,Health,"Immunization, DPT (% of children ages 12-23 months)",H2_Testing policy,Grenada,GRD,92.0,percent,2019.0
+48,Governance,Corruption Perceptions Index,H2_Testing policy,Grenada,GRD,53.0,score,2020.0
+49,Economics,Volume of imports,H2_Testing policy,Grenada,GRD,4.199,percent change,2020.0
+52,Governance,Total freedom in the world score ,H2_Testing policy,Grenada,GRD,89.0,score,2021.0
+53,Governance,Fragile States Index Total ,H2_Testing policy,Grenada,GRD,55.24684546356435,score,2020.0
+54,Governance,Aggregate score for the Civil Liberties category,H2_Testing policy,Grenada,GRD,52.0,score,2021.0
+57,Demographics,Age dependency ratio (% of working-age population),H2_Testing policy,Grenada,GRD,50.13806970509383,proportion,2019.0
+59,Demographics,People using safely managed drinking water services (% of population),H2_Testing policy,Grenada,GRD,87.1152683516591,proportion,2017.0
+60,Economics,Volume of exports,H2_Testing policy,Grenada,GRD,3.994,percent change,2020.0
+61,Governance,Regulatory quality estimate,H2_Testing policy,Grenada,GRD,-0.3131911,score,2019.0
+62,Environment,CO2 emissions (metric tons per capita),H2_Testing policy,Grenada,GRD,2.427794,metric tons per capita,2016.0
+65,Health,Prevalence of total cancers,H2_Testing policy,Grenada,GRD,0.016018,percent,2019.0
+66,Health,Prevalence of obesity,H2_Testing policy,Grenada,GRD,21.3,percent,2016.0
+68,Demographics,People using at least basic sanitation services (% of population),H2_Testing policy,Grenada,GRD,91.4938921337197,proportion,2017.0
+69,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H2_Testing policy,Grenada,GRD,4.0,rating,2019.0
+71,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Grenada,GRD,0.959709,score,2019.0
+73,Demographics,"Age dependency ratio, old (% of working-age population)",H2_Testing policy,Grenada,GRD,14.52949061662199,proportion,2019.0
+76,Health,"Nurses and midwives (per 1,000 people)",H2_Testing policy,Grenada,GRD,6.2837,Ones,2018.0
+77,Environment,Renewable energy consumption ,H2_Testing policy,Grenada,GRD,10.9195721498431,percent of total final energy consumption,2015.0
+78,Social issues ,"Primary completion rate, total (% of relevant age group)",H2_Testing policy,Grenada,GRD,123.00122833252,proportion,2018.0
+79,Governance,Human Development Index,H2_Testing policy,Grenada,GRD,0.779,index,2019.0
+80,Environment,Access to electricity ,H2_Testing policy,Grenada,GRD,95.2919845581055,percent of population,2018.0
+81,Social issues ,Proportion of seats held by women in national parliaments (%),H2_Testing policy,Grenada,GRD,46.66666667,proportion,2020.0
+83,Health,Mortality due to COVID-19,H2_Testing policy,Grenada,GRD,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+84,Environment,CO2 emissions (kt),H2_Testing policy,Grenada,GRD,267.691,kt,2016.0
+85,Governance,Aggregate score for the Political Rights category,H2_Testing policy,Grenada,GRD,37.0,score,2021.0
+86,Governance,Government effectiveness estimate,H2_Testing policy,Grenada,GRD,-0.1359288,score,2019.0
+92,Demographics,Rural population (% of total population),H2_Testing policy,Grenada,GRD,63.604,proportion,2019.0
+98,Demographics,"Population, total",H2_Testing policy,Grenada,GRD,112003.0,total,2019.0
+104,Governance,Voice and accountability estimate,H2_Testing policy,Grenada,GRD,0.707514,score,2019.0
+105,Demographics,Urban population (% of total population),H2_Testing policy,Grenada,GRD,36.396,total,2019.0
+115,Social issues ,Progression to secondary school (%),H2_Testing policy,Grenada,GRD,97.70955,proportion,2017.0

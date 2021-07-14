@@ -1,22 +1,22 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Gibraltar,GIB,94.4445,percent of population,2019.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Gibraltar,GIB,634.391,kt,2016.0
-12,Environment,Electric power consumption ,C3_Cancel public events,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Gibraltar,GIB,56.2891,per 100 people,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Gibraltar,GIB,120.284,per 100 people,2019.0
-24,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Gibraltar,GIB,100.0,percent of total,2015.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
-35,Environment,Electricity production from coal sources ,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total,2015.0
-36,Environment,Combustible renewables and waste,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total energy,2014.0
-46,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Gibraltar,GIB,0.0,kWh,2015.0
-47,Environment,"Energy imports, net ",C3_Cancel public events,Gibraltar,GIB,100.0,percent of energy use,2014.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
-55,Environment,Access to electricity ,C3_Cancel public events,Gibraltar,GIB,100.0,percent of population,2018.0
-57,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Gibraltar,GIB,16968.0,number,2019.0
-65,Environment,Fossil fuel energy consumption,C3_Cancel public events,Gibraltar,GIB,99.51282,percent of total,2014.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
-94,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total,2014.0
-95,Environment,Electricity production from oil sources,C3_Cancel public events,Gibraltar,GIB,100.0,percent of total,2015.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Gibraltar,GIB,16968.0,number,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Environment,Fossil fuel energy consumption,C3_Cancel public events,Gibraltar,GIB,99.51282,percent of total,2014.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Gibraltar,GIB,56.2891,per 100 people,2019.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
+14,Environment,"Energy imports, net ",C3_Cancel public events,Gibraltar,GIB,100.0,percent of energy use,2014.0
+18,Environment,Electricity production from coal sources ,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total,2015.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
+24,Environment,Combustible renewables and waste,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total energy,2014.0
+30,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Gibraltar,GIB,100.0,percent of total,2015.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Gibraltar,GIB,120.284,per 100 people,2019.0
+35,Environment,Electric power consumption ,C3_Cancel public events,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Gibraltar,GIB,0.0,kWh,2015.0
+44,Environment,Electricity production from oil sources,C3_Cancel public events,Gibraltar,GIB,100.0,percent of total,2015.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Gibraltar,GIB,634.391,kt,2016.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
+77,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,Gibraltar,GIB,100.0,percent of population,2018.0
+91,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Gibraltar,GIB,0.0,percent of total,2014.0

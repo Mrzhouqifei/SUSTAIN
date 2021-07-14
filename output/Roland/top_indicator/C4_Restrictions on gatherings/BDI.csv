@@ -1,62 +1,62 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Burundi,BDI,2.66075,percent of population,2019.0
 2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Burundi,BDI,19.0,score,2020.0
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Burundi,BDI,9.19294606168987,per 1 million people,2019.0
+3,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Burundi,BDI,-0.9495389,score,2019.0
 4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Burundi,BDI,0.0328778,per 100 people,2019.0
-6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Burundi,BDI,55.33,score,2020.0
-7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Burundi,BDI,-16.9125729891452,percent of GNI,2018.0
-8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Burundi,BDI,5.94,score,2018.0
-9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Burundi,BDI,97.87602964557674,score,2020.0
-10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Burundi,BDI,495.045,kt,2016.0
-11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.708204,score,2019.0
-12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Burundi,BDI,6.53700018,Percentage of total employment,2020.0
-13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Burundi,BDI,8.799867,Rate (risk-weighted prevalence),2019.0
-14,Economics,Volume of imports,C4_Restrictions on gatherings,Burundi,BDI,0.87,percent change,2020.0
-15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Burundi,BDI,1.9,percent,2018.0
-16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Burundi,BDI,5.58,rate,2014.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Burundi,BDI,107.0,Cases,2019.0
-18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Burundi,BDI,93.0,percent,2019.0
-19,Governance,Human Development Index,C4_Restrictions on gatherings,Burundi,BDI,0.433,index,2019.0
-20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Burundi,BDI,79.0810013,Percentage of total population,2020.0
-21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Burundi,BDI,0.031876,percent,2019.0
-23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Burundi,BDI,14.0,score,2021.0
-24,Social issues ,Net migration,C4_Restrictions on gatherings,Burundi,BDI,10003.0,net total / data are 5 year estimates,2019.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Burundi,BDI,761.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Burundi,BDI,8.799867,Rate (risk-weighted prevalence),2019.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Burundi,BDI,9.19294606168987,per 1 million people,2019.0
+8,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Burundi,BDI,5.42,score,2018.0
+11,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.45847,score,2019.0
+12,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Burundi,BDI,3.1,percent,2020.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Burundi,BDI,57.6156,per 100 people,2019.0
+14,Social issues ,Press freedom score,C4_Restrictions on gatherings,Burundi,BDI,55.33,score,2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Burundi,BDI,1.0,"Number (cumulative total by Dec 26,2020)",2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Burundi,BDI,6.53700018,Percentage of total employment,2020.0
+17,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Burundi,BDI,57.6,percent,2020.0
+19,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Burundi,BDI,38.89627,micrograms per cubic meter,2017.0
+20,Health,Prevalence of obesity,C4_Restrictions on gatherings,Burundi,BDI,5.4,percent,2016.0
+23,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Burundi,BDI,0.031951,percent,2019.0
+25,Social issues ,Net migration,C4_Restrictions on gatherings,Burundi,BDI,10003.0,net total / data are 5 year estimates,2019.0
 26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Burundi,BDI,92.0,percent,2019.0
-27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Burundi,BDI,0.265662,percent,2019.0
-28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Burundi,BDI,0.8526,Ones,2017.0
-29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Burundi,BDI,57.6156,per 100 people,2019.0
-30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.64903,score,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Burundi,BDI,761.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Burundi,BDI,10.0,score,2021.0
-34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Burundi,BDI,6.0545373656,"proportion, pero 100,000 people",2016.0
-37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Burundi,BDI,5.42,score,2018.0
-38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Burundi,BDI,-1.431905,score,2019.0
-41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Burundi,BDI,57.6,percent,2020.0
-42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Burundi,BDI,0.1001,Ones,2017.0
-44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Burundi,BDI,1.0,percent,2019.0
-45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Burundi,BDI,32.36,percent,2017.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Burundi,BDI,1.0,"Number (cumulative total by Dec 26,2020)",2020.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Burundi,BDI,11.0242519378662,percent of population,2018.0
-49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Burundi,BDI,0.047201,metric tons per capita,2016.0
-50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Burundi,BDI,1.40799999,percent of total labor force,2020.0
-51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Burundi,BDI,3.7753000259399414,score,2021.0
-53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Burundi,BDI,-0.9495389,score,2019.0
-54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Burundi,BDI,0.000185,percent,2019.0
-56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Burundi,BDI,0.033904,percent,2019.0
-57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Burundi,BDI,20936.0,number,2019.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Burundi,BDI,95.6789242535879,percent of total final energy consumption,2015.0
-59,Economics,Volume of exports,C4_Restrictions on gatherings,Burundi,BDI,6.016,percent change,2020.0
-60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.45847,score,2019.0
-64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Burundi,BDI,5.4,percent,2016.0
-65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Burundi,BDI,3.1,percent,2020.0
-68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Burundi,BDI,4.9,score,2018.0
-69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Burundi,BDI,4.0,score,2021.0
-70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Burundi,BDI,0.000915,percent,2019.0
-71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Burundi,BDI,0.002,percent,2019.0
-74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Burundi,BDI,0.031951,percent,2019.0
-76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Burundi,BDI,0.01664,percent,2019.0
-78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.326322,score,2019.0
-79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Burundi,BDI,80.3539963,Percentage of females of the total population,2020.0
-80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Burundi,BDI,38.89627,micrograms per cubic meter,2017.0
-83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Burundi,BDI,1.5,rating,2019.0
-88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Burundi,BDI,100.0,percent of total,2017.0
+27,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Burundi,BDI,0.1001,Ones,2017.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Burundi,BDI,6.0545373656,"proportion, pero 100,000 people",2016.0
+30,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Burundi,BDI,107.0,Cases,2019.0
+32,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Burundi,BDI,1.9,percent,2018.0
+33,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Burundi,BDI,97.87602964557674,score,2020.0
+34,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Burundi,BDI,0.031876,percent,2019.0
+35,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Burundi,BDI,0.033904,percent,2019.0
+36,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Burundi,BDI,4.0,score,2021.0
+37,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.326322,score,2019.0
+38,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Burundi,BDI,-16.9125729891452,percent of GNI,2018.0
+40,Economics,Volume of imports,C4_Restrictions on gatherings,Burundi,BDI,0.87,percent change,2020.0
+41,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Burundi,BDI,1.0,percent,2019.0
+42,Governance,Human Development Index,C4_Restrictions on gatherings,Burundi,BDI,0.433,index,2019.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Burundi,BDI,495.045,kt,2016.0
+44,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Burundi,BDI,0.01664,percent,2019.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Burundi,BDI,20936.0,number,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.64903,score,2019.0
+48,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Burundi,BDI,32.36,percent,2017.0
+49,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Burundi,BDI,14.0,score,2021.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Burundi,BDI,0.047201,metric tons per capita,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Burundi,BDI,10.0,score,2021.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Burundi,BDI,11.0242519378662,percent of population,2018.0
+55,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Burundi,BDI,0.265662,percent,2019.0
+57,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Burundi,BDI,1.40799999,percent of total labor force,2020.0
+58,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Burundi,BDI,93.0,percent,2019.0
+60,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Burundi,BDI,80.3539963,Percentage of females of the total population,2020.0
+61,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Burundi,BDI,100.0,percent of total,2017.0
+62,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Burundi,BDI,-1.708204,score,2019.0
+64,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Burundi,BDI,0.8526,Ones,2017.0
+66,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Burundi,BDI,0.000915,percent,2019.0
+68,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Burundi,BDI,0.002,percent,2019.0
+71,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Burundi,BDI,5.94,score,2018.0
+72,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Burundi,BDI,3.7753000259399414,score,2021.0
+75,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Burundi,BDI,0.000185,percent,2019.0
+76,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Burundi,BDI,-1.431905,score,2019.0
+77,Economics,Volume of exports,C4_Restrictions on gatherings,Burundi,BDI,6.016,percent change,2020.0
+79,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Burundi,BDI,1.5,rating,2019.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Burundi,BDI,95.6789242535879,percent of total final energy consumption,2015.0
+85,Governance,Serious assault (rate),C4_Restrictions on gatherings,Burundi,BDI,5.58,rate,2014.0
+86,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Burundi,BDI,4.9,score,2018.0
+90,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Burundi,BDI,79.0810013,Percentage of total population,2020.0

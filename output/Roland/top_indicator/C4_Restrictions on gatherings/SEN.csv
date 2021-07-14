@@ -1,73 +1,73 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Senegal,SEN,46.0,percent of population,2019.0
 2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Senegal,SEN,45.0,score,2020.0
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Senegal,SEN,19.39082853083056,per 1 million people,2019.0
+3,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Senegal,SEN,-0.1122398,score,2019.0
 4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Senegal,SEN,0.933012,per 100 people,2019.0
-6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Senegal,SEN,23.99,score,2020.0
-7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Senegal,SEN,12.5116043173186,percent of GNI,2018.0
-8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Senegal,SEN,6.27,score,2018.0
-9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Senegal,SEN,74.5646477541905,score,2020.0
-10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Senegal,SEN,10901.99,kt,2016.0
-11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Senegal,SEN,0.2603854,score,2019.0
-12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Senegal,SEN,56.9449997,Percentage of total employment,2020.0
-13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Senegal,SEN,19.94981,Rate (risk-weighted prevalence),2019.0
-14,Economics,Volume of imports,C4_Restrictions on gatherings,Senegal,SEN,17.786,percent change,2020.0
-15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Senegal,SEN,0.9,percent,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Senegal,SEN,117.0,Cases,2019.0
-18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Senegal,SEN,93.0,percent,2019.0
-19,Governance,Human Development Index,C4_Restrictions on gatherings,Senegal,SEN,0.512,index,2019.0
-20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Senegal,SEN,45.6990013,Percentage of total population,2020.0
-21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Senegal,SEN,0.027979,percent,2019.0
-22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Senegal,SEN,70000000.0,kWh,2015.0
-23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Senegal,SEN,71.0,score,2021.0
-24,Social issues ,Net migration,C4_Restrictions on gatherings,Senegal,SEN,-100001.0,net total / data are 5 year estimates,2019.0
-25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Senegal,SEN,43.03030303,proportion,2020.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Senegal,SEN,17559.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Senegal,SEN,19.94981,Rate (risk-weighted prevalence),2019.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Senegal,SEN,19.39082853083056,per 1 million people,2019.0
+8,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Senegal,SEN,6.66,score,2018.0
+9,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Senegal,SEN,52.69248699066511,percent of energy use,2014.0
+10,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Senegal,SEN,83.6156763590392,percent of total,2015.0
+11,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Senegal,SEN,0.0484844,score,2019.0
+12,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Senegal,SEN,2.1,percent,2020.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Senegal,SEN,109.721,per 100 people,2019.0
+14,Social issues ,Press freedom score,C4_Restrictions on gatherings,Senegal,SEN,23.99,score,2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Senegal,SEN,357.0,"Number (cumulative total by Dec 26,2020)",2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Senegal,SEN,56.9449997,Percentage of total employment,2020.0
+17,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Senegal,SEN,17.2,percent,2020.0
+18,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Senegal,SEN,43.03030303,proportion,2020.0
+19,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Senegal,SEN,40.69583,micrograms per cubic meter,2017.0
+20,Health,Prevalence of obesity,C4_Restrictions on gatherings,Senegal,SEN,8.8,percent,2016.0
+21,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Senegal,SEN,0.0,percent of total,2015.0
+22,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Senegal,SEN,279.2105896048398,kg of oil equivalent per capita,2014.0
+23,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Senegal,SEN,0.04214,percent,2019.0
+24,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Senegal,SEN,70000000.0,kWh,2015.0
+25,Social issues ,Net migration,C4_Restrictions on gatherings,Senegal,SEN,-100001.0,net total / data are 5 year estimates,2019.0
 26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Senegal,SEN,90.0,percent,2019.0
-27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Senegal,SEN,0.240196,percent,2019.0
-28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Senegal,SEN,0.3127,Ones,2017.0
-29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Senegal,SEN,109.721,per 100 people,2019.0
-30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Senegal,SEN,0.0573639,score,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Senegal,SEN,17559.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Senegal,SEN,42.0,score,2021.0
-34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Senegal,SEN,0.26751815179,"proportion, pero 100,000 people",2015.0
-35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Senegal,SEN,87.78761061946902,percent of total,2015.0
-36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Senegal,SEN,279.2105896048398,kg of oil equivalent per capita,2014.0
-37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Senegal,SEN,6.66,score,2018.0
-38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Senegal,SEN,-0.1907603,score,2019.0
-39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Senegal,SEN,83.6156763590392,percent of total,2015.0
-40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Senegal,SEN,52.69248699066511,percent of energy use,2014.0
-41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Senegal,SEN,17.2,percent,2020.0
-42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Senegal,SEN,0.0691,Ones,2017.0
-43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Senegal,SEN,0.0,percent of total,2015.0
-44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Senegal,SEN,0.4,percent,2019.0
-45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Senegal,SEN,23.16,percent,2015.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Senegal,SEN,357.0,"Number (cumulative total by Dec 26,2020)",2020.0
-47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Senegal,SEN,53.90912,percent of total,2014.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Senegal,SEN,66.9594497680664,percent of population,2018.0
-49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Senegal,SEN,0.727113,metric tons per capita,2016.0
-50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Senegal,SEN,6.67600012,percent of total labor force,2020.0
-51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Senegal,SEN,5.131800174713135,score,2021.0
-53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Senegal,SEN,-0.1122398,score,2019.0
-54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Senegal,SEN,0.000182,percent,2019.0
-55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Senegal,SEN,27.93987,percent of total energy,2014.0
-56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Senegal,SEN,0.031523,percent,2019.0
-57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Senegal,SEN,207592.0,number,2019.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Senegal,SEN,42.7117516284132,percent of total final energy consumption,2015.0
-59,Economics,Volume of exports,C4_Restrictions on gatherings,Senegal,SEN,10.267,percent change,2020.0
-60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Senegal,SEN,0.0484844,score,2019.0
-64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Senegal,SEN,8.8,percent,2016.0
-65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Senegal,SEN,2.1,percent,2020.0
-68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Senegal,SEN,7.05,score,2018.0
-69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Senegal,SEN,29.0,score,2021.0
-70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Senegal,SEN,0.001144,percent,2019.0
-71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Senegal,SEN,0.002207,percent,2019.0
-72,Environment,Energy use ,C4_Restrictions on gatherings,Senegal,SEN,97.34297904876738,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Senegal,SEN,229.3517951063763,kWh per capita,2014.0
-74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Senegal,SEN,0.04214,percent,2019.0
-76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Senegal,SEN,0.031612,percent,2019.0
-78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Senegal,SEN,-0.0573694,score,2019.0
-79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Senegal,SEN,35.1030006,Percentage of females of the total population,2020.0
-80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Senegal,SEN,40.69583,micrograms per cubic meter,2017.0
-83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Senegal,SEN,3.5,rating,2019.0
-88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Senegal,SEN,100.0,percent of total,2017.0
-89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Senegal,SEN,0.0,percent of total,2014.0
+27,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Senegal,SEN,0.0691,Ones,2017.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Senegal,SEN,0.26751815179,"proportion, pero 100,000 people",2015.0
+29,Environment,Energy use ,C4_Restrictions on gatherings,Senegal,SEN,97.34297904876738,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+30,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Senegal,SEN,117.0,Cases,2019.0
+31,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Senegal,SEN,53.90912,percent of total,2014.0
+32,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Senegal,SEN,0.9,percent,2018.0
+33,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Senegal,SEN,74.5646477541905,score,2020.0
+34,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Senegal,SEN,0.027979,percent,2019.0
+35,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Senegal,SEN,0.031523,percent,2019.0
+36,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Senegal,SEN,29.0,score,2021.0
+37,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Senegal,SEN,-0.0573694,score,2019.0
+38,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Senegal,SEN,12.5116043173186,percent of GNI,2018.0
+40,Economics,Volume of imports,C4_Restrictions on gatherings,Senegal,SEN,17.786,percent change,2020.0
+41,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Senegal,SEN,0.4,percent,2019.0
+42,Governance,Human Development Index,C4_Restrictions on gatherings,Senegal,SEN,0.512,index,2019.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Senegal,SEN,10901.99,kt,2016.0
+44,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Senegal,SEN,0.031612,percent,2019.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Senegal,SEN,207592.0,number,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Senegal,SEN,0.0573639,score,2019.0
+48,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Senegal,SEN,23.16,percent,2015.0
+49,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Senegal,SEN,71.0,score,2021.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Senegal,SEN,0.727113,metric tons per capita,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Senegal,SEN,42.0,score,2021.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Senegal,SEN,66.9594497680664,percent of population,2018.0
+55,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Senegal,SEN,0.240196,percent,2019.0
+57,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Senegal,SEN,6.67600012,percent of total labor force,2020.0
+58,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Senegal,SEN,93.0,percent,2019.0
+60,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Senegal,SEN,35.1030006,Percentage of females of the total population,2020.0
+61,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Senegal,SEN,100.0,percent of total,2017.0
+62,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Senegal,SEN,0.2603854,score,2019.0
+64,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Senegal,SEN,0.3127,Ones,2017.0
+65,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Senegal,SEN,27.93987,percent of total energy,2014.0
+66,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Senegal,SEN,0.001144,percent,2019.0
+68,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Senegal,SEN,0.002207,percent,2019.0
+71,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Senegal,SEN,6.27,score,2018.0
+72,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Senegal,SEN,5.131800174713135,score,2021.0
+74,Environment,Electric power consumption ,C4_Restrictions on gatherings,Senegal,SEN,229.3517951063763,kWh per capita,2014.0
+75,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Senegal,SEN,0.000182,percent,2019.0
+76,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Senegal,SEN,-0.1907603,score,2019.0
+77,Economics,Volume of exports,C4_Restrictions on gatherings,Senegal,SEN,10.267,percent change,2020.0
+79,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Senegal,SEN,3.5,rating,2019.0
+81,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Senegal,SEN,87.78761061946902,percent of total,2015.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Senegal,SEN,42.7117516284132,percent of total final energy consumption,2015.0
+86,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Senegal,SEN,7.05,score,2018.0
+90,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Senegal,SEN,45.6990013,Percentage of total population,2020.0
+93,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Senegal,SEN,0.0,percent of total,2014.0

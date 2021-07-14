@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C5_Close public transport,Barbados,BRB,81.7608,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C5_Close public transport,Barbados,BRB,64.0,score,2020.0
+2,Demographics,Fixed telephone subscriptions,C5_Close public transport,Barbados,BRB,138312.0,number,2019.0
 3,Health,Prevalence of COVID-19,C5_Close public transport,Barbados,BRB,305.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Demographics,Secure Internet servers ,C5_Close public transport,Barbados,BRB,940.6846093545857,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,C5_Close public transport,Barbados,BRB,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Social issues ,Net migration,C5_Close public transport,Barbados,BRB,-397.0,net total / data are 5 year estimates,2019.0
-8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Barbados,BRB,38.0,score,2021.0
-10,Health,Prevalence of anxiety disorders,C5_Close public transport,Barbados,BRB,0.049347,percent,2019.0
-11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Barbados,BRB,37.2103,per 100 people,2019.0
-13,Health,Summary exposure value tobacco,C5_Close public transport,Barbados,BRB,10.06039,Rate (risk-weighted prevalence),2019.0
-14,Health,Prevalence of Diabetes,C5_Close public transport,Barbados,BRB,0.123307,percent,2019.0
-15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Barbados,BRB,57.0,score,2021.0
-16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Barbados,BRB,2.4843,Ones,2017.0
-17,Environment,CO2 emissions (kt),C5_Close public transport,Barbados,BRB,1276.116,kt,2016.0
-19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Barbados,BRB,0.245301,percent,2019.0
-20,Environment,Renewable energy consumption ,C5_Close public transport,Barbados,BRB,2.78635820637435,percent of total final energy consumption,2015.0
-22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Barbados,BRB,0.0,Cases,2019.0
-23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Barbados,BRB,-0.626937448351921,percent of GNI,2016.0
-24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Barbados,BRB,20.0,proportion,2020.0
-25,Economics,"Central government debt, total",C5_Close public transport,Barbados,BRB,141.7288148568399,percent of GDP,2015.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Barbados,BRB,23.08018,micrograms per cubic meter,2017.0
-27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Barbados,BRB,3.06,Ones,2018.0
-29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Barbados,BRB,108.609,per 100 people,2019.0
-30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Barbados,BRB,0.132863,percent,2019.0
-31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Barbados,BRB,78.5100021,Percentage of total employment,2020.0
-33,Social issues ,Proportion of women in managerial positions (%),C5_Close public transport,Barbados,BRB,48.6,percent,2016.0
-34,Economics,Volume of imports,C5_Close public transport,Barbados,BRB,2.294,percent change,2020.0
-35,Health,Prevalence of total cancers,C5_Close public transport,Barbados,BRB,0.028345,percent,2019.0
-36,Governance,Rule of law estimate ,C5_Close public transport,Barbados,BRB,0.3570292,score,2019.0
-37,Health,Prevalence of down syndrome,C5_Close public transport,Barbados,BRB,0.000224,percent,2019.0
-38,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Barbados,BRB,0.8,percent,2019.0
-39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Barbados,BRB,0.9417337,score,2019.0
-41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Barbados,BRB,0.003869,percent,2019.0
-42,Health,Prevalence of Depressive disorders,C5_Close public transport,Barbados,BRB,0.039605,percent,2019.0
-43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Barbados,BRB,10.9379997,percent of total labor force,2020.0
-45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Barbados,BRB,100.0,percent of total,2017.0
-47,Governance,Serious assault (rate),C5_Close public transport,Barbados,BRB,502.05,rate,2017.0
+4,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Barbados,BRB,0.245301,percent,2019.0
+6,Governance,Rule of law estimate ,C5_Close public transport,Barbados,BRB,0.3570292,score,2019.0
+7,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Barbados,BRB,78.5100021,Percentage of total employment,2020.0
+9,Demographics,Fixed broadband subscriptions,C5_Close public transport,Barbados,BRB,37.2103,per 100 people,2019.0
+10,Governance,Control of corruption estimate,C5_Close public transport,Barbados,BRB,1.261709,score,2019.0
+11,Governance,Voice and accountability estimate,C5_Close public transport,Barbados,BRB,1.131867,score,2019.0
+12,Governance,Economic Freedom Score,C5_Close public transport,Barbados,BRB,6.22,score,2018.0
+13,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Barbados,BRB,4.465129,metric tons per capita,2016.0
+14,Governance,Corruption Perceptions Index,C5_Close public transport,Barbados,BRB,64.0,score,2020.0
+15,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Barbados,BRB,11.4,percent,2020.0
+17,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Barbados,BRB,20.0,proportion,2020.0
+18,Social issues ,Net migration,C5_Close public transport,Barbados,BRB,-397.0,net total / data are 5 year estimates,2019.0
+19,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Barbados,BRB,92.0,percent,2019.0
+20,Health,Prevalence of obesity,C5_Close public transport,Barbados,BRB,23.1,percent,2016.0
+22,Economics,Volume of imports,C5_Close public transport,Barbados,BRB,2.294,percent change,2020.0
+24,Health,Prevalence of down syndrome,C5_Close public transport,Barbados,BRB,0.000224,percent,2019.0
+26,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Barbados,BRB,6.6,percent,2020.0
+27,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Barbados,BRB,0.0,Cases,2019.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Barbados,BRB,9.7683505442,"proportion, pero 100,000 people",2018.0
+29,Health,"Physicians (per 1,000 people)",C5_Close public transport,Barbados,BRB,2.4843,Ones,2017.0
+30,Health,Prevalence of anxiety disorders,C5_Close public transport,Barbados,BRB,0.049347,percent,2019.0
+31,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Barbados,BRB,57.0,score,2021.0
+33,Demographics,Secure Internet servers ,C5_Close public transport,Barbados,BRB,940.6846093545857,per 1 million people,2019.0
+34,Health,Mortality due to COVID-19,C5_Close public transport,Barbados,BRB,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
+35,Economics,Volume of exports,C5_Close public transport,Barbados,BRB,2.911,percent change,2020.0
+36,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Barbados,BRB,0.8,percent,2019.0
+39,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Barbados,BRB,64.901001,Percentage of total population,2020.0
+41,Health,Prevalence of total cancers,C5_Close public transport,Barbados,BRB,0.028345,percent,2019.0
+43,Health,Prevalence of chronic kidney disease,C5_Close public transport,Barbados,BRB,0.132863,percent,2019.0
+45,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Barbados,BRB,0.9417337,score,2019.0
+46,Environment,CO2 emissions (kt),C5_Close public transport,Barbados,BRB,1276.116,kt,2016.0
 48,Governance,Personal Freedom Score ,C5_Close public transport,Barbados,BRB,7.76,score,2018.0
-49,Demographics,People with basic handwashing facilities including soap and water (% of population),C5_Close public transport,Barbados,BRB,88.4693506083686,proportion,2016.0
-50,Governance,Regulatory quality estimate,C5_Close public transport,Barbados,BRB,0.412301,score,2019.0
-51,Health,Prevalence of obesity,C5_Close public transport,Barbados,BRB,23.1,percent,2016.0
-52,Governance,Government effectiveness estimate,C5_Close public transport,Barbados,BRB,0.631425,score,2019.0
-53,Governance,Voice and accountability estimate,C5_Close public transport,Barbados,BRB,1.131867,score,2019.0
-54,Governance,Human Freedom Score ,C5_Close public transport,Barbados,BRB,6.99,score,2018.0
-55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Barbados,BRB,90.0,percent,2019.0
-57,Governance,Economic Freedom Score,C5_Close public transport,Barbados,BRB,6.22,score,2018.0
-58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Barbados,BRB,64.901001,Percentage of total population,2020.0
-60,Governance,Human Development Index,C5_Close public transport,Barbados,BRB,0.814,index,2019.0
-62,Governance,Total freedom in the world score ,C5_Close public transport,Barbados,BRB,95.0,score,2021.0
-63,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Barbados,BRB,97.2793784985907,proportion,2017.0
-64,Governance,Control of corruption estimate,C5_Close public transport,Barbados,BRB,1.261709,score,2019.0
-66,Demographics,Urban population (% of total population),C5_Close public transport,Barbados,BRB,31.158,total,2019.0
-67,Social issues ,"Intentional homicides (per 100,000 people)",C5_Close public transport,Barbados,BRB,9.7683505442,"proportion, pero 100,000 people",2018.0
-68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Barbados,BRB,61.4000015,Percentage of females of the total population,2020.0
-71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Barbados,BRB,138312.0,number,2019.0
-75,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Barbados,BRB,6.6,percent,2020.0
-76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Barbados,BRB,92.0,percent,2019.0
-78,Demographics,Rural population (% of total population),C5_Close public transport,Barbados,BRB,68.842,proportion,2019.0
-79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Barbados,BRB,2.9,percent,2018.0
-80,Demographics,Age dependency ratio (% of working-age population),C5_Close public transport,Barbados,BRB,49.88328920777654,proportion,2019.0
-81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Barbados,BRB,4.465129,metric tons per capita,2016.0
-82,Governance,Fragile States Index Total ,C5_Close public transport,Barbados,BRB,46.40725753500914,score,2020.0
-84,Demographics,"Age dependency ratio, old (% of working-age population)",C5_Close public transport,Barbados,BRB,24.32754218037692,proportion,2019.0
-85,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Barbados,BRB,11.4,percent,2020.0
-88,Economics,Volume of exports,C5_Close public transport,Barbados,BRB,2.911,percent change,2020.0
-96,Demographics,"Population, total",C5_Close public transport,Barbados,BRB,287025.0,total,2019.0
-106,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C5_Close public transport,Barbados,BRB,99.5999984741211,proportion,2014.0
-108,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C5_Close public transport,Barbados,BRB,16.3744926452637,proportion,2016.0
-114,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Barbados,BRB,90.0936737060547,proportion,2019.0
-116,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C5_Close public transport,Barbados,BRB,0.336767345666885,proportion,2016.0
-117,Environment,Access to electricity ,C5_Close public transport,Barbados,BRB,100.0,percent of population,2018.0
+49,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Barbados,BRB,90.0,percent,2019.0
+50,Environment,Access to electricity ,C5_Close public transport,Barbados,BRB,100.0,percent of population,2018.0
+51,Demographics,People with basic handwashing facilities including soap and water (% of population),C5_Close public transport,Barbados,BRB,88.4693506083686,proportion,2016.0
+52,Demographics,Age dependency ratio (% of working-age population),C5_Close public transport,Barbados,BRB,49.88328920777654,proportion,2019.0
+53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Barbados,BRB,100.0,percent of total,2017.0
+55,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Barbados,BRB,38.0,score,2021.0
+56,Environment,Renewable energy consumption ,C5_Close public transport,Barbados,BRB,2.78635820637435,percent of total final energy consumption,2015.0
+60,Health,Prevalence of Depressive disorders,C5_Close public transport,Barbados,BRB,0.039605,percent,2019.0
+61,Social issues ,Proportion of women in managerial positions (%),C5_Close public transport,Barbados,BRB,48.6,percent,2016.0
+62,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Barbados,BRB,23.08018,micrograms per cubic meter,2017.0
+63,Governance,Human Freedom Score ,C5_Close public transport,Barbados,BRB,6.99,score,2018.0
+64,Demographics,Mobile cellular subscriptions,C5_Close public transport,Barbados,BRB,108.609,per 100 people,2019.0
+66,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Barbados,BRB,2.9,percent,2018.0
+67,Governance,Human Development Index,C5_Close public transport,Barbados,BRB,0.814,index,2019.0
+68,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Barbados,BRB,-0.626937448351921,percent of GNI,2016.0
+69,Governance,Total freedom in the world score ,C5_Close public transport,Barbados,BRB,95.0,score,2021.0
+71,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Barbados,BRB,10.9379997,percent of total labor force,2020.0
+72,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Barbados,BRB,3.06,Ones,2018.0
+77,Economics,"Central government debt, total",C5_Close public transport,Barbados,BRB,141.7288148568399,percent of GDP,2015.0
+78,Demographics,Urban population (% of total population),C5_Close public transport,Barbados,BRB,31.158,total,2019.0
+80,Governance,Regulatory quality estimate,C5_Close public transport,Barbados,BRB,0.412301,score,2019.0
+83,Governance,Government effectiveness estimate,C5_Close public transport,Barbados,BRB,0.631425,score,2019.0
+84,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C5_Close public transport,Barbados,BRB,99.5999984741211,proportion,2014.0
+85,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Barbados,BRB,0.003869,percent,2019.0
+86,Governance,Fragile States Index Total ,C5_Close public transport,Barbados,BRB,46.40725753500914,score,2020.0
+88,Health,Prevalence of Diabetes,C5_Close public transport,Barbados,BRB,0.123307,percent,2019.0
+90,Health,Summary exposure value tobacco,C5_Close public transport,Barbados,BRB,10.06039,Rate (risk-weighted prevalence),2019.0
+92,Demographics,"Age dependency ratio, old (% of working-age population)",C5_Close public transport,Barbados,BRB,24.32754218037692,proportion,2019.0
+93,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Barbados,BRB,90.0936737060547,proportion,2019.0
+95,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Barbados,BRB,61.4000015,Percentage of females of the total population,2020.0
+97,Governance,Serious assault (rate),C5_Close public transport,Barbados,BRB,502.05,rate,2017.0
+103,Demographics,"Population, total",C5_Close public transport,Barbados,BRB,287025.0,total,2019.0
+105,Demographics,Rural population (% of total population),C5_Close public transport,Barbados,BRB,68.842,proportion,2019.0
+108,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Barbados,BRB,97.2793784985907,proportion,2017.0
+109,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C5_Close public transport,Barbados,BRB,16.3744926452637,proportion,2016.0
+110,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C5_Close public transport,Barbados,BRB,0.336767345666885,proportion,2016.0

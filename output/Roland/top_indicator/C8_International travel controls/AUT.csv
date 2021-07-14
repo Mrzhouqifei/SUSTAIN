@@ -1,70 +1,70 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Austria,AUT,87.7522,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Austria,AUT,76.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Austria,AUT,332371.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Austria,AUT,26306.77452361236,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Austria,AUT,0.00057,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Austria,AUT,0.004168,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Austria,AUT,5017.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Austria,AUT,15.78,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Austria,AUT,0.066077,percent,2019.0
-11,Environment,"Energy imports, net ",C8_International travel controls,Austria,AUT,63.54485349359552,percent of energy use,2015.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Austria,AUT,30.50803,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Austria,AUT,0.032789,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Austria,AUT,1.545429,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Austria,AUT,28.0622,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Austria,AUT,14.2752603712723,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Austria,AUT,6.2,Cases,2019.0
-19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Austria,AUT,10187000000.0,kWh,2015.0
-20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Austria,AUT,31.59,percent,2018.0
-21,Social issues ,Net migration,C8_International travel controls,Austria,AUT,324998.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Austria,AUT,1.490911,score,2019.0
-24,Health,Prevalence of obesity,C8_International travel controls,Austria,AUT,20.1,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Austria,AUT,94.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Austria,AUT,56.0,score,2021.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Austria,AUT,71.4749985,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Austria,AUT,7.2677998542785645,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Austria,AUT,7.5,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Austria,AUT,34.3949917477854,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Austria,AUT,5.1697,Ones,2017.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Austria,AUT,24.108703082430992,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Austria,AUT,37.0,score,2021.0
-36,Environment,Electricity production from coal sources ,C8_International travel controls,Austria,AUT,8.226608163463563,percent of total,2015.0
-37,Environment,Energy use ,C8_International travel controls,Austria,AUT,71.54711753478527,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Austria,AUT,119.775,per 100 people,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Austria,AUT,85.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Austria,AUT,0.079468,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Austria,AUT,0.119811,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Austria,AUT,3753080.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Austria,AUT,332371.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Austria,AUT,5017.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Austria,AUT,0.96722860774,"proportion, pero 100,000 people",2018.0
+7,Governance,Economic Freedom Score,C8_International travel controls,Austria,AUT,7.8,score,2018.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Austria,AUT,12.47797,micrograms per cubic meter,2017.0
+9,Environment,Fossil fuel energy consumption,C8_International travel controls,Austria,AUT,65.66182,percent of total,2015.0
+10,Environment,Energy use ,C8_International travel controls,Austria,AUT,71.54711753478527,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Austria,AUT,0.00057,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Austria,AUT,2.44,percent change,2020.0
+13,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Austria,AUT,10187000000.0,kWh,2015.0
+14,Environment,Electricity production from coal sources ,C8_International travel controls,Austria,AUT,8.226608163463563,percent of total,2015.0
+15,Social issues ,Net migration,C8_International travel controls,Austria,AUT,324998.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Austria,AUT,1.326599,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Austria,AUT,28.0622,per 100 people,2019.0
+18,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Austria,AUT,31.59,percent,2018.0
+20,Environment,Electricity production from nuclear sources ,C8_International travel controls,Austria,AUT,0.0,percent of total,2015.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Austria,AUT,76.0,score,2020.0
+22,Environment,Electricity production from oil sources,C8_International travel controls,Austria,AUT,1.39403850201577,percent of total,2015.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Austria,AUT,56.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Austria,AUT,1.883051,score,2019.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Austria,AUT,0.9801227,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Austria,AUT,93.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Austria,AUT,0.079468,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Austria,AUT,85.0515376653505,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Austria,AUT,1.490911,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Austria,AUT,30.50803,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Austria,AUT,29.7,index ,2017.0
+33,Health,Prevalence of obesity,C8_International travel controls,Austria,AUT,20.1,percent,2016.0
+34,Governance,Serious assault (rate),C8_International travel controls,Austria,AUT,41.74,rate,2018.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Austria,AUT,7.0899,Ones,2017.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Austria,AUT,37.0,score,2021.0
+37,Governance,Personal Freedom Score ,C8_International travel controls,Austria,AUT,9.09,score,2018.0
+38,Governance,Human Development Index,C8_International travel controls,Austria,AUT,0.922,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Austria,AUT,5.1697,Ones,2017.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Austria,AUT,85.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Austria,AUT,0.066077,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Austria,AUT,55.0439987,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Austria,AUT,85.0515376653505,percent of total,2017.0
-45,Governance,Personal Freedom Score ,C8_International travel controls,Austria,AUT,9.09,score,2018.0
-47,Environment,Electric power consumption ,C8_International travel controls,Austria,AUT,8355.841951821338,kWh per capita,2014.0
-48,Environment,Fossil fuel energy consumption,C8_International travel controls,Austria,AUT,65.66182,percent of total,2015.0
-49,Governance,Human Freedom Score ,C8_International travel controls,Austria,AUT,8.45,score,2018.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Austria,AUT,7.033336,metric tons per capita,2016.0
-51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Austria,AUT,0.96722860774,"proportion, pero 100,000 people",2018.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Austria,AUT,0.115732,percent,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Austria,AUT,1.326599,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Austria,AUT,4.77899981,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Austria,AUT,1.459116,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Austria,AUT,3753080.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Austria,AUT,1.883051,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Austria,AUT,0.9801227,score,2019.0
-63,Governance,Serious assault (rate),C8_International travel controls,Austria,AUT,41.74,rate,2018.0
-64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Austria,AUT,29.7,index ,2017.0
-66,Environment,Electricity production from oil sources,C8_International travel controls,Austria,AUT,1.39403850201577,percent of total,2015.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Austria,AUT,0.03949,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Austria,AUT,12.47797,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Austria,AUT,2.44,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Austria,AUT,0.922,index,2019.0
-73,Governance,Economic Freedom Score,C8_International travel controls,Austria,AUT,7.8,score,2018.0
-74,Environment,Combustible renewables and waste,C8_International travel controls,Austria,AUT,14.1425,percent of total energy,2015.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Austria,AUT,60.6100006,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Austria,AUT,7.0899,Ones,2017.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Austria,AUT,93.0,score,2021.0
-80,Environment,Access to electricity ,C8_International travel controls,Austria,AUT,100.0,percent of population,2018.0
-81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Austria,AUT,3800.299420354683,kg of oil equivalent per capita,2015.0
-82,Economics,Volume of exports,C8_International travel controls,Austria,AUT,2.588,percent change,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Austria,AUT,61447.92,kt,2016.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Austria,AUT,0.119811,percent,2019.0
-91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Austria,AUT,22.22204232307368,percent of total,2015.0
-99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Austria,AUT,0.0,percent of total,2015.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Austria,AUT,7.5,percent,2018.0
+47,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Austria,AUT,3800.299420354683,kg of oil equivalent per capita,2015.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Austria,AUT,0.03949,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Austria,AUT,61447.92,kt,2016.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Austria,AUT,119.775,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Austria,AUT,60.6100006,Percentage of total population,2020.0
+58,Environment,Electric power consumption ,C8_International travel controls,Austria,AUT,8355.841951821338,kWh per capita,2014.0
+59,Economics,Volume of exports,C8_International travel controls,Austria,AUT,2.588,percent change,2020.0
+60,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Austria,AUT,22.22204232307368,percent of total,2015.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Austria,AUT,71.4749985,Percentage of total employment,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Austria,AUT,26306.77452361236,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Austria,AUT,4.77899981,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Austria,AUT,0.032789,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Austria,AUT,1.545429,score,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Austria,AUT,14.2752603712723,percent of GNI,2018.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Austria,AUT,7.033336,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Austria,AUT,7.2677998542785645,score,2021.0
+76,Environment,"Energy imports, net ",C8_International travel controls,Austria,AUT,63.54485349359552,percent of energy use,2015.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Austria,AUT,94.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Austria,AUT,100.0,percent of population,2018.0
+80,Environment,Combustible renewables and waste,C8_International travel controls,Austria,AUT,14.1425,percent of total energy,2015.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Austria,AUT,24.108703082430992,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Austria,AUT,15.78,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Austria,AUT,34.3949917477854,percent of total final energy consumption,2015.0
+88,Governance,Human Freedom Score ,C8_International travel controls,Austria,AUT,8.45,score,2018.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Austria,AUT,0.115732,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Austria,AUT,1.459116,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Austria,AUT,0.004168,percent,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Austria,AUT,6.2,Cases,2019.0

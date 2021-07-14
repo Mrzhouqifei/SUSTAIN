@@ -1,7 +1,7 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Isle of Man,IMN,9860.020807717772,per 1 million people,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Isle of Man,IMN,373.0,"Number (cumulative total by Dec 26,2020)",2020.0
-34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Isle of Man,IMN,0.0,"proportion, pero 100,000 people",2016.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Isle of Man,IMN,25.0,"Number (cumulative total by Dec 26,2020)",2020.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Isle of Man,IMN,100.0,percent of population,2018.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Isle of Man,IMN,4.2075897300392,percent of total final energy consumption,2015.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Isle of Man,IMN,373.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Isle of Man,IMN,9860.020807717772,per 1 million people,2019.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Isle of Man,IMN,25.0,"Number (cumulative total by Dec 26,2020)",2020.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Isle of Man,IMN,0.0,"proportion, pero 100,000 people",2016.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Isle of Man,IMN,100.0,percent of population,2018.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Isle of Man,IMN,4.2075897300392,percent of total final energy consumption,2015.0

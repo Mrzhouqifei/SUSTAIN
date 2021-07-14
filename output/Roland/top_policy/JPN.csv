@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-JPN,C4_Restrictions on gatherings,0.11626045164701948,1
-JPN,C2_Workplace closing,0.10447312232345676,2
-JPN,C5_Close public transport,0.08031636520977503,3
-JPN,H2_Testing policy,0.07394503802169862,4
-JPN,H7_Vaccination policy,0.07101480919274387,5
-JPN,E2_Debt/contract relief,0.07044536516091232,6
-JPN,C6_Stay at home requirements,0.07037976240130425,7
-JPN,C8_International travel controls,0.0641011755507369,8
-JPN,E1_Income support,0.060910042296032,9
-JPN,C3_Cancel public events,0.05981680705627913,10
-JPN,C1_School closing,0.047970980436439235,11
-JPN,H6_Facial Coverings,0.0340999966456901,12
-JPN,C7_Restrictions on internal movement,0.018103695763859187,13
-JPN,H1_Public information campaigns,0.0062334193222863135,14
+JPN,C4_Restrictions on gatherings,0.1054558634602311,1
+JPN,C2_Workplace closing,0.0987747639883403,2
+JPN,C5_Close public transport,0.0874961453276795,3
+JPN,H7_Vaccination policy,0.0829217041839856,4
+JPN,E1_Income support,0.0790708931346537,5
+JPN,E2_Debt/contract relief,0.0765511166282029,6
+JPN,C6_Stay at home requirements,0.0763731187765125,7
+JPN,H2_Testing policy,0.0579563897363011,8
+JPN,C8_International travel controls,0.0549360377192204,9
+JPN,C3_Cancel public events,0.0467640406067484,10
+JPN,C1_School closing,0.0458111735417836,11
+JPN,H6_Facial Coverings,0.0329756864440231,12
+JPN,C7_Restrictions on internal movement,0.0203835432632794,13
+JPN,H1_Public information campaigns,0.0025721542667795,14
 JPN,H3_Contact tracing,0.0,15

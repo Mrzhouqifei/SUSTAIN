@@ -1,8 +1,8 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Health,Prevalence of COVID-19,H2_Testing policy,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-13,Governance,Government effectiveness estimate,H2_Testing policy,Anguilla,AIA,0.8158239,score,2019.0
-16,Governance,Control of corruption estimate,H2_Testing policy,Anguilla,AIA,1.234392,score,2019.0
-24,Health,Mortality due to COVID-19,H2_Testing policy,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-48,Governance,Rule of law estimate ,H2_Testing policy,Anguilla,AIA,0.3557367,score,2019.0
-65,Governance,Regulatory quality estimate,H2_Testing policy,Anguilla,AIA,0.8462311,score,2019.0
-92,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Anguilla,AIA,1.367357,score,2019.0
+3,Health,Prevalence of COVID-19,H2_Testing policy,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
+10,Governance,Control of corruption estimate,H2_Testing policy,Anguilla,AIA,1.234392,score,2019.0
+17,Governance,Rule of law estimate ,H2_Testing policy,Anguilla,AIA,0.3557367,score,2019.0
+61,Governance,Regulatory quality estimate,H2_Testing policy,Anguilla,AIA,0.8462311,score,2019.0
+71,Governance,Political stability and absence of violence/terrorism estimate,H2_Testing policy,Anguilla,AIA,1.367357,score,2019.0
+83,Health,Mortality due to COVID-19,H2_Testing policy,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+86,Governance,Government effectiveness estimate,H2_Testing policy,Anguilla,AIA,0.8158239,score,2019.0

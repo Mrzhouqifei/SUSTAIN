@@ -1,101 +1,101 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Pakistan,PAK,17.0709,percent of population,2019.0
 2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Pakistan,PAK,31.0,score,2020.0
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Pakistan,PAK,62.56311086708722,per 1 million people,2019.0
+3,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.6444789,score,2019.0
 4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Pakistan,PAK,0.81309,per 100 people,2019.0
-5,Economics,Stock market capitalization (US$ million),C4_Restrictions on gatherings,Pakistan,PAK,91863740000.0,US Dollar,2016.0
-6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Pakistan,PAK,45.52,score,2020.0
-7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Pakistan,PAK,3.97076610579771,percent of GNI,2018.0
-8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Pakistan,PAK,6.07,score,2018.0
-9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Pakistan,PAK,92.07809303255931,score,2020.0
-10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Pakistan,PAK,201149.6,kt,2016.0
-11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.8433508,score,2019.0
-12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Pakistan,PAK,38.3160019,Percentage of total employment,2020.0
-13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Pakistan,PAK,23.4942,Rate (risk-weighted prevalence),2019.0
-14,Economics,Volume of imports,C4_Restrictions on gatherings,Pakistan,PAK,1.726,percent change,2020.0
-15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Pakistan,PAK,1.1,percent,2018.0
-16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Pakistan,PAK,12.51,rate,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,263.0,Cases,2019.0
-18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Pakistan,PAK,75.0,percent,2019.0
-19,Governance,Human Development Index,C4_Restrictions on gatherings,Pakistan,PAK,0.557,index,2019.0
-20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Pakistan,PAK,52.6899986,Percentage of total population,2020.0
-21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Pakistan,PAK,0.031718,percent,2019.0
-22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Pakistan,PAK,840000000.0,kWh,2015.0
-23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Pakistan,PAK,37.0,score,2021.0
-24,Social issues ,Net migration,C4_Restrictions on gatherings,Pakistan,PAK,-1166895.0,net total / data are 5 year estimates,2019.0
-25,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Pakistan,PAK,20.1754386,proportion,2020.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Pakistan,PAK,451494.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Pakistan,PAK,23.4942,Rate (risk-weighted prevalence),2019.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Pakistan,PAK,62.56311086708722,per 1 million people,2019.0
+8,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Pakistan,PAK,5.64,score,2018.0
+9,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Pakistan,PAK,24.12316878268834,percent of energy use,2014.0
+10,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Pakistan,PAK,37.22499346027909,percent of total,2015.0
+11,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.8467407,score,2019.0
+12,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Pakistan,PAK,3.4,percent,2020.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Pakistan,PAK,76.3769,per 100 people,2019.0
+14,Social issues ,Press freedom score,C4_Restrictions on gatherings,Pakistan,PAK,45.52,score,2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Pakistan,PAK,9164.0,"Number (cumulative total by Dec 26,2020)",2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Pakistan,PAK,38.3160019,Percentage of total employment,2020.0
+17,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Pakistan,PAK,36.7,percent,2020.0
+18,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Pakistan,PAK,20.1754386,proportion,2020.0
+19,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Pakistan,PAK,58.28242,micrograms per cubic meter,2017.0
+20,Health,Prevalence of obesity,C4_Restrictions on gatherings,Pakistan,PAK,8.6,percent,2016.0
+21,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Pakistan,PAK,0.1371086315295731,percent of total,2015.0
+22,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Pakistan,PAK,460.2347972222681,kg of oil equivalent per capita,2014.0
+23,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Pakistan,PAK,0.058717,percent,2019.0
+24,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Pakistan,PAK,840000000.0,kWh,2015.0
+25,Social issues ,Net migration,C4_Restrictions on gatherings,Pakistan,PAK,-1166895.0,net total / data are 5 year estimates,2019.0
 26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Pakistan,PAK,75.0,percent,2019.0
-27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Pakistan,PAK,0.200208,percent,2019.0
-28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,0.6683,Ones,2018.0
-29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Pakistan,PAK,76.3769,per 100 people,2019.0
-30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Pakistan,PAK,-2.246336,score,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Pakistan,PAK,451494.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Pakistan,PAK,22.0,score,2021.0
-34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,3.8830827302,"proportion, pero 100,000 people",2018.0
-35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Pakistan,PAK,63.08710908254481,percent of total,2015.0
-36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Pakistan,PAK,460.2347972222681,kg of oil equivalent per capita,2014.0
-37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Pakistan,PAK,5.64,score,2018.0
-38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Pakistan,PAK,-0.6675787,score,2019.0
-39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Pakistan,PAK,37.22499346027909,percent of total,2015.0
-40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Pakistan,PAK,24.12316878268834,percent of energy use,2014.0
-41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Pakistan,PAK,36.7,percent,2020.0
-42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,0.9801,Ones,2018.0
-43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Pakistan,PAK,0.1371086315295731,percent of total,2015.0
-44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Pakistan,PAK,0.1,percent,2019.0
-45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Pakistan,PAK,4.93,percent,2018.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Pakistan,PAK,9164.0,"Number (cumulative total by Dec 26,2020)",2020.0
-47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Pakistan,PAK,61.58536,percent of total,2014.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Pakistan,PAK,71.0915467008027,percent of population,2018.0
-49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Pakistan,PAK,0.987832,metric tons per capita,2016.0
-50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Pakistan,PAK,4.44500017,percent of total labor force,2020.0
-51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Pakistan,PAK,4.934000015258789,score,2021.0
-52,Demographics,People using at least basic sanitation services (% of population),C4_Restrictions on gatherings,Pakistan,PAK,59.869495032297,proportion,2017.0
-53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.6444789,score,2019.0
-54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Pakistan,PAK,0.000188,percent,2019.0
-55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Pakistan,PAK,35.02253,percent of total energy,2014.0
-56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Pakistan,PAK,0.032312,percent,2019.0
-57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Pakistan,PAK,2461920.0,number,2019.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Pakistan,PAK,46.4763249199424,percent of total final energy consumption,2015.0
-59,Economics,Volume of exports,C4_Restrictions on gatherings,Pakistan,PAK,6.002,percent change,2020.0
-60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.8467407,score,2019.0
-61,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C4_Restrictions on gatherings,Pakistan,PAK,4.46870252490044,proportion,2015.0
-63,Demographics,"Age dependency ratio, old (% of working-age population)",C4_Restrictions on gatherings,Pakistan,PAK,7.129954676960894,proportion,2019.0
-64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Pakistan,PAK,8.6,percent,2016.0
-65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Pakistan,PAK,3.4,percent,2020.0
-67,Social issues ,"Primary completion rate, total (% of relevant age group)",C4_Restrictions on gatherings,Pakistan,PAK,73.2653884887695,proportion,2019.0
-68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Pakistan,PAK,5.21,score,2018.0
-69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Pakistan,PAK,15.0,score,2021.0
-70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Pakistan,PAK,0.000524,percent,2019.0
-71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Pakistan,PAK,0.004517,percent,2019.0
-72,Environment,Energy use ,C4_Restrictions on gatherings,Pakistan,PAK,110.3349006196365,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Pakistan,PAK,447.5010025891313,kWh per capita,2014.0
-74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Pakistan,PAK,0.058717,percent,2019.0
-75,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C4_Restrictions on gatherings,Pakistan,PAK,0.871815346181393,proportion,2015.0
-76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Pakistan,PAK,0.041796,percent,2019.0
-77,Social issues ,Progression to secondary school (%),C4_Restrictions on gatherings,Pakistan,PAK,87.50431,proportion,2017.0
-78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.6770047,score,2019.0
-79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Pakistan,PAK,22.1819992,Percentage of females of the total population,2020.0
-80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Pakistan,PAK,58.28242,micrograms per cubic meter,2017.0
-82,Demographics,Urban population (% of total population),C4_Restrictions on gatherings,Pakistan,PAK,36.907,total,2019.0
-83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Pakistan,PAK,3.0,rating,2019.0
-84,Demographics,Age dependency ratio (% of working-age population),C4_Restrictions on gatherings,Pakistan,PAK,64.95331206973643,proportion,2019.0
-85,Economics,"Lending interest rates, percent per annum",C4_Restrictions on gatherings,Pakistan,PAK,12.23305,percent per annum,2019.0
-86,Health,Hospital beds (per 10 000 population),C4_Restrictions on gatherings,Pakistan,PAK,6.3,Ones,2017.0
-87,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C4_Restrictions on gatherings,Pakistan,PAK,59.1320495605469,proportion,2017.0
-88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Pakistan,PAK,100.0,percent of total,2017.0
-89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Pakistan,PAK,4.757542902007702,percent of total,2014.0
-91,Social issues ,Coverage of social safety net programs (% of population),C4_Restrictions on gatherings,Pakistan,PAK,10.3594673999368,proportion,2015.0
-92,Demographics,"Population, total",C4_Restrictions on gatherings,Pakistan,PAK,216565318.0,total,2019.0
-95,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C4_Restrictions on gatherings,Pakistan,PAK,41.1,proportion,2018.0
-97,Economics,"International tourism, receipts",C4_Restrictions on gatherings,Pakistan,PAK,494000000.0,US Dollar,2019.0
-100,Economics,Growth rates of household expenditure or income per capita (%),C4_Restrictions on gatherings,Pakistan,PAK,4.0,percent,2015.0
-101,Economics,Unemployment rate (%) - Annual,C4_Restrictions on gatherings,Pakistan,PAK,4.1,percent,2018.0
-102,Economics,"Trade, total as % of GDP",C4_Restrictions on gatherings,Pakistan,PAK,28.08989,percent,2019.0
-106,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Pakistan,PAK,33.5,index ,2015.0
-107,Social issues ,Proportion of people living below 50 percent of median income (%),C4_Restrictions on gatherings,Pakistan,PAK,4.3,proportion,2015.0
-108,Economics,"Foreign direct investment, net",C4_Restrictions on gatherings,Pakistan,PAK,2218000000.0,US Dollar,2019.0
+27,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,0.9801,Ones,2018.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,3.8830827302,"proportion, pero 100,000 people",2018.0
+29,Environment,Energy use ,C4_Restrictions on gatherings,Pakistan,PAK,110.3349006196365,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+30,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,263.0,Cases,2019.0
+31,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Pakistan,PAK,61.58536,percent of total,2014.0
+32,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Pakistan,PAK,1.1,percent,2018.0
+33,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Pakistan,PAK,92.07809303255931,score,2020.0
+34,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Pakistan,PAK,0.031718,percent,2019.0
+35,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Pakistan,PAK,0.032312,percent,2019.0
+36,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Pakistan,PAK,15.0,score,2021.0
+37,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.6770047,score,2019.0
+38,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Pakistan,PAK,3.97076610579771,percent of GNI,2018.0
+40,Economics,Volume of imports,C4_Restrictions on gatherings,Pakistan,PAK,1.726,percent change,2020.0
+41,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Pakistan,PAK,0.1,percent,2019.0
+42,Governance,Human Development Index,C4_Restrictions on gatherings,Pakistan,PAK,0.557,index,2019.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Pakistan,PAK,201149.6,kt,2016.0
+44,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Pakistan,PAK,0.041796,percent,2019.0
+45,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C4_Restrictions on gatherings,Pakistan,PAK,59.1320495605469,proportion,2017.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Pakistan,PAK,2461920.0,number,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Pakistan,PAK,-2.246336,score,2019.0
+48,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Pakistan,PAK,4.93,percent,2018.0
+49,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Pakistan,PAK,37.0,score,2021.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Pakistan,PAK,0.987832,metric tons per capita,2016.0
+51,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C4_Restrictions on gatherings,Pakistan,PAK,4.46870252490044,proportion,2015.0
+52,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Pakistan,PAK,22.0,score,2021.0
+53,Health,Hospital beds (per 10 000 population),C4_Restrictions on gatherings,Pakistan,PAK,6.3,Ones,2017.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Pakistan,PAK,71.0915467008027,percent of population,2018.0
+55,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Pakistan,PAK,0.200208,percent,2019.0
+56,Demographics,People with basic handwashing facilities including soap and water (% of population),C4_Restrictions on gatherings,Pakistan,PAK,59.6069124587634,proportion,2017.0
+57,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Pakistan,PAK,4.44500017,percent of total labor force,2020.0
+58,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Pakistan,PAK,75.0,percent,2019.0
+59,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C4_Restrictions on gatherings,Pakistan,PAK,41.1,proportion,2018.0
+60,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Pakistan,PAK,22.1819992,Percentage of females of the total population,2020.0
+61,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Pakistan,PAK,100.0,percent of total,2017.0
+62,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Pakistan,PAK,-0.8433508,score,2019.0
+63,Demographics,People using safely managed drinking water services (% of population),C4_Restrictions on gatherings,Pakistan,PAK,35.3143465348217,proportion,2017.0
+64,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Pakistan,PAK,0.6683,Ones,2018.0
+65,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Pakistan,PAK,35.02253,percent of total energy,2014.0
+66,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Pakistan,PAK,0.000524,percent,2019.0
+67,Economics,"Trade, total as % of GDP",C4_Restrictions on gatherings,Pakistan,PAK,28.08989,percent,2019.0
+68,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Pakistan,PAK,0.004517,percent,2019.0
+69,Demographics,Urban population (% of total population),C4_Restrictions on gatherings,Pakistan,PAK,36.907,total,2019.0
+70,Demographics,People using at least basic sanitation services (% of population),C4_Restrictions on gatherings,Pakistan,PAK,59.869495032297,proportion,2017.0
+71,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Pakistan,PAK,6.07,score,2018.0
+72,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Pakistan,PAK,4.934000015258789,score,2021.0
+73,Demographics,Refugee population by country or territory of asylum,C4_Restrictions on gatherings,Pakistan,PAK,1419596.0,proportion,2019.0
+74,Environment,Electric power consumption ,C4_Restrictions on gatherings,Pakistan,PAK,447.5010025891313,kWh per capita,2014.0
+75,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Pakistan,PAK,0.000188,percent,2019.0
+76,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Pakistan,PAK,-0.6675787,score,2019.0
+77,Economics,Volume of exports,C4_Restrictions on gatherings,Pakistan,PAK,6.002,percent change,2020.0
+78,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C4_Restrictions on gatherings,Pakistan,PAK,15257.6,international $ in PPP,2020.0
+79,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Pakistan,PAK,3.0,rating,2019.0
+80,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Pakistan,PAK,33.5,index ,2015.0
+81,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Pakistan,PAK,63.08710908254481,percent of total,2015.0
+82,Social issues ,"Primary completion rate, total (% of relevant age group)",C4_Restrictions on gatherings,Pakistan,PAK,73.2653884887695,proportion,2019.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Pakistan,PAK,46.4763249199424,percent of total final energy consumption,2015.0
+85,Governance,Serious assault (rate),C4_Restrictions on gatherings,Pakistan,PAK,12.51,rate,2018.0
+86,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Pakistan,PAK,5.21,score,2018.0
+87,Economics,Growth rates of household expenditure or income per capita (%),C4_Restrictions on gatherings,Pakistan,PAK,4.0,percent,2015.0
+88,Economics,"International tourism, receipts",C4_Restrictions on gatherings,Pakistan,PAK,494000000.0,US Dollar,2019.0
+89,Demographics,"Population, total",C4_Restrictions on gatherings,Pakistan,PAK,216565318.0,total,2019.0
+90,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Pakistan,PAK,52.6899986,Percentage of total population,2020.0
+92,Economics,Unemployment rate (%) - Annual,C4_Restrictions on gatherings,Pakistan,PAK,4.1,percent,2018.0
+93,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Pakistan,PAK,4.757542902007702,percent of total,2014.0
+95,Demographics,"Age dependency ratio, old (% of working-age population)",C4_Restrictions on gatherings,Pakistan,PAK,7.129954676960894,proportion,2019.0
+96,Economics,"Foreign direct investment, net",C4_Restrictions on gatherings,Pakistan,PAK,2218000000.0,US Dollar,2019.0
+97,Social issues ,Proportion of people living below 50 percent of median income (%),C4_Restrictions on gatherings,Pakistan,PAK,4.3,proportion,2015.0
+98,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C4_Restrictions on gatherings,Pakistan,PAK,0.871815346181393,proportion,2015.0
+99,Social issues ,Coverage of social safety net programs (% of population),C4_Restrictions on gatherings,Pakistan,PAK,10.3594673999368,proportion,2015.0
+107,Economics,Stock market capitalization (US$ million),C4_Restrictions on gatherings,Pakistan,PAK,91863740000.0,US Dollar,2016.0
+109,Demographics,Age dependency ratio (% of working-age population),C4_Restrictions on gatherings,Pakistan,PAK,64.95331206973643,proportion,2019.0
 111,Demographics,Rural population (% of total population),C4_Restrictions on gatherings,Pakistan,PAK,63.093,proportion,2019.0
-113,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C4_Restrictions on gatherings,Pakistan,PAK,15257.6,international $ in PPP,2020.0
-114,Demographics,People using safely managed drinking water services (% of population),C4_Restrictions on gatherings,Pakistan,PAK,35.3143465348217,proportion,2017.0
-115,Demographics,Refugee population by country or territory of asylum,C4_Restrictions on gatherings,Pakistan,PAK,1419596.0,proportion,2019.0
-116,Demographics,People with basic handwashing facilities including soap and water (% of population),C4_Restrictions on gatherings,Pakistan,PAK,59.6069124587634,proportion,2017.0
+113,Social issues ,Progression to secondary school (%),C4_Restrictions on gatherings,Pakistan,PAK,87.50431,proportion,2017.0
+117,Economics,"Lending interest rates, percent per annum",C4_Restrictions on gatherings,Pakistan,PAK,12.23305,percent per annum,2019.0

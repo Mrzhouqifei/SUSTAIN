@@ -1,85 +1,85 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Georgia,GEO,68.8467,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Georgia,GEO,56.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Georgia,GEO,206907.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Economics,"Foreign direct investment, net",C8_International travel controls,Georgia,GEO,1268912420.0,US Dollar,2019.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Georgia,GEO,2776.327807198293,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Georgia,GEO,0.000177,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Georgia,GEO,0.004022,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Georgia,GEO,2055.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Georgia,GEO,28.59,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Georgia,GEO,0.028094,percent,2019.0
-11,Environment,"Energy imports, net ",C8_International travel controls,Georgia,GEO,68.75204872613939,percent of energy use,2014.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Georgia,GEO,32.96994,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Georgia,GEO,0.015102,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Georgia,GEO,0.6684984,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Georgia,GEO,23.556,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Georgia,GEO,9.55657734469675,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Georgia,GEO,74.0,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Georgia,GEO,14.09395973,proportion,2020.0
-19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Georgia,GEO,0.0,kWh,2015.0
-20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Georgia,GEO,35.68,percent,2018.0
-21,Social issues ,Net migration,C8_International travel controls,Georgia,GEO,-50000.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Georgia,GEO,0.8299233,score,2019.0
-23,Economics,"Central government debt, total",C8_International travel controls,Georgia,GEO,42.14393347471816,percent of GDP,2016.0
-24,Health,Prevalence of obesity,C8_International travel controls,Georgia,GEO,21.7,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Georgia,GEO,99.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Georgia,GEO,37.0,score,2021.0
-28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Georgia,GEO,5.7,percent,2020.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Georgia,GEO,44.4819984,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Georgia,GEO,4.89139986038208,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Georgia,GEO,2.8,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Georgia,GEO,28.662538805976,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Georgia,GEO,7.1201,Ones,2018.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Georgia,GEO,71.15229518395927,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Georgia,GEO,23.0,score,2021.0
-36,Environment,Electricity production from coal sources ,C8_International travel controls,Georgia,GEO,0.0,percent of total,2015.0
-37,Environment,Energy use ,C8_International travel controls,Georgia,GEO,96.31227094406191,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Georgia,GEO,134.721,per 100 people,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Georgia,GEO,94.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Georgia,GEO,0.102796,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Georgia,GEO,0.255621,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Georgia,GEO,517617.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Georgia,GEO,206907.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Georgia,GEO,2055.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Georgia,GEO,2.2233624935,"proportion, pero 100,000 people",2018.0
+7,Governance,Economic Freedom Score,C8_International travel controls,Georgia,GEO,8.18,score,2018.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Georgia,GEO,22.19605,micrograms per cubic meter,2017.0
+9,Environment,Fossil fuel energy consumption,C8_International travel controls,Georgia,GEO,72.20954,percent of total,2014.0
+10,Environment,Energy use ,C8_International travel controls,Georgia,GEO,96.31227094406191,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Georgia,GEO,0.000177,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Georgia,GEO,4.305,percent change,2020.0
+13,Environment,"Electricity production from renewable sources, excluding hydroelectric",C8_International travel controls,Georgia,GEO,0.0,kWh,2015.0
+14,Environment,Electricity production from coal sources ,C8_International travel controls,Georgia,GEO,0.0,percent of total,2015.0
+15,Social issues ,Net migration,C8_International travel controls,Georgia,GEO,-50000.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Georgia,GEO,0.1960474,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Georgia,GEO,23.556,per 100 people,2019.0
+18,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Georgia,GEO,35.68,percent,2018.0
+19,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Georgia,GEO,7.6,percent,2020.0
+20,Environment,Electricity production from nuclear sources ,C8_International travel controls,Georgia,GEO,0.0,percent of total,2014.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Georgia,GEO,56.0,score,2020.0
+22,Environment,Electricity production from oil sources,C8_International travel controls,Georgia,GEO,0.0,percent of total,2015.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Georgia,GEO,37.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Georgia,GEO,0.3099792,score,2019.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Georgia,GEO,-0.4458558,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Georgia,GEO,60.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Georgia,GEO,0.102796,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Georgia,GEO,100.0,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Georgia,GEO,0.8299233,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Georgia,GEO,32.96994,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Georgia,GEO,36.4,index ,2018.0
+33,Health,Prevalence of obesity,C8_International travel controls,Georgia,GEO,21.7,percent,2016.0
+34,Governance,Serious assault (rate),C8_International travel controls,Georgia,GEO,4.62,rate,2018.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Georgia,GEO,4.7293,Ones,2018.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Georgia,GEO,23.0,score,2021.0
+37,Governance,Personal Freedom Score ,C8_International travel controls,Georgia,GEO,7.56,score,2018.0
+38,Governance,Human Development Index,C8_International travel controls,Georgia,GEO,0.812,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Georgia,GEO,7.1201,Ones,2018.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Georgia,GEO,94.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Georgia,GEO,0.028094,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Georgia,GEO,57.3759995,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Georgia,GEO,100.0,percent of total,2017.0
-45,Governance,Personal Freedom Score ,C8_International travel controls,Georgia,GEO,7.56,score,2018.0
-46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Georgia,GEO,7.6,percent,2020.0
-47,Environment,Electric power consumption ,C8_International travel controls,Georgia,GEO,2693.972760225132,kWh per capita,2014.0
-48,Environment,Fossil fuel energy consumption,C8_International travel controls,Georgia,GEO,72.20954,percent of total,2014.0
-49,Governance,Human Freedom Score ,C8_International travel controls,Georgia,GEO,7.87,score,2018.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Georgia,GEO,2.717167,metric tons per capita,2016.0
-51,Social issues ,"Intentional homicides (per 100,000 people)",C8_International travel controls,Georgia,GEO,2.2233624935,"proportion, pero 100,000 people",2018.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Georgia,GEO,0.131696,percent,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Georgia,GEO,0.1960474,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Georgia,GEO,14.7419996,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Georgia,GEO,1.122067,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Georgia,GEO,517617.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Georgia,GEO,0.3099792,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Georgia,GEO,-0.4458558,score,2019.0
-62,Economics,"Lending interest rates, percent per annum",C8_International travel controls,Georgia,GEO,10.8164,percent per annum,2019.0
-63,Governance,Serious assault (rate),C8_International travel controls,Georgia,GEO,4.62,rate,2018.0
-64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Georgia,GEO,36.4,index ,2018.0
-66,Environment,Electricity production from oil sources,C8_International travel controls,Georgia,GEO,0.0,percent of total,2015.0
-67,Economics,Expenditure on health (% of GDP),C8_International travel controls,Georgia,GEO,2.65549,percent,2019.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Georgia,GEO,0.042637,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Georgia,GEO,22.19605,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Georgia,GEO,4.305,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Georgia,GEO,0.812,index,2019.0
-73,Governance,Economic Freedom Score,C8_International travel controls,Georgia,GEO,8.18,score,2018.0
-74,Environment,Combustible renewables and waste,C8_International travel controls,Georgia,GEO,10.59117,percent of total energy,2014.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Georgia,GEO,68.3150024,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Georgia,GEO,4.7293,Ones,2018.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Georgia,GEO,60.0,score,2021.0
-79,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Georgia,GEO,0.4,percent,2019.0
-80,Environment,Access to electricity ,C8_International travel controls,Georgia,GEO,100.0,percent of population,2018.0
-81,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Georgia,GEO,1180.272752643293,kg of oil equivalent per capita,2014.0
-82,Economics,Volume of exports,C8_International travel controls,Georgia,GEO,6.462,percent change,2020.0
-85,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C8_International travel controls,Georgia,GEO,24037.7,international $ in PPP,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Georgia,GEO,10128.25,kt,2016.0
-88,Economics,Expenditure on education (% of GDP),C8_International travel controls,Georgia,GEO,3.80724,percent,2019.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Georgia,GEO,0.255621,percent,2019.0
-91,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Georgia,GEO,21.96067571309887,percent of total,2015.0
-92,Economics,"International tourism, receipts",C8_International travel controls,Georgia,GEO,3269000000.0,US Dollar,2019.0
-99,Environment,Electricity production from nuclear sources ,C8_International travel controls,Georgia,GEO,0.0,percent of total,2014.0
-103,Economics,Expenditure on social protection (% of GDP),C8_International travel controls,Georgia,GEO,6.66611,percent,2019.0
-104,Economics,Unemployment rate (%) - Annual,C8_International travel controls,Georgia,GEO,18.6,percent,2016.0
-105,Economics,"Trade, total as % of GDP",C8_International travel controls,Georgia,GEO,72.48918,percent,2019.0
-116,Economics,Growth rates of household expenditure or income per capita (%),C8_International travel controls,Georgia,GEO,1.0,percent,2018.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Georgia,GEO,2.8,percent,2018.0
+46,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Georgia,GEO,5.7,percent,2020.0
+47,Environment,Energy use (kg of oil equivalent per capita),C8_International travel controls,Georgia,GEO,1180.272752643293,kg of oil equivalent per capita,2014.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Georgia,GEO,0.042637,percent,2019.0
+49,Economics,"Trade, total as % of GDP",C8_International travel controls,Georgia,GEO,72.48918,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Georgia,GEO,10128.25,kt,2016.0
+51,Economics,"Lending interest rates, percent per annum",C8_International travel controls,Georgia,GEO,10.8164,percent per annum,2019.0
+55,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Georgia,GEO,0.4,percent,2019.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Georgia,GEO,134.721,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Georgia,GEO,68.3150024,Percentage of total population,2020.0
+58,Environment,Electric power consumption ,C8_International travel controls,Georgia,GEO,2693.972760225132,kWh per capita,2014.0
+59,Economics,Volume of exports,C8_International travel controls,Georgia,GEO,6.462,percent change,2020.0
+60,Environment,"Electricity production from oil, gas and coal sources",C8_International travel controls,Georgia,GEO,21.96067571309887,percent of total,2015.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Georgia,GEO,44.4819984,Percentage of total employment,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Georgia,GEO,2776.327807198293,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Georgia,GEO,14.7419996,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Georgia,GEO,0.015102,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Georgia,GEO,0.6684984,score,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Georgia,GEO,9.55657734469675,percent of GNI,2018.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Georgia,GEO,2.717167,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Georgia,GEO,4.89139986038208,score,2021.0
+76,Environment,"Energy imports, net ",C8_International travel controls,Georgia,GEO,68.75204872613939,percent of energy use,2014.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Georgia,GEO,99.0,percent,2019.0
+78,Economics,"Foreign direct investment, net",C8_International travel controls,Georgia,GEO,1268912420.0,US Dollar,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Georgia,GEO,100.0,percent of population,2018.0
+80,Environment,Combustible renewables and waste,C8_International travel controls,Georgia,GEO,10.59117,percent of total energy,2014.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Georgia,GEO,71.15229518395927,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Georgia,GEO,28.59,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Georgia,GEO,28.662538805976,percent of total final energy consumption,2015.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Georgia,GEO,14.09395973,proportion,2020.0
+88,Governance,Human Freedom Score ,C8_International travel controls,Georgia,GEO,7.87,score,2018.0
+89,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C8_International travel controls,Georgia,GEO,24037.7,international $ in PPP,2020.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Georgia,GEO,0.131696,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Georgia,GEO,1.122067,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Georgia,GEO,0.004022,percent,2019.0
+96,Economics,"Central government debt, total",C8_International travel controls,Georgia,GEO,42.14393347471816,percent of GDP,2016.0
+97,Economics,Unemployment rate (%) - Annual,C8_International travel controls,Georgia,GEO,18.6,percent,2016.0
+109,Economics,Expenditure on education (% of GDP),C8_International travel controls,Georgia,GEO,3.80724,percent,2019.0
+110,Economics,Expenditure on health (% of GDP),C8_International travel controls,Georgia,GEO,2.65549,percent,2019.0
+111,Economics,Expenditure on social protection (% of GDP),C8_International travel controls,Georgia,GEO,6.66611,percent,2019.0
+114,Economics,Growth rates of household expenditure or income per capita (%),C8_International travel controls,Georgia,GEO,1.0,percent,2018.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Georgia,GEO,74.0,Cases,2019.0
+116,Economics,"International tourism, receipts",C8_International travel controls,Georgia,GEO,3269000000.0,US Dollar,2019.0

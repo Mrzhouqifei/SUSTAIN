@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-SGP,E1_Income support,0.10775048550872476,1
-SGP,E2_Debt/contract relief,0.10606028072588106,2
-SGP,C3_Cancel public events,0.09596652588247784,3
-SGP,C2_Workplace closing,0.08417746767861814,4
-SGP,H7_Vaccination policy,0.08239896648031447,5
-SGP,C1_School closing,0.07590453329772992,6
-SGP,C7_Restrictions on internal movement,0.06822471778454522,7
-SGP,H6_Facial Coverings,0.06779053871327632,8
-SGP,C4_Restrictions on gatherings,0.05033812910890414,9
-SGP,H2_Testing policy,0.034624147513704635,10
-SGP,C8_International travel controls,0.02438169285408472,11
-SGP,C6_Stay at home requirements,0.010823741883770107,12
-SGP,C5_Close public transport,0.009625260463285506,13
-SGP,H1_Public information campaigns,0.006382872995447335,14
-SGP,H3_Contact tracing,0.0014148377142847786,15
+SGP,E1_Income support,0.0909723660190726,1
+SGP,E2_Debt/contract relief,0.0864432599744845,2
+SGP,C3_Cancel public events,0.0793582977426871,3
+SGP,C6_Stay at home requirements,0.075113883552431,4
+SGP,C2_Workplace closing,0.05762158112473,5
+SGP,H7_Vaccination policy,0.0553883650773383,6
+SGP,C1_School closing,0.0549074199120442,7
+SGP,H6_Facial Coverings,0.0544352853852089,8
+SGP,C4_Restrictions on gatherings,0.0532476998451528,9
+SGP,H2_Testing policy,0.0525682744102983,10
+SGP,C7_Restrictions on internal movement,0.0442450793462401,11
+SGP,C8_International travel controls,0.0398131666349001,12
+SGP,H1_Public information campaigns,0.0314604345109205,13
+SGP,H3_Contact tracing,0.0292681308816421,14
+SGP,C5_Close public transport,0.0,15

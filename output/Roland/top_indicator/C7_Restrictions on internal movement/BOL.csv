@@ -1,93 +1,93 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Bolivia,BOL,43.8323,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Bolivia,BOL,31.0,score,2020.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Bolivia,BOL,148665.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Bolivia,BOL,172.5860107182253,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Bolivia,BOL,100.816,per 100 people,2019.0
-7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Bolivia,BOL,5.71589994430542,score,2021.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Bolivia,BOL,9031.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Bolivia,BOL,8.892563,Rate (risk-weighted prevalence),2019.0
-10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Bolivia,BOL,0.000233,percent,2019.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Bolivia,BOL,21605.96,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Bolivia,BOL,742.5383997428855,kWh per capita,2014.0
-13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Bolivia,BOL,35.37,score,2020.0
-14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Bolivia,BOL,0.032552,percent,2019.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Bolivia,BOL,0.0,percent of total,2014.0
-16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Bolivia,BOL,0.040778,percent,2019.0
-17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Bolivia,BOL,75.0,percent,2019.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Bolivia,BOL,4.44015,per 100 people,2019.0
-19,Social issues ,Net migration,C7_Restrictions on internal movement,Bolivia,BOL,-47520.0,net total / data are 5 year estimates,2019.0
-20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Bolivia,BOL,0.228267,percent,2019.0
-21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Bolivia,BOL,0.2,percent,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Bolivia,BOL,68.59756097560977,percent of total,2015.0
-23,Economics,Volume of imports,C7_Restrictions on internal movement,Bolivia,BOL,5.809,percent change,2020.0
-24,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Bolivia,BOL,-177.9858361248552,percent of energy use,2014.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Bolivia,BOL,21.56899,micrograms per cubic meter,2017.0
-27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Bolivia,BOL,0.057787,percent,2019.0
-28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Bolivia,BOL,0.000683,percent,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.699218,score,2019.0
-30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Bolivia,BOL,62.980999,Percentage of females of the total population,2020.0
-31,Economics,Volume of exports,C7_Restrictions on internal movement,Bolivia,BOL,6.021,percent change,2020.0
-32,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Bolivia,BOL,6.3,score,2018.0
-33,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Bolivia,BOL,778.1687546005859,kg of oil equivalent per capita,2014.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Bolivia,BOL,2.25140712945591,percent of total,2015.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Bolivia,BOL,-1.121389,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.0912361,score,2019.0
-37,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Bolivia,BOL,7.26,score,2018.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Bolivia,BOL,711961.0,number,2019.0
-39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Bolivia,BOL,0.005785,percent,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Bolivia,BOL,17.5381818257023,percent of total final energy consumption,2015.0
-41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Bolivia,BOL,0.061576,percent,2019.0
-42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Bolivia,BOL,99.9991320215104,percent of total,2017.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Bolivia,BOL,215000000.0,kWh,2015.0
-44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Bolivia,BOL,20.2,percent,2016.0
-45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Bolivia,BOL,8.8,percent,2020.0
-46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Bolivia,BOL,71.6660004,Percentage of total population,2020.0
-47,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Bolivia,BOL,11.14143,percent of total energy,2014.0
-48,Demographics,People with basic handwashing facilities including soap and water (% of population),C7_Restrictions on internal movement,Bolivia,BOL,25.3828990744977,proportion,2017.0
-50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,1.5589,Ones,2017.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Bolivia,BOL,1.958514,metric tons per capita,2016.0
-52,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Bolivia,BOL,863.0,proportion,2019.0
-53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Bolivia,BOL,50.2729988,Percentage of total employment,2020.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.6153547,score,2019.0
-56,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Bolivia,BOL,60.7169375713243,proportion,2017.0
-57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Bolivia,BOL,74.96686955912168,score,2020.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Bolivia,BOL,19.6311798095703,proportion,2015.0
-59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Bolivia,BOL,12.7,percent,2020.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,106.0,Cases,2019.0
-61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,1.5901,Ones,2016.0
-62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Bolivia,BOL,66.0,score,2021.0
-63,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Bolivia,BOL,42.2,index ,2018.0
-64,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Bolivia,BOL,3.0,rating,2015.0
-65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Bolivia,BOL,39.0,score,2021.0
-66,Governance,Human Development Index,C7_Restrictions on internal movement,Bolivia,BOL,0.718,index,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.7421893,score,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Bolivia,BOL,0.228267,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Bolivia,BOL,711961.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Bolivia,BOL,148665.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Bolivia,BOL,-1.121389,score,2019.0
+6,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Bolivia,BOL,84.15329,percent of total,2014.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Bolivia,BOL,2.25140712945591,percent of total,2015.0
+8,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Bolivia,BOL,6.78,score,2018.0
+9,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Bolivia,BOL,38.84,percent,2018.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Bolivia,BOL,9031.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Bolivia,BOL,4.44015,per 100 people,2019.0
+12,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Bolivia,BOL,0.2,percent,2019.0
+13,Governance,Economic Freedom Score,C7_Restrictions on internal movement,Bolivia,BOL,6.3,score,2018.0
+14,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Bolivia,BOL,74.96686955912168,score,2020.0
+15,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Bolivia,BOL,-0.818632517115796,percent of GNI,2018.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Bolivia,BOL,1.958514,metric tons per capita,2016.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Bolivia,BOL,8.8,percent,2020.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Bolivia,BOL,4.5,percent,2018.0
+19,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Bolivia,BOL,0.005785,percent,2019.0
+20,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Bolivia,BOL,12.7,percent,2020.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.0912361,score,2019.0
+22,Health,Prevalence of obesity,C7_Restrictions on internal movement,Bolivia,BOL,20.2,percent,2016.0
+23,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Bolivia,BOL,0.040778,percent,2019.0
+24,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Bolivia,BOL,0.057787,percent,2019.0
+25,Economics,Volume of imports,C7_Restrictions on internal movement,Bolivia,BOL,5.809,percent change,2020.0
+26,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Bolivia,BOL,0.000233,percent,2019.0
+27,Social issues ,Net migration,C7_Restrictions on internal movement,Bolivia,BOL,-47520.0,net total / data are 5 year estimates,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.699218,score,2019.0
+29,Environment,"Energy imports, net ",C7_Restrictions on internal movement,Bolivia,BOL,-177.9858361248552,percent of energy use,2014.0
+30,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Bolivia,BOL,75.0,percent,2019.0
+31,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Bolivia,BOL,99.9991320215104,percent of total,2017.0
+32,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Bolivia,BOL,31.0,score,2020.0
+33,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Bolivia,BOL,53.07692308,proportion,2020.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Bolivia,BOL,21605.96,kt,2016.0
+35,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Bolivia,BOL,62.980999,Percentage of females of the total population,2020.0
+37,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Bolivia,BOL,8.892563,Rate (risk-weighted prevalence),2019.0
+38,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Bolivia,BOL,0.061576,percent,2019.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Bolivia,BOL,172.5860107182253,per 1 million people,2019.0
+40,Governance,Serious assault (rate),C7_Restrictions on internal movement,Bolivia,BOL,70.81,rate,2018.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Bolivia,BOL,17.5381818257023,percent of total final energy consumption,2015.0
+42,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,1.5901,Ones,2016.0
+43,Environment,Combustible renewables and waste,C7_Restrictions on internal movement,Bolivia,BOL,11.14143,percent of total energy,2014.0
+44,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Bolivia,BOL,11.82961348891579,proportion,2019.0
+45,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Bolivia,BOL,61.19644724043965,proportion,2019.0
+46,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,1.5589,Ones,2017.0
+47,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Bolivia,BOL,12.9,Ones,2017.0
+48,Social issues ,Press freedom score,C7_Restrictions on internal movement,Bolivia,BOL,35.37,score,2020.0
+50,Demographics,People with basic handwashing facilities including soap and water (% of population),C7_Restrictions on internal movement,Bolivia,BOL,25.3828990744977,proportion,2017.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,6.2183744444,"proportion, pero 100,000 people",2016.0
+52,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Bolivia,BOL,27.0,score,2021.0
+53,Governance,Human Development Index,C7_Restrictions on internal movement,Bolivia,BOL,0.718,index,2019.0
+54,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Bolivia,BOL,21.56899,micrograms per cubic meter,2017.0
+55,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Bolivia,BOL,79.0,percent,2019.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,106.0,Cases,2019.0
+57,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Bolivia,BOL,50.2729988,Percentage of total employment,2020.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Bolivia,BOL,95.5853652954102,percent of population,2018.0
+59,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C7_Restrictions on internal movement,Bolivia,BOL,92.455078125,proportion,2015.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Bolivia,BOL,0.0,percent of total,2015.0
+62,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Bolivia,BOL,5.71589994430542,score,2021.0
+63,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Bolivia,BOL,0.032552,percent,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Bolivia,BOL,3.45000005,percent of total labor force,2020.0
+65,Demographics,People using at least basic sanitation services (% of population),C7_Restrictions on internal movement,Bolivia,BOL,60.7169375713243,proportion,2017.0
+66,Economics,Volume of exports,C7_Restrictions on internal movement,Bolivia,BOL,6.021,percent change,2020.0
+67,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Bolivia,BOL,69.773,total,2019.0
 68,Environment,Energy use ,C7_Restrictions on internal movement,Bolivia,BOL,100.660348368029,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Bolivia,BOL,0.0,percent of total,2015.0
-70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Bolivia,BOL,4.5,percent,2018.0
-72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Bolivia,BOL,3.45000005,percent of total labor force,2020.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Bolivia,BOL,6.2183744444,"proportion, pero 100,000 people",2016.0
-74,Governance,Human Freedom Score ,C7_Restrictions on internal movement,Bolivia,BOL,6.78,score,2018.0
-75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Bolivia,BOL,-0.818632517115796,percent of GNI,2018.0
-76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Bolivia,BOL,27.0,score,2021.0
-77,Social issues ,Proportion of women in managerial positions (%),C7_Restrictions on internal movement,Bolivia,BOL,38.84,percent,2018.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Bolivia,BOL,95.5853652954102,percent of population,2018.0
-79,Health,Hospital beds (per 10 000 population),C7_Restrictions on internal movement,Bolivia,BOL,12.9,Ones,2017.0
-80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Bolivia,BOL,70.81,rate,2018.0
-81,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Bolivia,BOL,30.227,proportion,2019.0
-83,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Bolivia,BOL,0.249166011810303,proportion,2015.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Bolivia,BOL,53.07692308,proportion,2020.0
-86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Bolivia,BOL,79.0,percent,2019.0
-88,Environment,Fossil fuel energy consumption,C7_Restrictions on internal movement,Bolivia,BOL,84.15329,percent of total,2014.0
-89,Demographics,Urban population (% of total population),C7_Restrictions on internal movement,Bolivia,BOL,69.773,total,2019.0
-94,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C7_Restrictions on internal movement,Bolivia,BOL,18.07316194,proportion,2017.0
-95,Social issues ,Coverage of social safety net programs (% of population),C7_Restrictions on internal movement,Bolivia,BOL,76.15281866,proportion,2017.0
-101,Demographics,Age dependency ratio (% of working-age population),C7_Restrictions on internal movement,Bolivia,BOL,61.19644724043965,proportion,2019.0
-103,Demographics,"Population, total",C7_Restrictions on internal movement,Bolivia,BOL,11513100.0,total,2019.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.9934062,score,2019.0
-106,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Bolivia,BOL,6.01785612106323,proportion,2015.0
-107,Social issues ,Proportion of people living below 50 percent of median income (%),C7_Restrictions on internal movement,Bolivia,BOL,19.8,proportion,2018.0
-108,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Bolivia,BOL,97.30542,proportion,2017.0
-109,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Bolivia,BOL,94.8397827148438,proportion,2018.0
-110,Demographics,"Age dependency ratio, old (% of working-age population)",C7_Restrictions on internal movement,Bolivia,BOL,11.82961348891579,proportion,2019.0
-113,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C7_Restrictions on internal movement,Bolivia,BOL,92.455078125,proportion,2015.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Bolivia,BOL,68.59756097560977,percent of total,2015.0
+70,Social issues ,Progression to secondary school (%),C7_Restrictions on internal movement,Bolivia,BOL,97.30542,proportion,2017.0
+71,Environment,Energy use (kg of oil equivalent per capita),C7_Restrictions on internal movement,Bolivia,BOL,778.1687546005859,kg of oil equivalent per capita,2014.0
+72,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Bolivia,BOL,6.01785612106323,proportion,2015.0
+74,Social issues ,"Primary completion rate, total (% of relevant age group)",C7_Restrictions on internal movement,Bolivia,BOL,94.8397827148438,proportion,2018.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Bolivia,BOL,71.6660004,Percentage of total population,2020.0
+76,Governance,Personal Freedom Score ,C7_Restrictions on internal movement,Bolivia,BOL,7.26,score,2018.0
+77,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C7_Restrictions on internal movement,Bolivia,BOL,0.249166011810303,proportion,2015.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.7421893,score,2019.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Bolivia,BOL,215000000.0,kWh,2015.0
+80,Social issues ,Proportion of people living below 50 percent of median income (%),C7_Restrictions on internal movement,Bolivia,BOL,19.8,proportion,2018.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Bolivia,BOL,0.0,percent of total,2014.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.6153547,score,2019.0
+84,Demographics,"Population, total",C7_Restrictions on internal movement,Bolivia,BOL,11513100.0,total,2019.0
+85,Demographics,Rural population (% of total population),C7_Restrictions on internal movement,Bolivia,BOL,30.227,proportion,2019.0
+86,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Bolivia,BOL,66.0,score,2021.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,Bolivia,BOL,742.5383997428855,kWh per capita,2014.0
+89,Social issues ,Gini index (World Bank estimate),C7_Restrictions on internal movement,Bolivia,BOL,42.2,index ,2018.0
+90,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Bolivia,BOL,0.000683,percent,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Bolivia,BOL,-0.9934062,score,2019.0
+92,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Bolivia,BOL,3.0,rating,2015.0
+93,Social issues ,Coverage of social safety net programs (% of population),C7_Restrictions on internal movement,Bolivia,BOL,76.15281866,proportion,2017.0
+95,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C7_Restrictions on internal movement,Bolivia,BOL,19.6311798095703,proportion,2015.0
+100,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Bolivia,BOL,39.0,score,2021.0
+105,Social issues ,Coverage of unemployment benefits and ALMP (% of population),C7_Restrictions on internal movement,Bolivia,BOL,18.07316194,proportion,2017.0
+106,Demographics,Refugee population by country or territory of asylum,C7_Restrictions on internal movement,Bolivia,BOL,863.0,proportion,2019.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Bolivia,BOL,100.816,per 100 people,2019.0

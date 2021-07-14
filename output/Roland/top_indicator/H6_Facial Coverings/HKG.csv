@@ -1,66 +1,66 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,Hong Kong,HKG,91.7434,percent of population,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Hong Kong,HKG,4053510.0,number,2019.0
-4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Hong Kong,HKG,88.310997,Percentage of total employment,2020.0
-7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Hong Kong,HKG,53.6580009,Percentage of females of the total population,2020.0
-8,Governance,Economic Freedom Score,H6_Facial Coverings,Hong Kong,HKG,8.94,score,2018.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Hong Kong,HKG,288.533,per 100 people,2019.0
-12,Governance,Personal Freedom Score ,H6_Facial Coverings,Hong Kong,HKG,8.53,score,2018.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Hong Kong,HKG,37.4903,per 100 people,2019.0
-14,Social issues ,Net migration,H6_Facial Coverings,Hong Kong,HKG,146542.0,net total / data are 5 year estimates,2019.0
-19,Environment,Combustible renewables and waste,H6_Facial Coverings,Hong Kong,HKG,0.465027,percent of total energy,2014.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,Hong Kong,HKG,52.0,score,2021.0
-21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Hong Kong,HKG,59.6669998,Percentage of total population,2020.0
-26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Hong Kong,HKG,106000000.0,kWh,2015.0
-27,Social issues ,Life Ladder ,H6_Facial Coverings,Hong Kong,HKG,5.4766998291015625,score,2021.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,Hong Kong,HKG,1.672441,score,2019.0
-33,Governance,Serious assault (rate),H6_Facial Coverings,Hong Kong,HKG,65.05,rate,2018.0
-34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Hong Kong,HKG,93.17288,percent of total,2014.0
-35,Environment,Electricity production from coal sources ,H6_Facial Coverings,Hong Kong,HKG,65.44044175650802,percent of total,2015.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,Hong Kong,HKG,0.852783452322141,percent of total final energy consumption,2015.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Hong Kong,HKG,63.0,Cases,2019.0
-40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Hong Kong,HKG,99.72127267946358,percent of total,2015.0
-41,Demographics,Urban population (% of total population),H6_Facial Coverings,Hong Kong,HKG,100.0,total,2019.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,Hong Kong,HKG,43644.63,kt,2016.0
-44,Economics,Volume of imports,H6_Facial Coverings,Hong Kong,HKG,3.062,percent change,2020.0
-45,Demographics,People using safely managed drinking water services (% of population),H6_Facial Coverings,Hong Kong,HKG,100.0,proportion,2017.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,Hong Kong,HKG,30.01,score,2020.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Hong Kong,HKG,5.948891,metric tons per capita,2016.0
-51,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Hong Kong,HKG,128.0,proportion,2019.0
-52,Governance,Human Development Index,H6_Facial Coverings,Hong Kong,HKG,0.949,index,2019.0
-53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Hong Kong,HKG,77.0,score,2020.0
-54,Economics,Expenditure on education (% of GDP),H6_Facial Coverings,Hong Kong,HKG,3.99272,percent,2018.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Hong Kong,HKG,-0.2677673,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,Hong Kong,HKG,0.2093806,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,Hong Kong,HKG,60546.12782055039,per 1 million people,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,Hong Kong,HKG,1.983408,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Hong Kong,HKG,15.0,score,2021.0
-62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Hong Kong,HKG,0.65113634144,"proportion, pero 100,000 people",2018.0
-63,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H6_Facial Coverings,Hong Kong,HKG,115045.1,international $ in PPP,2020.0
-66,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,Hong Kong,HKG,24.9351548624315,proportion,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Hong Kong,HKG,37.0,score,2021.0
-68,Governance,Human Freedom Score ,H6_Facial Coverings,Hong Kong,HKG,8.74,score,2018.0
-69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Hong Kong,HKG,0.0,percent of total,2014.0
-70,Economics,Volume of exports,H6_Facial Coverings,Hong Kong,HKG,2.981,percent change,2020.0
-71,Environment,"Energy imports, net ",H6_Facial Coverings,Hong Kong,HKG,98.68032373470714,percent of energy use,2014.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,Hong Kong,HKG,1.741097,score,2019.0
-75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Hong Kong,HKG,4.26499987,percent of total labor force,2020.0
-76,Social issues ,Progression to secondary school (%),H6_Facial Coverings,Hong Kong,HKG,99.93234,proportion,2017.0
-77,Economics,"International tourism, receipts",H6_Facial Coverings,Hong Kong,HKG,29043000000.0,US Dollar,2019.0
-78,Environment,Access to electricity ,H6_Facial Coverings,Hong Kong,HKG,100.0,percent of population,2018.0
-79,Economics,Expenditure on social protection (% of GDP),H6_Facial Coverings,Hong Kong,HKG,3.43543,percent,2018.0
-82,Environment,Electricity production from oil sources,H6_Facial Coverings,Hong Kong,HKG,0.4917170654746253,percent of total,2015.0
-84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Hong Kong,HKG,96.4362244897959,proportion,2017.0
-85,Demographics,"Population, total",H6_Facial Coverings,Hong Kong,HKG,7507400.0,total,2019.0
-88,Demographics,Rural population (% of total population),H6_Facial Coverings,Hong Kong,HKG,0.0,proportion,2019.0
-89,Economics,Expenditure on health (% of GDP),H6_Facial Coverings,Hong Kong,HKG,3.01923,percent,2018.0
-90,Economics,Stock market capitalization (US$ million),H6_Facial Coverings,Hong Kong,HKG,4899234580000.0,US Dollar,2019.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,Hong Kong,HKG,1.604144,score,2019.0
-92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Hong Kong,HKG,1970.484127533024,kg of oil equivalent per capita,2014.0
-93,Environment,Energy use ,H6_Facial Coverings,Hong Kong,HKG,34.96287574062381,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-96,Environment,Electric power consumption ,H6_Facial Coverings,Hong Kong,HKG,6083.2699356802,kWh per capita,2014.0
-100,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,Hong Kong,HKG,42.50080813223036,proportion,2019.0
-104,Economics,"Trade, total as % of GDP",H6_Facial Coverings,Hong Kong,HKG,293.01339,percent,2019.0
-108,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Hong Kong,HKG,106.732749938965,proportion,2019.0
-113,Economics,"Foreign direct investment, net",H6_Facial Coverings,Hong Kong,HKG,53171228240.0,US Dollar,2019.0
-114,Economics,"Lending interest rates, percent per annum",H6_Facial Coverings,Hong Kong,HKG,5.04167,percent per annum,2018.0
+5,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Hong Kong,HKG,53.6580009,Percentage of females of the total population,2020.0
+6,Environment,"Energy imports, net ",H6_Facial Coverings,Hong Kong,HKG,98.68032373470714,percent of energy use,2014.0
+7,Governance,Economic Freedom Score,H6_Facial Coverings,Hong Kong,HKG,8.94,score,2018.0
+9,Governance,Personal Freedom Score ,H6_Facial Coverings,Hong Kong,HKG,8.53,score,2018.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Hong Kong,HKG,37.0,score,2021.0
+12,Environment,Combustible renewables and waste,H6_Facial Coverings,Hong Kong,HKG,0.465027,percent of total energy,2014.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Hong Kong,HKG,15.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Hong Kong,HKG,37.4903,per 100 people,2019.0
+15,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H6_Facial Coverings,Hong Kong,HKG,115045.1,international $ in PPP,2020.0
+16,Economics,Volume of imports,H6_Facial Coverings,Hong Kong,HKG,3.062,percent change,2020.0
+17,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Hong Kong,HKG,106.732749938965,proportion,2019.0
+18,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Hong Kong,HKG,106000000.0,kWh,2015.0
+19,Social issues ,Net migration,H6_Facial Coverings,Hong Kong,HKG,146542.0,net total / data are 5 year estimates,2019.0
+21,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Hong Kong,HKG,0.65113634144,"proportion, pero 100,000 people",2018.0
+23,Environment,Electricity production from oil sources,H6_Facial Coverings,Hong Kong,HKG,0.4917170654746253,percent of total,2015.0
+25,Environment,Energy use ,H6_Facial Coverings,Hong Kong,HKG,34.96287574062381,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,Hong Kong,HKG,43644.63,kt,2016.0
+29,Governance,Corruption Perceptions Index,H6_Facial Coverings,Hong Kong,HKG,77.0,score,2020.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,Hong Kong,HKG,0.852783452322141,percent of total final energy consumption,2015.0
+32,Environment,Electric power consumption ,H6_Facial Coverings,Hong Kong,HKG,6083.2699356802,kWh per capita,2014.0
+33,Social issues ,Life Ladder ,H6_Facial Coverings,Hong Kong,HKG,5.4766998291015625,score,2021.0
+35,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Hong Kong,HKG,99.72127267946358,percent of total,2015.0
+38,Governance,Human Freedom Score ,H6_Facial Coverings,Hong Kong,HKG,8.74,score,2018.0
+39,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Hong Kong,HKG,88.310997,Percentage of total employment,2020.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Hong Kong,HKG,5.948891,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,Hong Kong,HKG,1.672441,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,Hong Kong,HKG,30.01,score,2020.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Hong Kong,HKG,288.533,per 100 people,2019.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Hong Kong,HKG,4.26499987,percent of total labor force,2020.0
+50,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Hong Kong,HKG,1970.484127533024,kg of oil equivalent per capita,2014.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,Hong Kong,HKG,60546.12782055039,per 1 million people,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Hong Kong,HKG,63.0,Cases,2019.0
+57,Social issues ,Progression to secondary school (%),H6_Facial Coverings,Hong Kong,HKG,99.93234,proportion,2017.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,Hong Kong,HKG,1.983408,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,Hong Kong,HKG,0.949,index,2019.0
+62,Governance,Serious assault (rate),H6_Facial Coverings,Hong Kong,HKG,65.05,rate,2018.0
+63,Economics,"International tourism, receipts",H6_Facial Coverings,Hong Kong,HKG,29043000000.0,US Dollar,2019.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,Hong Kong,HKG,1.741097,score,2019.0
+66,Demographics,Urban population (% of total population),H6_Facial Coverings,Hong Kong,HKG,100.0,total,2019.0
+67,Demographics,Rural population (% of total population),H6_Facial Coverings,Hong Kong,HKG,0.0,proportion,2019.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,Hong Kong,HKG,0.2093806,score,2019.0
+75,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Hong Kong,HKG,93.17288,percent of total,2014.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Hong Kong,HKG,-0.2677673,score,2019.0
+77,Economics,Volume of exports,H6_Facial Coverings,Hong Kong,HKG,2.981,percent change,2020.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,Hong Kong,HKG,52.0,score,2021.0
+80,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Hong Kong,HKG,59.6669998,Percentage of total population,2020.0
+81,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Hong Kong,HKG,96.4362244897959,proportion,2017.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,Hong Kong,HKG,1.604144,score,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,Hong Kong,HKG,100.0,percent of population,2018.0
+85,Economics,Expenditure on education (% of GDP),H6_Facial Coverings,Hong Kong,HKG,3.99272,percent,2018.0
+86,Economics,"Trade, total as % of GDP",H6_Facial Coverings,Hong Kong,HKG,293.01339,percent,2019.0
+87,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Hong Kong,HKG,128.0,proportion,2019.0
+90,Environment,Electricity production from coal sources ,H6_Facial Coverings,Hong Kong,HKG,65.44044175650802,percent of total,2015.0
+91,Economics,Expenditure on social protection (% of GDP),H6_Facial Coverings,Hong Kong,HKG,3.43543,percent,2018.0
+92,Economics,Stock market capitalization (US$ million),H6_Facial Coverings,Hong Kong,HKG,4899234580000.0,US Dollar,2019.0
+93,Demographics,"Population, total",H6_Facial Coverings,Hong Kong,HKG,7507400.0,total,2019.0
+94,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,Hong Kong,HKG,24.9351548624315,proportion,2019.0
+99,Economics,"Lending interest rates, percent per annum",H6_Facial Coverings,Hong Kong,HKG,5.04167,percent per annum,2018.0
+100,Economics,"Foreign direct investment, net",H6_Facial Coverings,Hong Kong,HKG,53171228240.0,US Dollar,2019.0
+111,Economics,Expenditure on health (% of GDP),H6_Facial Coverings,Hong Kong,HKG,3.01923,percent,2018.0
+112,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,Hong Kong,HKG,42.50080813223036,proportion,2019.0
+113,Demographics,People using safely managed drinking water services (% of population),H6_Facial Coverings,Hong Kong,HKG,100.0,proportion,2017.0
+116,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Hong Kong,HKG,0.0,percent of total,2014.0

@@ -1,106 +1,106 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Thailand,THA,66.6524,percent of population,2019.0
-2,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Thailand,THA,98.7507346105258,proportion,2017.0
-3,Economics,Volume of exports,C3_Cancel public events,Thailand,THA,4.317,percent change,2020.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,Thailand,THA,0.116105,score,2019.0
-5,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Thailand,THA,5.0,score,2021.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Thailand,THA,4297.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Thailand,THA,283763.5,kt,2016.0
-9,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Thailand,THA,0.805,Ones,2018.0
-10,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Thailand,THA,9.2,percent,2020.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,Thailand,THA,0.000104,percent,2019.0
-12,Environment,Electric power consumption ,C3_Cancel public events,Thailand,THA,2538.796380353639,kWh per capita,2014.0
-13,Social issues ,Net migration,C3_Cancel public events,Thailand,THA,97222.0,net total / data are 5 year estimates,2019.0
-14,Economics,Volume of imports,C3_Cancel public events,Thailand,THA,5.844,percent change,2020.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Thailand,THA,14.5188,per 100 people,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Thailand,THA,0.039603,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Thailand,THA,0.001725,percent,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Thailand,THA,150.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Thailand,THA,186.159,per 100 people,2019.0
-20,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Thailand,THA,96.0,percent,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Thailand,THA,2.7593,Ones,2018.0
-22,Governance,Serious assault (rate),C3_Cancel public events,Thailand,THA,13.31,rate,2018.0
-23,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Thailand,THA,2.9,percent,2018.0
-24,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Thailand,THA,91.46152115211521,percent of total,2015.0
-25,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Thailand,THA,46.3250008,Percentage of total employment,2020.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,Thailand,THA,1403.808732255911,per 1 million people,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Thailand,THA,2.5820036484,"proportion, pero 100,000 people",2017.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,Thailand,THA,0.3570563,score,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,Thailand,THA,18.28799,Rate (risk-weighted prevalence),2019.0
-31,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Thailand,THA,33.91,percent,2018.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Thailand,THA,0.318023,percent,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Thailand,THA,-0.5375581,score,2019.0
-34,Demographics,People with basic handwashing facilities including soap and water (% of population),C3_Cancel public events,Thailand,THA,83.9233581954672,proportion,2017.0
-35,Environment,Electricity production from coal sources ,C3_Cancel public events,Thailand,THA,19.4543204320432,percent of total,2015.0
-36,Environment,Combustible renewables and waste,C3_Cancel public events,Thailand,THA,12.05166,percent of total energy,2014.0
-37,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Thailand,THA,67.0370026,Percentage of total population,2020.0
-38,Demographics,"Net migration rate, per 1000 population",C3_Cancel public events,Thailand,THA,0.281,per thousand persons,2015.0
-39,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Thailand,THA,15.74642127,proportion,2020.0
-40,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Thailand,THA,15.038305785651,percent of GNI,2018.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Thailand,THA,0.166682,percent,2019.0
-42,Governance,Human Freedom Score ,C3_Cancel public events,Thailand,THA,6.37,score,2018.0
-43,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Thailand,THA,12.3,percent,2020.0
-44,Demographics,Rural population (% of total population),C3_Cancel public events,Thailand,THA,49.308,proportion,2019.0
-45,Social issues ,Life Ladder ,C3_Cancel public events,Thailand,THA,5.9847002029418945,score,2021.0
-46,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Thailand,THA,10439000000.0,kWh,2015.0
-47,Environment,"Energy imports, net ",C3_Cancel public events,Thailand,THA,41.56815174142518,percent of energy use,2014.0
-48,Environment,Energy use ,C3_Cancel public events,Thailand,THA,124.0716111294026,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-49,Governance,Corruption Perceptions Index,C3_Cancel public events,Thailand,THA,36.0,score,2020.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Thailand,THA,4.114223,metric tons per capita,2016.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Thailand,THA,0.80299997,percent of total labor force,2020.0
-53,Governance,Human Development Index,C3_Cancel public events,Thailand,THA,0.777,index,2019.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,Thailand,THA,-0.4073985,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,Thailand,THA,100.0,percent of population,2018.0
-56,Demographics,Age dependency ratio,C3_Cancel public events,Thailand,THA,41.30241,percent of total population,2019.0
-57,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Thailand,THA,1969.00171876363,kg of oil equivalent per capita,2014.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C3_Cancel public events,Thailand,THA,14.9390001296997,proportion,2018.0
-59,Governance,Personal Freedom Score ,C3_Cancel public events,Thailand,THA,5.98,score,2018.0
-60,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Thailand,THA,26.25673,micrograms per cubic meter,2017.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Thailand,THA,0.036951,percent,2019.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Thailand,THA,2614000.0,number,2019.0
-63,Governance,Fragile States Index Total ,C3_Cancel public events,Thailand,THA,70.81357974524154,score,2020.0
-64,Health,Prevalence of obesity,C3_Cancel public events,Thailand,THA,14.2,percent,2016.0
-65,Environment,Fossil fuel energy consumption,C3_Cancel public events,Thailand,THA,79.83902,percent of total,2014.0
-66,Governance,Total freedom in the world score ,C3_Cancel public events,Thailand,THA,30.0,score,2021.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,Thailand,THA,0.1028816,score,2019.0
-68,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,Thailand,THA,17.53032770331833,proportion,2019.0
-69,Demographics,Urban population (% of total population),C3_Cancel public events,Thailand,THA,50.692,total,2019.0
-70,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Thailand,THA,97.0,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Thailand,THA,2614000.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Thailand,THA,0.318023,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Thailand,THA,4297.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,Thailand,THA,0.1028816,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Thailand,THA,150.0,Cases,2019.0
+7,Environment,Fossil fuel energy consumption,C3_Cancel public events,Thailand,THA,79.83902,percent of total,2014.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,Thailand,THA,0.039603,percent,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Thailand,THA,14.5188,per 100 people,2019.0
+10,Governance,Economic Freedom Score,C3_Cancel public events,Thailand,THA,6.75,score,2018.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Thailand,THA,22.8630701280756,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,Thailand,THA,0.3570563,score,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,Thailand,THA,0.070922,percent,2019.0
+14,Environment,"Energy imports, net ",C3_Cancel public events,Thailand,THA,41.56815174142518,percent of energy use,2014.0
+15,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Thailand,THA,94.411376953125,proportion,2019.0
+16,Social issues ,Net migration,C3_Cancel public events,Thailand,THA,97222.0,net total / data are 5 year estimates,2019.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C3_Cancel public events,Thailand,THA,9.2,percent,2020.0
+18,Environment,Electricity production from coal sources ,C3_Cancel public events,Thailand,THA,19.4543204320432,percent of total,2015.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,Thailand,THA,1403.808732255911,per 1 million people,2019.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Thailand,THA,0.001725,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,Thailand,THA,0.036951,percent,2019.0
+22,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C3_Cancel public events,Thailand,THA,2.9,percent,2018.0
+23,Economics,Volume of exports,C3_Cancel public events,Thailand,THA,4.317,percent change,2020.0
+24,Environment,Combustible renewables and waste,C3_Cancel public events,Thailand,THA,12.05166,percent of total energy,2014.0
+25,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C3_Cancel public events,Thailand,THA,12.3,percent,2020.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,Thailand,THA,0.000104,percent,2019.0
+27,Economics,"Central government debt, total",C3_Cancel public events,Thailand,THA,35.27396297425183,percent of GDP,2015.0
+28,Governance,Fragile States Index Total ,C3_Cancel public events,Thailand,THA,70.81357974524154,score,2020.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Thailand,THA,100.0,percent of total,2017.0
+30,Environment,"Electricity production from oil, gas and coal sources",C3_Cancel public events,Thailand,THA,91.46152115211521,percent of total,2015.0
+31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C3_Cancel public events,Thailand,THA,46.3250008,Percentage of total employment,2020.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Thailand,THA,186.159,per 100 people,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Thailand,THA,0.166682,percent,2019.0
+34,Governance,Personal Freedom Score ,C3_Cancel public events,Thailand,THA,5.98,score,2018.0
+35,Environment,Electric power consumption ,C3_Cancel public events,Thailand,THA,2538.796380353639,kWh per capita,2014.0
+36,Environment,"Adjusted net savings, including particulate emission damage",C3_Cancel public events,Thailand,THA,15.038305785651,percent of GNI,2018.0
+37,Health,"Nurses and midwives (per 1,000 people)",C3_Cancel public events,Thailand,THA,2.7593,Ones,2018.0
+38,Health,"Physicians (per 1,000 people)",C3_Cancel public events,Thailand,THA,0.805,Ones,2018.0
+39,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Thailand,THA,1.0,percent,2019.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,Thailand,THA,-0.8272713,score,2019.0
+41,Environment,"Electricity production from renewable sources, excluding hydroelectric",C3_Cancel public events,Thailand,THA,10439000000.0,kWh,2015.0
+42,Health,"Immunization, measles (% of children ages 12-23 months)",C3_Cancel public events,Thailand,THA,96.0,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,Thailand,THA,18.28799,Rate (risk-weighted prevalence),2019.0
+44,Environment,Electricity production from oil sources,C3_Cancel public events,Thailand,THA,0.5704320432043205,percent of total,2015.0
+45,Environment,"PM2.5 air pollution, mean annual exposure",C3_Cancel public events,Thailand,THA,26.25673,micrograms per cubic meter,2017.0
+46,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,Thailand,THA,41.30238573461192,proportion,2019.0
+47,Economics,Expenditure on health (% of GDP),C3_Cancel public events,Thailand,THA,1.29822,percent,2019.0
+48,Demographics,People with basic handwashing facilities including soap and water (% of population),C3_Cancel public events,Thailand,THA,83.9233581954672,proportion,2017.0
+49,Governance,Aggregate score for the Political Rights category,C3_Cancel public events,Thailand,THA,5.0,score,2021.0
+50,Economics,Volume of imports,C3_Cancel public events,Thailand,THA,5.844,percent change,2020.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Thailand,THA,2.5820036484,"proportion, pero 100,000 people",2017.0
+52,Governance,Human Development Index,C3_Cancel public events,Thailand,THA,0.777,index,2019.0
+53,Social issues ,Gini index (World Bank estimate),C3_Cancel public events,Thailand,THA,36.4,index ,2018.0
+54,Governance,Corruption Perceptions Index,C3_Cancel public events,Thailand,THA,36.0,score,2020.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,Thailand,THA,-0.4073985,score,2019.0
+56,Economics,Expenditure on education (% of GDP),C3_Cancel public events,Thailand,THA,2.96895,percent,2019.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,Thailand,THA,0.00967,percent,2019.0
+59,Social issues ,Proportion of women in managerial positions (%),C3_Cancel public events,Thailand,THA,33.91,percent,2018.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Thailand,THA,-0.5375581,score,2019.0
+61,Demographics,Urban population (% of total population),C3_Cancel public events,Thailand,THA,50.692,total,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,Thailand,THA,0.116105,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Thailand,THA,283763.5,kt,2016.0
+66,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C3_Cancel public events,Thailand,THA,0.80299997,percent of total labor force,2020.0
+67,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Thailand,THA,67.0370026,Percentage of total population,2020.0
+69,Social issues ,Proportion of seats held by women in national parliaments (%),C3_Cancel public events,Thailand,THA,15.74642127,proportion,2020.0
+70,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Thailand,THA,58.9179993,Percentage of females of the total population,2020.0
 71,Governance,Aggregate score for the Civil Liberties category,C3_Cancel public events,Thailand,THA,25.0,score,2021.0
-72,Demographics,Age dependency ratio (% of working-age population),C3_Cancel public events,Thailand,THA,41.30238573461192,proportion,2019.0
-73,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Thailand,THA,94.411376953125,proportion,2019.0
-74,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C3_Cancel public events,Thailand,THA,0.0,proportion,2017.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,Thailand,THA,0.00967,percent,2019.0
-76,Economics,Stock market capitalization (US$ million),C3_Cancel public events,Thailand,THA,569228320000.0,US Dollar,2019.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Thailand,THA,22.8630701280756,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,Thailand,THA,-0.8272713,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Thailand,THA,60.0,"Number (cumulative total by Dec 26,2020)",2020.0
-80,Social issues ,Gini index (World Bank estimate),C3_Cancel public events,Thailand,THA,36.4,index ,2018.0
-81,Economics,"Trade, total as % of GDP",C3_Cancel public events,Thailand,THA,84.49826,percent,2019.0
-82,Economics,"Central government debt, total",C3_Cancel public events,Thailand,THA,35.27396297425183,percent of GDP,2015.0
-83,Social issues ,Press freedom score,C3_Cancel public events,Thailand,THA,44.94,score,2020.0
-84,Social issues ,Progression to secondary school (%),C3_Cancel public events,Thailand,THA,98.49383,proportion,2017.0
-85,Health,"Prevalence of HIV, total (% of population ages 15-49)",C3_Cancel public events,Thailand,THA,1.0,percent,2019.0
-86,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C3_Cancel public events,Thailand,THA,2.22008872032165,proportion,2017.0
-87,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C3_Cancel public events,Thailand,THA,100.0,percent of total,2017.0
-89,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C3_Cancel public events,Thailand,THA,58.9179993,Percentage of females of the total population,2020.0
-91,Economics,Expenditure on social protection (% of GDP),C3_Cancel public events,Thailand,THA,3.07589,percent,2019.0
-92,Economics,"Foreign direct investment, net",C3_Cancel public events,Thailand,THA,6315808260.0,US Dollar,2019.0
-93,Governance,Economic Freedom Score,C3_Cancel public events,Thailand,THA,6.75,score,2018.0
-94,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Thailand,THA,0.0,percent of total,2014.0
-95,Environment,Electricity production from oil sources,C3_Cancel public events,Thailand,THA,0.5704320432043205,percent of total,2015.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,Thailand,THA,0.070922,percent,2019.0
-97,Demographics,"Population, total",C3_Cancel public events,Thailand,THA,69625582.0,total,2019.0
-98,Social issues ,Proportion of people living below 50 percent of median income (%),C3_Cancel public events,Thailand,THA,11.3,proportion,2018.0
-99,Economics,"International tourism, receipts",C3_Cancel public events,Thailand,THA,60521000000.0,US Dollar,2019.0
-100,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C3_Cancel public events,Thailand,THA,93.7677612304688,proportion,2018.0
-101,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,Thailand,THA,4.08417,percent per annum,2019.0
-103,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C3_Cancel public events,Thailand,THA,32113.5,international $ in PPP,2020.0
-105,Demographics,Internet users (per 100 people),C3_Cancel public events,Thailand,THA,56.81748,per 100 population,2018.0
-107,Economics,Starting a Business (Score),C3_Cancel public events,Thailand,THA,92.4,Score,2019.0
-108,Economics,Expenditure on education (% of GDP),C3_Cancel public events,Thailand,THA,2.96895,percent,2019.0
-110,Economics,Expenditure on health (% of GDP),C3_Cancel public events,Thailand,THA,1.29822,percent,2019.0
-113,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Thailand,THA,97556.0,proportion,2019.0
-114,Demographics,Fixed telephone (per 100 people),C3_Cancel public events,Thailand,THA,4.21873,per 100 population,2018.0
-116,Economics,Growth rates of household expenditure or income per capita (%),C3_Cancel public events,Thailand,THA,1.0,percent,2018.0
-117,Demographics,Mobile cellular (per 100 people),C3_Cancel public events,Thailand,THA,180.1826,per 100 population,2018.0
+72,Demographics,Age dependency ratio,C3_Cancel public events,Thailand,THA,41.30241,percent of total population,2019.0
+73,Social issues ,Progression to secondary school (%),C3_Cancel public events,Thailand,THA,98.49383,proportion,2017.0
+74,Social issues ,Life Ladder ,C3_Cancel public events,Thailand,THA,5.9847002029418945,score,2021.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Thailand,THA,60.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Health,"Immunization, DPT (% of children ages 12-23 months)",C3_Cancel public events,Thailand,THA,97.0,percent,2019.0
+77,Environment,Energy use (kg of oil equivalent per capita),C3_Cancel public events,Thailand,THA,1969.00171876363,kg of oil equivalent per capita,2014.0
+78,Environment,Energy use ,C3_Cancel public events,Thailand,THA,124.0716111294026,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+79,Economics,Expenditure on social protection (% of GDP),C3_Cancel public events,Thailand,THA,3.07589,percent,2019.0
+80,Health,Prevalence of obesity,C3_Cancel public events,Thailand,THA,14.2,percent,2016.0
+81,Social issues ,Press freedom score,C3_Cancel public events,Thailand,THA,44.94,score,2020.0
+82,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C3_Cancel public events,Thailand,THA,14.9390001296997,proportion,2018.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Thailand,THA,4.114223,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,Thailand,THA,100.0,percent of population,2018.0
+85,Governance,Human Freedom Score ,C3_Cancel public events,Thailand,THA,6.37,score,2018.0
+86,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C3_Cancel public events,Thailand,THA,32113.5,international $ in PPP,2020.0
+88,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Thailand,THA,98.7507346105258,proportion,2017.0
+89,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C3_Cancel public events,Thailand,THA,0.0,proportion,2017.0
+90,Economics,"Trade, total as % of GDP",C3_Cancel public events,Thailand,THA,84.49826,percent,2019.0
+91,Environment,Electricity production from nuclear sources ,C3_Cancel public events,Thailand,THA,0.0,percent of total,2014.0
+92,Governance,Serious assault (rate),C3_Cancel public events,Thailand,THA,13.31,rate,2018.0
+93,Governance,Total freedom in the world score ,C3_Cancel public events,Thailand,THA,30.0,score,2021.0
+94,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Thailand,THA,97556.0,proportion,2019.0
+95,Economics,Starting a Business (Score),C3_Cancel public events,Thailand,THA,92.4,Score,2019.0
+96,Economics,"International tourism, receipts",C3_Cancel public events,Thailand,THA,60521000000.0,US Dollar,2019.0
+97,Economics,"Foreign direct investment, net",C3_Cancel public events,Thailand,THA,6315808260.0,US Dollar,2019.0
+98,Economics,Growth rates of household expenditure or income per capita (%),C3_Cancel public events,Thailand,THA,1.0,percent,2018.0
+101,Demographics,Internet users (per 100 people),C3_Cancel public events,Thailand,THA,56.81748,per 100 population,2018.0
+102,Economics,Stock market capitalization (US$ million),C3_Cancel public events,Thailand,THA,569228320000.0,US Dollar,2019.0
+103,Demographics,Fixed telephone (per 100 people),C3_Cancel public events,Thailand,THA,4.21873,per 100 population,2018.0
+105,Economics,"Lending interest rates, percent per annum",C3_Cancel public events,Thailand,THA,4.08417,percent per annum,2019.0
+108,Demographics,"Age dependency ratio, old (% of working-age population)",C3_Cancel public events,Thailand,THA,17.53032770331833,proportion,2019.0
+109,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C3_Cancel public events,Thailand,THA,93.7677612304688,proportion,2018.0
+110,Demographics,Mobile cellular (per 100 people),C3_Cancel public events,Thailand,THA,180.1826,per 100 population,2018.0
+111,Demographics,"Net migration rate, per 1000 population",C3_Cancel public events,Thailand,THA,0.281,per thousand persons,2015.0
+112,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C3_Cancel public events,Thailand,THA,2.22008872032165,proportion,2017.0
+113,Social issues ,Proportion of people living below 50 percent of median income (%),C3_Cancel public events,Thailand,THA,11.3,proportion,2018.0
+116,Demographics,"Population, total",C3_Cancel public events,Thailand,THA,69625582.0,total,2019.0
+117,Demographics,Rural population (% of total population),C3_Cancel public events,Thailand,THA,49.308,proportion,2019.0

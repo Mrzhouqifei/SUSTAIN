@@ -1,12 +1,12 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-11,Health,Prevalence of down syndrome,C3_Cancel public events,Tokelau,TKL,0.000145,percent,2019.0
-16,Health,Prevalence of anxiety disorders,C3_Cancel public events,Tokelau,TKL,0.040476,percent,2019.0
-17,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Tokelau,TKL,0.003708,percent,2019.0
-30,Health,Summary exposure value tobacco,C3_Cancel public events,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Tokelau,TKL,0.362278,percent,2019.0
-41,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Tokelau,TKL,0.106118,percent,2019.0
-61,Health,Prevalence of Depressive disorders,C3_Cancel public events,Tokelau,TKL,0.030871,percent,2019.0
-75,Health,Prevalence of total cancers,C3_Cancel public events,Tokelau,TKL,0.007214,percent,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-96,Health,Prevalence of Diabetes,C3_Cancel public events,Tokelau,TKL,0.111261,percent,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C3_Cancel public events,Tokelau,TKL,0.362278,percent,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,Prevalence of anxiety disorders,C3_Cancel public events,Tokelau,TKL,0.040476,percent,2019.0
+13,Health,Prevalence of Diabetes,C3_Cancel public events,Tokelau,TKL,0.111261,percent,2019.0
+20,Health,Prevalence of Hypertensive heart disease,C3_Cancel public events,Tokelau,TKL,0.003708,percent,2019.0
+21,Health,Prevalence of Depressive disorders,C3_Cancel public events,Tokelau,TKL,0.030871,percent,2019.0
+26,Health,Prevalence of down syndrome,C3_Cancel public events,Tokelau,TKL,0.000145,percent,2019.0
+33,Health,Prevalence of chronic kidney disease,C3_Cancel public events,Tokelau,TKL,0.106118,percent,2019.0
+43,Health,Summary exposure value tobacco,C3_Cancel public events,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0
+58,Health,Prevalence of total cancers,C3_Cancel public events,Tokelau,TKL,0.007214,percent,2019.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0

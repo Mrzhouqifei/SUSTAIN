@@ -1,59 +1,59 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C8_International travel controls,Comoros,COM,8.47817,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C8_International travel controls,Comoros,COM,21.0,score,2020.0
-3,Health,Prevalence of COVID-19,C8_International travel controls,Comoros,COM,643.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,C8_International travel controls,Comoros,COM,7.051473405368052,per 1 million people,2019.0
-6,Health,Prevalence of down syndrome,C8_International travel controls,Comoros,COM,0.000128,percent,2019.0
-7,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Comoros,COM,0.002015,percent,2019.0
-8,Health,Mortality due to COVID-19,C8_International travel controls,Comoros,COM,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Social issues ,Press freedom score,C8_International travel controls,Comoros,COM,29.77,score,2020.0
-10,Health,Prevalence of anxiety disorders,C8_International travel controls,Comoros,COM,0.036123,percent,2019.0
-12,Health,Summary exposure value tobacco,C8_International travel controls,Comoros,COM,14.98029,Rate (risk-weighted prevalence),2019.0
-13,Health,Prevalence of total cancers,C8_International travel controls,Comoros,COM,0.003249,percent,2019.0
-14,Governance,Control of corruption estimate,C8_International travel controls,Comoros,COM,-1.02035,score,2019.0
-15,Demographics,Fixed broadband subscriptions,C8_International travel controls,Comoros,COM,0.129982,per 100 people,2019.0
-16,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Comoros,COM,4.22248670935332,percent of GNI,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Comoros,COM,35.0,Cases,2019.0
-18,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Comoros,COM,16.66666667,proportion,2020.0
-20,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Comoros,COM,25.56,percent,2014.0
-21,Social issues ,Net migration,C8_International travel controls,Comoros,COM,-10000.0,net total / data are 5 year estimates,2019.0
-22,Governance,Government effectiveness estimate,C8_International travel controls,Comoros,COM,-1.669198,score,2019.0
-24,Health,Prevalence of obesity,C8_International travel controls,Comoros,COM,7.8,percent,2016.0
-25,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Comoros,COM,90.0,percent,2019.0
-27,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Comoros,COM,26.0,score,2021.0
-28,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Comoros,COM,22.6,percent,2020.0
-29,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Comoros,COM,37.0180016,Percentage of total employment,2020.0
-30,Social issues ,Life Ladder ,C8_International travel controls,Comoros,COM,4.288599967956543,score,2021.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Comoros,COM,0.4,percent,2018.0
-32,Environment,Renewable energy consumption ,C8_International travel controls,Comoros,COM,45.3330523920407,percent of total final energy consumption,2015.0
-33,Health,"Physicians (per 1,000 people)",C8_International travel controls,Comoros,COM,0.2715,Ones,2016.0
-34,Governance,Fragile States Index Total ,C8_International travel controls,Comoros,COM,81.24901232562686,score,2020.0
-35,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Comoros,COM,16.0,score,2021.0
-38,Demographics,Mobile cellular subscriptions,C8_International travel controls,Comoros,COM,67.6022,per 100 people,2019.0
-41,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Comoros,COM,91.0,percent,2019.0
-42,Health,Prevalence of Diabetes,C8_International travel controls,Comoros,COM,0.023769,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Comoros,COM,0.269491,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C8_International travel controls,Comoros,COM,10042.0,number,2019.0
+4,Health,Prevalence of COVID-19,C8_International travel controls,Comoros,COM,643.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Mortality due to COVID-19,C8_International travel controls,Comoros,COM,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Comoros,COM,20.54682,micrograms per cubic meter,2017.0
+11,Health,Prevalence of down syndrome,C8_International travel controls,Comoros,COM,0.000128,percent,2019.0
+12,Economics,Volume of imports,C8_International travel controls,Comoros,COM,5.062,percent change,2020.0
+15,Social issues ,Net migration,C8_International travel controls,Comoros,COM,-10000.0,net total / data are 5 year estimates,2019.0
+16,Governance,Voice and accountability estimate,C8_International travel controls,Comoros,COM,-0.6893845,score,2019.0
+17,Demographics,Fixed broadband subscriptions,C8_International travel controls,Comoros,COM,0.129982,per 100 people,2019.0
+18,Social issues ,Proportion of women in managerial positions (%),C8_International travel controls,Comoros,COM,25.56,percent,2014.0
+19,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Comoros,COM,9.6,percent,2020.0
+21,Governance,Corruption Perceptions Index,C8_International travel controls,Comoros,COM,21.0,score,2020.0
+23,Governance,Aggregate score for the Civil Liberties category,C8_International travel controls,Comoros,COM,26.0,score,2021.0
+24,Governance,Rule of law estimate ,C8_International travel controls,Comoros,COM,-1.087503,score,2019.0
+26,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Comoros,COM,-0.1486754,score,2019.0
+27,Governance,Total freedom in the world score ,C8_International travel controls,Comoros,COM,42.0,score,2021.0
+28,Health,Prevalence of Diabetes,C8_International travel controls,Comoros,COM,0.023769,percent,2019.0
+29,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Comoros,COM,100.0,percent of total,2017.0
+30,Governance,Government effectiveness estimate,C8_International travel controls,Comoros,COM,-1.669198,score,2019.0
+31,Health,Summary exposure value tobacco,C8_International travel controls,Comoros,COM,14.98029,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Comoros,COM,45.3,index ,2014.0
+33,Health,Prevalence of obesity,C8_International travel controls,Comoros,COM,7.8,percent,2016.0
+35,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Comoros,COM,0.6285,Ones,2016.0
+36,Governance,Aggregate score for the Political Rights category,C8_International travel controls,Comoros,COM,16.0,score,2021.0
+38,Governance,Human Development Index,C8_International travel controls,Comoros,COM,0.554,index,2019.0
+39,Health,"Physicians (per 1,000 people)",C8_International travel controls,Comoros,COM,0.2715,Ones,2016.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C8_International travel controls,Comoros,COM,91.0,percent,2019.0
+41,Health,Prevalence of anxiety disorders,C8_International travel controls,Comoros,COM,0.036123,percent,2019.0
 43,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C8_International travel controls,Comoros,COM,36.75,Percentage of females of the total population,2020.0
-44,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C8_International travel controls,Comoros,COM,100.0,percent of total,2017.0
-46,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C8_International travel controls,Comoros,COM,9.6,percent,2020.0
-50,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Comoros,COM,0.253503,metric tons per capita,2016.0
-52,Health,Prevalence of chronic kidney disease,C8_International travel controls,Comoros,COM,0.049025,percent,2019.0
-55,Governance,Voice and accountability estimate,C8_International travel controls,Comoros,COM,-0.6893845,score,2019.0
-56,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Comoros,COM,4.36600018,percent of total labor force,2020.0
-57,Governance,Regulatory quality estimate,C8_International travel controls,Comoros,COM,-1.119256,score,2019.0
-58,Demographics,Fixed telephone subscriptions,C8_International travel controls,Comoros,COM,10042.0,number,2019.0
-59,Governance,Rule of law estimate ,C8_International travel controls,Comoros,COM,-1.087503,score,2019.0
-60,Governance,Political stability and absence of violence/terrorism estimate,C8_International travel controls,Comoros,COM,-0.1486754,score,2019.0
-64,Social issues ,Gini index (World Bank estimate),C8_International travel controls,Comoros,COM,45.3,index ,2014.0
-68,Health,Prevalence of Depressive disorders,C8_International travel controls,Comoros,COM,0.039743,percent,2019.0
-69,Environment,"PM2.5 air pollution, mean annual exposure",C8_International travel controls,Comoros,COM,20.54682,micrograms per cubic meter,2017.0
-70,Economics,Volume of imports,C8_International travel controls,Comoros,COM,5.062,percent change,2020.0
-71,Governance,Human Development Index,C8_International travel controls,Comoros,COM,0.554,index,2019.0
-75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Comoros,COM,43.3959999,Percentage of total population,2020.0
-76,Health,"Nurses and midwives (per 1,000 people)",C8_International travel controls,Comoros,COM,0.6285,Ones,2016.0
-77,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C8_International travel controls,Comoros,COM,2.5,rating,2019.0
-78,Governance,Total freedom in the world score ,C8_International travel controls,Comoros,COM,42.0,score,2021.0
-79,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Comoros,COM,0.1,percent,2019.0
-80,Environment,Access to electricity ,C8_International travel controls,Comoros,COM,81.9227523803711,percent of population,2018.0
-82,Economics,Volume of exports,C8_International travel controls,Comoros,COM,4.079,percent change,2020.0
-86,Environment,CO2 emissions (kt),C8_International travel controls,Comoros,COM,201.685,kt,2016.0
-89,Health,Prevalence of Respiratory infections and tuberculosis,C8_International travel controls,Comoros,COM,0.269491,percent,2019.0
+45,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C8_International travel controls,Comoros,COM,0.4,percent,2018.0
+46,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C8_International travel controls,Comoros,COM,22.6,percent,2020.0
+48,Health,Prevalence of Depressive disorders,C8_International travel controls,Comoros,COM,0.039743,percent,2019.0
+50,Environment,CO2 emissions (kt),C8_International travel controls,Comoros,COM,201.685,kt,2016.0
+55,Health,"Prevalence of HIV, total (% of population ages 15-49)",C8_International travel controls,Comoros,COM,0.1,percent,2019.0
+56,Demographics,Mobile cellular subscriptions,C8_International travel controls,Comoros,COM,67.6022,per 100 people,2019.0
+57,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C8_International travel controls,Comoros,COM,43.3959999,Percentage of total population,2020.0
+59,Economics,Volume of exports,C8_International travel controls,Comoros,COM,4.079,percent change,2020.0
+61,Economics,Employment in services (% of total employment) (modeled ILO estimate),C8_International travel controls,Comoros,COM,37.0180016,Percentage of total employment,2020.0
+63,Demographics,Secure Internet servers ,C8_International travel controls,Comoros,COM,7.051473405368052,per 1 million people,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C8_International travel controls,Comoros,COM,4.36600018,percent of total labor force,2020.0
+65,Health,Prevalence of total cancers,C8_International travel controls,Comoros,COM,0.003249,percent,2019.0
+66,Governance,Control of corruption estimate,C8_International travel controls,Comoros,COM,-1.02035,score,2019.0
+69,Environment,"Adjusted net savings, including particulate emission damage",C8_International travel controls,Comoros,COM,4.22248670935332,percent of GNI,2018.0
+71,Environment,CO2 emissions (metric tons per capita),C8_International travel controls,Comoros,COM,0.253503,metric tons per capita,2016.0
+72,Social issues ,Life Ladder ,C8_International travel controls,Comoros,COM,4.288599967956543,score,2021.0
+74,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C8_International travel controls,Comoros,COM,2.5,rating,2019.0
+77,Health,"Immunization, measles (% of children ages 12-23 months)",C8_International travel controls,Comoros,COM,90.0,percent,2019.0
+79,Environment,Access to electricity ,C8_International travel controls,Comoros,COM,81.9227523803711,percent of population,2018.0
+82,Governance,Fragile States Index Total ,C8_International travel controls,Comoros,COM,81.24901232562686,score,2020.0
+83,Social issues ,Press freedom score,C8_International travel controls,Comoros,COM,29.77,score,2020.0
+84,Environment,Renewable energy consumption ,C8_International travel controls,Comoros,COM,45.3330523920407,percent of total final energy consumption,2015.0
+86,Social issues ,Proportion of seats held by women in national parliaments (%),C8_International travel controls,Comoros,COM,16.66666667,proportion,2020.0
+92,Health,Prevalence of chronic kidney disease,C8_International travel controls,Comoros,COM,0.049025,percent,2019.0
+93,Governance,Regulatory quality estimate,C8_International travel controls,Comoros,COM,-1.119256,score,2019.0
+94,Health,Prevalence of Hypertensive heart disease,C8_International travel controls,Comoros,COM,0.002015,percent,2019.0
+115,Health,"Incidence of tuberculosis (per 100,000 people)",C8_International travel controls,Comoros,COM,35.0,Cases,2019.0

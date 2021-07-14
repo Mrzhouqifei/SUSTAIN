@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-NGA,H7_Vaccination policy,0.10623696405345244,1
-NGA,H6_Facial Coverings,0.09099052026800407,2
-NGA,C3_Cancel public events,0.08001280375028531,3
-NGA,C7_Restrictions on internal movement,0.07559666020135207,4
-NGA,C1_School closing,0.0743486133256553,5
-NGA,E1_Income support,0.06978637495297305,6
-NGA,C2_Workplace closing,0.06463894249753083,7
-NGA,H3_Contact tracing,0.0513333686991752,8
-NGA,C5_Close public transport,0.049380916643286164,9
-NGA,H2_Testing policy,0.04253816241784369,10
-NGA,C6_Stay at home requirements,0.033469146742243897,11
-NGA,C4_Restrictions on gatherings,0.021825926245374383,12
-NGA,C8_International travel controls,0.017012519849419892,13
-NGA,E2_Debt/contract relief,0.014168579194959747,14
-NGA,H1_Public information campaigns,0.002126965839584936,15
+NGA,H7_Vaccination policy,0.1027055754287425,1
+NGA,H6_Facial Coverings,0.1015600317154052,2
+NGA,C2_Workplace closing,0.0894569699975063,3
+NGA,C5_Close public transport,0.078924606578169,4
+NGA,C1_School closing,0.063842313125029,5
+NGA,E2_Debt/contract relief,0.061576432034824,6
+NGA,C4_Restrictions on gatherings,0.0610743000348256,7
+NGA,C7_Restrictions on internal movement,0.060615574591633,8
+NGA,H3_Contact tracing,0.0522822501960293,9
+NGA,H2_Testing policy,0.0440275323273167,10
+NGA,E1_Income support,0.0278861964223573,11
+NGA,C8_International travel controls,0.0200539265008844,12
+NGA,C3_Cancel public events,0.017226231286277,13
+NGA,C6_Stay at home requirements,0.0121977462444993,14
+NGA,H1_Public information campaigns,0.002246454958266,15

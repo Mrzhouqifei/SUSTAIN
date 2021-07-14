@@ -7,12 +7,20 @@ import time
 def fix_countries_name():
     df = pd.read_csv('raw_data/COVID/time_series_covid19_confirmed_global_raw.csv')
     df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace(
-        'Russia', 'Russian Federation').str.replace('Burma', 'Myanmar').str.replace('Korea, South', 'South Korea')
-    # df = df.rename(columns={'Taiwan*': 'Taiwan', 'Russia': 'Russian Federation'})
+        'Russia', 'Russian Federation').str.replace('Burma', 'Myanmar [Burma]').str.replace(
+            'Korea, South', 'South Korea').str.replace('Vietnam', 'Viet Nam').str.replace('Iran', 'Iran (Islamic Republic of)').str.replace('Cabo Verde', 'Cape Verde').str.replace(
+                        'Cote d\'Ivoire', 'Cote d\'Ivoire (Ivory Coast)').str.replace('Czechia', 'Czech Republic')
+    # Myanmar [Burma] Viet Nam Slovakia Kyrgyzstan -> Kyrgyz Republic Iran -> Iran (Islamic Republic of) Cabo Verde -> Cape Verde
+    # Cote d'Ivoire -> Cote d'Ivoire (Ivory Coast) Czechia -> Czech Republic
+
+    df.loc[df['Province/State']=='Hong Kong','Country/Region'] = 'Hong Kong'
     df.to_csv('raw_data/COVID/time_series_covid19_confirmed_global.csv', index=False)
 
     df1 = pd.read_csv('raw_data/policies_all_countries_raw.csv')
-    df1['entity'] = df1['entity'].str.replace('Russia', 'Russian Federation')
+    df1['entity'] = df1['entity'].str.replace('Russia', 'Russian Federation').str.replace(
+        'Myanmar', 'Myanmar [Burma]').str.replace('Vietnam', 'Viet Nam').str.replace('Kyrgyz Republic', 'Kyrgyzstan').str.replace(
+            'Iran', 'Iran (Islamic Republic of)').str.replace('Cote d\'Ivoire', 'Cote d\'Ivoire (Ivory Coast)').str.replace(
+                'Slovak Republic', 'Slovakia')
     # df1 = df1.rename(columns={'Russia': 'Russian Federation'})
     df1.to_csv('raw_data/policies_all_countries.csv', index=False)
 

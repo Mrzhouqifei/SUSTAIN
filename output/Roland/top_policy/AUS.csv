@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-AUS,H6_Facial Coverings,0.08704965216025719,1
-AUS,E2_Debt/contract relief,0.07669900230103018,2
-AUS,H2_Testing policy,0.07463706653606315,3
-AUS,H7_Vaccination policy,0.06713260522058538,4
-AUS,C1_School closing,0.06460142121700037,5
-AUS,C6_Stay at home requirements,0.06400636237405151,6
+AUS,H6_Facial Coverings,0.0870496521602571,1
+AUS,E2_Debt/contract relief,0.0766990023010301,2
+AUS,H2_Testing policy,0.0746370665360631,3
+AUS,H7_Vaccination policy,0.0671326052205853,4
+AUS,C1_School closing,0.0646014212170003,5
+AUS,C6_Stay at home requirements,0.0640063623740515,6
 AUS,C4_Restrictions on gatherings,0.0604482764451665,7
-AUS,C3_Cancel public events,0.058927622598040276,8
-AUS,C8_International travel controls,0.057495228677882114,9
-AUS,E1_Income support,0.04225280394566512,10
-AUS,C2_Workplace closing,0.038848609650454405,11
-AUS,C7_Restrictions on internal movement,0.030498962469383512,12
-AUS,C5_Close public transport,0.023715944268484862,13
-AUS,H1_Public information campaigns,0.02142783187783048,14
+AUS,C3_Cancel public events,0.0589276225980402,8
+AUS,C8_International travel controls,0.0574952286778821,9
+AUS,E1_Income support,0.0422528039456651,10
+AUS,C2_Workplace closing,0.0388486096504544,11
+AUS,C7_Restrictions on internal movement,0.0304989624693835,12
+AUS,C5_Close public transport,0.0237159442684848,13
+AUS,H1_Public information campaigns,0.0214278318778304,14
 AUS,H3_Contact tracing,0.0,15

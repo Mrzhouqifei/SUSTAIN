@@ -1,70 +1,70 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H3_Contact tracing,Kuwait,KWT,99.5427,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,H3_Contact tracing,Kuwait,KWT,42.0,score,2020.0
-3,Health,Prevalence of COVID-19,H3_Contact tracing,Kuwait,KWT,147531.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,H3_Contact tracing,Kuwait,KWT,438.3084431659656,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,H3_Contact tracing,Kuwait,KWT,916.0,"Number (cumulative total by Dec 26,2020)",2020.0
-8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Kuwait,KWT,0.159169,percent,2019.0
-9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Kuwait,KWT,174.159,per 100 people,2019.0
-10,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Kuwait,KWT,49.3390007,Percentage of females of the total population,2020.0
-11,Governance,Government effectiveness estimate,H3_Contact tracing,Kuwait,KWT,0.0184673,score,2019.0
-12,Environment,Electricity production from nuclear sources ,H3_Contact tracing,Kuwait,KWT,0.0,percent of total,2014.0
-13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Kuwait,KWT,23.0,score,2021.0
-14,Health,Summary exposure value tobacco,H3_Contact tracing,Kuwait,KWT,29.30509,Rate (risk-weighted prevalence),2019.0
-15,Environment,CO2 emissions (kt),H3_Contact tracing,Kuwait,KWT,98733.98,kt,2016.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Kuwait,KWT,73.6610031,Percentage of total employment,2020.0
-17,Environment,"Energy imports, net ",H3_Contact tracing,Kuwait,KWT,-391.0584858196405,percent of energy use,2014.0
-18,Social issues ,Life Ladder ,H3_Contact tracing,Kuwait,KWT,6.106100082397461,score,2021.0
-19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Kuwait,KWT,2.01078,per 100 people,2019.0
-20,Environment,Electricity production from oil sources,H3_Contact tracing,Kuwait,KWT,63.5810830707618,percent of total,2015.0
-21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Kuwait,KWT,7.4145,Ones,2018.0
-22,Social issues ,Press freedom score,H3_Contact tracing,Kuwait,KWT,34.3,score,2020.0
-24,Governance,Economic Freedom Score,H3_Contact tracing,Kuwait,KWT,6.6,score,2018.0
-25,Social issues ,Proportion of women in managerial positions (%),H3_Contact tracing,Kuwait,KWT,13.61,percent,2016.0
-27,Environment,"Electricity production from renewable sources, excluding hydroelectric",H3_Contact tracing,Kuwait,KWT,0.0,kWh,2015.0
+2,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Kuwait,KWT,515542.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Kuwait,KWT,0.159169,percent,2019.0
+4,Health,Prevalence of COVID-19,H3_Contact tracing,Kuwait,KWT,147531.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Economic Freedom Score,H3_Contact tracing,Kuwait,KWT,6.6,score,2018.0
+6,Social issues ,Press freedom score,H3_Contact tracing,Kuwait,KWT,34.3,score,2020.0
+7,Health,Mortality due to COVID-19,H3_Contact tracing,Kuwait,KWT,916.0,"Number (cumulative total by Dec 26,2020)",2020.0
+8,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Kuwait,KWT,7.1,percent,2020.0
+9,Governance,Rule of law estimate ,H3_Contact tracing,Kuwait,KWT,0.215674,score,2019.0
+10,Health,Prevalence of down syndrome,H3_Contact tracing,Kuwait,KWT,0.000279,percent,2019.0
+11,Environment,Fossil fuel energy consumption,H3_Contact tracing,Kuwait,KWT,93.68989,percent of total,2014.0
+12,Governance,Regulatory quality estimate,H3_Contact tracing,Kuwait,KWT,0.0649239,score,2019.0
+13,Health,Prevalence of Diabetes,H3_Contact tracing,Kuwait,KWT,0.095441,percent,2019.0
+14,Social issues ,Proportion of women in managerial positions (%),H3_Contact tracing,Kuwait,KWT,13.61,percent,2016.0
+15,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Kuwait,KWT,2.01078,per 100 people,2019.0
+16,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Kuwait,KWT,6.349206349,proportion,2020.0
+17,Environment,Combustible renewables and waste,H3_Contact tracing,Kuwait,KWT,0.0,percent of total energy,2014.0
+18,Health,Prevalence of total cancers,H3_Contact tracing,Kuwait,KWT,0.00651,percent,2019.0
+20,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,Kuwait,KWT,73.6610031,Percentage of total employment,2020.0
+22,Environment,Electricity production from coal sources ,H3_Contact tracing,Kuwait,KWT,0.0,percent of total,2015.0
+23,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Kuwait,KWT,60.74516,micrograms per cubic meter,2017.0
+24,Health,Prevalence of anxiety disorders,H3_Contact tracing,Kuwait,KWT,0.052155,percent,2019.0
+25,Environment,Renewable energy consumption ,H3_Contact tracing,Kuwait,KWT,0.0,percent of total final energy consumption,2015.0
+26,Governance,Corruption Perceptions Index,H3_Contact tracing,Kuwait,KWT,42.0,score,2020.0
+27,Social issues ,Life Ladder ,H3_Contact tracing,Kuwait,KWT,6.106100082397461,score,2021.0
 28,Social issues ,Net migration,H3_Contact tracing,Kuwait,KWT,197600.0,net total / data are 5 year estimates,2019.0
-29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Kuwait,KWT,0.2003809,score,2019.0
-30,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H3_Contact tracing,Kuwait,KWT,7.1,percent,2020.0
-31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Kuwait,KWT,0.052155,percent,2019.0
-32,Environment,"PM2.5 air pollution, mean annual exposure",H3_Contact tracing,Kuwait,KWT,60.74516,micrograms per cubic meter,2017.0
-33,Health,Prevalence of Diabetes,H3_Contact tracing,Kuwait,KWT,0.095441,percent,2019.0
-34,Governance,Human Development Index,H3_Contact tracing,Kuwait,KWT,0.806,index,2019.0
-35,Governance,Fragile States Index Total ,H3_Contact tracing,Kuwait,KWT,50.899274182096256,score,2020.0
-37,Environment,Renewable energy consumption ,H3_Contact tracing,Kuwait,KWT,0.0,percent of total final energy consumption,2015.0
-38,Environment,Energy use ,H3_Contact tracing,Kuwait,KWT,162.035694398559,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-39,Governance,Control of corruption estimate,H3_Contact tracing,Kuwait,KWT,-0.132789,score,2019.0
-41,Environment,Fossil fuel energy consumption,H3_Contact tracing,Kuwait,KWT,93.68989,percent of total,2014.0
-42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Kuwait,KWT,98.0,percent,2019.0
-44,Economics,Volume of imports,H3_Contact tracing,Kuwait,KWT,3.584,percent change,2020.0
-45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Kuwait,KWT,24.95251,metric tons per capita,2016.0
-46,Governance,Voice and accountability estimate,H3_Contact tracing,Kuwait,KWT,-0.6347895,score,2019.0
-47,Environment,"Adjusted net savings, including particulate emission damage",H3_Contact tracing,Kuwait,KWT,18.8837257964463,percent of GNI,2018.0
-48,Health,Prevalence of total cancers,H3_Contact tracing,Kuwait,KWT,0.00651,percent,2019.0
+29,Environment,"Electricity production from renewable sources, excluding hydroelectric",H3_Contact tracing,Kuwait,KWT,0.0,kWh,2015.0
+30,Governance,Total freedom in the world score ,H3_Contact tracing,Kuwait,KWT,37.0,score,2021.0
+31,Demographics,Secure Internet servers ,H3_Contact tracing,Kuwait,KWT,438.3084431659656,per 1 million people,2019.0
+32,Governance,Fragile States Index Total ,H3_Contact tracing,Kuwait,KWT,50.899274182096256,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Kuwait,KWT,7.4145,Ones,2018.0
+34,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Kuwait,KWT,22.0,Cases,2019.0
+35,Governance,Human Development Index,H3_Contact tracing,Kuwait,KWT,0.806,index,2019.0
+36,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Kuwait,KWT,6.0,percent,2020.0
+37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Kuwait,KWT,49.3390007,Percentage of females of the total population,2020.0
+40,Health,Prevalence of obesity,H3_Contact tracing,Kuwait,KWT,37.9,percent,2016.0
+41,Environment,CO2 emissions (kt),H3_Contact tracing,Kuwait,KWT,98733.98,kt,2016.0
+42,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Kuwait,KWT,23.0,score,2021.0
+44,Environment,"Adjusted net savings, including particulate emission damage",H3_Contact tracing,Kuwait,KWT,18.8837257964463,percent of GNI,2018.0
+45,Environment,"Electricity production from oil, gas and coal sources",H3_Contact tracing,Kuwait,KWT,100.0,percent of total,2015.0
 49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Kuwait,KWT,2.6463,Ones,2015.0
-51,Environment,Access to electricity ,H3_Contact tracing,Kuwait,KWT,100.0,percent of population,2018.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Kuwait,KWT,2.30299997,percent of total labor force,2020.0
-53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Kuwait,KWT,100.0,percent of total,2017.0
-54,Health,Prevalence of obesity,H3_Contact tracing,Kuwait,KWT,37.9,percent,2016.0
-55,Environment,Combustible renewables and waste,H3_Contact tracing,Kuwait,KWT,0.0,percent of total energy,2014.0
-56,Environment,Electricity production from coal sources ,H3_Contact tracing,Kuwait,KWT,0.0,percent of total,2015.0
-57,Governance,Human Freedom Score ,H3_Contact tracing,Kuwait,KWT,6.39,score,2018.0
-58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Kuwait,KWT,0.084807,percent,2019.0
-59,Governance,Rule of law estimate ,H3_Contact tracing,Kuwait,KWT,0.215674,score,2019.0
-60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Kuwait,KWT,14.0,score,2021.0
-64,Environment,Energy use (kg of oil equivalent per capita),H3_Contact tracing,Kuwait,KWT,9178.885547073227,kg of oil equivalent per capita,2014.0
-66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Kuwait,KWT,0.048968,percent,2019.0
-68,Governance,Total freedom in the world score ,H3_Contact tracing,Kuwait,KWT,37.0,score,2021.0
-69,Governance,Personal Freedom Score ,H3_Contact tracing,Kuwait,KWT,6.18,score,2018.0
-70,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Kuwait,KWT,73.3639984,Percentage of total population,2020.0
-71,Environment,Electric power consumption ,H3_Contact tracing,Kuwait,KWT,15590.60413049138,kWh per capita,2014.0
-72,Environment,"Electricity production from oil, gas and coal sources",H3_Contact tracing,Kuwait,KWT,100.0,percent of total,2015.0
-73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Kuwait,KWT,22.0,Cases,2019.0
-74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Kuwait,KWT,515542.0,number,2019.0
-75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Kuwait,KWT,91.0,percent,2019.0
-76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Kuwait,KWT,4.4,percent,2018.0
-77,Health,Prevalence of down syndrome,H3_Contact tracing,Kuwait,KWT,0.000279,percent,2019.0
-78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Kuwait,KWT,0.003101,percent,2019.0
-79,Economics,Volume of exports,H3_Contact tracing,Kuwait,KWT,2.432,percent change,2020.0
-82,Governance,Regulatory quality estimate,H3_Contact tracing,Kuwait,KWT,0.0649239,score,2019.0
-83,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H3_Contact tracing,Kuwait,KWT,6.0,percent,2020.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Kuwait,KWT,6.349206349,proportion,2020.0
+50,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Kuwait,KWT,174.159,per 100 people,2019.0
+51,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Kuwait,KWT,0.003101,percent,2019.0
+52,Governance,Human Freedom Score ,H3_Contact tracing,Kuwait,KWT,6.39,score,2018.0
+53,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Kuwait,KWT,0.084807,percent,2019.0
+54,Governance,Voice and accountability estimate,H3_Contact tracing,Kuwait,KWT,-0.6347895,score,2019.0
+55,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Kuwait,KWT,14.0,score,2021.0
+56,Environment,Electric power consumption ,H3_Contact tracing,Kuwait,KWT,15590.60413049138,kWh per capita,2014.0
+57,Health,Prevalence of Depressive disorders,H3_Contact tracing,Kuwait,KWT,0.048968,percent,2019.0
+58,Health,Summary exposure value tobacco,H3_Contact tracing,Kuwait,KWT,29.30509,Rate (risk-weighted prevalence),2019.0
+61,Environment,Electricity production from nuclear sources ,H3_Contact tracing,Kuwait,KWT,0.0,percent of total,2014.0
+62,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H3_Contact tracing,Kuwait,KWT,100.0,percent of total,2017.0
+63,Environment,Electricity production from oil sources,H3_Contact tracing,Kuwait,KWT,63.5810830707618,percent of total,2015.0
+64,Environment,Energy use ,H3_Contact tracing,Kuwait,KWT,162.035694398559,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Kuwait,KWT,91.0,percent,2019.0
+66,Environment,"Energy imports, net ",H3_Contact tracing,Kuwait,KWT,-391.0584858196405,percent of energy use,2014.0
+68,Governance,Personal Freedom Score ,H3_Contact tracing,Kuwait,KWT,6.18,score,2018.0
+71,Environment,Access to electricity ,H3_Contact tracing,Kuwait,KWT,100.0,percent of population,2018.0
+73,Governance,Control of corruption estimate,H3_Contact tracing,Kuwait,KWT,-0.132789,score,2019.0
+75,Economics,Volume of imports,H3_Contact tracing,Kuwait,KWT,3.584,percent change,2020.0
+78,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Kuwait,KWT,4.4,percent,2018.0
+79,Environment,Energy use (kg of oil equivalent per capita),H3_Contact tracing,Kuwait,KWT,9178.885547073227,kg of oil equivalent per capita,2014.0
+80,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,Kuwait,KWT,2.30299997,percent of total labor force,2020.0
+81,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Kuwait,KWT,0.2003809,score,2019.0
+84,Governance,Government effectiveness estimate,H3_Contact tracing,Kuwait,KWT,0.0184673,score,2019.0
+85,Economics,Volume of exports,H3_Contact tracing,Kuwait,KWT,2.432,percent change,2020.0
+87,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Kuwait,KWT,24.95251,metric tons per capita,2016.0
+92,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Kuwait,KWT,98.0,percent,2019.0
+96,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,Kuwait,KWT,73.3639984,Percentage of total population,2020.0

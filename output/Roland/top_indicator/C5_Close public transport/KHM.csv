@@ -1,99 +1,99 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C5_Close public transport,Cambodia,KHM,40.0,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C5_Close public transport,Cambodia,KHM,21.0,score,2020.0
+2,Demographics,Fixed telephone subscriptions,C5_Close public transport,Cambodia,KHM,56445.0,number,2019.0
 3,Health,Prevalence of COVID-19,C5_Close public transport,Cambodia,KHM,362.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Demographics,Secure Internet servers ,C5_Close public transport,Cambodia,KHM,159.2814308785918,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,C5_Close public transport,Cambodia,KHM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Social issues ,Net migration,C5_Close public transport,Cambodia,KHM,-149999.0,net total / data are 5 year estimates,2019.0
-8,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Cambodia,KHM,5.0,score,2021.0
-9,Social issues ,Life Ladder ,C5_Close public transport,Cambodia,KHM,4.830399990081787,score,2021.0
-10,Health,Prevalence of anxiety disorders,C5_Close public transport,Cambodia,KHM,0.046104,percent,2019.0
-11,Demographics,Fixed broadband subscriptions,C5_Close public transport,Cambodia,KHM,1.11836,per 100 people,2019.0
-13,Health,Summary exposure value tobacco,C5_Close public transport,Cambodia,KHM,33.55218,Rate (risk-weighted prevalence),2019.0
-14,Health,Prevalence of Diabetes,C5_Close public transport,Cambodia,KHM,0.044443,percent,2019.0
-15,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Cambodia,KHM,19.0,score,2021.0
-16,Health,"Physicians (per 1,000 people)",C5_Close public transport,Cambodia,KHM,0.1927,Ones,2014.0
-17,Environment,CO2 emissions (kt),C5_Close public transport,Cambodia,KHM,9919.235,kt,2016.0
-18,Environment,Electricity production from coal sources ,C5_Close public transport,Cambodia,KHM,48.39663406868319,percent of total,2015.0
-19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Cambodia,KHM,0.346988,percent,2019.0
-20,Environment,Renewable energy consumption ,C5_Close public transport,Cambodia,KHM,64.9237759106607,percent of total final energy consumption,2015.0
-21,Environment,"Energy imports, net ",C5_Close public transport,Cambodia,KHM,33.11629750786791,percent of energy use,2014.0
-22,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Cambodia,KHM,287.0,Cases,2019.0
-23,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Cambodia,KHM,10.1308335453466,percent of GNI,2018.0
-24,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Cambodia,KHM,20.0,proportion,2020.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Cambodia,KHM,25.61429,micrograms per cubic meter,2017.0
-27,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Cambodia,KHM,0.6855,Ones,2018.0
-28,Environment,Electric power consumption ,C5_Close public transport,Cambodia,KHM,271.3672582341959,kWh per capita,2014.0
-29,Demographics,Mobile cellular subscriptions,C5_Close public transport,Cambodia,KHM,129.916,per 100 people,2019.0
-30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Cambodia,KHM,0.081958,percent,2019.0
-31,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Cambodia,KHM,39.2080002,Percentage of total employment,2020.0
-32,Environment,Electricity production from oil sources,C5_Close public transport,Cambodia,KHM,5.185353650216056,percent of total,2015.0
-34,Economics,Volume of imports,C5_Close public transport,Cambodia,KHM,8.345,percent change,2020.0
-35,Health,Prevalence of total cancers,C5_Close public transport,Cambodia,KHM,0.004165,percent,2019.0
-36,Governance,Rule of law estimate ,C5_Close public transport,Cambodia,KHM,-0.9356683,score,2019.0
-37,Health,Prevalence of down syndrome,C5_Close public transport,Cambodia,KHM,0.000179,percent,2019.0
-38,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Cambodia,KHM,0.5,percent,2019.0
-39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Cambodia,KHM,-0.0808967,score,2019.0
-40,Economics,Expenditure on education (% of GDP),C5_Close public transport,Cambodia,KHM,2.69554,percent,2019.0
-41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Cambodia,KHM,0.00212,percent,2019.0
-42,Health,Prevalence of Depressive disorders,C5_Close public transport,Cambodia,KHM,0.028902,percent,2019.0
-43,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Cambodia,KHM,0.69599998,percent of total labor force,2020.0
-44,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C5_Close public transport,Cambodia,KHM,7614.6,international $ in PPP,2020.0
-45,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Cambodia,KHM,100.0,percent of total,2017.0
-46,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Cambodia,KHM,416.8383089125715,kg of oil equivalent per capita,2014.0
+4,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Cambodia,KHM,0.346988,percent,2019.0
+5,Environment,Electricity production from oil sources,C5_Close public transport,Cambodia,KHM,5.185353650216056,percent of total,2015.0
+6,Governance,Rule of law estimate ,C5_Close public transport,Cambodia,KHM,-0.9356683,score,2019.0
+7,Economics,Employment in services (% of total employment) (modeled ILO estimate),C5_Close public transport,Cambodia,KHM,39.2080002,Percentage of total employment,2020.0
+8,Environment,Fossil fuel energy consumption,C5_Close public transport,Cambodia,KHM,30.62908,percent of total,2014.0
+9,Demographics,Fixed broadband subscriptions,C5_Close public transport,Cambodia,KHM,1.11836,per 100 people,2019.0
+10,Governance,Control of corruption estimate,C5_Close public transport,Cambodia,KHM,-1.302401,score,2019.0
+11,Governance,Voice and accountability estimate,C5_Close public transport,Cambodia,KHM,-1.202571,score,2019.0
+12,Governance,Economic Freedom Score,C5_Close public transport,Cambodia,KHM,7.28,score,2018.0
+13,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Cambodia,KHM,0.629142,metric tons per capita,2016.0
+14,Governance,Corruption Perceptions Index,C5_Close public transport,Cambodia,KHM,21.0,score,2020.0
+15,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Cambodia,KHM,2.1,percent,2020.0
+16,Environment,Electricity production from coal sources ,C5_Close public transport,Cambodia,KHM,48.39663406868319,percent of total,2015.0
+17,Social issues ,Proportion of seats held by women in national parliaments (%),C5_Close public transport,Cambodia,KHM,20.0,proportion,2020.0
+18,Social issues ,Net migration,C5_Close public transport,Cambodia,KHM,-149999.0,net total / data are 5 year estimates,2019.0
+19,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Cambodia,KHM,84.0,percent,2019.0
+20,Health,Prevalence of obesity,C5_Close public transport,Cambodia,KHM,3.9,percent,2016.0
+21,Health,Hospital beds (per 10 000 population),C5_Close public transport,Cambodia,KHM,9.0,Ones,2015.0
+22,Economics,Volume of imports,C5_Close public transport,Cambodia,KHM,8.345,percent change,2020.0
+23,Environment,"Energy imports, net ",C5_Close public transport,Cambodia,KHM,33.11629750786791,percent of energy use,2014.0
+24,Health,Prevalence of down syndrome,C5_Close public transport,Cambodia,KHM,0.000179,percent,2019.0
+25,Environment,Combustible renewables and waste,C5_Close public transport,Cambodia,KHM,55.24648,percent of total energy,2014.0
+26,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Cambodia,KHM,29.9,percent,2020.0
+27,Health,"Incidence of tuberculosis (per 100,000 people)",C5_Close public transport,Cambodia,KHM,287.0,Cases,2019.0
+29,Health,"Physicians (per 1,000 people)",C5_Close public transport,Cambodia,KHM,0.1927,Ones,2014.0
+30,Health,Prevalence of anxiety disorders,C5_Close public transport,Cambodia,KHM,0.046104,percent,2019.0
+31,Governance,Aggregate score for the Civil Liberties category,C5_Close public transport,Cambodia,KHM,19.0,score,2021.0
+32,Social issues ,Life Ladder ,C5_Close public transport,Cambodia,KHM,4.830399990081787,score,2021.0
+33,Demographics,Secure Internet servers ,C5_Close public transport,Cambodia,KHM,159.2814308785918,per 1 million people,2019.0
+34,Health,Mortality due to COVID-19,C5_Close public transport,Cambodia,KHM,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+35,Economics,Volume of exports,C5_Close public transport,Cambodia,KHM,10.884,percent change,2020.0
+36,Health,"Prevalence of HIV, total (% of population ages 15-49)",C5_Close public transport,Cambodia,KHM,0.5,percent,2019.0
+37,Social issues ,Press freedom score,C5_Close public transport,Cambodia,KHM,45.46,score,2020.0
+38,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C5_Close public transport,Cambodia,KHM,7614.6,international $ in PPP,2020.0
+39,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Cambodia,KHM,82.3759995,Percentage of total population,2020.0
+40,Environment,Electric power consumption ,C5_Close public transport,Cambodia,KHM,271.3672582341959,kWh per capita,2014.0
+41,Health,Prevalence of total cancers,C5_Close public transport,Cambodia,KHM,0.004165,percent,2019.0
+42,Economics,"Foreign direct investment, net",C5_Close public transport,Cambodia,KHM,3706033000.0,US Dollar,2019.0
+43,Health,Prevalence of chronic kidney disease,C5_Close public transport,Cambodia,KHM,0.081958,percent,2019.0
+44,Environment,Energy use ,C5_Close public transport,Cambodia,KHM,123.9012407817664,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+45,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Cambodia,KHM,-0.0808967,score,2019.0
+46,Environment,CO2 emissions (kt),C5_Close public transport,Cambodia,KHM,9919.235,kt,2016.0
 48,Governance,Personal Freedom Score ,C5_Close public transport,Cambodia,KHM,6.38,score,2018.0
-49,Demographics,People with basic handwashing facilities including soap and water (% of population),C5_Close public transport,Cambodia,KHM,66.2286220956706,proportion,2017.0
-50,Governance,Regulatory quality estimate,C5_Close public transport,Cambodia,KHM,-0.5688344,score,2019.0
-51,Health,Prevalence of obesity,C5_Close public transport,Cambodia,KHM,3.9,percent,2016.0
-52,Governance,Government effectiveness estimate,C5_Close public transport,Cambodia,KHM,-0.5791857,score,2019.0
-53,Governance,Voice and accountability estimate,C5_Close public transport,Cambodia,KHM,-1.202571,score,2019.0
-54,Governance,Human Freedom Score ,C5_Close public transport,Cambodia,KHM,6.83,score,2018.0
-55,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Cambodia,KHM,92.0,percent,2019.0
-56,Social issues ,Press freedom score,C5_Close public transport,Cambodia,KHM,45.46,score,2020.0
-57,Governance,Economic Freedom Score,C5_Close public transport,Cambodia,KHM,7.28,score,2018.0
-58,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C5_Close public transport,Cambodia,KHM,82.3759995,Percentage of total population,2020.0
-59,Environment,Energy use ,C5_Close public transport,Cambodia,KHM,123.9012407817664,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-60,Governance,Human Development Index,C5_Close public transport,Cambodia,KHM,0.594,index,2019.0
-61,Health,Hospital beds (per 10 000 population),C5_Close public transport,Cambodia,KHM,9.0,Ones,2015.0
-62,Governance,Total freedom in the world score ,C5_Close public transport,Cambodia,KHM,24.0,score,2021.0
-63,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Cambodia,KHM,59.2269659797755,proportion,2017.0
-64,Governance,Control of corruption estimate,C5_Close public transport,Cambodia,KHM,-1.302401,score,2019.0
-65,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Cambodia,KHM,53.58198771889925,percent of total,2015.0
-66,Demographics,Urban population (% of total population),C5_Close public transport,Cambodia,KHM,23.805,total,2019.0
-68,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Cambodia,KHM,76.3119965,Percentage of females of the total population,2020.0
-69,Demographics,Mobile cellular (per 100 people),C5_Close public transport,Cambodia,KHM,119.4915,per 100 population,2018.0
-71,Demographics,Fixed telephone subscriptions,C5_Close public transport,Cambodia,KHM,56445.0,number,2019.0
-72,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Cambodia,KHM,41000000.0,kWh,2015.0
-73,Environment,Fossil fuel energy consumption,C5_Close public transport,Cambodia,KHM,30.62908,percent of total,2014.0
-75,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C5_Close public transport,Cambodia,KHM,29.9,percent,2020.0
-76,Health,"Immunization, measles (% of children ages 12-23 months)",C5_Close public transport,Cambodia,KHM,84.0,percent,2019.0
-78,Demographics,Rural population (% of total population),C5_Close public transport,Cambodia,KHM,76.195,proportion,2019.0
-79,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Cambodia,KHM,1.3,percent,2018.0
-80,Demographics,Age dependency ratio (% of working-age population),C5_Close public transport,Cambodia,KHM,55.80441188130714,proportion,2019.0
-81,Environment,CO2 emissions (metric tons per capita),C5_Close public transport,Cambodia,KHM,0.629142,metric tons per capita,2016.0
-82,Governance,Fragile States Index Total ,C5_Close public transport,Cambodia,KHM,80.30838110384798,score,2020.0
-84,Demographics,"Age dependency ratio, old (% of working-age population)",C5_Close public transport,Cambodia,KHM,7.350492550108145,proportion,2019.0
-85,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C5_Close public transport,Cambodia,KHM,2.1,percent,2020.0
-86,Economics,"Trade, total as % of GDP",C5_Close public transport,Cambodia,KHM,137.42751,percent,2019.0
-87,Economics,"International tourism, receipts",C5_Close public transport,Cambodia,KHM,4769000000.0,US Dollar,2019.0
-88,Economics,Volume of exports,C5_Close public transport,Cambodia,KHM,10.884,percent change,2020.0
-89,Economics,Starting a Business (Score),C5_Close public transport,Cambodia,KHM,52.4,Score,2019.0
-93,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C5_Close public transport,Cambodia,KHM,49.8,proportion,2014.0
-94,Demographics,Refugee population by country or territory of asylum,C5_Close public transport,Cambodia,KHM,61.0,proportion,2017.0
-95,Demographics,Age dependency ratio,C5_Close public transport,Cambodia,KHM,55.80444,percent of total population,2019.0
-96,Demographics,"Population, total",C5_Close public transport,Cambodia,KHM,16486542.0,total,2019.0
-98,Environment,Electricity production from nuclear sources ,C5_Close public transport,Cambodia,KHM,0.0,percent of total,2014.0
-99,Economics,Expenditure on health (% of GDP),C5_Close public transport,Cambodia,KHM,1.34991,percent,2019.0
-100,Economics,Expenditure on social protection (% of GDP),C5_Close public transport,Cambodia,KHM,0.93049,percent,2019.0
-101,Demographics,Fixed telephone (per 100 people),C5_Close public transport,Cambodia,KHM,0.54251,per 100 population,2018.0
-102,Economics,"Foreign direct investment, net",C5_Close public transport,Cambodia,KHM,3706033000.0,US Dollar,2019.0
-105,Demographics,Internet users (per 100 people),C5_Close public transport,Cambodia,KHM,40.0,per 100 population,2018.0
-106,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C5_Close public transport,Cambodia,KHM,80.5264892578125,proportion,2015.0
-107,Demographics,"Net migration rate, per 1000 population",C5_Close public transport,Cambodia,KHM,-1.861,per thousand persons,2015.0
-108,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C5_Close public transport,Cambodia,KHM,15.266583442688,proportion,2014.0
-110,Demographics,People using safely managed drinking water services (% of population),C5_Close public transport,Cambodia,KHM,25.8455487850533,proportion,2017.0
-112,Environment,Combustible renewables and waste,C5_Close public transport,Cambodia,KHM,55.24648,percent of total energy,2014.0
-113,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C5_Close public transport,Cambodia,KHM,1.5,rating,2019.0
-114,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Cambodia,KHM,91.0273666381836,proportion,2019.0
-115,Social issues ,Progression to secondary school (%),C5_Close public transport,Cambodia,KHM,89.84526,proportion,2017.0
-117,Environment,Access to electricity ,C5_Close public transport,Cambodia,KHM,91.5506744384766,percent of population,2018.0
+49,Health,"Immunization, DPT (% of children ages 12-23 months)",C5_Close public transport,Cambodia,KHM,92.0,percent,2019.0
+50,Environment,Access to electricity ,C5_Close public transport,Cambodia,KHM,91.5506744384766,percent of population,2018.0
+51,Demographics,People with basic handwashing facilities including soap and water (% of population),C5_Close public transport,Cambodia,KHM,66.2286220956706,proportion,2017.0
+52,Demographics,Age dependency ratio (% of working-age population),C5_Close public transport,Cambodia,KHM,55.80441188130714,proportion,2019.0
+53,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C5_Close public transport,Cambodia,KHM,100.0,percent of total,2017.0
+55,Governance,Aggregate score for the Political Rights category,C5_Close public transport,Cambodia,KHM,5.0,score,2021.0
+56,Environment,Renewable energy consumption ,C5_Close public transport,Cambodia,KHM,64.9237759106607,percent of total final energy consumption,2015.0
+60,Health,Prevalence of Depressive disorders,C5_Close public transport,Cambodia,KHM,0.028902,percent,2019.0
+62,Environment,"PM2.5 air pollution, mean annual exposure",C5_Close public transport,Cambodia,KHM,25.61429,micrograms per cubic meter,2017.0
+63,Governance,Human Freedom Score ,C5_Close public transport,Cambodia,KHM,6.83,score,2018.0
+64,Demographics,Mobile cellular subscriptions,C5_Close public transport,Cambodia,KHM,129.916,per 100 people,2019.0
+65,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C5_Close public transport,Cambodia,KHM,1.5,rating,2019.0
+66,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C5_Close public transport,Cambodia,KHM,1.3,percent,2018.0
+67,Governance,Human Development Index,C5_Close public transport,Cambodia,KHM,0.594,index,2019.0
+68,Environment,"Adjusted net savings, including particulate emission damage",C5_Close public transport,Cambodia,KHM,10.1308335453466,percent of GNI,2018.0
+69,Governance,Total freedom in the world score ,C5_Close public transport,Cambodia,KHM,24.0,score,2021.0
+70,Economics,"Trade, total as % of GDP",C5_Close public transport,Cambodia,KHM,137.42751,percent,2019.0
+71,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C5_Close public transport,Cambodia,KHM,0.69599998,percent of total labor force,2020.0
+72,Health,"Nurses and midwives (per 1,000 people)",C5_Close public transport,Cambodia,KHM,0.6855,Ones,2018.0
+73,Economics,"International tourism, receipts",C5_Close public transport,Cambodia,KHM,4769000000.0,US Dollar,2019.0
+74,Demographics,Fixed telephone (per 100 people),C5_Close public transport,Cambodia,KHM,0.54251,per 100 population,2018.0
+75,Economics,Expenditure on education (% of GDP),C5_Close public transport,Cambodia,KHM,2.69554,percent,2019.0
+76,Environment,"Electricity production from renewable sources, excluding hydroelectric",C5_Close public transport,Cambodia,KHM,41000000.0,kWh,2015.0
+78,Demographics,Urban population (% of total population),C5_Close public transport,Cambodia,KHM,23.805,total,2019.0
+79,Social issues ,Progression to secondary school (%),C5_Close public transport,Cambodia,KHM,89.84526,proportion,2017.0
+80,Governance,Regulatory quality estimate,C5_Close public transport,Cambodia,KHM,-0.5688344,score,2019.0
+82,Environment,"Electricity production from oil, gas and coal sources",C5_Close public transport,Cambodia,KHM,53.58198771889925,percent of total,2015.0
+83,Governance,Government effectiveness estimate,C5_Close public transport,Cambodia,KHM,-0.5791857,score,2019.0
+84,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C5_Close public transport,Cambodia,KHM,80.5264892578125,proportion,2015.0
+85,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Cambodia,KHM,0.00212,percent,2019.0
+86,Governance,Fragile States Index Total ,C5_Close public transport,Cambodia,KHM,80.30838110384798,score,2020.0
+88,Health,Prevalence of Diabetes,C5_Close public transport,Cambodia,KHM,0.044443,percent,2019.0
+89,Economics,Expenditure on health (% of GDP),C5_Close public transport,Cambodia,KHM,1.34991,percent,2019.0
+90,Health,Summary exposure value tobacco,C5_Close public transport,Cambodia,KHM,33.55218,Rate (risk-weighted prevalence),2019.0
+91,Demographics,Refugee population by country or territory of asylum,C5_Close public transport,Cambodia,KHM,61.0,proportion,2017.0
+92,Demographics,"Age dependency ratio, old (% of working-age population)",C5_Close public transport,Cambodia,KHM,7.350492550108145,proportion,2019.0
+93,Social issues ,"Primary completion rate, total (% of relevant age group)",C5_Close public transport,Cambodia,KHM,91.0273666381836,proportion,2019.0
+94,Demographics,Age dependency ratio,C5_Close public transport,Cambodia,KHM,55.80444,percent of total population,2019.0
+95,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C5_Close public transport,Cambodia,KHM,76.3119965,Percentage of females of the total population,2020.0
+98,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C5_Close public transport,Cambodia,KHM,49.8,proportion,2014.0
+99,Demographics,Mobile cellular (per 100 people),C5_Close public transport,Cambodia,KHM,119.4915,per 100 population,2018.0
+102,Economics,Starting a Business (Score),C5_Close public transport,Cambodia,KHM,52.4,Score,2019.0
+103,Demographics,"Population, total",C5_Close public transport,Cambodia,KHM,16486542.0,total,2019.0
+105,Demographics,Rural population (% of total population),C5_Close public transport,Cambodia,KHM,76.195,proportion,2019.0
+106,Demographics,"Net migration rate, per 1000 population",C5_Close public transport,Cambodia,KHM,-1.861,per thousand persons,2015.0
+108,Demographics,People using at least basic sanitation services (% of population),C5_Close public transport,Cambodia,KHM,59.2269659797755,proportion,2017.0
+109,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C5_Close public transport,Cambodia,KHM,15.266583442688,proportion,2014.0
+111,Demographics,People using safely managed drinking water services (% of population),C5_Close public transport,Cambodia,KHM,25.8455487850533,proportion,2017.0
+112,Economics,Expenditure on social protection (% of GDP),C5_Close public transport,Cambodia,KHM,0.93049,percent,2019.0
+113,Demographics,Internet users (per 100 people),C5_Close public transport,Cambodia,KHM,40.0,per 100 population,2018.0
+114,Environment,Electricity production from nuclear sources ,C5_Close public transport,Cambodia,KHM,0.0,percent of total,2014.0
+116,Environment,Energy use (kg of oil equivalent per capita),C5_Close public transport,Cambodia,KHM,416.8383089125715,kg of oil equivalent per capita,2014.0

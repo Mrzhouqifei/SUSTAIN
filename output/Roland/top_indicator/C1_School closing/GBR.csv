@@ -1,71 +1,71 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C1_School closing,United Kingdom,GBR,92.5166,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C1_School closing,United Kingdom,GBR,77.0,score,2020.0
-3,Health,Prevalence of COVID-19,C1_School closing,United Kingdom,GBR,1977171.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Demographics,Secure Internet servers ,C1_School closing,United Kingdom,GBR,35989.50271196399,per 1 million people,2019.0
-6,Demographics,Fixed broadband subscriptions,C1_School closing,United Kingdom,GBR,39.597,per 100 people,2019.0
-7,Health,Mortality due to COVID-19,C1_School closing,United Kingdom,GBR,66541.0,"Number (cumulative total by Dec 26,2020)",2020.0
-8,Social issues ,Life Ladder ,C1_School closing,United Kingdom,GBR,7.063600063323975,score,2021.0
-9,Health,Prevalence of anxiety disorders,C1_School closing,United Kingdom,GBR,0.049807,percent,2019.0
-10,Health,Summary exposure value tobacco,C1_School closing,United Kingdom,GBR,25.35924,Rate (risk-weighted prevalence),2019.0
-12,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,United Kingdom,GBR,7.9,percent,2018.0
-13,Health,Prevalence of down syndrome,C1_School closing,United Kingdom,GBR,0.000738,percent,2019.0
-14,Health,Prevalence of total cancers,C1_School closing,United Kingdom,GBR,0.035098,percent,2019.0
-15,Environment,Renewable energy consumption ,C1_School closing,United Kingdom,GBR,8.71168557437913,percent of total final energy consumption,2015.0
-16,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C1_School closing,United Kingdom,GBR,4.11499977,percent of total labor force,2020.0
-17,Environment,"Adjusted net savings, including particulate emission damage",C1_School closing,United Kingdom,GBR,3.0392590611375,percent of GNI,2018.0
-18,Social issues ,Net migration,C1_School closing,United Kingdom,GBR,1303250.0,net total / data are 5 year estimates,2019.0
-19,Environment,Electric power consumption ,C1_School closing,United Kingdom,GBR,5130.390253300277,kWh per capita,2014.0
-21,Environment,CO2 emissions (metric tons per capita),C1_School closing,United Kingdom,GBR,5.776796,metric tons per capita,2016.0
-22,Governance,Rule of law estimate ,C1_School closing,United Kingdom,GBR,1.600911,score,2019.0
-23,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,United Kingdom,GBR,0.5191886,score,2019.0
-24,Health,Prevalence of Hypertensive heart disease,C1_School closing,United Kingdom,GBR,0.001117,percent,2019.0
-25,Social issues ,Gini index (World Bank estimate),C1_School closing,United Kingdom,GBR,34.8,index ,2016.0
-26,Economics,"Central government debt, total",C1_School closing,United Kingdom,GBR,114.9722447592783,percent of GDP,2016.0
-27,Governance,Aggregate score for the Political Rights category,C1_School closing,United Kingdom,GBR,39.0,score,2021.0
-29,Governance,Personal Freedom Score ,C1_School closing,United Kingdom,GBR,8.79,score,2018.0
-30,Demographics,Fixed telephone subscriptions,C1_School closing,United Kingdom,GBR,31973300.0,number,2019.0
-31,Health,"Nurses and midwives (per 1,000 people)",C1_School closing,United Kingdom,GBR,8.1723,Ones,2018.0
-32,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,United Kingdom,GBR,0.129437,percent,2019.0
-33,Governance,Economic Freedom Score,C1_School closing,United Kingdom,GBR,8.08,score,2018.0
-34,Demographics,Mobile cellular subscriptions,C1_School closing,United Kingdom,GBR,117.549,per 100 people,2019.0
-36,Health,Prevalence of Diabetes,C1_School closing,United Kingdom,GBR,0.136351,percent,2019.0
-37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C1_School closing,United Kingdom,GBR,57.6860008,Percentage of females of the total population,2020.0
-38,Health,Prevalence of Depressive disorders,C1_School closing,United Kingdom,GBR,0.050213,percent,2019.0
-39,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,United Kingdom,GBR,10.47269,micrograms per cubic meter,2017.0
-40,Environment,CO2 emissions (kt),C1_School closing,United Kingdom,GBR,379024.8,kt,2016.0
-41,Environment,"Electricity production from oil, gas and coal sources",C1_School closing,United Kingdom,GBR,53.18085599781184,percent of total,2015.0
-42,Economics,Employment in services (% of total employment) (modeled ILO estimate),C1_School closing,United Kingdom,GBR,81.3379974,Percentage of total employment,2020.0
-43,Social issues ,Proportion of seats held by women in national parliaments (%),C1_School closing,United Kingdom,GBR,33.84615385,proportion,2020.0
-44,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,United Kingdom,GBR,1.2049147774,"proportion, pero 100,000 people",2018.0
-45,Environment,Energy use ,C1_School closing,United Kingdom,GBR,61.63952738470469,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
-46,Economics,Volume of imports,C1_School closing,United Kingdom,GBR,1.242,percent change,2020.0
-49,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,United Kingdom,GBR,8.0,Cases,2019.0
-50,Health,"Immunization, measles (% of children ages 12-23 months)",C1_School closing,United Kingdom,GBR,91.0,percent,2019.0
-51,Economics,Volume of exports,C1_School closing,United Kingdom,GBR,1.775,percent change,2020.0
-52,Governance,Regulatory quality estimate,C1_School closing,United Kingdom,GBR,1.625853,score,2019.0
-55,Environment,Energy use (kg of oil equivalent per capita),C1_School closing,United Kingdom,GBR,2764.516671338058,kg of oil equivalent per capita,2015.0
-56,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C1_School closing,United Kingdom,GBR,62.7649994,Percentage of total population,2020.0
-57,Governance,Aggregate score for the Civil Liberties category,C1_School closing,United Kingdom,GBR,54.0,score,2021.0
-58,Environment,Electricity production from oil sources,C1_School closing,United Kingdom,GBR,0.6341495320434302,percent of total,2015.0
-59,Environment,Fossil fuel energy consumption,C1_School closing,United Kingdom,GBR,80.35177,percent of total,2015.0
-60,Governance,Government effectiveness estimate,C1_School closing,United Kingdom,GBR,1.435909,score,2019.0
-62,Social issues ,Press freedom score,C1_School closing,United Kingdom,GBR,22.93,score,2020.0
-63,Governance,Serious assault (rate),C1_School closing,United Kingdom,GBR,925.4,rate,2018.0
-64,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,United Kingdom,GBR,66.5332490328298,percent of total,2017.0
-65,Governance,Voice and accountability estimate,C1_School closing,United Kingdom,GBR,1.263675,score,2019.0
-67,Environment,Access to electricity ,C1_School closing,United Kingdom,GBR,100.0,percent of population,2018.0
-68,Environment,Combustible renewables and waste,C1_School closing,United Kingdom,GBR,2.79409,percent of total energy,2015.0
-72,Health,"Physicians (per 1,000 people)",C1_School closing,United Kingdom,GBR,2.8117,Ones,2018.0
-75,Governance,Fragile States Index Total ,C1_School closing,United Kingdom,GBR,38.260475361020404,score,2020.0
-76,Health,Prevalence of chronic kidney disease,C1_School closing,United Kingdom,GBR,0.090669,percent,2019.0
-77,Environment,"Electricity production from renewable sources, excluding hydroelectric",C1_School closing,United Kingdom,GBR,77262000000.0,kWh,2015.0
-78,Governance,Total freedom in the world score ,C1_School closing,United Kingdom,GBR,93.0,score,2021.0
-79,Environment,Electricity production from coal sources ,C1_School closing,United Kingdom,GBR,22.80649074195198,percent of total,2015.0
-82,Environment,"Energy imports, net ",C1_School closing,United Kingdom,GBR,34.62999026752639,percent of energy use,2015.0
-83,Governance,Human Development Index,C1_School closing,United Kingdom,GBR,0.932,index,2019.0
-89,Environment,Electricity production from nuclear sources ,C1_School closing,United Kingdom,GBR,20.91385317936948,percent of total,2015.0
-97,Governance,Control of corruption estimate,C1_School closing,United Kingdom,GBR,1.774812,score,2019.0
-109,Governance,Human Freedom Score ,C1_School closing,United Kingdom,GBR,8.44,score,2018.0
-112,Health,COVID-19 vaccine administered,C1_School closing,United Kingdom,GBR,1416933.0,"Number (cumulative total by Dec 26,2020)",2020.0
-114,Health,"Immunization, DPT (% of children ages 12-23 months)",C1_School closing,United Kingdom,GBR,93.0,percent,2019.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C1_School closing,United Kingdom,GBR,0.129437,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C1_School closing,United Kingdom,GBR,31973300.0,number,2019.0
+4,Health,Prevalence of COVID-19,C1_School closing,United Kingdom,GBR,1977171.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Environment,CO2 emissions (metric tons per capita),C1_School closing,United Kingdom,GBR,5.776796,metric tons per capita,2016.0
+7,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C1_School closing,United Kingdom,GBR,7.9,percent,2018.0
+8,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,United Kingdom,GBR,0.5191886,score,2019.0
+9,Health,"Incidence of tuberculosis (per 100,000 people)",C1_School closing,United Kingdom,GBR,8.0,Cases,2019.0
+10,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C1_School closing,United Kingdom,GBR,4.11499977,percent of total labor force,2020.0
+11,Health,Prevalence of total cancers,C1_School closing,United Kingdom,GBR,0.035098,percent,2019.0
+12,Environment,Fossil fuel energy consumption,C1_School closing,United Kingdom,GBR,80.35177,percent of total,2015.0
+13,Social issues ,Gini index (World Bank estimate),C1_School closing,United Kingdom,GBR,34.8,index ,2016.0
+14,Health,Prevalence of anxiety disorders,C1_School closing,United Kingdom,GBR,0.049807,percent,2019.0
+15,Governance,Government effectiveness estimate,C1_School closing,United Kingdom,GBR,1.435909,score,2019.0
+16,Environment,Electricity production from coal sources ,C1_School closing,United Kingdom,GBR,22.80649074195198,percent of total,2015.0
+17,Demographics,Fixed broadband subscriptions,C1_School closing,United Kingdom,GBR,39.597,per 100 people,2019.0
+18,Health,"Nurses and midwives (per 1,000 people)",C1_School closing,United Kingdom,GBR,8.1723,Ones,2018.0
+19,Environment,"Electricity production from renewable sources, excluding hydroelectric",C1_School closing,United Kingdom,GBR,77262000000.0,kWh,2015.0
+21,Social issues ,Net migration,C1_School closing,United Kingdom,GBR,1303250.0,net total / data are 5 year estimates,2019.0
+23,Demographics,Mobile cellular subscriptions,C1_School closing,United Kingdom,GBR,117.549,per 100 people,2019.0
+24,Health,"Physicians (per 1,000 people)",C1_School closing,United Kingdom,GBR,2.8117,Ones,2018.0
+25,Environment,CO2 emissions (kt),C1_School closing,United Kingdom,GBR,379024.8,kt,2016.0
+26,Governance,Human Development Index,C1_School closing,United Kingdom,GBR,0.932,index,2019.0
+27,Health,Prevalence of down syndrome,C1_School closing,United Kingdom,GBR,0.000738,percent,2019.0
+29,Governance,Corruption Perceptions Index,C1_School closing,United Kingdom,GBR,77.0,score,2020.0
+30,Governance,Regulatory quality estimate,C1_School closing,United Kingdom,GBR,1.625853,score,2019.0
+31,Governance,Fragile States Index Total ,C1_School closing,United Kingdom,GBR,38.260475361020404,score,2020.0
+32,Health,Prevalence of Diabetes,C1_School closing,United Kingdom,GBR,0.136351,percent,2019.0
+33,Economics,Employment in services (% of total employment) (modeled ILO estimate),C1_School closing,United Kingdom,GBR,81.3379974,Percentage of total employment,2020.0
+34,Environment,Energy use (kg of oil equivalent per capita),C1_School closing,United Kingdom,GBR,2764.516671338058,kg of oil equivalent per capita,2015.0
+35,Environment,"Energy imports, net ",C1_School closing,United Kingdom,GBR,34.62999026752639,percent of energy use,2015.0
+36,Health,"Immunization, measles (% of children ages 12-23 months)",C1_School closing,United Kingdom,GBR,91.0,percent,2019.0
+37,Social issues ,Proportion of seats held by women in national parliaments (%),C1_School closing,United Kingdom,GBR,33.84615385,proportion,2020.0
+38,Environment,Combustible renewables and waste,C1_School closing,United Kingdom,GBR,2.79409,percent of total energy,2015.0
+39,Governance,Human Freedom Score ,C1_School closing,United Kingdom,GBR,8.44,score,2018.0
+40,Health,"Immunization, DPT (% of children ages 12-23 months)",C1_School closing,United Kingdom,GBR,93.0,percent,2019.0
+45,Governance,Rule of law estimate ,C1_School closing,United Kingdom,GBR,1.600911,score,2019.0
+46,Governance,Voice and accountability estimate,C1_School closing,United Kingdom,GBR,1.263675,score,2019.0
+47,Environment,"PM2.5 air pollution, mean annual exposure",C1_School closing,United Kingdom,GBR,10.47269,micrograms per cubic meter,2017.0
+48,Demographics,Secure Internet servers ,C1_School closing,United Kingdom,GBR,35989.50271196399,per 1 million people,2019.0
+49,Governance,Economic Freedom Score,C1_School closing,United Kingdom,GBR,8.08,score,2018.0
+50,Health,Summary exposure value tobacco,C1_School closing,United Kingdom,GBR,25.35924,Rate (risk-weighted prevalence),2019.0
+52,Governance,Aggregate score for the Civil Liberties category,C1_School closing,United Kingdom,GBR,54.0,score,2021.0
+53,Social issues ,"Intentional homicides (per 100,000 people)",C1_School closing,United Kingdom,GBR,1.2049147774,"proportion, pero 100,000 people",2018.0
+54,Environment,Electric power consumption ,C1_School closing,United Kingdom,GBR,5130.390253300277,kWh per capita,2014.0
+56,Health,Mortality due to COVID-19,C1_School closing,United Kingdom,GBR,66541.0,"Number (cumulative total by Dec 26,2020)",2020.0
+57,Environment,Renewable energy consumption ,C1_School closing,United Kingdom,GBR,8.71168557437913,percent of total final energy consumption,2015.0
+58,Health,Prevalence of Hypertensive heart disease,C1_School closing,United Kingdom,GBR,0.001117,percent,2019.0
+59,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C1_School closing,United Kingdom,GBR,62.7649994,Percentage of total population,2020.0
+60,Environment,Access to electricity ,C1_School closing,United Kingdom,GBR,100.0,percent of population,2018.0
+62,Environment,"Adjusted net savings, including particulate emission damage",C1_School closing,United Kingdom,GBR,3.0392590611375,percent of GNI,2018.0
+64,Governance,Personal Freedom Score ,C1_School closing,United Kingdom,GBR,8.79,score,2018.0
+65,Governance,Total freedom in the world score ,C1_School closing,United Kingdom,GBR,93.0,score,2021.0
+67,Health,Prevalence of Depressive disorders,C1_School closing,United Kingdom,GBR,0.050213,percent,2019.0
+69,Social issues ,Life Ladder ,C1_School closing,United Kingdom,GBR,7.063600063323975,score,2021.0
+70,Environment,"Electricity production from oil, gas and coal sources",C1_School closing,United Kingdom,GBR,53.18085599781184,percent of total,2015.0
+72,Economics,"Central government debt, total",C1_School closing,United Kingdom,GBR,114.9722447592783,percent of GDP,2016.0
+73,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C1_School closing,United Kingdom,GBR,57.6860008,Percentage of females of the total population,2020.0
+76,Governance,Serious assault (rate),C1_School closing,United Kingdom,GBR,925.4,rate,2018.0
+79,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C1_School closing,United Kingdom,GBR,66.5332490328298,percent of total,2017.0
+80,Social issues ,Press freedom score,C1_School closing,United Kingdom,GBR,22.93,score,2020.0
+82,Health,Prevalence of chronic kidney disease,C1_School closing,United Kingdom,GBR,0.090669,percent,2019.0
+83,Environment,Electricity production from oil sources,C1_School closing,United Kingdom,GBR,0.6341495320434302,percent of total,2015.0
+86,Economics,Volume of exports,C1_School closing,United Kingdom,GBR,1.775,percent change,2020.0
+89,Environment,Energy use ,C1_School closing,United Kingdom,GBR,61.63952738470469,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2015.0
+90,Governance,Aggregate score for the Political Rights category,C1_School closing,United Kingdom,GBR,39.0,score,2021.0
+91,Governance,Control of corruption estimate,C1_School closing,United Kingdom,GBR,1.774812,score,2019.0
+92,Economics,Volume of imports,C1_School closing,United Kingdom,GBR,1.242,percent change,2020.0
+108,Environment,Electricity production from nuclear sources ,C1_School closing,United Kingdom,GBR,20.91385317936948,percent of total,2015.0
+110,Health,COVID-19 vaccine administered,C1_School closing,United Kingdom,GBR,1416933.0,"Number (cumulative total by Dec 26,2020)",2020.0

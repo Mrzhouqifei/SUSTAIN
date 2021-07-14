@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-JAM,H7_Vaccination policy,0.09830559760112384,1
-JAM,H2_Testing policy,0.08388199518481468,2
-JAM,H3_Contact tracing,0.07209478121791403,3
-JAM,C1_School closing,0.06572137090448689,4
-JAM,C4_Restrictions on gatherings,0.058088875491973516,5
-JAM,C5_Close public transport,0.056619934640989834,6
-JAM,H6_Facial Coverings,0.05474383123751474,7
-JAM,C6_Stay at home requirements,0.05332070270609676,8
-JAM,C8_International travel controls,0.05318800891256496,9
-JAM,C2_Workplace closing,0.046679101710874235,10
-JAM,E1_Income support,0.04452597606629392,11
-JAM,E2_Debt/contract relief,0.03794665527379252,12
-JAM,C3_Cancel public events,0.03270824639727465,13
-JAM,C7_Restrictions on internal movement,0.019292203807942544,14
-JAM,H1_Public information campaigns,0.01004835123810581,15
+JAM,H7_Vaccination policy,0.1054193961267424,1
+JAM,H2_Testing policy,0.1002716190482711,2
+JAM,H3_Contact tracing,0.0751633619547667,3
+JAM,C1_School closing,0.0740402144143923,4
+JAM,C4_Restrictions on gatherings,0.0531701287187686,5
+JAM,C5_Close public transport,0.0529560790653483,6
+JAM,C7_Restrictions on internal movement,0.0528109474166391,7
+JAM,C8_International travel controls,0.0517915346817121,8
+JAM,C2_Workplace closing,0.0476895415193965,9
+JAM,E1_Income support,0.041417044969182,10
+JAM,C6_Stay at home requirements,0.0412916196738532,11
+JAM,H6_Facial Coverings,0.040984376136404,12
+JAM,C3_Cancel public events,0.0283683386605855,13
+JAM,E2_Debt/contract relief,0.012885597328157,14
+JAM,H1_Public information campaigns,0.0085225850496991,15

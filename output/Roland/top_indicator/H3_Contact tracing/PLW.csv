@@ -1,52 +1,52 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-3,Health,Prevalence of COVID-19,H3_Contact tracing,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Economics,"Foreign direct investment, net",H3_Contact tracing,Palau,PLW,21500000.0,US Dollar,2018.0
-5,Demographics,Secure Internet servers ,H3_Contact tracing,Palau,PLW,721.901377165704,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,H3_Contact tracing,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Social issues ,"Intentional homicides (per 100,000 people)",H3_Contact tracing,Palau,PLW,11.166322372,"proportion, pero 100,000 people",2018.0
-8,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Palau,PLW,0.349381,percent,2019.0
-9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Palau,PLW,134.407,per 100 people,2019.0
-11,Governance,Government effectiveness estimate,H3_Contact tracing,Palau,PLW,-0.0454221,score,2019.0
-13,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Palau,PLW,55.0,score,2021.0
-14,Health,Summary exposure value tobacco,H3_Contact tracing,Palau,PLW,22.78077,Rate (risk-weighted prevalence),2019.0
-15,Environment,CO2 emissions (kt),H3_Contact tracing,Palau,PLW,223.687,kt,2016.0
-19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Palau,PLW,6.92896,per 100 people,2019.0
-21,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Palau,PLW,7.2626,Ones,2018.0
-23,Economics,"Central government debt, total",H3_Contact tracing,Palau,PLW,68.7028397772155,percent of GDP,2016.0
-25,Social issues ,Proportion of women in managerial positions (%),H3_Contact tracing,Palau,PLW,29.93,percent,2014.0
-29,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Palau,PLW,0.8625854,score,2019.0
-31,Health,Prevalence of anxiety disorders,H3_Contact tracing,Palau,PLW,0.044062,percent,2019.0
-33,Health,Prevalence of Diabetes,H3_Contact tracing,Palau,PLW,0.181243,percent,2019.0
-34,Governance,Human Development Index,H3_Contact tracing,Palau,PLW,0.826,index,2019.0
-37,Environment,Renewable energy consumption ,H3_Contact tracing,Palau,PLW,0.0,percent of total final energy consumption,2015.0
-39,Governance,Control of corruption estimate,H3_Contact tracing,Palau,PLW,-0.4493027,score,2019.0
-42,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Palau,PLW,97.0,percent,2019.0
-43,Demographics,Rural population (% of total population),H3_Contact tracing,Palau,PLW,19.53,proportion,2019.0
-44,Economics,Volume of imports,H3_Contact tracing,Palau,PLW,2.265,percent change,2020.0
-45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Palau,PLW,12.61986,metric tons per capita,2016.0
-46,Governance,Voice and accountability estimate,H3_Contact tracing,Palau,PLW,1.094265,score,2019.0
-48,Health,Prevalence of total cancers,H3_Contact tracing,Palau,PLW,0.014518,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Palau,PLW,7204.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,H3_Contact tracing,Palau,PLW,0.349381,percent,2019.0
+4,Health,Prevalence of COVID-19,H3_Contact tracing,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Mortality due to COVID-19,H3_Contact tracing,Palau,PLW,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+9,Governance,Rule of law estimate ,H3_Contact tracing,Palau,PLW,0.3144576,score,2019.0
+10,Health,Prevalence of down syndrome,H3_Contact tracing,Palau,PLW,0.000102,percent,2019.0
+12,Governance,Regulatory quality estimate,H3_Contact tracing,Palau,PLW,-0.007541,score,2019.0
+13,Health,Prevalence of Diabetes,H3_Contact tracing,Palau,PLW,0.181243,percent,2019.0
+14,Social issues ,Proportion of women in managerial positions (%),H3_Contact tracing,Palau,PLW,29.93,percent,2014.0
+15,Demographics,Fixed broadband subscriptions,H3_Contact tracing,Palau,PLW,6.92896,per 100 people,2019.0
+16,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Palau,PLW,12.5,proportion,2020.0
+18,Health,Prevalence of total cancers,H3_Contact tracing,Palau,PLW,0.014518,percent,2019.0
+24,Health,Prevalence of anxiety disorders,H3_Contact tracing,Palau,PLW,0.044062,percent,2019.0
+25,Environment,Renewable energy consumption ,H3_Contact tracing,Palau,PLW,0.0,percent of total final energy consumption,2015.0
+30,Governance,Total freedom in the world score ,H3_Contact tracing,Palau,PLW,92.0,score,2021.0
+31,Demographics,Secure Internet servers ,H3_Contact tracing,Palau,PLW,721.901377165704,per 1 million people,2019.0
+33,Health,"Nurses and midwives (per 1,000 people)",H3_Contact tracing,Palau,PLW,7.2626,Ones,2018.0
+34,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Palau,PLW,38.0,Cases,2019.0
+35,Governance,Human Development Index,H3_Contact tracing,Palau,PLW,0.826,index,2019.0
+38,Economics,"Central government debt, total",H3_Contact tracing,Palau,PLW,68.7028397772155,percent of GDP,2016.0
+40,Health,Prevalence of obesity,H3_Contact tracing,Palau,PLW,55.3,percent,2016.0
+41,Environment,CO2 emissions (kt),H3_Contact tracing,Palau,PLW,223.687,kt,2016.0
+42,Governance,Aggregate score for the Civil Liberties category,H3_Contact tracing,Palau,PLW,55.0,score,2021.0
+46,Economics,"Trade, total as % of GDP",H3_Contact tracing,Palau,PLW,62.33859,percent,2015.0
+48,Demographics,"Population, total",H3_Contact tracing,Palau,PLW,18008.0,total,2019.0
 49,Health,"Physicians (per 1,000 people)",H3_Contact tracing,Palau,PLW,1.4205,Ones,2014.0
-50,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,Palau,PLW,96.5937423706055,proportion,2015.0
-51,Environment,Access to electricity ,H3_Contact tracing,Palau,PLW,100.0,percent of population,2018.0
-54,Health,Prevalence of obesity,H3_Contact tracing,Palau,PLW,55.3,percent,2016.0
-58,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Palau,PLW,0.148389,percent,2019.0
-59,Governance,Rule of law estimate ,H3_Contact tracing,Palau,PLW,0.3144576,score,2019.0
-60,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Palau,PLW,37.0,score,2021.0
-63,Demographics,"Population, total",H3_Contact tracing,Palau,PLW,18008.0,total,2019.0
-66,Health,Prevalence of Depressive disorders,H3_Contact tracing,Palau,PLW,0.037978,percent,2019.0
-68,Governance,Total freedom in the world score ,H3_Contact tracing,Palau,PLW,92.0,score,2021.0
-73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,Palau,PLW,38.0,Cases,2019.0
-74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,Palau,PLW,7204.0,number,2019.0
-75,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Palau,PLW,97.0,percent,2019.0
-76,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Palau,PLW,6.4,percent,2018.0
-77,Health,Prevalence of down syndrome,H3_Contact tracing,Palau,PLW,0.000102,percent,2019.0
-78,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Palau,PLW,0.000787,percent,2019.0
-79,Economics,Volume of exports,H3_Contact tracing,Palau,PLW,7.35,percent change,2020.0
-82,Governance,Regulatory quality estimate,H3_Contact tracing,Palau,PLW,-0.007541,score,2019.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),H3_Contact tracing,Palau,PLW,12.5,proportion,2020.0
-85,Economics,"Trade, total as % of GDP",H3_Contact tracing,Palau,PLW,62.33859,percent,2015.0
-86,Demographics,Urban population (% of total population),H3_Contact tracing,Palau,PLW,80.47,total,2019.0
-90,Social issues ,"Primary completion rate, total (% of relevant age group)",H3_Contact tracing,Palau,PLW,100.429176330566,proportion,2014.0
-106,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,Palau,PLW,99.9999978055265,proportion,2017.0
-115,Economics,"International tourism, receipts",H3_Contact tracing,Palau,PLW,116000000.0,US Dollar,2017.0
+50,Demographics,Mobile cellular subscriptions,H3_Contact tracing,Palau,PLW,134.407,per 100 people,2019.0
+51,Health,Prevalence of Hypertensive heart disease,H3_Contact tracing,Palau,PLW,0.000787,percent,2019.0
+53,Health,Prevalence of chronic kidney disease,H3_Contact tracing,Palau,PLW,0.148389,percent,2019.0
+54,Governance,Voice and accountability estimate,H3_Contact tracing,Palau,PLW,1.094265,score,2019.0
+55,Governance,Aggregate score for the Political Rights category,H3_Contact tracing,Palau,PLW,37.0,score,2021.0
+57,Health,Prevalence of Depressive disorders,H3_Contact tracing,Palau,PLW,0.037978,percent,2019.0
+58,Health,Summary exposure value tobacco,H3_Contact tracing,Palau,PLW,22.78077,Rate (risk-weighted prevalence),2019.0
+60,Demographics,Urban population (% of total population),H3_Contact tracing,Palau,PLW,80.47,total,2019.0
+65,Health,"Immunization, DPT (% of children ages 12-23 months)",H3_Contact tracing,Palau,PLW,97.0,percent,2019.0
+67,Social issues ,"Primary completion rate, total (% of relevant age group)",H3_Contact tracing,Palau,PLW,100.429176330566,proportion,2014.0
+71,Environment,Access to electricity ,H3_Contact tracing,Palau,PLW,100.0,percent of population,2018.0
+73,Governance,Control of corruption estimate,H3_Contact tracing,Palau,PLW,-0.4493027,score,2019.0
+75,Economics,Volume of imports,H3_Contact tracing,Palau,PLW,2.265,percent change,2020.0
+76,Social issues ,"Intentional homicides (per 100,000 people)",H3_Contact tracing,Palau,PLW,11.166322372,"proportion, pero 100,000 people",2018.0
+77,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,Palau,PLW,99.9999978055265,proportion,2017.0
+78,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H3_Contact tracing,Palau,PLW,6.4,percent,2018.0
+81,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Palau,PLW,0.8625854,score,2019.0
+83,Demographics,Rural population (% of total population),H3_Contact tracing,Palau,PLW,19.53,proportion,2019.0
+84,Governance,Government effectiveness estimate,H3_Contact tracing,Palau,PLW,-0.0454221,score,2019.0
+85,Economics,Volume of exports,H3_Contact tracing,Palau,PLW,7.35,percent change,2020.0
+87,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,Palau,PLW,12.61986,metric tons per capita,2016.0
+88,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,Palau,PLW,96.5937423706055,proportion,2015.0
+92,Health,"Immunization, measles (% of children ages 12-23 months)",H3_Contact tracing,Palau,PLW,97.0,percent,2019.0
+107,Economics,"Foreign direct investment, net",H3_Contact tracing,Palau,PLW,21500000.0,US Dollar,2018.0
+117,Economics,"International tourism, receipts",H3_Contact tracing,Palau,PLW,116000000.0,US Dollar,2017.0

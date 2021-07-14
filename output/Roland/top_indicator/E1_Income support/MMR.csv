@@ -1,0 +1,104 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E1_Income support,Myanmar [Burma],MMR,30.6782,percent of population,2019.0
+2,Health,Prevalence of COVID-19,E1_Income support,Myanmar [Burma],MMR,113082.0,"Number (cumulative total by Dec 26,2020)",2020.0
+3,Economics,"Foreign direct investment, net",E1_Income support,Myanmar [Burma],MMR,1291196200.0,US Dollar,2018.0
+4,Governance,Corruption Perceptions Index,E1_Income support,Myanmar [Burma],MMR,28.0,score,2020.0
+5,Demographics,Secure Internet servers ,E1_Income support,Myanmar [Burma],MMR,12.26745948130295,per 1 million people,2019.0
+6,Social issues ,"Intentional homicides (per 100,000 people)",E1_Income support,Myanmar [Burma],MMR,2.2584513256,"proportion, pero 100,000 people",2016.0
+7,Environment,"Electricity production from oil, gas and coal sources",E1_Income support,Myanmar [Burma],MMR,41.14589855979963,percent of total,2015.0
+8,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Myanmar [Burma],MMR,11.11111111,proportion,2020.0
+9,Health,Summary exposure value tobacco,E1_Income support,Myanmar [Burma],MMR,21.69768,Rate (risk-weighted prevalence),2019.0
+10,Social issues ,Life Ladder ,E1_Income support,Myanmar [Burma],MMR,4.42579984664917,score,2021.0
+11,Environment,CO2 emissions (kt),E1_Income support,Myanmar [Burma],MMR,25280.3,kt,2016.0
+12,Health,Prevalence of Depressive disorders,E1_Income support,Myanmar [Burma],MMR,0.022752,percent,2019.0
+13,Demographics,Fixed broadband subscriptions,E1_Income support,Myanmar [Burma],MMR,0.224794,per 100 people,2019.0
+14,Health,Prevalence of obesity,E1_Income support,Myanmar [Burma],MMR,5.8,percent,2016.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Myanmar [Burma],MMR,322.0,Cases,2019.0
+16,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Myanmar [Burma],MMR,61.4700012,Percentage of total population,2020.0
+17,Governance,Government effectiveness estimate,E1_Income support,Myanmar [Burma],MMR,-1.149869,score,2019.0
+18,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Myanmar [Burma],MMR,35.55745,micrograms per cubic meter,2017.0
+19,Health,Prevalence of Hypertensive heart disease,E1_Income support,Myanmar [Burma],MMR,0.002482,percent,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Myanmar [Burma],MMR,0.404665,percent,2019.0
+21,Health,Prevalence of chronic kidney disease,E1_Income support,Myanmar [Burma],MMR,0.10115,percent,2019.0
+22,Social issues ,Net migration,E1_Income support,Myanmar [Burma],MMR,-816564.0,net total / data are 5 year estimates,2019.0
+23,Social issues ,Gini index (World Bank estimate),E1_Income support,Myanmar [Burma],MMR,30.7,index ,2017.0
+24,Health,Prevalence of anxiety disorders,E1_Income support,Myanmar [Burma],MMR,0.041435,percent,2019.0
+25,Health,"Physicians (per 1,000 people)",E1_Income support,Myanmar [Burma],MMR,0.677,Ones,2018.0
+26,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Myanmar [Burma],MMR,15.0,score,2021.0
+27,Demographics,Age dependency ratio (% of working-age population),E1_Income support,Myanmar [Burma],MMR,46.89919132548873,proportion,2019.0
+28,Environment,CO2 emissions (metric tons per capita),E1_Income support,Myanmar [Burma],MMR,0.47658,metric tons per capita,2016.0
+30,Governance,Rule of law estimate ,E1_Income support,Myanmar [Burma],MMR,-1.062784,score,2019.0
+31,Governance,Economic Freedom Score,E1_Income support,Myanmar [Burma],MMR,5.81,score,2018.0
+32,Health,Mortality due to COVID-19,E1_Income support,Myanmar [Burma],MMR,2377.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Myanmar [Burma],MMR,84.0,percent,2019.0
+34,Environment,Energy use (kg of oil equivalent per capita),E1_Income support,Myanmar [Burma],MMR,369.3322675757473,kg of oil equivalent per capita,2014.0
+35,Environment,"Energy imports, net ",E1_Income support,Myanmar [Burma],MMR,-32.97079406902142,percent of energy use,2014.0
+36,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E1_Income support,Myanmar [Burma],MMR,1.5,percent,2020.0
+37,Environment,Renewable energy consumption ,E1_Income support,Myanmar [Burma],MMR,61.5278116473242,percent of total final energy consumption,2015.0
+38,Demographics,Fixed telephone subscriptions,E1_Income support,Myanmar [Burma],MMR,520863.0,number,2019.0
+39,Governance,Serious assault (rate),E1_Income support,Myanmar [Burma],MMR,8.71,rate,2018.0
+40,Economics,Volume of exports,E1_Income support,Myanmar [Burma],MMR,2.547,percent change,2020.0
+41,Demographics,Mobile cellular subscriptions,E1_Income support,Myanmar [Burma],MMR,113.844,per 100 people,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Myanmar [Burma],MMR,100.0,percent of total,2017.0
+43,Governance,Regulatory quality estimate,E1_Income support,Myanmar [Burma],MMR,-0.7603928,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E1_Income support,Myanmar [Burma],MMR,13.0,score,2021.0
+45,Environment,Access to electricity ,E1_Income support,Myanmar [Burma],MMR,66.2645721435547,percent of population,2018.0
+46,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Myanmar [Burma],MMR,-1.261767,score,2019.0
+47,Social issues ,Proportion of women in managerial positions (%),E1_Income support,Myanmar [Burma],MMR,32.34,percent,2018.0
+48,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Myanmar [Burma],MMR,0.7,percent,2018.0
+49,Social issues ,Proportion of people living below 50 percent of median income (%),E1_Income support,Myanmar [Burma],MMR,6.7,proportion,2017.0
+50,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E1_Income support,Myanmar [Burma],MMR,0.629025936126709,proportion,2015.0
+51,Economics,Volume of imports,E1_Income support,Myanmar [Burma],MMR,5.038,percent change,2020.0
+52,Health,Prevalence of total cancers,E1_Income support,Myanmar [Burma],MMR,0.004479,percent,2019.0
+53,Health,Prevalence of Diabetes,E1_Income support,Myanmar [Burma],MMR,0.0557,percent,2019.0
+54,Environment,Electricity production from coal sources ,E1_Income support,Myanmar [Burma],MMR,1.784596117720726,percent of total,2015.0
+55,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Myanmar [Burma],MMR,0.9993,Ones,2018.0
+56,Social issues ,Press freedom score,E1_Income support,Myanmar [Burma],MMR,44.77,score,2020.0
+57,Environment,"Electricity production from renewable sources, excluding hydroelectric",E1_Income support,Myanmar [Burma],MMR,0.0,kWh,2015.0
+58,Health,Prevalence of down syndrome,E1_Income support,Myanmar [Burma],MMR,0.000205,percent,2019.0
+59,Demographics,Rural population (% of total population),E1_Income support,Myanmar [Burma],MMR,69.148,proportion,2019.0
+60,Governance,Voice and accountability estimate,E1_Income support,Myanmar [Burma],MMR,-0.8377732,score,2019.0
+62,Governance,Fragile States Index Total ,E1_Income support,Myanmar [Burma],MMR,94.0,score,2020.0
+63,Health,"Prevalence of HIV, total (% of population ages 15-49)",E1_Income support,Myanmar [Burma],MMR,0.7,percent,2019.0
+64,Governance,Total freedom in the world score ,E1_Income support,Myanmar [Burma],MMR,28.0,score,2021.0
+65,Governance,Human Development Index,E1_Income support,Myanmar [Burma],MMR,0.583,index,2019.0
+66,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Myanmar [Burma],MMR,90.0,percent,2019.0
+67,Environment,Combustible renewables and waste,E1_Income support,Myanmar [Burma],MMR,52.13503,percent of total energy,2014.0
+68,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Myanmar [Burma],MMR,35.5750008,Percentage of total employment,2020.0
+69,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Myanmar [Burma],MMR,21.1828572279429,percent of GNI,2018.0
+70,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E1_Income support,Myanmar [Burma],MMR,75.5512008666992,proportion,2016.0
+72,Environment,Fossil fuel energy consumption,E1_Income support,Myanmar [Burma],MMR,44.2899,percent of total,2014.0
+73,Governance,Personal Freedom Score ,E1_Income support,Myanmar [Burma],MMR,5.08,score,2018.0
+74,Environment,Electric power consumption ,E1_Income support,Myanmar [Burma],MMR,215.2988954435994,kWh per capita,2014.0
+75,Demographics,Urban population (% of total population),E1_Income support,Myanmar [Burma],MMR,30.852,total,2019.0
+76,Demographics,People with basic handwashing facilities including soap and water (% of population),E1_Income support,Myanmar [Burma],MMR,79.287085479675,proportion,2017.0
+77,Economics,Expenditure on health (% of GDP),E1_Income support,Myanmar [Burma],MMR,0.76307,percent,2019.0
+78,Environment,Energy use ,E1_Income support,Myanmar [Burma],MMR,91.87284437373677,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+79,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E1_Income support,Myanmar [Burma],MMR,2.5,rating,2019.0
+80,Social issues ,Coverage of social safety net programs (% of population),E1_Income support,Myanmar [Burma],MMR,8.7251608697238,proportion,2017.0
+81,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E1_Income support,Myanmar [Burma],MMR,25.2,percent,2020.0
+82,Governance,Control of corruption estimate,E1_Income support,Myanmar [Burma],MMR,-0.6251955,score,2019.0
+83,Environment,Electricity production from oil sources,E1_Income support,Myanmar [Burma],MMR,0.3443957420162805,percent of total,2015.0
+84,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Myanmar [Burma],MMR,47.3030014,Percentage of females of the total population,2020.0
+85,Demographics,People using at least basic sanitation services (% of population),E1_Income support,Myanmar [Burma],MMR,64.332684035717,proportion,2017.0
+86,Economics,"Trade, total as % of GDP",E1_Income support,Myanmar [Burma],MMR,52.96083,percent,2019.0
+87,Economics,"International tourism, receipts",E1_Income support,Myanmar [Burma],MMR,2483000000.0,US Dollar,2019.0
+88,Demographics,"Population, total",E1_Income support,Myanmar [Burma],MMR,54045420.0,total,2019.0
+90,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E1_Income support,Myanmar [Burma],MMR,14663.2,international $ in PPP,2020.0
+91,Governance,Human Freedom Score ,E1_Income support,Myanmar [Burma],MMR,5.45,score,2018.0
+92,Demographics,"Age dependency ratio, old (% of working-age population)",E1_Income support,Myanmar [Burma],MMR,8.8311454416539,proportion,2019.0
+93,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),E1_Income support,Myanmar [Burma],MMR,51.2,proportion,2016.0
+94,Demographics,Age dependency ratio,E1_Income support,Myanmar [Burma],MMR,46.89918,percent of total population,2019.0
+95,Economics,Starting a Business (Score),E1_Income support,Myanmar [Burma],MMR,89.3,Score,2019.0
+98,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Myanmar [Burma],MMR,1.71099997,percent of total labor force,2020.0
+100,Economics,"Lending interest rates, percent per annum",E1_Income support,Myanmar [Burma],MMR,15.75,percent per annum,2019.0
+102,Health,Hospital beds (per 10 000 population),E1_Income support,Myanmar [Burma],MMR,10.4,Ones,2017.0
+103,Demographics,Mobile cellular (per 100 people),E1_Income support,Myanmar [Burma],MMR,113.8445,per 100 population,2018.0
+105,Demographics,"Net migration rate, per 1000 population",E1_Income support,Myanmar [Burma],MMR,-3.05,per thousand persons,2015.0
+107,Environment,Electricity production from nuclear sources ,E1_Income support,Myanmar [Burma],MMR,0.0,percent of total,2014.0
+108,Demographics,Internet users (per 100 people),E1_Income support,Myanmar [Burma],MMR,30.67818,per 100 population,2017.0
+110,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E1_Income support,Myanmar [Burma],MMR,14.3553657531738,proportion,2015.0
+112,Economics,Expenditure on education (% of GDP),E1_Income support,Myanmar [Burma],MMR,1.99513,percent,2019.0
+113,Economics,Expenditure on social protection (% of GDP),E1_Income support,Myanmar [Burma],MMR,0.85369,percent,2019.0
+114,Social issues ,"Primary completion rate, total (% of relevant age group)",E1_Income support,Myanmar [Burma],MMR,95.3996124267578,proportion,2018.0
+116,Demographics,Fixed telephone (per 100 people),E1_Income support,Myanmar [Burma],MMR,0.9698,per 100 population,2018.0

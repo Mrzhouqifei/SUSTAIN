@@ -1,0 +1,104 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Myanmar [Burma],MMR,30.6782,percent of population,2019.0
+2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Myanmar [Burma],MMR,28.0,score,2020.0
+3,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-0.7603928,score,2019.0
+4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.224794,per 100 people,2019.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Myanmar [Burma],MMR,113082.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Myanmar [Burma],MMR,21.69768,Rate (risk-weighted prevalence),2019.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,12.26745948130295,per 1 million people,2019.0
+8,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,5.45,score,2018.0
+9,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Myanmar [Burma],MMR,-32.97079406902142,percent of energy use,2014.0
+10,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.3443957420162805,percent of total,2015.0
+11,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-0.6251955,score,2019.0
+12,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,1.5,percent,2020.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Myanmar [Burma],MMR,113.844,per 100 people,2019.0
+14,Social issues ,Press freedom score,C4_Restrictions on gatherings,Myanmar [Burma],MMR,44.77,score,2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Myanmar [Burma],MMR,2377.0,"Number (cumulative total by Dec 26,2020)",2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Myanmar [Burma],MMR,35.5750008,Percentage of total employment,2020.0
+17,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,25.2,percent,2020.0
+18,Social issues ,Proportion of seats held by women in national parliaments (%),C4_Restrictions on gatherings,Myanmar [Burma],MMR,11.11111111,proportion,2020.0
+19,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Myanmar [Burma],MMR,35.55745,micrograms per cubic meter,2017.0
+20,Health,Prevalence of obesity,C4_Restrictions on gatherings,Myanmar [Burma],MMR,5.8,percent,2016.0
+21,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,1.784596117720726,percent of total,2015.0
+22,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Myanmar [Burma],MMR,369.3322675757473,kg of oil equivalent per capita,2014.0
+23,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.10115,percent,2019.0
+24,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.0,kWh,2015.0
+25,Social issues ,Net migration,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-816564.0,net total / data are 5 year estimates,2019.0
+26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,84.0,percent,2019.0
+27,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.677,Ones,2018.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,2.2584513256,"proportion, pero 100,000 people",2016.0
+29,Environment,Energy use ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,91.87284437373677,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+30,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,322.0,Cases,2019.0
+31,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Myanmar [Burma],MMR,44.2899,percent of total,2014.0
+32,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.7,percent,2018.0
+33,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,94.0,score,2020.0
+34,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.041435,percent,2019.0
+35,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.022752,percent,2019.0
+36,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Myanmar [Burma],MMR,13.0,score,2021.0
+37,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-1.149869,score,2019.0
+38,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Myanmar [Burma],MMR,21.1828572279429,percent of GNI,2018.0
+40,Economics,Volume of imports,C4_Restrictions on gatherings,Myanmar [Burma],MMR,5.038,percent change,2020.0
+41,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.7,percent,2019.0
+42,Governance,Human Development Index,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.583,index,2019.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Myanmar [Burma],MMR,25280.3,kt,2016.0
+44,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.0557,percent,2019.0
+45,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,75.5512008666992,proportion,2016.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Myanmar [Burma],MMR,520863.0,number,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-1.261767,score,2019.0
+48,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Myanmar [Burma],MMR,32.34,percent,2018.0
+49,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,28.0,score,2021.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.47658,metric tons per capita,2016.0
+51,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),C4_Restrictions on gatherings,Myanmar [Burma],MMR,14.3553657531738,proportion,2015.0
+52,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Myanmar [Burma],MMR,15.0,score,2021.0
+53,Health,Hospital beds (per 10 000 population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,10.4,Ones,2017.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,66.2645721435547,percent of population,2018.0
+55,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.404665,percent,2019.0
+56,Demographics,People with basic handwashing facilities including soap and water (% of population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,79.287085479675,proportion,2017.0
+57,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,1.71099997,percent of total labor force,2020.0
+58,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,90.0,percent,2019.0
+59,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C4_Restrictions on gatherings,Myanmar [Burma],MMR,51.2,proportion,2016.0
+60,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,47.3030014,Percentage of females of the total population,2020.0
+61,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Myanmar [Burma],MMR,100.0,percent of total,2017.0
+62,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-0.8377732,score,2019.0
+64,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.9993,Ones,2018.0
+65,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Myanmar [Burma],MMR,52.13503,percent of total energy,2014.0
+66,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.002482,percent,2019.0
+67,Economics,"Trade, total as % of GDP",C4_Restrictions on gatherings,Myanmar [Burma],MMR,52.96083,percent,2019.0
+68,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.004479,percent,2019.0
+69,Demographics,Urban population (% of total population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,30.852,total,2019.0
+70,Demographics,People using at least basic sanitation services (% of population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,64.332684035717,proportion,2017.0
+71,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Myanmar [Burma],MMR,5.81,score,2018.0
+72,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,4.42579984664917,score,2021.0
+74,Environment,Electric power consumption ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,215.2988954435994,kWh per capita,2014.0
+75,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.000205,percent,2019.0
+76,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,-1.062784,score,2019.0
+77,Economics,Volume of exports,C4_Restrictions on gatherings,Myanmar [Burma],MMR,2.547,percent change,2020.0
+78,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C4_Restrictions on gatherings,Myanmar [Burma],MMR,14663.2,international $ in PPP,2020.0
+79,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,2.5,rating,2019.0
+80,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Myanmar [Burma],MMR,30.7,index ,2017.0
+81,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Myanmar [Burma],MMR,41.14589855979963,percent of total,2015.0
+82,Social issues ,"Primary completion rate, total (% of relevant age group)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,95.3996124267578,proportion,2018.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,61.5278116473242,percent of total final energy consumption,2015.0
+84,Economics,Expenditure on education (% of GDP),C4_Restrictions on gatherings,Myanmar [Burma],MMR,1.99513,percent,2019.0
+85,Governance,Serious assault (rate),C4_Restrictions on gatherings,Myanmar [Burma],MMR,8.71,rate,2018.0
+86,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,5.08,score,2018.0
+88,Economics,"International tourism, receipts",C4_Restrictions on gatherings,Myanmar [Burma],MMR,2483000000.0,US Dollar,2019.0
+89,Demographics,"Population, total",C4_Restrictions on gatherings,Myanmar [Burma],MMR,54045420.0,total,2019.0
+90,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,61.4700012,Percentage of total population,2020.0
+93,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.0,percent of total,2014.0
+94,Demographics,Mobile cellular (per 100 people),C4_Restrictions on gatherings,Myanmar [Burma],MMR,113.8445,per 100 population,2018.0
+95,Demographics,"Age dependency ratio, old (% of working-age population)",C4_Restrictions on gatherings,Myanmar [Burma],MMR,8.8311454416539,proportion,2019.0
+96,Economics,"Foreign direct investment, net",C4_Restrictions on gatherings,Myanmar [Burma],MMR,1291196200.0,US Dollar,2018.0
+97,Social issues ,Proportion of people living below 50 percent of median income (%),C4_Restrictions on gatherings,Myanmar [Burma],MMR,6.7,proportion,2017.0
+98,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.629025936126709,proportion,2015.0
+99,Social issues ,Coverage of social safety net programs (% of population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,8.7251608697238,proportion,2017.0
+100,Demographics,Age dependency ratio,C4_Restrictions on gatherings,Myanmar [Burma],MMR,46.89918,percent of total population,2019.0
+101,Demographics,Internet users (per 100 people),C4_Restrictions on gatherings,Myanmar [Burma],MMR,30.67818,per 100 population,2017.0
+102,Demographics,"Net migration rate, per 1000 population",C4_Restrictions on gatherings,Myanmar [Burma],MMR,-3.05,per thousand persons,2015.0
+106,Economics,Expenditure on social protection (% of GDP),C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.85369,percent,2019.0
+108,Economics,Starting a Business (Score),C4_Restrictions on gatherings,Myanmar [Burma],MMR,89.3,Score,2019.0
+109,Demographics,Age dependency ratio (% of working-age population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,46.89919132548873,proportion,2019.0
+111,Demographics,Rural population (% of total population),C4_Restrictions on gatherings,Myanmar [Burma],MMR,69.148,proportion,2019.0
+115,Demographics,Fixed telephone (per 100 people),C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.9698,per 100 population,2018.0
+116,Economics,Expenditure on health (% of GDP),C4_Restrictions on gatherings,Myanmar [Burma],MMR,0.76307,percent,2019.0
+117,Economics,"Lending interest rates, percent per annum",C4_Restrictions on gatherings,Myanmar [Burma],MMR,15.75,percent per annum,2019.0

@@ -2,74 +2,74 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C2_Workplace closing,Cuba,CUB,61.8363,percent of population,2019.0
 2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Cuba,CUB,1.59000003,percent of total labor force,2020.0
 3,Health,Prevalence of COVID-19,C2_Workplace closing,Cuba,CUB,9893.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Governance,Voice and accountability estimate,C2_Workplace closing,Cuba,CUB,-1.424033,score,2019.0
-5,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Cuba,CUB,9.9,percent,2018.0
+4,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C2_Workplace closing,Cuba,CUB,9.9,percent,2018.0
+5,Governance,Voice and accountability estimate,C2_Workplace closing,Cuba,CUB,-1.424033,score,2019.0
 6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Cuba,CUB,65.9029999,Percentage of total employment,2020.0
-7,Environment,CO2 emissions (kt),C2_Workplace closing,Cuba,CUB,28283.57,kt,2016.0
-8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Cuba,CUB,7.5614,Ones,2018.0
-10,Governance,Government effectiveness estimate,C2_Workplace closing,Cuba,CUB,-0.1725442,score,2019.0
-11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Cuba,CUB,1.61232,per 100 people,2019.0
-13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Cuba,CUB,12.0,score,2021.0
-14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Cuba,CUB,7.0,percent,2020.0
-15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Cuba,CUB,99.9999999999811,percent of total,2017.0
-16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Cuba,CUB,2.495218,metric tons per capita,2016.0
-19,Health,Prevalence of total cancers,C2_Workplace closing,Cuba,CUB,0.023159,percent,2019.0
-20,Social issues ,Net migration,C2_Workplace closing,Cuba,CUB,-72000.0,net total / data are 5 year estimates,2019.0
-21,Health,Summary exposure value tobacco,C2_Workplace closing,Cuba,CUB,21.55833,Rate (risk-weighted prevalence),2019.0
-22,Governance,Total freedom in the world score ,C2_Workplace closing,Cuba,CUB,13.0,score,2021.0
-23,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Cuba,CUB,92.8102417631483,proportion,2017.0
-25,Governance,Rule of law estimate ,C2_Workplace closing,Cuba,CUB,-0.3224891,score,2019.0
-27,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Cuba,CUB,753000000.0,kWh,2015.0
-28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Cuba,CUB,0.048626,percent,2019.0
-29,Health,Prevalence of Diabetes,C2_Workplace closing,Cuba,CUB,0.113604,percent,2019.0
-30,Demographics,Urban population (% of total population),C2_Workplace closing,Cuba,CUB,77.109,total,2019.0
-32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Cuba,CUB,0.049511,percent,2019.0
-33,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Cuba,CUB,60.50867507886435,percent of total,2015.0
-34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Cuba,CUB,99.0,percent,2019.0
-35,Environment,Electricity production from coal sources ,C2_Workplace closing,Cuba,CUB,0.0,percent of total,2015.0
-36,Health,Mortality due to COVID-19,C2_Workplace closing,Cuba,CUB,137.0,"Number (cumulative total by Dec 26,2020)",2020.0
-37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Cuba,CUB,0.123132,percent,2019.0
-38,Health,Hospital beds (per 10 000 population),C2_Workplace closing,Cuba,CUB,53.3,Ones,2017.0
-39,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Cuba,CUB,1034.686070508084,kg of oil equivalent per capita,2014.0
-41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Cuba,CUB,6.5,Cases,2019.0
-43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Cuba,CUB,10.0,percent,2020.0
-44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Cuba,CUB,8.4218,Ones,2018.0
-45,Environment,Electricity production from oil sources,C2_Workplace closing,Cuba,CUB,45.96805993690852,percent of total,2015.0
-46,Health,Prevalence of obesity,C2_Workplace closing,Cuba,CUB,24.6,percent,2016.0
-48,Social issues ,Press freedom score,C2_Workplace closing,Cuba,CUB,63.81,score,2020.0
-51,Environment,Access to electricity ,C2_Workplace closing,Cuba,CUB,100.0,percent of population,2018.0
-53,Demographics,Secure Internet servers ,C2_Workplace closing,Cuba,CUB,35.3818856921566,per 1 million people,2019.0
-54,Environment,Fossil fuel energy consumption,C2_Workplace closing,Cuba,CUB,85.59641,percent of total,2014.0
-55,Governance,Fragile States Index Total ,C2_Workplace closing,Cuba,CUB,59.227756982641615,score,2020.0
-57,Environment,Electric power consumption ,C2_Workplace closing,Cuba,CUB,1450.883716866035,kWh per capita,2014.0
-58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Cuba,CUB,53.2231405,proportion,2020.0
-59,Social issues ,Progression to secondary school (%),C2_Workplace closing,Cuba,CUB,98.45096,proportion,2017.0
-61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Cuba,CUB,53.4259987,Percentage of total population,2020.0
-62,Demographics,Age dependency ratio (% of working-age population),C2_Workplace closing,Cuba,CUB,46.21445455289027,proportion,2019.0
-63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Cuba,CUB,1.0,score,2021.0
-64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Cuba,CUB,1508070.0,number,2019.0
-65,Governance,Human Development Index,C2_Workplace closing,Cuba,CUB,0.783,index,2019.0
-67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Cuba,CUB,99.0,percent,2019.0
-68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Cuba,CUB,0.221632,percent,2019.0
-69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Cuba,CUB,0.613414,score,2019.0
-70,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C2_Workplace closing,Cuba,CUB,3.9,proportion,2014.0
-71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Cuba,CUB,40.512001,Percentage of females of the total population,2020.0
-73,Demographics,"Age dependency ratio, old (% of working-age population)",C2_Workplace closing,Cuba,CUB,22.75822013258724,proportion,2019.0
-74,Governance,Control of corruption estimate,C2_Workplace closing,Cuba,CUB,0.0432405,score,2019.0
-75,Demographics,Refugee population by country or territory of asylum,C2_Workplace closing,Cuba,CUB,233.0,proportion,2019.0
-76,Governance,Regulatory quality estimate,C2_Workplace closing,Cuba,CUB,-1.486731,score,2019.0
-77,Health,Prevalence of down syndrome,C2_Workplace closing,Cuba,CUB,0.000193,percent,2019.0
-82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Cuba,CUB,0.002582,percent,2019.0
-83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Cuba,CUB,53.3166,per 100 people,2019.0
-84,Environment,Combustible renewables and waste,C2_Workplace closing,Cuba,CUB,11.37567,percent of total energy,2014.0
-85,Demographics,"Population, total",C2_Workplace closing,Cuba,CUB,11333483.0,total,2019.0
-86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Cuba,CUB,5.0462686372,"proportion, pero 100,000 people",2016.0
-87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Cuba,CUB,0.4,percent,2019.0
-91,Social issues ,"Primary completion rate, total (% of relevant age group)",C2_Workplace closing,Cuba,CUB,86.5321502685547,proportion,2019.0
-92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Cuba,CUB,19.70605,micrograms per cubic meter,2017.0
-94,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Cuba,CUB,0.0,percent of total,2014.0
-95,Demographics,People with basic handwashing facilities including soap and water (% of population),C2_Workplace closing,Cuba,CUB,85.1982075208693,proportion,2017.0
-96,Demographics,Rural population (% of total population),C2_Workplace closing,Cuba,CUB,22.89100000000001,proportion,2019.0
-97,Governance,Corruption Perceptions Index,C2_Workplace closing,Cuba,CUB,47.0,score,2020.0
-110,Environment,Renewable energy consumption ,C2_Workplace closing,Cuba,CUB,19.2813206353885,percent of total final energy consumption,2015.0
-117,Environment,"Energy imports, net ",C2_Workplace closing,Cuba,CUB,49.77823923801278,percent of energy use,2014.0
+8,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Cuba,CUB,53.3166,per 100 people,2019.0
+10,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Cuba,CUB,2.495218,metric tons per capita,2016.0
+11,Health,Prevalence of Depressive disorders,C2_Workplace closing,Cuba,CUB,0.049511,percent,2019.0
+12,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Cuba,CUB,99.0,percent,2019.0
+14,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Cuba,CUB,1.61232,per 100 people,2019.0
+15,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Cuba,CUB,7.0,percent,2020.0
+16,Environment,CO2 emissions (kt),C2_Workplace closing,Cuba,CUB,28283.57,kt,2016.0
+17,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Cuba,CUB,12.0,score,2021.0
+18,Social issues ,Net migration,C2_Workplace closing,Cuba,CUB,-72000.0,net total / data are 5 year estimates,2019.0
+19,Environment,Renewable energy consumption ,C2_Workplace closing,Cuba,CUB,19.2813206353885,percent of total final energy consumption,2015.0
+20,Governance,Fragile States Index Total ,C2_Workplace closing,Cuba,CUB,59.227756982641615,score,2020.0
+21,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Cuba,CUB,0.123132,percent,2019.0
+22,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Cuba,CUB,19.70605,micrograms per cubic meter,2017.0
+23,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Cuba,CUB,8.4218,Ones,2018.0
+24,Environment,Electricity production from oil sources,C2_Workplace closing,Cuba,CUB,45.96805993690852,percent of total,2015.0
+26,Governance,Total freedom in the world score ,C2_Workplace closing,Cuba,CUB,13.0,score,2021.0
+27,Health,Prevalence of Diabetes,C2_Workplace closing,Cuba,CUB,0.113604,percent,2019.0
+28,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Cuba,CUB,99.0,percent,2019.0
+29,Health,Prevalence of anxiety disorders,C2_Workplace closing,Cuba,CUB,0.048626,percent,2019.0
+31,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Cuba,CUB,0.221632,percent,2019.0
+32,Governance,Corruption Perceptions Index,C2_Workplace closing,Cuba,CUB,47.0,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Cuba,CUB,7.5614,Ones,2018.0
+35,Health,Prevalence of down syndrome,C2_Workplace closing,Cuba,CUB,0.000193,percent,2019.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Cuba,CUB,6.5,Cases,2019.0
+39,Health,Prevalence of total cancers,C2_Workplace closing,Cuba,CUB,0.023159,percent,2019.0
+40,Governance,Government effectiveness estimate,C2_Workplace closing,Cuba,CUB,-0.1725442,score,2019.0
+41,Health,Summary exposure value tobacco,C2_Workplace closing,Cuba,CUB,21.55833,Rate (risk-weighted prevalence),2019.0
+42,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Cuba,CUB,10.0,percent,2020.0
+43,Governance,Human Development Index,C2_Workplace closing,Cuba,CUB,0.783,index,2019.0
+44,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Cuba,CUB,0.613414,score,2019.0
+46,Environment,Combustible renewables and waste,C2_Workplace closing,Cuba,CUB,11.37567,percent of total energy,2014.0
+47,Environment,Fossil fuel energy consumption,C2_Workplace closing,Cuba,CUB,85.59641,percent of total,2014.0
+48,Governance,Regulatory quality estimate,C2_Workplace closing,Cuba,CUB,-1.486731,score,2019.0
+49,Environment,Electricity production from nuclear sources ,C2_Workplace closing,Cuba,CUB,0.0,percent of total,2014.0
+50,Environment,Electric power consumption ,C2_Workplace closing,Cuba,CUB,1450.883716866035,kWh per capita,2014.0
+51,Social issues ,Press freedom score,C2_Workplace closing,Cuba,CUB,63.81,score,2020.0
+52,Health,Prevalence of obesity,C2_Workplace closing,Cuba,CUB,24.6,percent,2016.0
+55,Environment,Energy use (kg of oil equivalent per capita),C2_Workplace closing,Cuba,CUB,1034.686070508084,kg of oil equivalent per capita,2014.0
+56,Demographics,People using at least basic sanitation services (% of population),C2_Workplace closing,Cuba,CUB,92.8102417631483,proportion,2017.0
+57,Governance,Control of corruption estimate,C2_Workplace closing,Cuba,CUB,0.0432405,score,2019.0
+58,Demographics,Secure Internet servers ,C2_Workplace closing,Cuba,CUB,35.3818856921566,per 1 million people,2019.0
+59,Governance,Rule of law estimate ,C2_Workplace closing,Cuba,CUB,-0.3224891,score,2019.0
+62,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Cuba,CUB,0.002582,percent,2019.0
+63,Environment,Electricity production from coal sources ,C2_Workplace closing,Cuba,CUB,0.0,percent of total,2015.0
+64,Environment,"Electricity production from renewable sources, excluding hydroelectric",C2_Workplace closing,Cuba,CUB,753000000.0,kWh,2015.0
+66,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Cuba,CUB,53.4259987,Percentage of total population,2020.0
+67,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Cuba,CUB,53.2231405,proportion,2020.0
+69,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Cuba,CUB,99.9999999999811,percent of total,2017.0
+70,Demographics,Rural population (% of total population),C2_Workplace closing,Cuba,CUB,22.89100000000001,proportion,2019.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Cuba,CUB,5.0462686372,"proportion, pero 100,000 people",2016.0
+75,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),C2_Workplace closing,Cuba,CUB,3.9,proportion,2014.0
+76,Environment,"Electricity production from oil, gas and coal sources",C2_Workplace closing,Cuba,CUB,60.50867507886435,percent of total,2015.0
+77,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Cuba,CUB,40.512001,Percentage of females of the total population,2020.0
+79,Demographics,Refugee population by country or territory of asylum,C2_Workplace closing,Cuba,CUB,233.0,proportion,2019.0
+80,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Cuba,CUB,1.0,score,2021.0
+81,Demographics,Urban population (% of total population),C2_Workplace closing,Cuba,CUB,77.109,total,2019.0
+82,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Cuba,CUB,1508070.0,number,2019.0
+83,Health,Mortality due to COVID-19,C2_Workplace closing,Cuba,CUB,137.0,"Number (cumulative total by Dec 26,2020)",2020.0
+85,Demographics,Age dependency ratio (% of working-age population),C2_Workplace closing,Cuba,CUB,46.21445455289027,proportion,2019.0
+86,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Cuba,CUB,0.4,percent,2019.0
+88,Demographics,"Age dependency ratio, old (% of working-age population)",C2_Workplace closing,Cuba,CUB,22.75822013258724,proportion,2019.0
+90,Environment,Access to electricity ,C2_Workplace closing,Cuba,CUB,100.0,percent of population,2018.0
+91,Social issues ,Progression to secondary school (%),C2_Workplace closing,Cuba,CUB,98.45096,proportion,2017.0
+93,Demographics,People with basic handwashing facilities including soap and water (% of population),C2_Workplace closing,Cuba,CUB,85.1982075208693,proportion,2017.0
+94,Demographics,"Population, total",C2_Workplace closing,Cuba,CUB,11333483.0,total,2019.0
+96,Health,Hospital beds (per 10 000 population),C2_Workplace closing,Cuba,CUB,53.3,Ones,2017.0
+105,Social issues ,"Primary completion rate, total (% of relevant age group)",C2_Workplace closing,Cuba,CUB,86.5321502685547,proportion,2019.0
+116,Environment,"Energy imports, net ",C2_Workplace closing,Cuba,CUB,49.77823923801278,percent of energy use,2014.0

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-ISL,H6_Facial Coverings,0.09357505727170877,1
-ISL,H7_Vaccination policy,0.09059045633948663,2
-ISL,C2_Workplace closing,0.0804732807047729,3
-ISL,E1_Income support,0.06938076984434215,4
-ISL,C4_Restrictions on gatherings,0.0683297212467864,5
-ISL,C3_Cancel public events,0.06705599779527523,6
-ISL,H2_Testing policy,0.053982674800392594,7
-ISL,C8_International travel controls,0.0482600580443072,8
-ISL,C5_Close public transport,0.04575643023064147,9
-ISL,E2_Debt/contract relief,0.045350772417375416,10
-ISL,C1_School closing,0.044625590845474586,11
-ISL,C7_Restrictions on internal movement,0.03898866384656114,12
-ISL,H1_Public information campaigns,0.03005236752034673,13
-ISL,H3_Contact tracing,0.02979766179087135,14
+ISL,H6_Facial Coverings,0.1079630760581227,1
+ISL,H7_Vaccination policy,0.0951692082718878,2
+ISL,C2_Workplace closing,0.0758469649775974,3
+ISL,E1_Income support,0.0719872680908373,4
+ISL,C4_Restrictions on gatherings,0.0665096890052963,5
+ISL,C3_Cancel public events,0.0658707454218784,6
+ISL,C1_School closing,0.0644986123465432,7
+ISL,H2_Testing policy,0.0473404919445187,8
+ISL,C5_Close public transport,0.0434243890818987,9
+ISL,C8_International travel controls,0.0426679193193414,10
+ISL,E2_Debt/contract relief,0.0386815681464636,11
+ISL,C7_Restrictions on internal movement,0.0361628148060461,12
+ISL,H1_Public information campaigns,0.0328010401334105,13
+ISL,H3_Contact tracing,0.0260081319668787,14
 ISL,C6_Stay at home requirements,0.0,15

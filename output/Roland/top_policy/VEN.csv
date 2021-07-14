@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-VEN,H6_Facial Coverings,0.10261697632346922,1
-VEN,C5_Close public transport,0.08765937782273032,2
-VEN,H7_Vaccination policy,0.0718901248618713,3
-VEN,C7_Restrictions on internal movement,0.0703072077242388,4
-VEN,C2_Workplace closing,0.06879472519247146,5
-VEN,E1_Income support,0.06634645035590052,6
-VEN,C4_Restrictions on gatherings,0.05295795773665301,7
-VEN,E2_Debt/contract relief,0.045116777444456864,8
-VEN,H2_Testing policy,0.042753916600245495,9
-VEN,C6_Stay at home requirements,0.042327264361120116,10
-VEN,C8_International travel controls,0.042198183180614315,11
-VEN,C1_School closing,0.036215091604134365,12
-VEN,H3_Contact tracing,0.020106106427430017,13
-VEN,H1_Public information campaigns,0.02008530452797552,14
-VEN,C3_Cancel public events,0.015202795789674813,15
+VEN,H6_Facial Coverings,0.0995536174354361,1
+VEN,C5_Close public transport,0.084627667502866,2
+VEN,H7_Vaccination policy,0.0737201808649224,3
+VEN,C7_Restrictions on internal movement,0.0718637938646725,4
+VEN,C2_Workplace closing,0.0707254045655218,5
+VEN,E1_Income support,0.0696946499493816,6
+VEN,C4_Restrictions on gatherings,0.0631926771541392,7
+VEN,E2_Debt/contract relief,0.0371899678020909,8
+VEN,H2_Testing policy,0.0366098771813896,9
+VEN,C1_School closing,0.0351710856170476,10
+VEN,C8_International travel controls,0.0329455812585147,11
+VEN,H1_Public information campaigns,0.0319776062125139,12
+VEN,H3_Contact tracing,0.0313781462852189,13
+VEN,C6_Stay at home requirements,0.017428030512615,14
+VEN,C3_Cancel public events,0.000936627818226,15

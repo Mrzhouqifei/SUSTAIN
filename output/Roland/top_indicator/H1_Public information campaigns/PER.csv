@@ -1,91 +1,91 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H1_Public information campaigns,Peru,PER,59.9505,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,H1_Public information campaigns,Peru,PER,38.0,score,2020.0
-3,Demographics,Secure Internet servers ,H1_Public information campaigns,Peru,PER,384.6455169357376,per 1 million people,2019.0
+2,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Peru,PER,3082040.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Peru,PER,0.189816,percent,2019.0
 4,Health,Prevalence of COVID-19,H1_Public information campaigns,Peru,PER,991518.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Mortality due to COVID-19,H1_Public information campaigns,Peru,PER,36901.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Summary exposure value tobacco,H1_Public information campaigns,Peru,PER,8.189897,Rate (risk-weighted prevalence),2019.0
-8,Social issues ,Net migration,H1_Public information campaigns,Peru,PER,495345.0,net total / data are 5 year estimates,2019.0
-9,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Peru,PER,1.3048,Ones,2016.0
-10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Peru,PER,123.76,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Peru,PER,8.0,percent,2020.0
-12,Social issues ,Life Ladder ,H1_Public information campaigns,Peru,PER,5.839600086212158,score,2021.0
+5,Governance,Rule of law estimate ,H1_Public information campaigns,Peru,PER,-0.4872026,score,2019.0
+6,Environment,Electricity production from oil sources,H1_Public information campaigns,Peru,PER,1.403079728917535,percent of total,2015.0
+7,Environment,Fossil fuel energy consumption,H1_Public information campaigns,Peru,PER,79.55568,percent of total,2014.0
+8,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Peru,PER,0.100009,percent,2019.0
+9,Governance,Human Freedom Score ,H1_Public information campaigns,Peru,PER,7.68,score,2018.0
+10,Environment,Energy use (kg of oil equivalent per capita),H1_Public information campaigns,Peru,PER,790.2171921577939,kg of oil equivalent per capita,2014.0
+11,Governance,Economic Freedom Score,H1_Public information campaigns,Peru,PER,7.76,score,2018.0
+12,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Peru,PER,24.78673,micrograms per cubic meter,2017.0
 13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Peru,PER,7.34701,per 100 people,2019.0
-14,Economics,Volume of imports,H1_Public information campaigns,Peru,PER,5.273,percent change,2020.0
-15,Environment,Electric power consumption ,H1_Public information campaigns,Peru,PER,1345.879588874297,kWh per capita,2014.0
-16,Governance,Serious assault (rate),H1_Public information campaigns,Peru,PER,145.26,rate,2018.0
-17,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Peru,PER,85.0,percent,2019.0
-18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Peru,PER,0.059467,percent,2019.0
-19,Economics,"Central government debt, total",H1_Public information campaigns,Peru,PER,23.18324960818861,percent of GDP,2016.0
-20,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Peru,PER,70.5839996,Percentage of females of the total population,2020.0
-21,Environment,CO2 emissions (kt),H1_Public information campaigns,Peru,PER,57414.22,kt,2016.0
-22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Peru,PER,119.0,Cases,2019.0
-23,Environment,Renewable energy consumption ,H1_Public information campaigns,Peru,PER,25.5039055158479,percent of total final energy consumption,2015.0
-24,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Peru,PER,29.0,score,2021.0
-25,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Peru,PER,2.4398,Ones,2018.0
-26,Health,"Prevalence of HIV, total (% of population ages 15-49)",H1_Public information campaigns,Peru,PER,0.3,percent,2019.0
-27,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Peru,PER,6.59264532209261,percent of GNI,2018.0
-28,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Peru,PER,57.5270004,Percentage of total employment,2020.0
-29,Environment,"PM2.5 air pollution, mean annual exposure",H1_Public information campaigns,Peru,PER,24.78673,micrograms per cubic meter,2017.0
-30,Environment,Electricity production from oil sources,H1_Public information campaigns,Peru,PER,1.403079728917535,percent of total,2015.0
-31,Governance,Human Freedom Score ,H1_Public information campaigns,Peru,PER,7.68,score,2018.0
-32,Environment,Access to electricity ,H1_Public information campaigns,Peru,PER,95.2,percent of population,2018.0
-33,Social issues ,Proportion of women in managerial positions (%),H1_Public information campaigns,Peru,PER,31.96,percent,2018.0
-34,Health,Prevalence of down syndrome,H1_Public information campaigns,Peru,PER,0.000177,percent,2019.0
-35,Environment,"Energy imports, net ",H1_Public information campaigns,Peru,PER,-14.89958814310032,percent of energy use,2014.0
-36,Environment,"Electricity production from oil, gas and coal sources",H1_Public information campaigns,Peru,PER,47.26948664276388,percent of total,2015.0
-37,Environment,Combustible renewables and waste,H1_Public information campaigns,Peru,PER,11.16344,percent of total energy,2014.0
-38,Governance,Regulatory quality estimate,H1_Public information campaigns,Peru,PER,0.5639061,score,2019.0
-39,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Peru,PER,88.0,percent,2019.0
-40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Peru,PER,0.189816,percent,2019.0
-43,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Peru,PER,99.9629262855861,percent of total,2017.0
-44,Social issues ,"Primary completion rate, total (% of relevant age group)",H1_Public information campaigns,Peru,PER,98.7053298950195,proportion,2019.0
-45,Social issues ,Press freedom score,H1_Public information campaigns,Peru,PER,30.94,score,2020.0
-46,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Peru,PER,26.15384615,proportion,2020.0
-47,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Peru,PER,42.0,score,2021.0
-48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Peru,PER,0.001076,percent,2019.0
-49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Peru,PER,3.1960001,percent of total labor force,2020.0
-50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Peru,PER,0.02357,percent,2019.0
-51,Governance,Human Development Index,H1_Public information campaigns,Peru,PER,0.777,index,2019.0
-52,Governance,Total freedom in the world score ,H1_Public information campaigns,Peru,PER,71.0,score,2021.0
-53,Health,Prevalence of obesity,H1_Public information campaigns,Peru,PER,19.7,percent,2016.0
-54,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Peru,PER,74.3429565941762,proportion,2017.0
-55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Peru,PER,-0.1417345,score,2019.0
-56,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Peru,PER,10.8,percent,2020.0
-57,Demographics,Urban population (% of total population),H1_Public information campaigns,Peru,PER,78.099,total,2019.0
-59,Health,Prevalence of total cancers,H1_Public information campaigns,Peru,PER,0.008228,percent,2019.0
-60,Governance,Economic Freedom Score,H1_Public information campaigns,Peru,PER,7.76,score,2018.0
-61,Governance,Personal Freedom Score ,H1_Public information campaigns,Peru,PER,7.6,score,2018.0
-62,Environment,Fossil fuel energy consumption,H1_Public information campaigns,Peru,PER,79.55568,percent of total,2014.0
-63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Peru,PER,3082040.0,number,2019.0
-64,Economics,Volume of exports,H1_Public information campaigns,Peru,PER,3.304,percent change,2020.0
-65,Governance,Fragile States Index Total ,H1_Public information campaigns,Peru,PER,67.62810848276709,score,2020.0
-67,Demographics,Refugee population by country or territory of asylum,H1_Public information campaigns,Peru,PER,2850.0,proportion,2019.0
-68,Health,Prevalence of Diabetes,H1_Public information campaigns,Peru,PER,0.037354,percent,2019.0
-69,Governance,Control of corruption estimate,H1_Public information campaigns,Peru,PER,-0.4476908,score,2019.0
-70,Social issues ,Proportion of people living below 50 percent of median income (%),H1_Public information campaigns,Peru,PER,19.4,proportion,2018.0
-71,Governance,Voice and accountability estimate,H1_Public information campaigns,Peru,PER,0.2862839,score,2019.0
-72,Governance,Rule of law estimate ,H1_Public information campaigns,Peru,PER,-0.4872026,score,2019.0
-73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Peru,PER,1.856501,metric tons per capita,2016.0
-77,Environment,Electricity production from coal sources ,H1_Public information campaigns,Peru,PER,0.8393608422623365,percent of total,2015.0
-78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Peru,PER,0.100009,percent,2019.0
-79,Social issues ,Gini index (World Bank estimate),H1_Public information campaigns,Peru,PER,42.8,index ,2018.0
-80,Environment,Electricity production from nuclear sources ,H1_Public information campaigns,Peru,PER,0.0,percent of total,2014.0
-81,Environment,Energy use (kg of oil equivalent per capita),H1_Public information campaigns,Peru,PER,790.2171921577939,kg of oil equivalent per capita,2014.0
-84,Social issues ,Coverage of social safety net programs (% of population),H1_Public information campaigns,Peru,PER,57.8810472597746,proportion,2017.0
-85,Demographics,Rural population (% of total population),H1_Public information campaigns,Peru,PER,21.901,proportion,2019.0
-87,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Peru,PER,12.64992111757153,proportion,2019.0
-90,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Peru,PER,50.71130013966677,proportion,2019.0
-94,Governance,Government effectiveness estimate,H1_Public information campaigns,Peru,PER,-0.0675457,score,2019.0
-95,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H1_Public information campaigns,Peru,PER,9.20953273773193,proportion,2018.0
-98,Environment,Energy use ,H1_Public information campaigns,Peru,PER,66.53292912158106,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+14,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H1_Public information campaigns,Peru,PER,8.0,percent,2020.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Peru,PER,119.0,Cases,2019.0
+16,Economics,"Central government debt, total",H1_Public information campaigns,Peru,PER,23.18324960818861,percent of GDP,2016.0
+17,Social issues ,Net migration,H1_Public information campaigns,Peru,PER,495345.0,net total / data are 5 year estimates,2019.0
+18,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Peru,PER,70.5839996,Percentage of females of the total population,2020.0
+19,Governance,Corruption Perceptions Index,H1_Public information campaigns,Peru,PER,38.0,score,2020.0
+20,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H1_Public information campaigns,Peru,PER,99.9629262855861,percent of total,2017.0
+21,Health,Prevalence of Diabetes,H1_Public information campaigns,Peru,PER,0.037354,percent,2019.0
+22,Environment,Electricity production from coal sources ,H1_Public information campaigns,Peru,PER,0.8393608422623365,percent of total,2015.0
+23,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Peru,PER,0.059467,percent,2019.0
+24,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Peru,PER,1.856501,metric tons per capita,2016.0
+25,Social issues ,Proportion of women in managerial positions (%),H1_Public information campaigns,Peru,PER,31.96,percent,2018.0
+26,Governance,Fragile States Index Total ,H1_Public information campaigns,Peru,PER,67.62810848276709,score,2020.0
+27,Governance,Aggregate score for the Political Rights category,H1_Public information campaigns,Peru,PER,29.0,score,2021.0
+28,Economics,Volume of exports,H1_Public information campaigns,Peru,PER,3.304,percent change,2020.0
+29,Environment,Electricity production from nuclear sources ,H1_Public information campaigns,Peru,PER,0.0,percent of total,2014.0
+30,Health,Prevalence of obesity,H1_Public information campaigns,Peru,PER,19.7,percent,2016.0
+31,Health,Summary exposure value tobacco,H1_Public information campaigns,Peru,PER,8.189897,Rate (risk-weighted prevalence),2019.0
+32,Social issues ,"Primary completion rate, total (% of relevant age group)",H1_Public information campaigns,Peru,PER,98.7053298950195,proportion,2019.0
+33,Health,"Prevalence of HIV, total (% of population ages 15-49)",H1_Public information campaigns,Peru,PER,0.3,percent,2019.0
+34,Governance,Voice and accountability estimate,H1_Public information campaigns,Peru,PER,0.2862839,score,2019.0
+35,Environment,CO2 emissions (kt),H1_Public information campaigns,Peru,PER,57414.22,kt,2016.0
+36,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Peru,PER,77.9509964,Percentage of total population,2020.0
+37,Social issues ,Gini index (World Bank estimate),H1_Public information campaigns,Peru,PER,42.8,index ,2018.0
+39,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H1_Public information campaigns,Peru,PER,10.8,percent,2020.0
+40,Social issues ,Proportion of seats held by women in national parliaments (%),H1_Public information campaigns,Peru,PER,26.15384615,proportion,2020.0
+41,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Peru,PER,0.02357,percent,2019.0
+42,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Peru,PER,-0.1417345,score,2019.0
+43,Demographics,Rural population (% of total population),H1_Public information campaigns,Peru,PER,21.901,proportion,2019.0
+44,Environment,"Energy imports, net ",H1_Public information campaigns,Peru,PER,-14.89958814310032,percent of energy use,2014.0
+45,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Peru,PER,123.76,per 100 people,2019.0
+46,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Peru,PER,7.9092238628,"proportion, pero 100,000 people",2017.0
+47,Governance,Human Development Index,H1_Public information campaigns,Peru,PER,0.777,index,2019.0
+48,Governance,Total freedom in the world score ,H1_Public information campaigns,Peru,PER,71.0,score,2021.0
+49,Demographics,Secure Internet servers ,H1_Public information campaigns,Peru,PER,384.6455169357376,per 1 million people,2019.0
+50,Environment,Energy use ,H1_Public information campaigns,Peru,PER,66.53292912158106,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+51,Environment,Renewable energy consumption ,H1_Public information campaigns,Peru,PER,25.5039055158479,percent of total final energy consumption,2015.0
+52,Governance,Control of corruption estimate,H1_Public information campaigns,Peru,PER,-0.4476908,score,2019.0
+53,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H1_Public information campaigns,Peru,PER,3.1960001,percent of total labor force,2020.0
+54,Environment,Electric power consumption ,H1_Public information campaigns,Peru,PER,1345.879588874297,kWh per capita,2014.0
+55,Social issues ,Life Ladder ,H1_Public information campaigns,Peru,PER,5.839600086212158,score,2021.0
+56,Health,Prevalence of total cancers,H1_Public information campaigns,Peru,PER,0.008228,percent,2019.0
+57,Health,"Immunization, DPT (% of children ages 12-23 months)",H1_Public information campaigns,Peru,PER,88.0,percent,2019.0
+58,Social issues ,Coverage of social safety net programs (% of population),H1_Public information campaigns,Peru,PER,57.8810472597746,proportion,2017.0
+60,Health,Prevalence of down syndrome,H1_Public information campaigns,Peru,PER,0.000177,percent,2019.0
+61,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H1_Public information campaigns,Peru,PER,9.20953273773193,proportion,2018.0
+62,Environment,"Adjusted net savings, including particulate emission damage",H1_Public information campaigns,Peru,PER,6.59264532209261,percent of GNI,2018.0
+63,Economics,Employment in services (% of total employment) (modeled ILO estimate),H1_Public information campaigns,Peru,PER,57.5270004,Percentage of total employment,2020.0
+65,Health,"Immunization, measles (% of children ages 12-23 months)",H1_Public information campaigns,Peru,PER,85.0,percent,2019.0
+66,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Peru,PER,12.64992111757153,proportion,2019.0
+67,Governance,Personal Freedom Score ,H1_Public information campaigns,Peru,PER,7.6,score,2018.0
+68,Environment,Combustible renewables and waste,H1_Public information campaigns,Peru,PER,11.16344,percent of total energy,2014.0
+70,Governance,Aggregate score for the Civil Liberties category,H1_Public information campaigns,Peru,PER,42.0,score,2021.0
+71,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Peru,PER,50.71130013966677,proportion,2019.0
+72,Environment,Access to electricity ,H1_Public information campaigns,Peru,PER,95.2,percent of population,2018.0
+73,Health,"Nurses and midwives (per 1,000 people)",H1_Public information campaigns,Peru,PER,2.4398,Ones,2018.0
+75,Health,Mortality due to COVID-19,H1_Public information campaigns,Peru,PER,36901.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Governance,Government effectiveness estimate,H1_Public information campaigns,Peru,PER,-0.0675457,score,2019.0
+78,Economics,Volume of imports,H1_Public information campaigns,Peru,PER,5.273,percent change,2020.0
+79,Social issues ,Progression to secondary school (%),H1_Public information campaigns,Peru,PER,95.42862,proportion,2017.0
+80,Demographics,"Population, total",H1_Public information campaigns,Peru,PER,32510453.0,total,2019.0
+83,Health,Hospital beds (per 10 000 population),H1_Public information campaigns,Peru,PER,15.9,Ones,2017.0
+85,Health,"Physicians (per 1,000 people)",H1_Public information campaigns,Peru,PER,1.3048,Ones,2016.0
+87,Governance,Serious assault (rate),H1_Public information campaigns,Peru,PER,145.26,rate,2018.0
+88,Demographics,Urban population (% of total population),H1_Public information campaigns,Peru,PER,78.099,total,2019.0
+99,Governance,Regulatory quality estimate,H1_Public information campaigns,Peru,PER,0.5639061,score,2019.0
 100,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H1_Public information campaigns,Peru,PER,94.4082717895508,proportion,2018.0
-101,Demographics,People using safely managed drinking water services (% of population),H1_Public information campaigns,Peru,PER,50.3506516238405,proportion,2017.0
-103,Demographics,"Population, total",H1_Public information campaigns,Peru,PER,32510453.0,total,2019.0
-104,Environment,"Electricity production from renewable sources, excluding hydroelectric",H1_Public information campaigns,Peru,PER,1732000000.0,kWh,2015.0
-105,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H1_Public information campaigns,Peru,PER,77.9509964,Percentage of total population,2020.0
-107,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H1_Public information campaigns,Peru,PER,0.0237227026373148,proportion,2018.0
-109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Peru,PER,3.3,percent,2018.0
-110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Peru,PER,7.9092238628,"proportion, pero 100,000 people",2017.0
-113,Health,Hospital beds (per 10 000 population),H1_Public information campaigns,Peru,PER,15.9,Ones,2017.0
-116,Social issues ,Progression to secondary school (%),H1_Public information campaigns,Peru,PER,95.42862,proportion,2017.0
+105,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Peru,PER,74.3429565941762,proportion,2017.0
+106,Demographics,People using safely managed drinking water services (% of population),H1_Public information campaigns,Peru,PER,50.3506516238405,proportion,2017.0
+107,Social issues ,Press freedom score,H1_Public information campaigns,Peru,PER,30.94,score,2020.0
+109,Demographics,Refugee population by country or territory of asylum,H1_Public information campaigns,Peru,PER,2850.0,proportion,2019.0
+110,Environment,"Electricity production from renewable sources, excluding hydroelectric",H1_Public information campaigns,Peru,PER,1732000000.0,kWh,2015.0
+111,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Peru,PER,0.001076,percent,2019.0
+112,Environment,"Electricity production from oil, gas and coal sources",H1_Public information campaigns,Peru,PER,47.26948664276388,percent of total,2015.0
+113,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Peru,PER,3.3,percent,2018.0
+115,Social issues ,Proportion of people living below 50 percent of median income (%),H1_Public information campaigns,Peru,PER,19.4,proportion,2018.0
+116,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H1_Public information campaigns,Peru,PER,0.0237227026373148,proportion,2018.0

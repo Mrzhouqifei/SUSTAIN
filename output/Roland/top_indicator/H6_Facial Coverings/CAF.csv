@@ -2,59 +2,59 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,Central African Republic,CAF,4.33925,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Central African Republic,CAF,0.410854,percent,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Central African Republic,CAF,2193.0,number,2019.0
-4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Central African Republic,CAF,17.5030003,Percentage of total employment,2020.0
-5,Health,Prevalence of COVID-19,H6_Facial Coverings,Central African Republic,CAF,4936.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Central African Republic,CAF,0.046705,percent,2019.0
-7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Central African Republic,CAF,64.3889999,Percentage of females of the total population,2020.0
-8,Governance,Economic Freedom Score,H6_Facial Coverings,Central African Republic,CAF,5.27,score,2018.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Central African Republic,CAF,32.2513,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Central African Republic,CAF,2.6,percent,2020.0
-12,Governance,Personal Freedom Score ,H6_Facial Coverings,Central African Republic,CAF,5.22,score,2018.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Central African Republic,CAF,0.0105159,per 100 people,2019.0
-14,Social issues ,Net migration,H6_Facial Coverings,Central African Republic,CAF,-200000.0,net total / data are 5 year estimates,2019.0
-15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Central African Republic,CAF,0.0004,percent,2019.0
-16,Health,Mortality due to COVID-19,H6_Facial Coverings,Central African Republic,CAF,63.0,"Number (cumulative total by Dec 26,2020)",2020.0
-17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Central African Republic,CAF,0.0721,Ones,2015.0
-18,Health,Prevalence of total cancers,H6_Facial Coverings,Central African Republic,CAF,0.001841,percent,2019.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,Central African Republic,CAF,9.0,score,2021.0
-21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Central African Republic,CAF,71.9410019,Percentage of total population,2020.0
-23,Health,Prevalence of obesity,H6_Facial Coverings,Central African Republic,CAF,7.5,percent,2016.0
-25,Health,Prevalence of down syndrome,H6_Facial Coverings,Central African Republic,CAF,0.000171,percent,2019.0
-27,Social issues ,Life Ladder ,H6_Facial Coverings,Central African Republic,CAF,3.4758620262145996,score,2017.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,Central African Republic,CAF,-1.22844,score,2019.0
-29,Health,Summary exposure value tobacco,H6_Facial Coverings,Central African Republic,CAF,10.29123,Rate (risk-weighted prevalence),2019.0
-30,Governance,Fragile States Index Total ,H6_Facial Coverings,Central African Republic,CAF,107.48660467238278,score,2020.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Central African Republic,CAF,0.7,percent,2018.0
-36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Central African Republic,CAF,56.8285,micrograms per cubic meter,2017.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,Central African Republic,CAF,76.5670200103872,percent of total final energy consumption,2015.0
-38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Central African Republic,CAF,40.1,percent,2020.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Central African Republic,CAF,540.0,Cases,2019.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,Central African Republic,CAF,297.027,kt,2016.0
-43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Central African Republic,CAF,49.0,percent,2019.0
-44,Economics,Volume of imports,H6_Facial Coverings,Central African Republic,CAF,3.787,percent change,2020.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,Central African Republic,CAF,42.87,score,2020.0
-47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Central African Republic,CAF,0.2063,Ones,2015.0
-48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Central African Republic,CAF,8.571428571,proportion,2020.0
-49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Central African Republic,CAF,0.039681,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Central African Republic,CAF,0.065458,metric tons per capita,2016.0
-52,Governance,Human Development Index,H6_Facial Coverings,Central African Republic,CAF,0.397,index,2019.0
-53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Central African Republic,CAF,26.0,score,2020.0
-55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Central African Republic,CAF,100.0,percent of total,2017.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Central African Republic,CAF,-2.182968,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,Central African Republic,CAF,-1.201646,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,Central African Republic,CAF,1.053699697693557,per 1 million people,2019.0
-59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Central African Republic,CAF,47.0,percent,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,Central African Republic,CAF,-1.372812,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Central African Republic,CAF,3.0,score,2021.0
-62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Central African Republic,CAF,20.120400654,"proportion, pero 100,000 people",2016.0
-64,Health,Prevalence of Diabetes,H6_Facial Coverings,Central African Republic,CAF,0.030741,percent,2019.0
-65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Central African Republic,CAF,3.5,percent,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Central African Republic,CAF,6.0,score,2021.0
-68,Governance,Human Freedom Score ,H6_Facial Coverings,Central African Republic,CAF,5.25,score,2018.0
-70,Economics,Volume of exports,H6_Facial Coverings,Central African Republic,CAF,5.224,percent change,2020.0
-73,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H6_Facial Coverings,Central African Republic,CAF,2.5,rating,2019.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,Central African Republic,CAF,-1.747201,score,2019.0
-75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Central African Republic,CAF,3.6960001,percent of total labor force,2020.0
-78,Environment,Access to electricity ,H6_Facial Coverings,Central African Republic,CAF,32.4203987121582,percent of population,2018.0
-83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Central African Republic,CAF,0.034283,percent,2019.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,Central African Republic,CAF,-1.728386,score,2019.0
+4,Health,Prevalence of COVID-19,H6_Facial Coverings,Central African Republic,CAF,4936.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Central African Republic,CAF,64.3889999,Percentage of females of the total population,2020.0
+7,Governance,Economic Freedom Score,H6_Facial Coverings,Central African Republic,CAF,5.27,score,2018.0
+8,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Central African Republic,CAF,0.034283,percent,2019.0
+9,Governance,Personal Freedom Score ,H6_Facial Coverings,Central African Republic,CAF,5.22,score,2018.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Central African Republic,CAF,6.0,score,2021.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Central African Republic,CAF,3.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Central African Republic,CAF,0.0105159,per 100 people,2019.0
+16,Economics,Volume of imports,H6_Facial Coverings,Central African Republic,CAF,3.787,percent change,2020.0
+19,Social issues ,Net migration,H6_Facial Coverings,Central African Republic,CAF,-200000.0,net total / data are 5 year estimates,2019.0
+20,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Central African Republic,CAF,0.7,percent,2018.0
+21,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Central African Republic,CAF,20.120400654,"proportion, pero 100,000 people",2016.0
+24,Health,Prevalence of obesity,H6_Facial Coverings,Central African Republic,CAF,7.5,percent,2016.0
+27,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Central African Republic,CAF,56.8285,micrograms per cubic meter,2017.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,Central African Republic,CAF,297.027,kt,2016.0
+29,Governance,Corruption Perceptions Index,H6_Facial Coverings,Central African Republic,CAF,26.0,score,2020.0
+30,Health,Prevalence of Diabetes,H6_Facial Coverings,Central African Republic,CAF,0.030741,percent,2019.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,Central African Republic,CAF,76.5670200103872,percent of total final energy consumption,2015.0
+33,Social issues ,Life Ladder ,H6_Facial Coverings,Central African Republic,CAF,3.4758620262145996,score,2017.0
+34,Governance,Fragile States Index Total ,H6_Facial Coverings,Central African Republic,CAF,107.48660467238278,score,2020.0
+37,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Central African Republic,CAF,0.039681,percent,2019.0
+38,Governance,Human Freedom Score ,H6_Facial Coverings,Central African Republic,CAF,5.25,score,2018.0
+39,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Central African Republic,CAF,17.5030003,Percentage of total employment,2020.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Central African Republic,CAF,0.065458,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,Central African Republic,CAF,-1.22844,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,Central African Republic,CAF,42.87,score,2020.0
+43,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Central African Republic,CAF,0.2063,Ones,2015.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Central African Republic,CAF,32.2513,per 100 people,2019.0
+45,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Central African Republic,CAF,49.0,percent,2019.0
+46,Health,Prevalence of down syndrome,H6_Facial Coverings,Central African Republic,CAF,0.000171,percent,2019.0
+47,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Central African Republic,CAF,0.046705,percent,2019.0
+48,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Central African Republic,CAF,2.6,percent,2020.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Central African Republic,CAF,3.6960001,percent of total labor force,2020.0
+51,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Central African Republic,CAF,0.0004,percent,2019.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,Central African Republic,CAF,1.053699697693557,per 1 million people,2019.0
+53,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Central African Republic,CAF,0.0721,Ones,2015.0
+54,Health,Prevalence of total cancers,H6_Facial Coverings,Central African Republic,CAF,0.001841,percent,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Central African Republic,CAF,540.0,Cases,2019.0
+56,Health,Summary exposure value tobacco,H6_Facial Coverings,Central African Republic,CAF,10.29123,Rate (risk-weighted prevalence),2019.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,Central African Republic,CAF,-1.372812,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,Central African Republic,CAF,0.397,index,2019.0
+60,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Central African Republic,CAF,8.571428571,proportion,2020.0
+61,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Central African Republic,CAF,40.1,percent,2020.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,Central African Republic,CAF,-1.747201,score,2019.0
+68,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Central African Republic,CAF,47.0,percent,2019.0
+69,Health,Mortality due to COVID-19,H6_Facial Coverings,Central African Republic,CAF,63.0,"Number (cumulative total by Dec 26,2020)",2020.0
+71,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Central African Republic,CAF,3.5,percent,2019.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,Central African Republic,CAF,-1.201646,score,2019.0
+74,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Central African Republic,CAF,100.0,percent of total,2017.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Central African Republic,CAF,-2.182968,score,2019.0
+77,Economics,Volume of exports,H6_Facial Coverings,Central African Republic,CAF,5.224,percent change,2020.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,Central African Republic,CAF,9.0,score,2021.0
+80,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Central African Republic,CAF,71.9410019,Percentage of total population,2020.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,Central African Republic,CAF,-1.728386,score,2019.0
+83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",H6_Facial Coverings,Central African Republic,CAF,2.5,rating,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,Central African Republic,CAF,32.4203987121582,percent of population,2018.0

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-MOZ,C6_Stay at home requirements,0.08658074372918048,1
-MOZ,H7_Vaccination policy,0.08514143134847628,2
-MOZ,C2_Workplace closing,0.07226907718434175,3
-MOZ,C1_School closing,0.06933534614586187,4
-MOZ,C8_International travel controls,0.0677438439223292,5
-MOZ,C7_Restrictions on internal movement,0.05598053285778106,6
-MOZ,H6_Facial Coverings,0.055903222761716616,7
-MOZ,C3_Cancel public events,0.05467322950207598,8
-MOZ,C5_Close public transport,0.054236709673920885,9
-MOZ,H1_Public information campaigns,0.04195097139786765,10
-MOZ,E1_Income support,0.0386625421693841,11
-MOZ,E2_Debt/contract relief,0.036954281443303365,12
-MOZ,C4_Restrictions on gatherings,0.03623923753254963,13
-MOZ,H2_Testing policy,0.027091286114116545,14
-MOZ,H3_Contact tracing,0.009010211004061382,15
+MOZ,C6_Stay at home requirements,0.0902641732937747,1
+MOZ,H7_Vaccination policy,0.0879204606958143,2
+MOZ,C7_Restrictions on internal movement,0.0860093614318245,3
+MOZ,C2_Workplace closing,0.08576980748469,4
+MOZ,C1_School closing,0.0842417481827251,5
+MOZ,C8_International travel controls,0.0786568752260158,6
+MOZ,H2_Testing policy,0.0544850358719121,7
+MOZ,H6_Facial Coverings,0.0524869975409307,8
+MOZ,C4_Restrictions on gatherings,0.0510683812749741,9
+MOZ,C5_Close public transport,0.0445676988086967,10
+MOZ,C3_Cancel public events,0.0408231052143116,11
+MOZ,H1_Public information campaigns,0.0281468415164292,12
+MOZ,E1_Income support,0.0126158371515506,13
+MOZ,E2_Debt/contract relief,0.0122964850721548,14
+MOZ,H3_Contact tracing,0.0084469747066472,15

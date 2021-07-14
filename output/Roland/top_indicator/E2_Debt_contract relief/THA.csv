@@ -1,106 +1,106 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Thailand,THA,66.6524,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Thailand,THA,36.0,score,2020.0
-3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Thailand,THA,4297.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Economics,Stock market capitalization (US$ million),E2_Debt/contract relief,Thailand,THA,569228320000.0,US Dollar,2019.0
-5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Thailand,THA,79.83902,percent of total,2014.0
-6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Thailand,THA,1403.808732255911,per 1 million people,2019.0
-7,Social issues ,Life Ladder ,E2_Debt/contract relief,Thailand,THA,5.9847002029418945,score,2021.0
-8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Thailand,THA,150.0,Cases,2019.0
-9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Thailand,THA,18.28799,Rate (risk-weighted prevalence),2019.0
-10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Thailand,THA,14.5188,per 100 people,2019.0
-11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Thailand,THA,96.0,percent,2019.0
-12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Thailand,THA,100.0,percent of total,2017.0
-13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Thailand,THA,60.0,"Number (cumulative total by Dec 26,2020)",2020.0
-14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Thailand,THA,2.9,percent,2018.0
-15,Social issues ,Press freedom score,E2_Debt/contract relief,Thailand,THA,44.94,score,2020.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Thailand,THA,46.3250008,Percentage of total employment,2020.0
-17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Thailand,THA,283763.5,kt,2016.0
-18,Governance,Control of corruption estimate,E2_Debt/contract relief,Thailand,THA,-0.4073985,score,2019.0
-19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Thailand,THA,0.318023,percent,2019.0
-20,Social issues ,Net migration,E2_Debt/contract relief,Thailand,THA,97222.0,net total / data are 5 year estimates,2019.0
-21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Thailand,THA,0.039603,percent,2019.0
-22,Governance,Economic Freedom Score,E2_Debt/contract relief,Thailand,THA,6.75,score,2018.0
-23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Thailand,THA,0.070922,percent,2019.0
-24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Thailand,THA,5.0,score,2021.0
-25,Economics,"Central government debt, total",E2_Debt/contract relief,Thailand,THA,35.27396297425183,percent of GDP,2015.0
-26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Thailand,THA,0.001725,percent,2019.0
-27,Economics,Volume of exports,E2_Debt/contract relief,Thailand,THA,4.317,percent change,2020.0
-28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Thailand,THA,58.9179993,Percentage of females of the total population,2020.0
-29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Thailand,THA,15.038305785651,percent of GNI,2018.0
-30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Thailand,THA,0.805,Ones,2018.0
-31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Thailand,THA,5.98,score,2018.0
-32,Governance,Human Development Index,E2_Debt/contract relief,Thailand,THA,0.777,index,2019.0
-33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Thailand,THA,22.8630701280756,percent of total final energy consumption,2015.0
-34,Demographics,Age dependency ratio (% of working-age population),E2_Debt/contract relief,Thailand,THA,41.30238573461192,proportion,2019.0
-35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Thailand,THA,9.2,percent,2020.0
-36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Thailand,THA,-0.5375581,score,2019.0
-37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Thailand,THA,1.0,percent,2019.0
-38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Thailand,THA,-0.8272713,score,2019.0
-39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Thailand,THA,2.5820036484,"proportion, pero 100,000 people",2017.0
-40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Thailand,THA,12.05166,percent of total energy,2014.0
-41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Thailand,THA,10439000000.0,kWh,2015.0
-42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Thailand,THA,33.91,percent,2018.0
-43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Thailand,THA,26.25673,micrograms per cubic meter,2017.0
-44,Environment,"Energy imports, net ",E2_Debt/contract relief,Thailand,THA,41.56815174142518,percent of energy use,2014.0
-45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Thailand,THA,0.166682,percent,2019.0
-46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Thailand,THA,25.0,score,2021.0
-47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Thailand,THA,0.5704320432043205,percent of total,2015.0
-48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Thailand,THA,36.4,index ,2018.0
-49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Thailand,THA,1969.00171876363,kg of oil equivalent per capita,2014.0
-50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Thailand,THA,0.036951,percent,2019.0
-51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Thailand,THA,186.159,per 100 people,2019.0
-52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Thailand,THA,0.3570563,score,2019.0
-53,Governance,Rule of law estimate ,E2_Debt/contract relief,Thailand,THA,0.1028816,score,2019.0
-54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Thailand,THA,4.114223,metric tons per capita,2016.0
-55,Health,Prevalence of total cancers,E2_Debt/contract relief,Thailand,THA,0.00967,percent,2019.0
-56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Thailand,THA,0.000104,percent,2019.0
-57,Environment,Electric power consumption ,E2_Debt/contract relief,Thailand,THA,2538.796380353639,kWh per capita,2014.0
-58,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E2_Debt/contract relief,Thailand,THA,0.0,proportion,2017.0
-59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Thailand,THA,30.0,score,2021.0
-61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Thailand,THA,0.80299997,percent of total labor force,2020.0
-63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Thailand,THA,15.74642127,proportion,2020.0
-64,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",E2_Debt/contract relief,Thailand,THA,14.9390001296997,proportion,2018.0
-65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Thailand,THA,97.0,percent,2019.0
-66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Thailand,THA,2614000.0,number,2019.0
-67,Social issues ,Progression to secondary school (%),E2_Debt/contract relief,Thailand,THA,98.49383,proportion,2017.0
-68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Thailand,THA,19.4543204320432,percent of total,2015.0
-69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Thailand,THA,91.46152115211521,percent of total,2015.0
-70,Demographics,Urban population (% of total population),E2_Debt/contract relief,Thailand,THA,50.692,total,2019.0
-71,Economics,Volume of imports,E2_Debt/contract relief,Thailand,THA,5.844,percent change,2020.0
-73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Thailand,THA,12.3,percent,2020.0
-74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Thailand,THA,0.116105,score,2019.0
-76,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Thailand,THA,98.7507346105258,proportion,2017.0
-77,Demographics,Rural population (% of total population),E2_Debt/contract relief,Thailand,THA,49.308,proportion,2019.0
-78,Demographics,Refugee population by country or territory of asylum,E2_Debt/contract relief,Thailand,THA,97556.0,proportion,2019.0
-79,Demographics,People with basic handwashing facilities including soap and water (% of population),E2_Debt/contract relief,Thailand,THA,83.9233581954672,proportion,2017.0
-80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Thailand,THA,70.81357974524154,score,2020.0
-81,Economics,"International tourism, receipts",E2_Debt/contract relief,Thailand,THA,60521000000.0,US Dollar,2019.0
-82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Thailand,THA,67.0370026,Percentage of total population,2020.0
-84,Social issues ,"Primary completion rate, total (% of relevant age group)",E2_Debt/contract relief,Thailand,THA,94.411376953125,proportion,2019.0
-85,Environment,Energy use ,E2_Debt/contract relief,Thailand,THA,124.0716111294026,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-86,Governance,Human Freedom Score ,E2_Debt/contract relief,Thailand,THA,6.37,score,2018.0
-87,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E2_Debt/contract relief,Thailand,THA,93.7677612304688,proportion,2018.0
-88,Demographics,"Age dependency ratio, old (% of working-age population)",E2_Debt/contract relief,Thailand,THA,17.53032770331833,proportion,2019.0
-89,Governance,Serious assault (rate),E2_Debt/contract relief,Thailand,THA,13.31,rate,2018.0
-91,Demographics,Age dependency ratio,E2_Debt/contract relief,Thailand,THA,41.30241,percent of total population,2019.0
-92,Economics,"Trade, total as % of GDP",E2_Debt/contract relief,Thailand,THA,84.49826,percent,2019.0
-96,Economics,Starting a Business (Score),E2_Debt/contract relief,Thailand,THA,92.4,Score,2019.0
-97,Demographics,Internet users (per 100 people),E2_Debt/contract relief,Thailand,THA,56.81748,per 100 population,2018.0
-98,Health,Prevalence of obesity,E2_Debt/contract relief,Thailand,THA,14.2,percent,2016.0
-100,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Thailand,THA,6315808260.0,US Dollar,2019.0
-101,Economics,"Lending interest rates, percent per annum",E2_Debt/contract relief,Thailand,THA,4.08417,percent per annum,2019.0
-102,Demographics,Mobile cellular (per 100 people),E2_Debt/contract relief,Thailand,THA,180.1826,per 100 population,2018.0
-103,Economics,Growth rates of household expenditure or income per capita (%),E2_Debt/contract relief,Thailand,THA,1.0,percent,2018.0
-104,Demographics,"Net migration rate, per 1000 population",E2_Debt/contract relief,Thailand,THA,0.281,per thousand persons,2015.0
-106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Thailand,THA,2.7593,Ones,2018.0
-107,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E2_Debt/contract relief,Thailand,THA,32113.5,international $ in PPP,2020.0
-108,Demographics,Fixed telephone (per 100 people),E2_Debt/contract relief,Thailand,THA,4.21873,per 100 population,2018.0
-109,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E2_Debt/contract relief,Thailand,THA,2.22008872032165,proportion,2017.0
-110,Demographics,"Population, total",E2_Debt/contract relief,Thailand,THA,69625582.0,total,2019.0
-111,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Thailand,THA,3.07589,percent,2019.0
-112,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Thailand,THA,1.29822,percent,2019.0
-113,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Thailand,THA,2.96895,percent,2019.0
+2,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Thailand,THA,2614000.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Thailand,THA,0.318023,percent,2019.0
+4,Health,Prevalence of COVID-19,E2_Debt/contract relief,Thailand,THA,4297.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,E2_Debt/contract relief,Thailand,THA,0.1028816,score,2019.0
+6,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Thailand,THA,0.805,Ones,2018.0
+7,Environment,Electricity production from oil sources,E2_Debt/contract relief,Thailand,THA,0.5704320432043205,percent of total,2015.0
+8,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Thailand,THA,0.80299997,percent of total labor force,2020.0
+9,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Thailand,THA,79.83902,percent of total,2014.0
+10,Governance,Human Freedom Score ,E2_Debt/contract relief,Thailand,THA,6.37,score,2018.0
+11,Governance,Voice and accountability estimate,E2_Debt/contract relief,Thailand,THA,-0.8272713,score,2019.0
+12,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Thailand,THA,14.5188,per 100 people,2019.0
+13,Governance,Personal Freedom Score ,E2_Debt/contract relief,Thailand,THA,5.98,score,2018.0
+14,Governance,Economic Freedom Score,E2_Debt/contract relief,Thailand,THA,6.75,score,2018.0
+15,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Thailand,THA,2.5820036484,"proportion, pero 100,000 people",2017.0
+16,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Thailand,THA,4.114223,metric tons per capita,2016.0
+17,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Thailand,THA,1969.00171876363,kg of oil equivalent per capita,2014.0
+18,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Thailand,THA,9.2,percent,2020.0
+19,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Thailand,THA,2.7593,Ones,2018.0
+20,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Thailand,THA,19.4543204320432,percent of total,2015.0
+21,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Thailand,THA,46.3250008,Percentage of total employment,2020.0
+22,Social issues ,Progression to secondary school (%),E2_Debt/contract relief,Thailand,THA,98.49383,proportion,2017.0
+23,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Thailand,THA,26.25673,micrograms per cubic meter,2017.0
+24,Health,Prevalence of total cancers,E2_Debt/contract relief,Thailand,THA,0.00967,percent,2019.0
+25,Social issues ,Net migration,E2_Debt/contract relief,Thailand,THA,97222.0,net total / data are 5 year estimates,2019.0
+26,Social issues ,Press freedom score,E2_Debt/contract relief,Thailand,THA,44.94,score,2020.0
+27,Environment,Combustible renewables and waste,E2_Debt/contract relief,Thailand,THA,12.05166,percent of total energy,2014.0
+28,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Thailand,THA,33.91,percent,2018.0
+29,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Thailand,THA,36.0,score,2020.0
+30,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E2_Debt/contract relief,Thailand,THA,32113.5,international $ in PPP,2020.0
+31,Economics,"Central government debt, total",E2_Debt/contract relief,Thailand,THA,35.27396297425183,percent of GDP,2015.0
+32,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Thailand,THA,12.3,percent,2020.0
+33,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Thailand,THA,10439000000.0,kWh,2015.0
+34,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Thailand,THA,0.039603,percent,2019.0
+35,Health,Prevalence of Diabetes,E2_Debt/contract relief,Thailand,THA,0.070922,percent,2019.0
+36,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Thailand,THA,150.0,Cases,2019.0
+37,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Thailand,THA,15.038305785651,percent of GNI,2018.0
+38,Demographics,Secure Internet servers ,E2_Debt/contract relief,Thailand,THA,1403.808732255911,per 1 million people,2019.0
+39,Governance,Fragile States Index Total ,E2_Debt/contract relief,Thailand,THA,70.81357974524154,score,2020.0
+40,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Thailand,THA,100.0,percent of total,2017.0
+41,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Thailand,THA,186.159,per 100 people,2019.0
+42,Social issues ,Life Ladder ,E2_Debt/contract relief,Thailand,THA,5.9847002029418945,score,2021.0
+43,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Thailand,THA,-0.5375581,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Thailand,THA,5.0,score,2021.0
+45,Health,Summary exposure value tobacco,E2_Debt/contract relief,Thailand,THA,18.28799,Rate (risk-weighted prevalence),2019.0
+46,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Thailand,THA,1.0,percent,2019.0
+47,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Thailand,THA,67.0370026,Percentage of total population,2020.0
+48,Environment,"Energy imports, net ",E2_Debt/contract relief,Thailand,THA,41.56815174142518,percent of energy use,2014.0
+49,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Thailand,THA,0.166682,percent,2019.0
+50,Governance,Government effectiveness estimate,E2_Debt/contract relief,Thailand,THA,0.3570563,score,2019.0
+51,Health,Prevalence of obesity,E2_Debt/contract relief,Thailand,THA,14.2,percent,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Thailand,THA,25.0,score,2021.0
+53,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Thailand,THA,58.9179993,Percentage of females of the total population,2020.0
+54,Health,Mortality due to COVID-19,E2_Debt/contract relief,Thailand,THA,60.0,"Number (cumulative total by Dec 26,2020)",2020.0
+56,Demographics,Rural population (% of total population),E2_Debt/contract relief,Thailand,THA,49.308,proportion,2019.0
+57,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Thailand,THA,97.0,percent,2019.0
+58,Environment,Energy use ,E2_Debt/contract relief,Thailand,THA,124.0716111294026,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+59,Economics,Volume of exports,E2_Debt/contract relief,Thailand,THA,4.317,percent change,2020.0
+60,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Thailand,THA,0.036951,percent,2019.0
+61,Governance,Regulatory quality estimate,E2_Debt/contract relief,Thailand,THA,0.116105,score,2019.0
+62,Demographics,Urban population (% of total population),E2_Debt/contract relief,Thailand,THA,50.692,total,2019.0
+63,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Thailand,THA,2.9,percent,2018.0
+64,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Thailand,THA,36.4,index ,2018.0
+65,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Thailand,THA,0.001725,percent,2019.0
+66,Social issues ,"Primary completion rate, total (% of relevant age group)",E2_Debt/contract relief,Thailand,THA,94.411376953125,proportion,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Thailand,THA,96.0,percent,2019.0
+68,Governance,Human Development Index,E2_Debt/contract relief,Thailand,THA,0.777,index,2019.0
+69,Environment,CO2 emissions (kt),E2_Debt/contract relief,Thailand,THA,283763.5,kt,2016.0
+70,Social issues ,Proportion of people living below 50 percent of median income (%),E2_Debt/contract relief,Thailand,THA,11.3,proportion,2018.0
+71,Governance,Total freedom in the world score ,E2_Debt/contract relief,Thailand,THA,30.0,score,2021.0
+72,Demographics,"Net migration rate, per 1000 population",E2_Debt/contract relief,Thailand,THA,0.281,per thousand persons,2015.0
+73,Health,Prevalence of down syndrome,E2_Debt/contract relief,Thailand,THA,0.000104,percent,2019.0
+74,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E2_Debt/contract relief,Thailand,THA,2.22008872032165,proportion,2017.0
+75,Demographics,"Population, total",E2_Debt/contract relief,Thailand,THA,69625582.0,total,2019.0
+76,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Thailand,THA,15.74642127,proportion,2020.0
+77,Governance,Control of corruption estimate,E2_Debt/contract relief,Thailand,THA,-0.4073985,score,2019.0
+79,Environment,Electric power consumption ,E2_Debt/contract relief,Thailand,THA,2538.796380353639,kWh per capita,2014.0
+80,Economics,Volume of imports,E2_Debt/contract relief,Thailand,THA,5.844,percent change,2020.0
+81,Environment,Access to electricity ,E2_Debt/contract relief,Thailand,THA,100.0,percent of population,2018.0
+82,Demographics,Refugee population by country or territory of asylum,E2_Debt/contract relief,Thailand,THA,97556.0,proportion,2019.0
+83,Demographics,People with basic handwashing facilities including soap and water (% of population),E2_Debt/contract relief,Thailand,THA,83.9233581954672,proportion,2017.0
+84,Economics,"Foreign direct investment, net",E2_Debt/contract relief,Thailand,THA,6315808260.0,US Dollar,2019.0
+85,Environment,Renewable energy consumption ,E2_Debt/contract relief,Thailand,THA,22.8630701280756,percent of total final energy consumption,2015.0
+88,Economics,Starting a Business (Score),E2_Debt/contract relief,Thailand,THA,92.4,Score,2019.0
+89,Economics,Stock market capitalization (US$ million),E2_Debt/contract relief,Thailand,THA,569228320000.0,US Dollar,2019.0
+90,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E2_Debt/contract relief,Thailand,THA,93.7677612304688,proportion,2018.0
+91,Economics,"Lending interest rates, percent per annum",E2_Debt/contract relief,Thailand,THA,4.08417,percent per annum,2019.0
+92,Demographics,Internet users (per 100 people),E2_Debt/contract relief,Thailand,THA,56.81748,per 100 population,2018.0
+93,Economics,"Trade, total as % of GDP",E2_Debt/contract relief,Thailand,THA,84.49826,percent,2019.0
+94,Demographics,"Age dependency ratio, old (% of working-age population)",E2_Debt/contract relief,Thailand,THA,17.53032770331833,proportion,2019.0
+95,Demographics,Age dependency ratio (% of working-age population),E2_Debt/contract relief,Thailand,THA,41.30238573461192,proportion,2019.0
+96,Economics,"International tourism, receipts",E2_Debt/contract relief,Thailand,THA,60521000000.0,US Dollar,2019.0
+97,Demographics,Age dependency ratio,E2_Debt/contract relief,Thailand,THA,41.30241,percent of total population,2019.0
+98,Demographics,Fixed telephone (per 100 people),E2_Debt/contract relief,Thailand,THA,4.21873,per 100 population,2018.0
+100,Governance,Serious assault (rate),E2_Debt/contract relief,Thailand,THA,13.31,rate,2018.0
+101,Demographics,Mobile cellular (per 100 people),E2_Debt/contract relief,Thailand,THA,180.1826,per 100 population,2018.0
+104,Economics,Expenditure on social protection (% of GDP),E2_Debt/contract relief,Thailand,THA,3.07589,percent,2019.0
+105,Economics,Expenditure on health (% of GDP),E2_Debt/contract relief,Thailand,THA,1.29822,percent,2019.0
+107,Economics,Expenditure on education (% of GDP),E2_Debt/contract relief,Thailand,THA,2.96895,percent,2019.0
+109,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E2_Debt/contract relief,Thailand,THA,0.0,proportion,2017.0
+110,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Thailand,THA,98.7507346105258,proportion,2017.0
+114,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Thailand,THA,91.46152115211521,percent of total,2015.0
 115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Thailand,THA,0.0,percent of total,2014.0
-116,Social issues ,Proportion of people living below 50 percent of median income (%),E2_Debt/contract relief,Thailand,THA,11.3,proportion,2018.0
-117,Environment,Access to electricity ,E2_Debt/contract relief,Thailand,THA,100.0,percent of population,2018.0
+116,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",E2_Debt/contract relief,Thailand,THA,14.9390001296997,proportion,2018.0
+117,Economics,Growth rates of household expenditure or income per capita (%),E2_Debt/contract relief,Thailand,THA,1.0,percent,2018.0

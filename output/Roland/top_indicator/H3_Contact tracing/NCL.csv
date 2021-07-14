@@ -1,27 +1,27 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H3_Contact tracing,New Caledonia,NCL,82.0058,percent of population,2019.0
-3,Health,Prevalence of COVID-19,H3_Contact tracing,New Caledonia,NCL,37.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Demographics,Secure Internet servers ,H3_Contact tracing,New Caledonia,NCL,4617.790132036136,per 1 million people,2019.0
-6,Health,Mortality due to COVID-19,H3_Contact tracing,New Caledonia,NCL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Demographics,Mobile cellular subscriptions,H3_Contact tracing,New Caledonia,NCL,96.0201,per 100 people,2019.0
-10,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,New Caledonia,NCL,57.4630013,Percentage of females of the total population,2020.0
-15,Environment,CO2 emissions (kt),H3_Contact tracing,New Caledonia,NCL,5328.151,kt,2016.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,New Caledonia,NCL,77.473999,Percentage of total employment,2020.0
-19,Demographics,Fixed broadband subscriptions,H3_Contact tracing,New Caledonia,NCL,20.4272,per 100 people,2019.0
-26,Demographics,Age dependency ratio (% of working-age population),H3_Contact tracing,New Caledonia,NCL,46.75811427551567,proportion,2019.0
+2,Demographics,Fixed telephone subscriptions,H3_Contact tracing,New Caledonia,NCL,77719.0,number,2019.0
+4,Health,Prevalence of COVID-19,H3_Contact tracing,New Caledonia,NCL,37.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Health,Mortality due to COVID-19,H3_Contact tracing,New Caledonia,NCL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+15,Demographics,Fixed broadband subscriptions,H3_Contact tracing,New Caledonia,NCL,20.4272,per 100 people,2019.0
+20,Economics,Employment in services (% of total employment) (modeled ILO estimate),H3_Contact tracing,New Caledonia,NCL,77.473999,Percentage of total employment,2020.0
+25,Environment,Renewable energy consumption ,H3_Contact tracing,New Caledonia,NCL,4.75922121144079,percent of total final energy consumption,2015.0
 28,Social issues ,Net migration,H3_Contact tracing,New Caledonia,NCL,2510.0,net total / data are 5 year estimates,2019.0
-37,Environment,Renewable energy consumption ,H3_Contact tracing,New Caledonia,NCL,4.75922121144079,percent of total final energy consumption,2015.0
-43,Demographics,Rural population (% of total population),H3_Contact tracing,New Caledonia,NCL,28.896,proportion,2019.0
-45,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,New Caledonia,NCL,19.2665,metric tons per capita,2016.0
-50,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,New Caledonia,NCL,97.8000030517578,proportion,2014.0
-51,Environment,Access to electricity ,H3_Contact tracing,New Caledonia,NCL,100.0,percent of population,2018.0
-52,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,New Caledonia,NCL,12.7810001,percent of total labor force,2020.0
-63,Demographics,"Population, total",H3_Contact tracing,New Caledonia,NCL,287800.0,total,2019.0
-70,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,New Caledonia,NCL,62.8320007,Percentage of total population,2020.0
-73,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,New Caledonia,NCL,9.4,Cases,2019.0
-74,Demographics,Fixed telephone subscriptions,H3_Contact tracing,New Caledonia,NCL,77719.0,number,2019.0
-86,Demographics,Urban population (% of total population),H3_Contact tracing,New Caledonia,NCL,71.104,total,2019.0
-87,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H3_Contact tracing,New Caledonia,NCL,135018.7,international $ in PPP,2020.0
-106,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,New Caledonia,NCL,100.0,proportion,2017.0
-107,Demographics,People using safely managed drinking water services (% of population),H3_Contact tracing,New Caledonia,NCL,96.660852173958,proportion,2017.0
-112,Demographics,"Age dependency ratio, old (% of working-age population)",H3_Contact tracing,New Caledonia,NCL,13.83442543535351,proportion,2019.0
+31,Demographics,Secure Internet servers ,H3_Contact tracing,New Caledonia,NCL,4617.790132036136,per 1 million people,2019.0
+34,Health,"Incidence of tuberculosis (per 100,000 people)",H3_Contact tracing,New Caledonia,NCL,9.4,Cases,2019.0
+37,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H3_Contact tracing,New Caledonia,NCL,57.4630013,Percentage of females of the total population,2020.0
+41,Environment,CO2 emissions (kt),H3_Contact tracing,New Caledonia,NCL,5328.151,kt,2016.0
+43,Demographics,Age dependency ratio (% of working-age population),H3_Contact tracing,New Caledonia,NCL,46.75811427551567,proportion,2019.0
+48,Demographics,"Population, total",H3_Contact tracing,New Caledonia,NCL,287800.0,total,2019.0
+50,Demographics,Mobile cellular subscriptions,H3_Contact tracing,New Caledonia,NCL,96.0201,per 100 people,2019.0
+60,Demographics,Urban population (% of total population),H3_Contact tracing,New Caledonia,NCL,71.104,total,2019.0
+71,Environment,Access to electricity ,H3_Contact tracing,New Caledonia,NCL,100.0,percent of population,2018.0
+77,Demographics,People using at least basic sanitation services (% of population),H3_Contact tracing,New Caledonia,NCL,100.0,proportion,2017.0
+80,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H3_Contact tracing,New Caledonia,NCL,12.7810001,percent of total labor force,2020.0
+83,Demographics,Rural population (% of total population),H3_Contact tracing,New Caledonia,NCL,28.896,proportion,2019.0
+87,Environment,CO2 emissions (metric tons per capita),H3_Contact tracing,New Caledonia,NCL,19.2665,metric tons per capita,2016.0
+88,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H3_Contact tracing,New Caledonia,NCL,97.8000030517578,proportion,2014.0
+93,Demographics,"Age dependency ratio, old (% of working-age population)",H3_Contact tracing,New Caledonia,NCL,13.83442543535351,proportion,2019.0
+96,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H3_Contact tracing,New Caledonia,NCL,62.8320007,Percentage of total population,2020.0
+105,Demographics,People using safely managed drinking water services (% of population),H3_Contact tracing,New Caledonia,NCL,96.660852173958,proportion,2017.0
+108,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",H3_Contact tracing,New Caledonia,NCL,135018.7,international $ in PPP,2020.0

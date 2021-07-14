@@ -1,7 +1,7 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 3,Health,Prevalence of COVID-19,C2_Workplace closing,Isle of Man,IMN,373.0,"Number (cumulative total by Dec 26,2020)",2020.0
-36,Health,Mortality due to COVID-19,C2_Workplace closing,Isle of Man,IMN,25.0,"Number (cumulative total by Dec 26,2020)",2020.0
-51,Environment,Access to electricity ,C2_Workplace closing,Isle of Man,IMN,100.0,percent of population,2018.0
-53,Demographics,Secure Internet servers ,C2_Workplace closing,Isle of Man,IMN,9860.020807717772,per 1 million people,2019.0
-86,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Isle of Man,IMN,0.0,"proportion, pero 100,000 people",2016.0
-110,Environment,Renewable energy consumption ,C2_Workplace closing,Isle of Man,IMN,4.2075897300392,percent of total final energy consumption,2015.0
+19,Environment,Renewable energy consumption ,C2_Workplace closing,Isle of Man,IMN,4.2075897300392,percent of total final energy consumption,2015.0
+58,Demographics,Secure Internet servers ,C2_Workplace closing,Isle of Man,IMN,9860.020807717772,per 1 million people,2019.0
+73,Social issues ,"Intentional homicides (per 100,000 people)",C2_Workplace closing,Isle of Man,IMN,0.0,"proportion, pero 100,000 people",2016.0
+83,Health,Mortality due to COVID-19,C2_Workplace closing,Isle of Man,IMN,25.0,"Number (cumulative total by Dec 26,2020)",2020.0
+90,Environment,Access to electricity ,C2_Workplace closing,Isle of Man,IMN,100.0,percent of population,2018.0

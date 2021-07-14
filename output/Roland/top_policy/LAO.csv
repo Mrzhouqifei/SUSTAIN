@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-LAO,H7_Vaccination policy,0.08583236443042074,1
-LAO,C5_Close public transport,0.07246470201777534,2
-LAO,E1_Income support,0.06911514082744619,3
-LAO,C6_Stay at home requirements,0.06587266312058596,4
-LAO,C3_Cancel public events,0.06356337415805732,5
-LAO,H3_Contact tracing,0.05922225843369775,6
-LAO,C8_International travel controls,0.05495174315706231,7
-LAO,H2_Testing policy,0.05334331549307269,8
-LAO,C2_Workplace closing,0.05135554664007521,9
-LAO,C4_Restrictions on gatherings,0.05058061562691405,10
-LAO,H6_Facial Coverings,0.0479673300564682,11
-LAO,E2_Debt/contract relief,0.04605801731103978,12
-LAO,H1_Public information campaigns,0.04023085080020362,13
-LAO,C7_Restrictions on internal movement,0.02159153918499095,14
+LAO,H7_Vaccination policy,0.088302293323561,1
+LAO,H6_Facial Coverings,0.0852081172249739,2
+LAO,C4_Restrictions on gatherings,0.0796455847009488,3
+LAO,C7_Restrictions on internal movement,0.0705321836665458,4
+LAO,E1_Income support,0.0699017105688883,5
+LAO,C6_Stay at home requirements,0.0692153242309202,6
+LAO,C5_Close public transport,0.0678944939482116,7
+LAO,C3_Cancel public events,0.067081404100881,8
+LAO,H3_Contact tracing,0.0666874906315627,9
+LAO,C8_International travel controls,0.0544233416233296,10
+LAO,H2_Testing policy,0.0516993654558804,11
+LAO,E2_Debt/contract relief,0.0469449086276876,12
+LAO,H1_Public information campaigns,0.0275898016244053,13
+LAO,C2_Workplace closing,0.0159665936029256,14
 LAO,C1_School closing,0.0,15

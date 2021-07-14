@@ -1,16 +1,16 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 3,Health,Prevalence of COVID-19,H7_Vaccination policy,Niue,NIU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-14,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Niue,NIU,0.335029,percent,2019.0
-18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Niue,NIU,5.5,percent,2018.0
-20,Health,Summary exposure value tobacco,H7_Vaccination policy,Niue,NIU,25.73212,Rate (risk-weighted prevalence),2019.0
-21,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Niue,NIU,0.043864,percent,2019.0
-28,Health,Prevalence of total cancers,H7_Vaccination policy,Niue,NIU,0.011615,percent,2019.0
-31,Health,Prevalence of obesity,H7_Vaccination policy,Niue,NIU,50.0,percent,2016.0
-34,Health,Mortality due to COVID-19,H7_Vaccination policy,Niue,NIU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-45,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Niue,NIU,0.145487,percent,2019.0
-51,Health,Prevalence of down syndrome,H7_Vaccination policy,Niue,NIU,0.000115,percent,2019.0
-65,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Niue,NIU,0.035593,percent,2019.0
-69,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Niue,NIU,0.005076,percent,2019.0
-70,Health,Prevalence of Diabetes,H7_Vaccination policy,Niue,NIU,0.210708,percent,2019.0
-98,Economics,"Trade, total as % of GDP",H7_Vaccination policy,Niue,NIU,65.00378,percent,2018.0
-107,Economics,"International tourism, receipts",H7_Vaccination policy,Niue,NIU,8000000.0,US Dollar,2017.0
+9,Health,Prevalence of total cancers,H7_Vaccination policy,Niue,NIU,0.011615,percent,2019.0
+11,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H7_Vaccination policy,Niue,NIU,5.5,percent,2018.0
+15,Health,Prevalence of Respiratory infections and tuberculosis,H7_Vaccination policy,Niue,NIU,0.335029,percent,2019.0
+18,Health,Prevalence of Diabetes,H7_Vaccination policy,Niue,NIU,0.210708,percent,2019.0
+21,Health,Summary exposure value tobacco,H7_Vaccination policy,Niue,NIU,25.73212,Rate (risk-weighted prevalence),2019.0
+26,Health,Prevalence of anxiety disorders,H7_Vaccination policy,Niue,NIU,0.043864,percent,2019.0
+32,Health,Prevalence of chronic kidney disease,H7_Vaccination policy,Niue,NIU,0.145487,percent,2019.0
+33,Health,Mortality due to COVID-19,H7_Vaccination policy,Niue,NIU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+38,Health,Prevalence of down syndrome,H7_Vaccination policy,Niue,NIU,0.000115,percent,2019.0
+45,Health,Prevalence of obesity,H7_Vaccination policy,Niue,NIU,50.0,percent,2016.0
+46,Health,Prevalence of Hypertensive heart disease,H7_Vaccination policy,Niue,NIU,0.005076,percent,2019.0
+62,Health,Prevalence of Depressive disorders,H7_Vaccination policy,Niue,NIU,0.035593,percent,2019.0
+101,Economics,"Trade, total as % of GDP",H7_Vaccination policy,Niue,NIU,65.00378,percent,2018.0
+102,Economics,"International tourism, receipts",H7_Vaccination policy,Niue,NIU,8000000.0,US Dollar,2017.0

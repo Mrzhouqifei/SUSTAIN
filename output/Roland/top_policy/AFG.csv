@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-AFG,H6_Facial Coverings,0.09882370470947002,1
-AFG,H1_Public information campaigns,0.09532489891684198,2
-AFG,H2_Testing policy,0.07376580671777007,3
+AFG,H6_Facial Coverings,0.09882370470947,1
+AFG,H1_Public information campaigns,0.095324898916842,2
+AFG,H2_Testing policy,0.07376580671777,3
 AFG,C8_International travel controls,0.0640579020791387,4
-AFG,H7_Vaccination policy,0.06015811056702505,5
-AFG,C2_Workplace closing,0.05877076478393115,6
-AFG,H3_Contact tracing,0.05775320276915846,7
-AFG,E2_Debt/contract relief,0.05608932059071888,8
-AFG,C1_School closing,0.05468900402588034,9
-AFG,C7_Restrictions on internal movement,0.05071624851139698,10
-AFG,C3_Cancel public events,0.047862143332613766,11
-AFG,C5_Close public transport,0.038435008278694144,12
-AFG,C4_Restrictions on gatherings,0.032360762263505094,13
-AFG,C6_Stay at home requirements,0.0302198972204856,14
-AFG,E1_Income support,0.030025441320655308,15
+AFG,H7_Vaccination policy,0.060158110567025,5
+AFG,C2_Workplace closing,0.0587707647839311,6
+AFG,H3_Contact tracing,0.0577532027691584,7
+AFG,E2_Debt/contract relief,0.0560893205907188,8
+AFG,C1_School closing,0.0546890040258803,9
+AFG,C7_Restrictions on internal movement,0.0507162485113969,10
+AFG,C3_Cancel public events,0.0478621433326137,11
+AFG,C5_Close public transport,0.0384350082786941,12
+AFG,C4_Restrictions on gatherings,0.032360762263505,13
+AFG,C6_Stay at home requirements,0.0302198972204855,14
+AFG,E1_Income support,0.0300254413206553,15

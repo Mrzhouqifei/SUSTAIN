@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-LKA,H7_Vaccination policy,0.10438102945269427,1
-LKA,C6_Stay at home requirements,0.10130936945474882,2
-LKA,C7_Restrictions on internal movement,0.09958166326896584,3
-LKA,H2_Testing policy,0.08520089824257157,4
-LKA,C8_International travel controls,0.06933286616586493,5
-LKA,C1_School closing,0.06780844157690141,6
-LKA,C4_Restrictions on gatherings,0.06211437803490495,7
-LKA,C3_Cancel public events,0.06198803331105829,8
-LKA,C5_Close public transport,0.05293141190589669,9
-LKA,E2_Debt/contract relief,0.03992899662181657,10
-LKA,H6_Facial Coverings,0.020361065757385017,11
-LKA,C2_Workplace closing,0.018238560389293352,12
-LKA,H1_Public information campaigns,0.009990839855340505,13
-LKA,H3_Contact tracing,0.004887132317781905,14
-LKA,E1_Income support,0.0,15
+LKA,H7_Vaccination policy,0.092941037650917,1
+LKA,H2_Testing policy,0.0886742424018604,2
+LKA,C8_International travel controls,0.0762674112866201,3
+LKA,C1_School closing,0.0720613084183008,4
+LKA,C4_Restrictions on gatherings,0.0708906584863575,5
+LKA,C5_Close public transport,0.0706173309644983,6
+LKA,C3_Cancel public events,0.0680886671880332,7
+LKA,H6_Facial Coverings,0.0613136508309149,8
+LKA,E2_Debt/contract relief,0.0440925901135423,9
+LKA,C7_Restrictions on internal movement,0.0399293031694444,10
+LKA,C2_Workplace closing,0.0222378233896839,11
+LKA,H1_Public information campaigns,0.0212014686121008,12
+LKA,C6_Stay at home requirements,0.020330527033239,13
+LKA,E1_Income support,0.0048917024040098,14
+LKA,H3_Contact tracing,0.0,15

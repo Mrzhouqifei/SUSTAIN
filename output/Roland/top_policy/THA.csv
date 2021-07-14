@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-THA,H7_Vaccination policy,0.10393935005398014,1
-THA,C1_School closing,0.08709939741481007,2
-THA,C4_Restrictions on gatherings,0.08345219184290317,3
-THA,H2_Testing policy,0.07540349661971353,4
-THA,C7_Restrictions on internal movement,0.07520471095888044,5
-THA,H6_Facial Coverings,0.06732299244738497,6
-THA,C2_Workplace closing,0.06418581312971965,7
-THA,C3_Cancel public events,0.05540007958597812,8
-THA,C8_International travel controls,0.05169550434990222,9
-THA,E2_Debt/contract relief,0.049392309249280966,10
-THA,C6_Stay at home requirements,0.03848127834328302,11
-THA,H3_Contact tracing,0.030679134619158537,12
-THA,C5_Close public transport,0.029496825892212537,13
-THA,E1_Income support,0.011283004788073713,14
-THA,H1_Public information campaigns,0.003552291875732928,15
+THA,H7_Vaccination policy,0.1026871575854896,1
+THA,C1_School closing,0.089474963278943,2
+THA,C4_Restrictions on gatherings,0.0797738488668946,3
+THA,H2_Testing policy,0.0706523802434736,4
+THA,H6_Facial Coverings,0.0705514276126998,5
+THA,C2_Workplace closing,0.0632916668937327,6
+THA,C7_Restrictions on internal movement,0.0631075749049275,7
+THA,C8_International travel controls,0.0612394808603372,8
+THA,E2_Debt/contract relief,0.0539868961796768,9
+THA,C6_Stay at home requirements,0.0466681756947193,10
+THA,H3_Contact tracing,0.0348697521241568,11
+THA,C3_Cancel public events,0.0343775891951491,12
+THA,C5_Close public transport,0.0227263968307085,13
+THA,E1_Income support,0.01719086522172,14
+THA,H1_Public information campaigns,0.0,15

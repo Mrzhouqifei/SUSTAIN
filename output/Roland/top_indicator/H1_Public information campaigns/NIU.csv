@@ -1,16 +1,16 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+3,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Niue,NIU,0.335029,percent,2019.0
 4,Health,Prevalence of COVID-19,H1_Public information campaigns,Niue,NIU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Mortality due to COVID-19,H1_Public information campaigns,Niue,NIU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Summary exposure value tobacco,H1_Public information campaigns,Niue,NIU,25.73212,Rate (risk-weighted prevalence),2019.0
-18,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Niue,NIU,0.043864,percent,2019.0
-34,Health,Prevalence of down syndrome,H1_Public information campaigns,Niue,NIU,0.000115,percent,2019.0
-40,Health,Prevalence of Respiratory infections and tuberculosis,H1_Public information campaigns,Niue,NIU,0.335029,percent,2019.0
-48,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Niue,NIU,0.005076,percent,2019.0
-50,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Niue,NIU,0.035593,percent,2019.0
-53,Health,Prevalence of obesity,H1_Public information campaigns,Niue,NIU,50.0,percent,2016.0
-59,Health,Prevalence of total cancers,H1_Public information campaigns,Niue,NIU,0.011615,percent,2019.0
-68,Health,Prevalence of Diabetes,H1_Public information campaigns,Niue,NIU,0.210708,percent,2019.0
-78,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Niue,NIU,0.145487,percent,2019.0
-88,Economics,"Trade, total as % of GDP",H1_Public information campaigns,Niue,NIU,65.00378,percent,2018.0
-108,Economics,"International tourism, receipts",H1_Public information campaigns,Niue,NIU,8000000.0,US Dollar,2017.0
-109,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Niue,NIU,5.5,percent,2018.0
+8,Health,Prevalence of chronic kidney disease,H1_Public information campaigns,Niue,NIU,0.145487,percent,2019.0
+21,Health,Prevalence of Diabetes,H1_Public information campaigns,Niue,NIU,0.210708,percent,2019.0
+23,Health,Prevalence of anxiety disorders,H1_Public information campaigns,Niue,NIU,0.043864,percent,2019.0
+30,Health,Prevalence of obesity,H1_Public information campaigns,Niue,NIU,50.0,percent,2016.0
+31,Health,Summary exposure value tobacco,H1_Public information campaigns,Niue,NIU,25.73212,Rate (risk-weighted prevalence),2019.0
+41,Health,Prevalence of Depressive disorders,H1_Public information campaigns,Niue,NIU,0.035593,percent,2019.0
+56,Health,Prevalence of total cancers,H1_Public information campaigns,Niue,NIU,0.011615,percent,2019.0
+59,Economics,"International tourism, receipts",H1_Public information campaigns,Niue,NIU,8000000.0,US Dollar,2017.0
+60,Health,Prevalence of down syndrome,H1_Public information campaigns,Niue,NIU,0.000115,percent,2019.0
+75,Health,Mortality due to COVID-19,H1_Public information campaigns,Niue,NIU,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+95,Economics,"Trade, total as % of GDP",H1_Public information campaigns,Niue,NIU,65.00378,percent,2018.0
+111,Health,Prevalence of Hypertensive heart disease,H1_Public information campaigns,Niue,NIU,0.005076,percent,2019.0
+113,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H1_Public information campaigns,Niue,NIU,5.5,percent,2018.0

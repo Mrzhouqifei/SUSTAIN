@@ -2,84 +2,84 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,Suriname,SUR,48.9452,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Suriname,SUR,0.299624,percent,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Suriname,SUR,92756.0,number,2019.0
-4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Suriname,SUR,69.0680008,Percentage of total employment,2020.0
-5,Health,Prevalence of COVID-19,H6_Facial Coverings,Suriname,SUR,5428.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Suriname,SUR,0.050958,percent,2019.0
-7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Suriname,SUR,38.8069992,Percentage of females of the total population,2020.0
-8,Governance,Economic Freedom Score,H6_Facial Coverings,Suriname,SUR,6.37,score,2018.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Suriname,SUR,139.987,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Suriname,SUR,4.0,percent,2020.0
-12,Governance,Personal Freedom Score ,H6_Facial Coverings,Suriname,SUR,8.24,score,2018.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Suriname,SUR,13.8156,per 100 people,2019.0
-14,Social issues ,Net migration,H6_Facial Coverings,Suriname,SUR,-4999.0,net total / data are 5 year estimates,2019.0
-15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Suriname,SUR,0.002653,percent,2019.0
-16,Health,Mortality due to COVID-19,H6_Facial Coverings,Suriname,SUR,117.0,"Number (cumulative total by Dec 26,2020)",2020.0
-17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Suriname,SUR,1.2101,Ones,2018.0
-18,Health,Prevalence of total cancers,H6_Facial Coverings,Suriname,SUR,0.007681,percent,2019.0
-19,Environment,Combustible renewables and waste,H6_Facial Coverings,Suriname,SUR,6.917738,percent of total energy,2014.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,Suriname,SUR,79.0,score,2021.0
-21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Suriname,SUR,51.0130005,Percentage of total population,2020.0
-23,Health,Prevalence of obesity,H6_Facial Coverings,Suriname,SUR,8.6,percent,2016.0
-25,Health,Prevalence of down syndrome,H6_Facial Coverings,Suriname,SUR,0.000312,percent,2019.0
-26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Suriname,SUR,0.0,kWh,2015.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,Suriname,SUR,-0.3932373,score,2019.0
-29,Health,Summary exposure value tobacco,H6_Facial Coverings,Suriname,SUR,23.97458,Rate (risk-weighted prevalence),2019.0
-30,Governance,Fragile States Index Total ,H6_Facial Coverings,Suriname,SUR,60.12230683109472,score,2020.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Suriname,SUR,5.3,percent,2018.0
-33,Governance,Serious assault (rate),H6_Facial Coverings,Suriname,SUR,63.1,rate,2017.0
-34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Suriname,SUR,76.2535,percent of total,2014.0
-35,Environment,Electricity production from coal sources ,H6_Facial Coverings,Suriname,SUR,0.0,percent of total,2015.0
-36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Suriname,SUR,24.78001,micrograms per cubic meter,2017.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,Suriname,SUR,24.9131103610308,percent of total final energy consumption,2015.0
-38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Suriname,SUR,8.0,percent,2020.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Suriname,SUR,29.0,Cases,2019.0
-40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Suriname,SUR,39.94685562444641,percent of total,2015.0
-41,Demographics,Urban population (% of total population),H6_Facial Coverings,Suriname,SUR,66.095,total,2019.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,Suriname,SUR,1738.158,kt,2016.0
-43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Suriname,SUR,64.0,percent,2019.0
-44,Economics,Volume of imports,H6_Facial Coverings,Suriname,SUR,3.288,percent change,2020.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,Suriname,SUR,17.5,score,2020.0
-47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Suriname,SUR,2.7569,Ones,2018.0
-48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Suriname,SUR,29.41176471,proportion,2020.0
-49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Suriname,SUR,0.044546,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Suriname,SUR,3.077023,metric tons per capita,2016.0
-51,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Suriname,SUR,44.0,proportion,2019.0
-52,Governance,Human Development Index,H6_Facial Coverings,Suriname,SUR,0.738,index,2019.0
-53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Suriname,SUR,38.0,score,2020.0
-55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Suriname,SUR,100.0,percent of total,2017.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Suriname,SUR,0.1134033,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,Suriname,SUR,0.3897825,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,Suriname,SUR,526.3492860742772,per 1 million people,2019.0
-59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Suriname,SUR,77.0,percent,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,Suriname,SUR,-0.6795514,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Suriname,SUR,34.0,score,2021.0
-62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Suriname,SUR,5.433820449,"proportion, pero 100,000 people",2017.0
-64,Health,Prevalence of Diabetes,H6_Facial Coverings,Suriname,SUR,0.117576,percent,2019.0
-65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Suriname,SUR,1.3,percent,2019.0
-66,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,Suriname,SUR,10.61714446376691,proportion,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Suriname,SUR,45.0,score,2021.0
-68,Governance,Human Freedom Score ,H6_Facial Coverings,Suriname,SUR,7.31,score,2018.0
-69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Suriname,SUR,0.0,percent of total,2014.0
-70,Economics,Volume of exports,H6_Facial Coverings,Suriname,SUR,2.296,percent change,2020.0
-71,Environment,"Energy imports, net ",H6_Facial Coverings,Suriname,SUR,-43.75983538856124,percent of energy use,2014.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,Suriname,SUR,-0.5900614,score,2019.0
-75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Suriname,SUR,7.47200012,percent of total labor force,2020.0
-76,Social issues ,Progression to secondary school (%),H6_Facial Coverings,Suriname,SUR,66.37433,proportion,2017.0
-78,Environment,Access to electricity ,H6_Facial Coverings,Suriname,SUR,97.4,percent of population,2018.0
-80,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H6_Facial Coverings,Suriname,SUR,0.0203522518277168,proportion,2016.0
-82,Environment,Electricity production from oil sources,H6_Facial Coverings,Suriname,SUR,39.94685562444641,percent of total,2015.0
-83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Suriname,SUR,0.097263,percent,2019.0
-84,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Suriname,SUR,84.4575831711356,proportion,2017.0
-85,Demographics,"Population, total",H6_Facial Coverings,Suriname,SUR,581363.0,total,2019.0
-86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Suriname,SUR,37.27,percent,2015.0
-87,Health,Hospital beds (per 10 000 population),H6_Facial Coverings,Suriname,SUR,30.0,Ones,2017.0
-88,Demographics,Rural population (% of total population),H6_Facial Coverings,Suriname,SUR,33.905,proportion,2019.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,Suriname,SUR,-0.0596512,score,2019.0
-92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Suriname,SUR,1247.311478135765,kg of oil equivalent per capita,2014.0
-93,Environment,Energy use ,H6_Facial Coverings,Suriname,SUR,68.58189155665983,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-94,Demographics,People with basic handwashing facilities including soap and water (% of population),H6_Facial Coverings,Suriname,SUR,67.7789706544644,proportion,2014.0
-96,Environment,Electric power consumption ,H6_Facial Coverings,Suriname,SUR,3596.745216690344,kWh per capita,2014.0
-100,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,Suriname,SUR,51.34774187501952,proportion,2019.0
-107,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H6_Facial Coverings,Suriname,SUR,94.3832702636719,proportion,2018.0
-108,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Suriname,SUR,85.8640823364258,proportion,2019.0
-115,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H6_Facial Coverings,Suriname,SUR,4.87027931213379,proportion,2016.0
+4,Health,Prevalence of COVID-19,H6_Facial Coverings,Suriname,SUR,5428.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Suriname,SUR,38.8069992,Percentage of females of the total population,2020.0
+6,Environment,"Energy imports, net ",H6_Facial Coverings,Suriname,SUR,-43.75983538856124,percent of energy use,2014.0
+7,Governance,Economic Freedom Score,H6_Facial Coverings,Suriname,SUR,6.37,score,2018.0
+8,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Suriname,SUR,0.097263,percent,2019.0
+9,Governance,Personal Freedom Score ,H6_Facial Coverings,Suriname,SUR,8.24,score,2018.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Suriname,SUR,45.0,score,2021.0
+11,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Suriname,SUR,37.27,percent,2015.0
+12,Environment,Combustible renewables and waste,H6_Facial Coverings,Suriname,SUR,6.917738,percent of total energy,2014.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Suriname,SUR,34.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Suriname,SUR,13.8156,per 100 people,2019.0
+16,Economics,Volume of imports,H6_Facial Coverings,Suriname,SUR,3.288,percent change,2020.0
+17,Social issues ,"Primary completion rate, total (% of relevant age group)",H6_Facial Coverings,Suriname,SUR,85.8640823364258,proportion,2019.0
+18,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Suriname,SUR,0.0,kWh,2015.0
+19,Social issues ,Net migration,H6_Facial Coverings,Suriname,SUR,-4999.0,net total / data are 5 year estimates,2019.0
+20,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Suriname,SUR,5.3,percent,2018.0
+21,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Suriname,SUR,5.433820449,"proportion, pero 100,000 people",2017.0
+23,Environment,Electricity production from oil sources,H6_Facial Coverings,Suriname,SUR,39.94685562444641,percent of total,2015.0
+24,Health,Prevalence of obesity,H6_Facial Coverings,Suriname,SUR,8.6,percent,2016.0
+25,Environment,Energy use ,H6_Facial Coverings,Suriname,SUR,68.58189155665983,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+27,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Suriname,SUR,24.78001,micrograms per cubic meter,2017.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,Suriname,SUR,1738.158,kt,2016.0
+29,Governance,Corruption Perceptions Index,H6_Facial Coverings,Suriname,SUR,38.0,score,2020.0
+30,Health,Prevalence of Diabetes,H6_Facial Coverings,Suriname,SUR,0.117576,percent,2019.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,Suriname,SUR,24.9131103610308,percent of total final energy consumption,2015.0
+32,Environment,Electric power consumption ,H6_Facial Coverings,Suriname,SUR,3596.745216690344,kWh per capita,2014.0
+34,Governance,Fragile States Index Total ,H6_Facial Coverings,Suriname,SUR,60.12230683109472,score,2020.0
+35,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Suriname,SUR,39.94685562444641,percent of total,2015.0
+36,Health,Hospital beds (per 10 000 population),H6_Facial Coverings,Suriname,SUR,30.0,Ones,2017.0
+37,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Suriname,SUR,0.044546,percent,2019.0
+38,Governance,Human Freedom Score ,H6_Facial Coverings,Suriname,SUR,7.31,score,2018.0
+39,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Suriname,SUR,69.0680008,Percentage of total employment,2020.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Suriname,SUR,3.077023,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,Suriname,SUR,-0.3932373,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,Suriname,SUR,17.5,score,2020.0
+43,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Suriname,SUR,2.7569,Ones,2018.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Suriname,SUR,139.987,per 100 people,2019.0
+45,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Suriname,SUR,64.0,percent,2019.0
+46,Health,Prevalence of down syndrome,H6_Facial Coverings,Suriname,SUR,0.000312,percent,2019.0
+47,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Suriname,SUR,0.050958,percent,2019.0
+48,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Suriname,SUR,4.0,percent,2020.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Suriname,SUR,7.47200012,percent of total labor force,2020.0
+50,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Suriname,SUR,1247.311478135765,kg of oil equivalent per capita,2014.0
+51,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Suriname,SUR,0.002653,percent,2019.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,Suriname,SUR,526.3492860742772,per 1 million people,2019.0
+53,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Suriname,SUR,1.2101,Ones,2018.0
+54,Health,Prevalence of total cancers,H6_Facial Coverings,Suriname,SUR,0.007681,percent,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Suriname,SUR,29.0,Cases,2019.0
+56,Health,Summary exposure value tobacco,H6_Facial Coverings,Suriname,SUR,23.97458,Rate (risk-weighted prevalence),2019.0
+57,Social issues ,Progression to secondary school (%),H6_Facial Coverings,Suriname,SUR,66.37433,proportion,2017.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,Suriname,SUR,-0.6795514,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,Suriname,SUR,0.738,index,2019.0
+60,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Suriname,SUR,29.41176471,proportion,2020.0
+61,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Suriname,SUR,8.0,percent,2020.0
+62,Governance,Serious assault (rate),H6_Facial Coverings,Suriname,SUR,63.1,rate,2017.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,Suriname,SUR,-0.5900614,score,2019.0
+66,Demographics,Urban population (% of total population),H6_Facial Coverings,Suriname,SUR,66.095,total,2019.0
+67,Demographics,Rural population (% of total population),H6_Facial Coverings,Suriname,SUR,33.905,proportion,2019.0
+68,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Suriname,SUR,77.0,percent,2019.0
+69,Health,Mortality due to COVID-19,H6_Facial Coverings,Suriname,SUR,117.0,"Number (cumulative total by Dec 26,2020)",2020.0
+70,Demographics,People with basic handwashing facilities including soap and water (% of population),H6_Facial Coverings,Suriname,SUR,67.7789706544644,proportion,2014.0
+71,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Suriname,SUR,1.3,percent,2019.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,Suriname,SUR,0.3897825,score,2019.0
+74,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Suriname,SUR,100.0,percent of total,2017.0
+75,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Suriname,SUR,76.2535,percent of total,2014.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Suriname,SUR,0.1134033,score,2019.0
+77,Economics,Volume of exports,H6_Facial Coverings,Suriname,SUR,2.296,percent change,2020.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,Suriname,SUR,79.0,score,2021.0
+80,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Suriname,SUR,51.0130005,Percentage of total population,2020.0
+81,Demographics,People using at least basic sanitation services (% of population),H6_Facial Coverings,Suriname,SUR,84.4575831711356,proportion,2017.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,Suriname,SUR,-0.0596512,score,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,Suriname,SUR,97.4,percent of population,2018.0
+87,Demographics,Refugee population by country or territory of asylum,H6_Facial Coverings,Suriname,SUR,44.0,proportion,2019.0
+88,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),H6_Facial Coverings,Suriname,SUR,4.87027931213379,proportion,2016.0
+89,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),H6_Facial Coverings,Suriname,SUR,0.0203522518277168,proportion,2016.0
+90,Environment,Electricity production from coal sources ,H6_Facial Coverings,Suriname,SUR,0.0,percent of total,2015.0
+93,Demographics,"Population, total",H6_Facial Coverings,Suriname,SUR,581363.0,total,2019.0
+94,Demographics,"Age dependency ratio, old (% of working-age population)",H6_Facial Coverings,Suriname,SUR,10.61714446376691,proportion,2019.0
+105,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H6_Facial Coverings,Suriname,SUR,94.3832702636719,proportion,2018.0
+112,Demographics,Age dependency ratio (% of working-age population),H6_Facial Coverings,Suriname,SUR,51.34774187501952,proportion,2019.0
+116,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Suriname,SUR,0.0,percent of total,2014.0

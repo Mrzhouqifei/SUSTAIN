@@ -1,27 +1,27 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C3_Cancel public events,Cayman Islands,CYM,81.0677,percent of population,2019.0
-2,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Cayman Islands,CYM,83.654025,proportion,2016.0
-4,Governance,Regulatory quality estimate,C3_Cancel public events,Cayman Islands,CYM,0.9827613,score,2019.0
-6,Health,Prevalence of COVID-19,C3_Cancel public events,Cayman Islands,CYM,311.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Environment,CO2 emissions (kt),C3_Cancel public events,Cayman Islands,CYM,546.383,kt,2016.0
-15,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Cayman Islands,CYM,49.2758,per 100 people,2019.0
-18,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Cayman Islands,CYM,6.0,Cases,2019.0
-19,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Cayman Islands,CYM,152.498,per 100 people,2019.0
-26,Demographics,Secure Internet servers ,C3_Cancel public events,Cayman Islands,CYM,16952.02315698713,per 1 million people,2019.0
-27,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
-29,Governance,Government effectiveness estimate,C3_Cancel public events,Cayman Islands,CYM,1.169394,score,2019.0
-33,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Cayman Islands,CYM,1.4457,score,2019.0
-44,Demographics,Rural population (% of total population),C3_Cancel public events,Cayman Islands,CYM,0.0,proportion,2019.0
-51,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
-54,Governance,Control of corruption estimate,C3_Cancel public events,Cayman Islands,CYM,0.4661654,score,2019.0
-55,Environment,Access to electricity ,C3_Cancel public events,Cayman Islands,CYM,100.0,percent of population,2018.0
-58,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C3_Cancel public events,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
-62,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Cayman Islands,CYM,34768.0,number,2019.0
-67,Governance,Rule of law estimate ,C3_Cancel public events,Cayman Islands,CYM,0.7690086,score,2019.0
-69,Demographics,Urban population (% of total population),C3_Cancel public events,Cayman Islands,CYM,100.0,total,2019.0
-73,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Cayman Islands,CYM,89.5522384643555,proportion,2018.0
-77,Environment,Renewable energy consumption ,C3_Cancel public events,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
-78,Governance,Voice and accountability estimate,C3_Cancel public events,Cayman Islands,CYM,0.4956726,score,2019.0
-79,Health,Mortality due to COVID-19,C3_Cancel public events,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
-97,Demographics,"Population, total",C3_Cancel public events,Cayman Islands,CYM,64948.0,total,2019.0
-113,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Cayman Islands,CYM,34.0,proportion,2019.0
+2,Demographics,Fixed telephone subscriptions,C3_Cancel public events,Cayman Islands,CYM,34768.0,number,2019.0
+4,Health,Prevalence of COVID-19,C3_Cancel public events,Cayman Islands,CYM,311.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C3_Cancel public events,Cayman Islands,CYM,0.7690086,score,2019.0
+6,Health,"Incidence of tuberculosis (per 100,000 people)",C3_Cancel public events,Cayman Islands,CYM,6.0,Cases,2019.0
+9,Demographics,Fixed broadband subscriptions,C3_Cancel public events,Cayman Islands,CYM,49.2758,per 100 people,2019.0
+11,Environment,Renewable energy consumption ,C3_Cancel public events,Cayman Islands,CYM,0.0,percent of total final energy consumption,2015.0
+12,Governance,Government effectiveness estimate,C3_Cancel public events,Cayman Islands,CYM,1.169394,score,2019.0
+15,Social issues ,"Primary completion rate, total (% of relevant age group)",C3_Cancel public events,Cayman Islands,CYM,89.5522384643555,proportion,2018.0
+19,Demographics,Secure Internet servers ,C3_Cancel public events,Cayman Islands,CYM,16952.02315698713,per 1 million people,2019.0
+32,Demographics,Mobile cellular subscriptions,C3_Cancel public events,Cayman Islands,CYM,152.498,per 100 people,2019.0
+40,Governance,Voice and accountability estimate,C3_Cancel public events,Cayman Islands,CYM,0.4956726,score,2019.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C3_Cancel public events,Cayman Islands,CYM,8.2171969498,"proportion, pero 100,000 people",2014.0
+55,Governance,Control of corruption estimate,C3_Cancel public events,Cayman Islands,CYM,0.4661654,score,2019.0
+60,Governance,Political stability and absence of violence/terrorism estimate,C3_Cancel public events,Cayman Islands,CYM,1.4457,score,2019.0
+61,Demographics,Urban population (% of total population),C3_Cancel public events,Cayman Islands,CYM,100.0,total,2019.0
+62,Governance,Regulatory quality estimate,C3_Cancel public events,Cayman Islands,CYM,0.9827613,score,2019.0
+64,Environment,CO2 emissions (kt),C3_Cancel public events,Cayman Islands,CYM,546.383,kt,2016.0
+75,Health,Mortality due to COVID-19,C3_Cancel public events,Cayman Islands,CYM,2.0,"Number (cumulative total by Dec 26,2020)",2020.0
+82,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C3_Cancel public events,Cayman Islands,CYM,29.8638706207275,proportion,2015.0
+83,Environment,CO2 emissions (metric tons per capita),C3_Cancel public events,Cayman Islands,CYM,8.732487,metric tons per capita,2016.0
+84,Environment,Access to electricity ,C3_Cancel public events,Cayman Islands,CYM,100.0,percent of population,2018.0
+88,Demographics,People using at least basic sanitation services (% of population),C3_Cancel public events,Cayman Islands,CYM,83.654025,proportion,2016.0
+94,Demographics,Refugee population by country or territory of asylum,C3_Cancel public events,Cayman Islands,CYM,34.0,proportion,2019.0
+116,Demographics,"Population, total",C3_Cancel public events,Cayman Islands,CYM,64948.0,total,2019.0
+117,Demographics,Rural population (% of total population),C3_Cancel public events,Cayman Islands,CYM,0.0,proportion,2019.0

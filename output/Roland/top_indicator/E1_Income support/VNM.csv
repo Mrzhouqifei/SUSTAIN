@@ -1,0 +1,97 @@
+rank,Category,Indicator,Policy,Country,ISO,value,unit,year
+1,Demographics,Individuals using the Internet,E1_Income support,Viet Nam,VNM,68.7,percent of population,2019.0
+2,Health,Prevalence of COVID-19,E1_Income support,Viet Nam,VNM,1410.0,"Number (cumulative total by Dec 26,2020)",2020.0
+3,Economics,"Foreign direct investment, net",E1_Income support,Viet Nam,VNM,15500000000.0,US Dollar,2018.0
+4,Governance,Corruption Perceptions Index,E1_Income support,Viet Nam,VNM,36.0,score,2020.0
+5,Demographics,Secure Internet servers ,E1_Income support,Viet Nam,VNM,2596.98870766931,per 1 million people,2019.0
+7,Environment,"Electricity production from oil, gas and coal sources",E1_Income support,Viet Nam,VNM,63.2679423027994,percent of total,2015.0
+8,Social issues ,Proportion of seats held by women in national parliaments (%),E1_Income support,Viet Nam,VNM,26.72064777,proportion,2020.0
+9,Health,Summary exposure value tobacco,E1_Income support,Viet Nam,VNM,28.81619,Rate (risk-weighted prevalence),2019.0
+10,Social issues ,Life Ladder ,E1_Income support,Viet Nam,VNM,5.410799980163574,score,2021.0
+11,Environment,CO2 emissions (kt),E1_Income support,Viet Nam,VNM,192667.8,kt,2016.0
+12,Health,Prevalence of Depressive disorders,E1_Income support,Viet Nam,VNM,0.02827,percent,2019.0
+13,Demographics,Fixed broadband subscriptions,E1_Income support,Viet Nam,VNM,15.3453,per 100 people,2019.0
+14,Health,Prevalence of obesity,E1_Income support,Viet Nam,VNM,2.1,percent,2016.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",E1_Income support,Viet Nam,VNM,176.0,Cases,2019.0
+16,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E1_Income support,Viet Nam,VNM,77.2990036,Percentage of total population,2020.0
+17,Governance,Government effectiveness estimate,E1_Income support,Viet Nam,VNM,0.0390768,score,2019.0
+18,Environment,"PM2.5 air pollution, mean annual exposure",E1_Income support,Viet Nam,VNM,29.62673,micrograms per cubic meter,2017.0
+19,Health,Prevalence of Hypertensive heart disease,E1_Income support,Viet Nam,VNM,0.003453,percent,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Viet Nam,VNM,0.474575,percent,2019.0
+21,Health,Prevalence of chronic kidney disease,E1_Income support,Viet Nam,VNM,0.107366,percent,2019.0
+22,Social issues ,Net migration,E1_Income support,Viet Nam,VNM,-399999.0,net total / data are 5 year estimates,2019.0
+23,Social issues ,Gini index (World Bank estimate),E1_Income support,Viet Nam,VNM,35.7,index ,2018.0
+24,Health,Prevalence of anxiety disorders,E1_Income support,Viet Nam,VNM,0.025153,percent,2019.0
+25,Health,"Physicians (per 1,000 people)",E1_Income support,Viet Nam,VNM,0.8281,Ones,2016.0
+26,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Viet Nam,VNM,16.0,score,2021.0
+27,Demographics,Age dependency ratio (% of working-age population),E1_Income support,Viet Nam,VNM,44.44083458386128,proportion,2019.0
+28,Environment,CO2 emissions (metric tons per capita),E1_Income support,Viet Nam,VNM,2.057566,metric tons per capita,2016.0
+30,Governance,Rule of law estimate ,E1_Income support,Viet Nam,VNM,-0.0168988,score,2019.0
+31,Governance,Economic Freedom Score,E1_Income support,Viet Nam,VNM,6.2,score,2018.0
+32,Health,Mortality due to COVID-19,E1_Income support,Viet Nam,VNM,35.0,"Number (cumulative total by Dec 26,2020)",2020.0
+33,Health,"Immunization, measles (% of children ages 12-23 months)",E1_Income support,Viet Nam,VNM,95.0,percent,2019.0
+36,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E1_Income support,Viet Nam,VNM,6.0,percent,2020.0
+37,Environment,Renewable energy consumption ,E1_Income support,Viet Nam,VNM,34.9985698382085,percent of total final energy consumption,2015.0
+38,Demographics,Fixed telephone subscriptions,E1_Income support,Viet Nam,VNM,3658010.0,number,2019.0
+40,Economics,Volume of exports,E1_Income support,Viet Nam,VNM,12.471,percent change,2020.0
+41,Demographics,Mobile cellular subscriptions,E1_Income support,Viet Nam,VNM,141.227,per 100 people,2019.0
+42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E1_Income support,Viet Nam,VNM,100.0,percent of total,2017.0
+43,Governance,Regulatory quality estimate,E1_Income support,Viet Nam,VNM,-0.2623483,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E1_Income support,Viet Nam,VNM,3.0,score,2021.0
+45,Environment,Access to electricity ,E1_Income support,Viet Nam,VNM,100.0,percent of population,2018.0
+46,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Viet Nam,VNM,0.1318749,score,2019.0
+47,Social issues ,Proportion of women in managerial positions (%),E1_Income support,Viet Nam,VNM,27.3,percent,2018.0
+48,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E1_Income support,Viet Nam,VNM,2.7,percent,2018.0
+49,Social issues ,Proportion of people living below 50 percent of median income (%),E1_Income support,Viet Nam,VNM,14.0,proportion,2018.0
+50,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E1_Income support,Viet Nam,VNM,0.245423568412662,proportion,2016.0
+51,Economics,Volume of imports,E1_Income support,Viet Nam,VNM,12.094,percent change,2020.0
+52,Health,Prevalence of total cancers,E1_Income support,Viet Nam,VNM,0.008269,percent,2019.0
+53,Health,Prevalence of Diabetes,E1_Income support,Viet Nam,VNM,0.047729,percent,2019.0
+54,Environment,Electricity production from coal sources ,E1_Income support,Viet Nam,VNM,29.57144627910466,percent of total,2015.0
+55,Health,"Nurses and midwives (per 1,000 people)",E1_Income support,Viet Nam,VNM,1.4463,Ones,2016.0
+56,Social issues ,Press freedom score,E1_Income support,Viet Nam,VNM,74.71,score,2020.0
+57,Environment,"Electricity production from renewable sources, excluding hydroelectric",E1_Income support,Viet Nam,VNM,181000000.0,kWh,2015.0
+58,Health,Prevalence of down syndrome,E1_Income support,Viet Nam,VNM,0.000126,percent,2019.0
+59,Demographics,Rural population (% of total population),E1_Income support,Viet Nam,VNM,63.372,proportion,2019.0
+60,Governance,Voice and accountability estimate,E1_Income support,Viet Nam,VNM,-1.380526,score,2019.0
+61,Economics,Stock market capitalization (US$ million),E1_Income support,Viet Nam,VNM,149817280000.0,US Dollar,2019.0
+62,Governance,Fragile States Index Total ,E1_Income support,Viet Nam,VNM,63.885397212926094,score,2020.0
+63,Health,"Prevalence of HIV, total (% of population ages 15-49)",E1_Income support,Viet Nam,VNM,0.3,percent,2019.0
+64,Governance,Total freedom in the world score ,E1_Income support,Viet Nam,VNM,19.0,score,2021.0
+65,Governance,Human Development Index,E1_Income support,Viet Nam,VNM,0.704,index,2019.0
+66,Health,"Immunization, DPT (% of children ages 12-23 months)",E1_Income support,Viet Nam,VNM,89.0,percent,2019.0
+68,Economics,Employment in services (% of total employment) (modeled ILO estimate),E1_Income support,Viet Nam,VNM,35.4140015,Percentage of total employment,2020.0
+69,Environment,"Adjusted net savings, including particulate emission damage",E1_Income support,Viet Nam,VNM,13.5340455762519,percent of GNI,2018.0
+70,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E1_Income support,Viet Nam,VNM,95.0003814697266,proportion,2018.0
+73,Governance,Personal Freedom Score ,E1_Income support,Viet Nam,VNM,6.3,score,2018.0
+74,Environment,Electric power consumption ,E1_Income support,Viet Nam,VNM,1423.68834535005,kWh per capita,2014.0
+75,Demographics,Urban population (% of total population),E1_Income support,Viet Nam,VNM,36.628,total,2019.0
+76,Demographics,People with basic handwashing facilities including soap and water (% of population),E1_Income support,Viet Nam,VNM,85.8465441491179,proportion,2017.0
+79,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E1_Income support,Viet Nam,VNM,3.0,rating,2015.0
+80,Social issues ,Coverage of social safety net programs (% of population),E1_Income support,Viet Nam,VNM,17.5068280169369,proportion,2014.0
+81,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E1_Income support,Viet Nam,VNM,22.3,percent,2020.0
+82,Governance,Control of corruption estimate,E1_Income support,Viet Nam,VNM,-0.5138411,score,2019.0
+83,Environment,Electricity production from oil sources,E1_Income support,Viet Nam,VNM,0.486029109555528,percent of total,2015.0
+84,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E1_Income support,Viet Nam,VNM,72.5910034,Percentage of females of the total population,2020.0
+85,Demographics,People using at least basic sanitation services (% of population),E1_Income support,Viet Nam,VNM,83.5150494720583,proportion,2017.0
+86,Economics,"Trade, total as % of GDP",E1_Income support,Viet Nam,VNM,197.48686,percent,2019.0
+87,Economics,"International tourism, receipts",E1_Income support,Viet Nam,VNM,11830000000.0,US Dollar,2019.0
+88,Demographics,"Population, total",E1_Income support,Viet Nam,VNM,96462106.0,total,2019.0
+90,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E1_Income support,Viet Nam,VNM,12660.8,international $ in PPP,2020.0
+91,Governance,Human Freedom Score ,E1_Income support,Viet Nam,VNM,6.25,score,2018.0
+92,Demographics,"Age dependency ratio, old (% of working-age population)",E1_Income support,Viet Nam,VNM,10.91058823885261,proportion,2019.0
+93,Social issues ,Women who believe a husband is justified in beating his wife (any of five reasons) (%),E1_Income support,Viet Nam,VNM,28.2,proportion,2014.0
+94,Demographics,Age dependency ratio,E1_Income support,Viet Nam,VNM,44.44082,percent of total population,2019.0
+95,Economics,Starting a Business (Score),E1_Income support,Viet Nam,VNM,85.1,Score,2019.0
+98,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E1_Income support,Viet Nam,VNM,2.02200007,percent of total labor force,2020.0
+100,Economics,"Lending interest rates, percent per annum",E1_Income support,Viet Nam,VNM,7.7075,percent per annum,2019.0
+103,Demographics,Mobile cellular (per 100 people),E1_Income support,Viet Nam,VNM,147.1953,per 100 population,2018.0
+105,Demographics,"Net migration rate, per 1000 population",E1_Income support,Viet Nam,VNM,-0.842,per thousand persons,2015.0
+107,Environment,Electricity production from nuclear sources ,E1_Income support,Viet Nam,VNM,0.0,percent of total,2014.0
+108,Demographics,Internet users (per 100 people),E1_Income support,Viet Nam,VNM,70.34964,per 100 population,2018.0
+110,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E1_Income support,Viet Nam,VNM,9.39367413520813,proportion,2016.0
+111,Social issues ,Coverage of unemployment benefits and ALMP (% of population),E1_Income support,Viet Nam,VNM,8.97639302634177,proportion,2014.0
+114,Social issues ,"Primary completion rate, total (% of relevant age group)",E1_Income support,Viet Nam,VNM,110.021209716797,proportion,2018.0
+115,Social issues ,Progression to secondary school (%),E1_Income support,Viet Nam,VNM,99.7947,proportion,2015.0
+116,Demographics,Fixed telephone (per 100 people),E1_Income support,Viet Nam,VNM,4.49658,per 100 population,2018.0
+117,Economics,Growth rates of household expenditure or income per capita (%),E1_Income support,Viet Nam,VNM,5.0,percent,2018.0

@@ -1,29 +1,29 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H1_Public information campaigns,Aruba,ABW,97.17,percent of population,2019.0
-3,Demographics,Secure Internet servers ,H1_Public information campaigns,Aruba,ABW,1401.508738265892,per 1 million people,2019.0
+2,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Aruba,ABW,35000.0,number,2019.0
 4,Health,Prevalence of COVID-19,H1_Public information campaigns,Aruba,ABW,5124.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Mortality due to COVID-19,H1_Public information campaigns,Aruba,ABW,47.0,"Number (cumulative total by Dec 26,2020)",2020.0
-8,Social issues ,Net migration,H1_Public information campaigns,Aruba,ABW,1004.0,net total / data are 5 year estimates,2019.0
-10,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Aruba,ABW,135.134,per 100 people,2019.0
+5,Governance,Rule of law estimate ,H1_Public information campaigns,Aruba,ABW,1.263128,score,2019.0
 13,Demographics,Fixed broadband subscriptions,H1_Public information campaigns,Aruba,ABW,18.2095,per 100 people,2019.0
-21,Environment,CO2 emissions (kt),H1_Public information campaigns,Aruba,ABW,883.747,kt,2016.0
-22,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Aruba,ABW,2.2,Cases,2019.0
-23,Environment,Renewable energy consumption ,H1_Public information campaigns,Aruba,ABW,6.72674756598399,percent of total final energy consumption,2015.0
-32,Environment,Access to electricity ,H1_Public information campaigns,Aruba,ABW,100.0,percent of population,2018.0
-38,Governance,Regulatory quality estimate,H1_Public information campaigns,Aruba,ABW,0.8573601,score,2019.0
-44,Social issues ,"Primary completion rate, total (% of relevant age group)",H1_Public information campaigns,Aruba,ABW,101.180557250977,proportion,2014.0
-54,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Aruba,ABW,97.5434811165022,proportion,2016.0
-55,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Aruba,ABW,1.357372,score,2019.0
-57,Demographics,Urban population (% of total population),H1_Public information campaigns,Aruba,ABW,43.546,total,2019.0
-63,Demographics,Fixed telephone subscriptions,H1_Public information campaigns,Aruba,ABW,35000.0,number,2019.0
-69,Governance,Control of corruption estimate,H1_Public information campaigns,Aruba,ABW,1.217238,score,2019.0
-71,Governance,Voice and accountability estimate,H1_Public information campaigns,Aruba,ABW,1.294189,score,2019.0
-72,Governance,Rule of law estimate ,H1_Public information campaigns,Aruba,ABW,1.263128,score,2019.0
-73,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Aruba,ABW,8.426911,metric tons per capita,2016.0
-85,Demographics,Rural population (% of total population),H1_Public information campaigns,Aruba,ABW,56.454,proportion,2019.0
-87,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Aruba,ABW,20.57685688717561,proportion,2019.0
-90,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Aruba,ABW,46.36745370689062,proportion,2019.0
-94,Governance,Government effectiveness estimate,H1_Public information campaigns,Aruba,ABW,1.029933,score,2019.0
+15,Health,"Incidence of tuberculosis (per 100,000 people)",H1_Public information campaigns,Aruba,ABW,2.2,Cases,2019.0
+17,Social issues ,Net migration,H1_Public information campaigns,Aruba,ABW,1004.0,net total / data are 5 year estimates,2019.0
+24,Environment,CO2 emissions (metric tons per capita),H1_Public information campaigns,Aruba,ABW,8.426911,metric tons per capita,2016.0
+32,Social issues ,"Primary completion rate, total (% of relevant age group)",H1_Public information campaigns,Aruba,ABW,101.180557250977,proportion,2014.0
+34,Governance,Voice and accountability estimate,H1_Public information campaigns,Aruba,ABW,1.294189,score,2019.0
+35,Environment,CO2 emissions (kt),H1_Public information campaigns,Aruba,ABW,883.747,kt,2016.0
+42,Governance,Political stability and absence of violence/terrorism estimate,H1_Public information campaigns,Aruba,ABW,1.357372,score,2019.0
+43,Demographics,Rural population (% of total population),H1_Public information campaigns,Aruba,ABW,56.454,proportion,2019.0
+45,Demographics,Mobile cellular subscriptions,H1_Public information campaigns,Aruba,ABW,135.134,per 100 people,2019.0
+46,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Aruba,ABW,1.9272278754,"proportion, pero 100,000 people",2014.0
+49,Demographics,Secure Internet servers ,H1_Public information campaigns,Aruba,ABW,1401.508738265892,per 1 million people,2019.0
+51,Environment,Renewable energy consumption ,H1_Public information campaigns,Aruba,ABW,6.72674756598399,percent of total final energy consumption,2015.0
+52,Governance,Control of corruption estimate,H1_Public information campaigns,Aruba,ABW,1.217238,score,2019.0
+66,Demographics,"Age dependency ratio, old (% of working-age population)",H1_Public information campaigns,Aruba,ABW,20.57685688717561,proportion,2019.0
+71,Demographics,Age dependency ratio (% of working-age population),H1_Public information campaigns,Aruba,ABW,46.36745370689062,proportion,2019.0
+72,Environment,Access to electricity ,H1_Public information campaigns,Aruba,ABW,100.0,percent of population,2018.0
+75,Health,Mortality due to COVID-19,H1_Public information campaigns,Aruba,ABW,47.0,"Number (cumulative total by Dec 26,2020)",2020.0
+76,Governance,Government effectiveness estimate,H1_Public information campaigns,Aruba,ABW,1.029933,score,2019.0
+80,Demographics,"Population, total",H1_Public information campaigns,Aruba,ABW,106314.0,total,2019.0
+88,Demographics,Urban population (% of total population),H1_Public information campaigns,Aruba,ABW,43.546,total,2019.0
+99,Governance,Regulatory quality estimate,H1_Public information campaigns,Aruba,ABW,0.8573601,score,2019.0
 100,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",H1_Public information campaigns,Aruba,ABW,97.8074188232422,proportion,2018.0
-103,Demographics,"Population, total",H1_Public information campaigns,Aruba,ABW,106314.0,total,2019.0
-110,Social issues ,"Intentional homicides (per 100,000 people)",H1_Public information campaigns,Aruba,ABW,1.9272278754,"proportion, pero 100,000 people",2014.0
+105,Demographics,People using at least basic sanitation services (% of population),H1_Public information campaigns,Aruba,ABW,97.5434811165022,proportion,2016.0

@@ -1,0 +1,16 @@
+ISO,Policy,score,rank
+KGZ,H6_Facial Coverings,0.1388352577932952,1
+KGZ,C7_Restrictions on internal movement,0.0887945174794758,2
+KGZ,H2_Testing policy,0.0788554537244198,3
+KGZ,H7_Vaccination policy,0.0707137995888169,4
+KGZ,C8_International travel controls,0.0654522991448432,5
+KGZ,E1_Income support,0.0558671108288087,6
+KGZ,C6_Stay at home requirements,0.0541606951769763,7
+KGZ,H1_Public information campaigns,0.0485899497714565,8
+KGZ,E2_Debt/contract relief,0.0473080225451468,9
+KGZ,C5_Close public transport,0.0470919601774274,10
+KGZ,C1_School closing,0.0407906874887448,11
+KGZ,H3_Contact tracing,0.0286574126030339,12
+KGZ,C3_Cancel public events,0.0264148533373199,13
+KGZ,C2_Workplace closing,0.0174472479343572,14
+KGZ,C4_Restrictions on gatherings,0.0142380625278421,15

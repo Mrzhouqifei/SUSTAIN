@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-CHN,H2_Testing policy,0.09747213681501253,1
-CHN,H7_Vaccination policy,0.08676476651582843,2
-CHN,C6_Stay at home requirements,0.08130883983348643,3
-CHN,E2_Debt/contract relief,0.07188987542128635,4
-CHN,H6_Facial Coverings,0.06824972390442105,5
-CHN,C2_Workplace closing,0.05757268430191655,6
-CHN,C8_International travel controls,0.05605726676885947,7
-CHN,C5_Close public transport,0.048271031097200816,8
-CHN,C1_School closing,0.047915226347919185,9
-CHN,E1_Income support,0.04615004075860956,10
-CHN,C7_Restrictions on internal movement,0.04219462850584451,11
-CHN,C3_Cancel public events,0.039027931272872685,12
-CHN,C4_Restrictions on gatherings,0.035862179369138096,13
-CHN,H1_Public information campaigns,0.01608767453672446,14
-CHN,H3_Contact tracing,0.015008541155875946,15
+CHN,H2_Testing policy,0.1267483204933345,1
+CHN,C6_Stay at home requirements,0.1178327567370091,2
+CHN,H7_Vaccination policy,0.096116535993133,3
+CHN,E1_Income support,0.087717491096691,4
+CHN,H6_Facial Coverings,0.0808653514904696,5
+CHN,C8_International travel controls,0.0799730745889503,6
+CHN,C4_Restrictions on gatherings,0.0707303730193712,7
+CHN,E2_Debt/contract relief,0.0522673847821652,8
+CHN,C2_Workplace closing,0.0285973225148473,9
+CHN,C1_School closing,0.0244469814179498,10
+CHN,C5_Close public transport,0.0175089080367863,11
+CHN,C7_Restrictions on internal movement,0.0072866587108097,12
+CHN,H1_Public information campaigns,0.0041755252046264,13
+CHN,H3_Contact tracing,0.0029648500847813,14
+CHN,C3_Cancel public events,0.0,15

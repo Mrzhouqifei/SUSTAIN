@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-LUX,H7_Vaccination policy,0.09155685893155607,1
-LUX,C8_International travel controls,0.0849073207708156,2
-LUX,C2_Workplace closing,0.07177301136705419,3
-LUX,H6_Facial Coverings,0.0678655839068786,4
-LUX,C1_School closing,0.06546738445913791,5
-LUX,C3_Cancel public events,0.06496287813347018,6
-LUX,E1_Income support,0.06399739973072056,7
-LUX,C7_Restrictions on internal movement,0.059421034470917865,8
-LUX,H2_Testing policy,0.05485382668040962,9
-LUX,E2_Debt/contract relief,0.050466234031081816,10
-LUX,C4_Restrictions on gatherings,0.04886226363452256,11
-LUX,C6_Stay at home requirements,0.04390658172060129,12
-LUX,C5_Close public transport,0.03211090816146347,13
-LUX,H3_Contact tracing,0.02971007017789743,14
-LUX,H1_Public information campaigns,0.010243481456763756,15
+LUX,H7_Vaccination policy,0.0976171253381233,1
+LUX,C8_International travel controls,0.0970331837354495,2
+LUX,C2_Workplace closing,0.0783673672072338,3
+LUX,H6_Facial Coverings,0.0680385949386424,4
+LUX,C1_School closing,0.061093117712806,5
+LUX,C3_Cancel public events,0.0600124862006549,6
+LUX,E1_Income support,0.0586977186142843,7
+LUX,C7_Restrictions on internal movement,0.0516321771097875,8
+LUX,H2_Testing policy,0.0408905758005014,9
+LUX,C6_Stay at home requirements,0.0404083975969281,10
+LUX,C4_Restrictions on gatherings,0.0373580652980152,11
+LUX,C5_Close public transport,0.0345081648973362,12
+LUX,H3_Contact tracing,0.033665523740527,13
+LUX,H1_Public information campaigns,0.0306289495545608,14
+LUX,E2_Debt/contract relief,0.0169376612522805,15

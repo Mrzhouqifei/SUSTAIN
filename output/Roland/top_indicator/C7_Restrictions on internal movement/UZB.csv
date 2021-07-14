@@ -1,73 +1,73 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C7_Restrictions on internal movement,Uzbekistan,UZB,52.3051,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Uzbekistan,UZB,26.0,score,2020.0
-3,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Uzbekistan,UZB,75806.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,Uzbekistan,UZB,2286340170.0,US Dollar,2019.0
-5,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Uzbekistan,UZB,452.522509242674,per 1 million people,2019.0
-6,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Uzbekistan,UZB,101.208,per 100 people,2019.0
-7,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Uzbekistan,UZB,6.178800106048584,score,2021.0
-8,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Uzbekistan,UZB,612.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Uzbekistan,UZB,20.70983,Rate (risk-weighted prevalence),2019.0
-10,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Uzbekistan,UZB,0.000211,percent,2019.0
-11,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Uzbekistan,UZB,91810.68,kt,2016.0
-12,Environment,Electric power consumption ,C7_Restrictions on internal movement,Uzbekistan,UZB,1645.441629250562,kWh per capita,2014.0
-13,Social issues ,Press freedom score,C7_Restrictions on internal movement,Uzbekistan,UZB,53.07,score,2020.0
-14,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Uzbekistan,UZB,0.031211,percent,2019.0
-15,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Uzbekistan,UZB,0.0,percent of total,2014.0
-16,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Uzbekistan,UZB,0.046617,percent,2019.0
-17,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Uzbekistan,UZB,96.0,percent,2019.0
-18,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Uzbekistan,UZB,13.9388,per 100 people,2019.0
-19,Social issues ,Net migration,C7_Restrictions on internal movement,Uzbekistan,UZB,-44314.0,net total / data are 5 year estimates,2019.0
-20,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Uzbekistan,UZB,0.252542,percent,2019.0
-21,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Uzbekistan,UZB,0.2,percent,2019.0
-22,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Uzbekistan,UZB,79.34706703910615,percent of total,2015.0
-23,Economics,Volume of imports,C7_Restrictions on internal movement,Uzbekistan,UZB,2.251,percent change,2020.0
-26,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Uzbekistan,UZB,28.4559,micrograms per cubic meter,2017.0
-27,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Uzbekistan,UZB,0.021128,percent,2019.0
-28,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Uzbekistan,UZB,0.001489,percent,2019.0
-29,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-0.514649,score,2019.0
-30,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Uzbekistan,UZB,52.2630005,Percentage of females of the total population,2020.0
-31,Economics,Volume of exports,C7_Restrictions on internal movement,Uzbekistan,UZB,2.276,percent change,2020.0
-34,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Uzbekistan,UZB,0.2566340782122905,percent of total,2015.0
-35,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Uzbekistan,UZB,-1.048182,score,2019.0
-36,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-1.605511,score,2019.0
-38,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Uzbekistan,UZB,3553310.0,number,2019.0
-39,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Uzbekistan,UZB,0.004843,percent,2019.0
-40,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Uzbekistan,UZB,2.97017869966095,percent of total final energy consumption,2015.0
-41,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Uzbekistan,UZB,0.087438,percent,2019.0
-42,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Uzbekistan,UZB,100.0,percent of total,2017.0
-43,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Uzbekistan,UZB,0.0,kWh,2015.0
-44,Health,Prevalence of obesity,C7_Restrictions on internal movement,Uzbekistan,UZB,16.6,percent,2016.0
-45,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Uzbekistan,UZB,5.0,percent,2020.0
-46,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Uzbekistan,UZB,64.9869995,Percentage of total population,2020.0
-50,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,11.2804,Ones,2014.0
-51,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Uzbekistan,UZB,2.882786,metric tons per capita,2016.0
-53,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Uzbekistan,UZB,46.7610016,Percentage of total employment,2020.0
-54,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-0.2724334,score,2019.0
-57,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Uzbekistan,UZB,73.10388718030978,score,2020.0
-59,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Uzbekistan,UZB,9.9,percent,2020.0
-60,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,67.0,Cases,2019.0
-61,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,2.3742,Ones,2014.0
-62,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Uzbekistan,UZB,11.0,score,2021.0
-64,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Uzbekistan,UZB,2.5,rating,2019.0
-65,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Uzbekistan,UZB,9.0,score,2021.0
-66,Governance,Human Development Index,C7_Restrictions on internal movement,Uzbekistan,UZB,0.72,index,2019.0
-67,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-1.053791,score,2019.0
-69,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Uzbekistan,UZB,4.085195530726257,percent of total,2015.0
-70,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Uzbekistan,UZB,2.0,percent,2018.0
-71,Economics,"International tourism, receipts",C7_Restrictions on internal movement,Uzbekistan,UZB,1481000000.0,US Dollar,2019.0
-72,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Uzbekistan,UZB,6.08199978,percent of total labor force,2020.0
-73,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,1.1358027751,"proportion, pero 100,000 people",2017.0
-75,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Uzbekistan,UZB,26.7393312124573,percent of GNI,2018.0
-76,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Uzbekistan,UZB,2.0,score,2021.0
-78,Environment,Access to electricity ,C7_Restrictions on internal movement,Uzbekistan,UZB,100.0,percent of population,2018.0
-80,Governance,Serious assault (rate),C7_Restrictions on internal movement,Uzbekistan,UZB,4.37,rate,2017.0
-82,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,Uzbekistan,UZB,5.38009,percent,2018.0
-84,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Uzbekistan,UZB,32.0,proportion,2020.0
-86,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Uzbekistan,UZB,98.0,percent,2019.0
-87,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,Uzbekistan,UZB,72.81924,percent,2019.0
-92,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,Uzbekistan,UZB,2.30948,percent,2018.0
-93,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,Uzbekistan,UZB,6.29609,percent,2018.0
-104,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-0.9932925,score,2019.0
-112,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,Uzbekistan,UZB,23.60607,percent per annum,2019.0
-116,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,Uzbekistan,UZB,15601.2,international $ in PPP,2020.0
+2,Health,Prevalence of Respiratory infections and tuberculosis,C7_Restrictions on internal movement,Uzbekistan,UZB,0.252542,percent,2019.0
+3,Demographics,Fixed telephone subscriptions,C7_Restrictions on internal movement,Uzbekistan,UZB,3553310.0,number,2019.0
+4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Uzbekistan,UZB,75806.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Uzbekistan,UZB,-1.048182,score,2019.0
+7,Environment,Electricity production from oil sources,C7_Restrictions on internal movement,Uzbekistan,UZB,0.2566340782122905,percent of total,2015.0
+10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Uzbekistan,UZB,612.0,"Number (cumulative total by Dec 26,2020)",2020.0
+11,Demographics,Fixed broadband subscriptions,C7_Restrictions on internal movement,Uzbekistan,UZB,13.9388,per 100 people,2019.0
+12,Health,"Prevalence of HIV, total (% of population ages 15-49)",C7_Restrictions on internal movement,Uzbekistan,UZB,0.2,percent,2019.0
+14,Governance,Fragile States Index Total ,C7_Restrictions on internal movement,Uzbekistan,UZB,73.10388718030978,score,2020.0
+15,Environment,"Adjusted net savings, including particulate emission damage",C7_Restrictions on internal movement,Uzbekistan,UZB,26.7393312124573,percent of GNI,2018.0
+16,Environment,CO2 emissions (metric tons per capita),C7_Restrictions on internal movement,Uzbekistan,UZB,2.882786,metric tons per capita,2016.0
+17,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Uzbekistan,UZB,5.0,percent,2020.0
+18,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C7_Restrictions on internal movement,Uzbekistan,UZB,2.0,percent,2018.0
+19,Health,Prevalence of total cancers,C7_Restrictions on internal movement,Uzbekistan,UZB,0.004843,percent,2019.0
+20,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C7_Restrictions on internal movement,Uzbekistan,UZB,9.9,percent,2020.0
+21,Governance,Voice and accountability estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-1.605511,score,2019.0
+22,Health,Prevalence of obesity,C7_Restrictions on internal movement,Uzbekistan,UZB,16.6,percent,2016.0
+23,Health,Prevalence of Diabetes,C7_Restrictions on internal movement,Uzbekistan,UZB,0.046617,percent,2019.0
+24,Health,Prevalence of anxiety disorders,C7_Restrictions on internal movement,Uzbekistan,UZB,0.021128,percent,2019.0
+25,Economics,Volume of imports,C7_Restrictions on internal movement,Uzbekistan,UZB,2.251,percent change,2020.0
+26,Health,Prevalence of down syndrome,C7_Restrictions on internal movement,Uzbekistan,UZB,0.000211,percent,2019.0
+27,Social issues ,Net migration,C7_Restrictions on internal movement,Uzbekistan,UZB,-44314.0,net total / data are 5 year estimates,2019.0
+28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-0.514649,score,2019.0
+30,Health,"Immunization, DPT (% of children ages 12-23 months)",C7_Restrictions on internal movement,Uzbekistan,UZB,96.0,percent,2019.0
+31,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C7_Restrictions on internal movement,Uzbekistan,UZB,100.0,percent of total,2017.0
+32,Governance,Corruption Perceptions Index,C7_Restrictions on internal movement,Uzbekistan,UZB,26.0,score,2020.0
+33,Social issues ,Proportion of seats held by women in national parliaments (%),C7_Restrictions on internal movement,Uzbekistan,UZB,32.0,proportion,2020.0
+34,Environment,CO2 emissions (kt),C7_Restrictions on internal movement,Uzbekistan,UZB,91810.68,kt,2016.0
+35,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Uzbekistan,UZB,52.2630005,Percentage of females of the total population,2020.0
+37,Health,Summary exposure value tobacco,C7_Restrictions on internal movement,Uzbekistan,UZB,20.70983,Rate (risk-weighted prevalence),2019.0
+38,Health,Prevalence of chronic kidney disease,C7_Restrictions on internal movement,Uzbekistan,UZB,0.087438,percent,2019.0
+39,Demographics,Secure Internet servers ,C7_Restrictions on internal movement,Uzbekistan,UZB,452.522509242674,per 1 million people,2019.0
+40,Governance,Serious assault (rate),C7_Restrictions on internal movement,Uzbekistan,UZB,4.37,rate,2017.0
+41,Environment,Renewable energy consumption ,C7_Restrictions on internal movement,Uzbekistan,UZB,2.97017869966095,percent of total final energy consumption,2015.0
+42,Health,"Physicians (per 1,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,2.3742,Ones,2014.0
+46,Health,"Nurses and midwives (per 1,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,11.2804,Ones,2014.0
+48,Social issues ,Press freedom score,C7_Restrictions on internal movement,Uzbekistan,UZB,53.07,score,2020.0
+49,Economics,"Foreign direct investment, net",C7_Restrictions on internal movement,Uzbekistan,UZB,2286340170.0,US Dollar,2019.0
+51,Social issues ,"Intentional homicides (per 100,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,1.1358027751,"proportion, pero 100,000 people",2017.0
+52,Governance,Aggregate score for the Political Rights category,C7_Restrictions on internal movement,Uzbekistan,UZB,2.0,score,2021.0
+53,Governance,Human Development Index,C7_Restrictions on internal movement,Uzbekistan,UZB,0.72,index,2019.0
+54,Environment,"PM2.5 air pollution, mean annual exposure",C7_Restrictions on internal movement,Uzbekistan,UZB,28.4559,micrograms per cubic meter,2017.0
+55,Health,"Immunization, measles (% of children ages 12-23 months)",C7_Restrictions on internal movement,Uzbekistan,UZB,98.0,percent,2019.0
+56,Health,"Incidence of tuberculosis (per 100,000 people)",C7_Restrictions on internal movement,Uzbekistan,UZB,67.0,Cases,2019.0
+57,Economics,Employment in services (% of total employment) (modeled ILO estimate),C7_Restrictions on internal movement,Uzbekistan,UZB,46.7610016,Percentage of total employment,2020.0
+58,Environment,Access to electricity ,C7_Restrictions on internal movement,Uzbekistan,UZB,100.0,percent of population,2018.0
+60,Environment,Electricity production from coal sources ,C7_Restrictions on internal movement,Uzbekistan,UZB,4.085195530726257,percent of total,2015.0
+62,Social issues ,Life Ladder ,C7_Restrictions on internal movement,Uzbekistan,UZB,6.178800106048584,score,2021.0
+63,Health,Prevalence of Depressive disorders,C7_Restrictions on internal movement,Uzbekistan,UZB,0.031211,percent,2019.0
+64,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C7_Restrictions on internal movement,Uzbekistan,UZB,6.08199978,percent of total labor force,2020.0
+66,Economics,Volume of exports,C7_Restrictions on internal movement,Uzbekistan,UZB,2.276,percent change,2020.0
+69,Environment,"Electricity production from oil, gas and coal sources",C7_Restrictions on internal movement,Uzbekistan,UZB,79.34706703910615,percent of total,2015.0
+73,Economics,"Lending interest rates, percent per annum",C7_Restrictions on internal movement,Uzbekistan,UZB,23.60607,percent per annum,2019.0
+75,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C7_Restrictions on internal movement,Uzbekistan,UZB,64.9869995,Percentage of total population,2020.0
+78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-1.053791,score,2019.0
+79,Environment,"Electricity production from renewable sources, excluding hydroelectric",C7_Restrictions on internal movement,Uzbekistan,UZB,0.0,kWh,2015.0
+81,Environment,Electricity production from nuclear sources ,C7_Restrictions on internal movement,Uzbekistan,UZB,0.0,percent of total,2014.0
+82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-0.2724334,score,2019.0
+86,Governance,Total freedom in the world score ,C7_Restrictions on internal movement,Uzbekistan,UZB,11.0,score,2021.0
+87,Environment,Electric power consumption ,C7_Restrictions on internal movement,Uzbekistan,UZB,1645.441629250562,kWh per capita,2014.0
+90,Health,Prevalence of Hypertensive heart disease,C7_Restrictions on internal movement,Uzbekistan,UZB,0.001489,percent,2019.0
+91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Uzbekistan,UZB,-0.9932925,score,2019.0
+92,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C7_Restrictions on internal movement,Uzbekistan,UZB,2.5,rating,2019.0
+98,Economics,"Trade, total as % of GDP",C7_Restrictions on internal movement,Uzbekistan,UZB,72.81924,percent,2019.0
+100,Governance,Aggregate score for the Civil Liberties category,C7_Restrictions on internal movement,Uzbekistan,UZB,9.0,score,2021.0
+108,Economics,Expenditure on education (% of GDP),C7_Restrictions on internal movement,Uzbekistan,UZB,5.38009,percent,2018.0
+109,Economics,Expenditure on health (% of GDP),C7_Restrictions on internal movement,Uzbekistan,UZB,2.30948,percent,2018.0
+110,Economics,Expenditure on social protection (% of GDP),C7_Restrictions on internal movement,Uzbekistan,UZB,6.29609,percent,2018.0
+113,Economics,"International tourism, receipts",C7_Restrictions on internal movement,Uzbekistan,UZB,1481000000.0,US Dollar,2019.0
+115,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",C7_Restrictions on internal movement,Uzbekistan,UZB,15601.2,international $ in PPP,2020.0
+117,Demographics,Mobile cellular subscriptions,C7_Restrictions on internal movement,Uzbekistan,UZB,101.208,per 100 people,2019.0

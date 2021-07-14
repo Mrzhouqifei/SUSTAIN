@@ -1,8 +1,8 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 3,Health,Prevalence of COVID-19,C5_Close public transport,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Mortality due to COVID-19,C5_Close public transport,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-36,Governance,Rule of law estimate ,C5_Close public transport,Anguilla,AIA,0.3557367,score,2019.0
-39,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Anguilla,AIA,1.367357,score,2019.0
-50,Governance,Regulatory quality estimate,C5_Close public transport,Anguilla,AIA,0.8462311,score,2019.0
-52,Governance,Government effectiveness estimate,C5_Close public transport,Anguilla,AIA,0.8158239,score,2019.0
-64,Governance,Control of corruption estimate,C5_Close public transport,Anguilla,AIA,1.234392,score,2019.0
+6,Governance,Rule of law estimate ,C5_Close public transport,Anguilla,AIA,0.3557367,score,2019.0
+10,Governance,Control of corruption estimate,C5_Close public transport,Anguilla,AIA,1.234392,score,2019.0
+34,Health,Mortality due to COVID-19,C5_Close public transport,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+45,Governance,Political stability and absence of violence/terrorism estimate,C5_Close public transport,Anguilla,AIA,1.367357,score,2019.0
+80,Governance,Regulatory quality estimate,C5_Close public transport,Anguilla,AIA,0.8462311,score,2019.0
+83,Governance,Government effectiveness estimate,C5_Close public transport,Anguilla,AIA,0.8158239,score,2019.0

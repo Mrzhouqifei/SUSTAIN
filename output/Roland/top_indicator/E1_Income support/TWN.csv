@@ -1,34 +1,34 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Economics,"Foreign direct investment, net",E1_Income support,Taiwan,TWN,8245000000.0,US Dollar,2019.0
-6,Governance,Total freedom in the world score ,E1_Income support,Taiwan,TWN,94.0,score,2021.0
-8,Health,Summary exposure value tobacco,E1_Income support,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
-11,Governance,Economic Freedom Score,E1_Income support,Taiwan,TWN,7.94,score,2018.0
-12,Social issues ,Life Ladder ,E1_Income support,Taiwan,TWN,6.584400177001953,score,2021.0
-13,Health,Prevalence of Depressive disorders,E1_Income support,Taiwan,TWN,0.035913,percent,2019.0
-21,Governance,Rule of law estimate ,E1_Income support,Taiwan,TWN,1.141121,score,2019.0
-23,Economics,"Lending interest rates, percent per annum",E1_Income support,Taiwan,TWN,2.631,percent per annum,2019.0
-27,Health,Prevalence of anxiety disorders,E1_Income support,Taiwan,TWN,0.04188,percent,2019.0
-31,Health,Prevalence of Hypertensive heart disease,E1_Income support,Taiwan,TWN,0.004969,percent,2019.0
-33,Social issues ,Press freedom score,E1_Income support,Taiwan,TWN,23.76,score,2020.0
-34,Governance,Corruption Perceptions Index,E1_Income support,Taiwan,TWN,65.0,score,2020.0
-35,Health,Prevalence of chronic kidney disease,E1_Income support,Taiwan,TWN,0.162673,percent,2019.0
-36,Governance,Government effectiveness estimate,E1_Income support,Taiwan,TWN,1.436754,score,2019.0
-37,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E1_Income support,Taiwan,TWN,93781.7,international $ in PPP,2020.0
-39,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Taiwan,TWN,56.0,score,2021.0
-50,Health,Prevalence of total cancers,E1_Income support,Taiwan,TWN,0.025099,percent,2019.0
-55,Governance,Human Freedom Score ,E1_Income support,Taiwan,TWN,8.42,score,2018.0
-58,Governance,Personal Freedom Score ,E1_Income support,Taiwan,TWN,8.9,score,2018.0
-61,Health,Prevalence of Diabetes,E1_Income support,Taiwan,TWN,0.084017,percent,2019.0
-66,Governance,Control of corruption estimate,E1_Income support,Taiwan,TWN,1.045266,score,2019.0
-70,Governance,Aggregate score for the Political Rights category,E1_Income support,Taiwan,TWN,38.0,score,2021.0
-72,Health,Prevalence of down syndrome,E1_Income support,Taiwan,TWN,8.69e-05,percent,2019.0
-73,Governance,Regulatory quality estimate,E1_Income support,Taiwan,TWN,1.40276,score,2019.0
-75,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Taiwan,TWN,0.7195977,score,2019.0
-81,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Taiwan,TWN,0.400737,percent,2019.0
-85,Governance,Voice and accountability estimate,E1_Income support,Taiwan,TWN,0.9959083,score,2019.0
-88,Economics,"Trade, total as % of GDP",E1_Income support,Taiwan,TWN,100.6416,percent,2019.0
-89,Economics,Expenditure on social protection (% of GDP),E1_Income support,Taiwan,TWN,3.2,percent,2018.0
-98,Economics,Stock market capitalization (US$ million),E1_Income support,Taiwan,TWN,1177469.684,percent,2019.0
-114,Economics,"International tourism, receipts",E1_Income support,Taiwan,TWN,14373000000.0,US Dollar,2019.0
-115,Economics,Expenditure on health (% of GDP),E1_Income support,Taiwan,TWN,0.1,percent,2018.0
-116,Economics,Expenditure on education (% of GDP),E1_Income support,Taiwan,TWN,1.5,percent,2018.0
+3,Economics,"Foreign direct investment, net",E1_Income support,Taiwan,TWN,8245000000.0,US Dollar,2019.0
+4,Governance,Corruption Perceptions Index,E1_Income support,Taiwan,TWN,65.0,score,2020.0
+9,Health,Summary exposure value tobacco,E1_Income support,Taiwan,TWN,22.63303,Rate (risk-weighted prevalence),2019.0
+10,Social issues ,Life Ladder ,E1_Income support,Taiwan,TWN,6.584400177001953,score,2021.0
+12,Health,Prevalence of Depressive disorders,E1_Income support,Taiwan,TWN,0.035913,percent,2019.0
+17,Governance,Government effectiveness estimate,E1_Income support,Taiwan,TWN,1.436754,score,2019.0
+19,Health,Prevalence of Hypertensive heart disease,E1_Income support,Taiwan,TWN,0.004969,percent,2019.0
+20,Health,Prevalence of Respiratory infections and tuberculosis,E1_Income support,Taiwan,TWN,0.400737,percent,2019.0
+21,Health,Prevalence of chronic kidney disease,E1_Income support,Taiwan,TWN,0.162673,percent,2019.0
+24,Health,Prevalence of anxiety disorders,E1_Income support,Taiwan,TWN,0.04188,percent,2019.0
+26,Governance,Aggregate score for the Civil Liberties category,E1_Income support,Taiwan,TWN,56.0,score,2021.0
+30,Governance,Rule of law estimate ,E1_Income support,Taiwan,TWN,1.141121,score,2019.0
+31,Governance,Economic Freedom Score,E1_Income support,Taiwan,TWN,7.94,score,2018.0
+43,Governance,Regulatory quality estimate,E1_Income support,Taiwan,TWN,1.40276,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E1_Income support,Taiwan,TWN,38.0,score,2021.0
+46,Governance,Political stability and absence of violence/terrorism estimate,E1_Income support,Taiwan,TWN,0.7195977,score,2019.0
+52,Health,Prevalence of total cancers,E1_Income support,Taiwan,TWN,0.025099,percent,2019.0
+53,Health,Prevalence of Diabetes,E1_Income support,Taiwan,TWN,0.084017,percent,2019.0
+56,Social issues ,Press freedom score,E1_Income support,Taiwan,TWN,23.76,score,2020.0
+58,Health,Prevalence of down syndrome,E1_Income support,Taiwan,TWN,8.69e-05,percent,2019.0
+60,Governance,Voice and accountability estimate,E1_Income support,Taiwan,TWN,0.9959083,score,2019.0
+61,Economics,Stock market capitalization (US$ million),E1_Income support,Taiwan,TWN,1177469.684,percent,2019.0
+64,Governance,Total freedom in the world score ,E1_Income support,Taiwan,TWN,94.0,score,2021.0
+73,Governance,Personal Freedom Score ,E1_Income support,Taiwan,TWN,8.9,score,2018.0
+77,Economics,Expenditure on health (% of GDP),E1_Income support,Taiwan,TWN,0.1,percent,2018.0
+82,Governance,Control of corruption estimate,E1_Income support,Taiwan,TWN,1.045266,score,2019.0
+86,Economics,"Trade, total as % of GDP",E1_Income support,Taiwan,TWN,100.6416,percent,2019.0
+87,Economics,"International tourism, receipts",E1_Income support,Taiwan,TWN,14373000000.0,US Dollar,2019.0
+90,Economics,"Output per worker (GDP constant 2011 international $ in PPP -- ILO modelled estimates, Nov. 2019",E1_Income support,Taiwan,TWN,93781.7,international $ in PPP,2020.0
+91,Governance,Human Freedom Score ,E1_Income support,Taiwan,TWN,8.42,score,2018.0
+100,Economics,"Lending interest rates, percent per annum",E1_Income support,Taiwan,TWN,2.631,percent per annum,2019.0
+112,Economics,Expenditure on education (% of GDP),E1_Income support,Taiwan,TWN,1.5,percent,2018.0
+113,Economics,Expenditure on social protection (% of GDP),E1_Income support,Taiwan,TWN,3.2,percent,2018.0

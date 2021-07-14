@@ -2,51 +2,51 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C2_Workplace closing,Somalia,SOM,2.00405,percent of population,2019.0
 2,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C2_Workplace closing,Somalia,SOM,11.3999996,percent of total labor force,2020.0
 3,Health,Prevalence of COVID-19,C2_Workplace closing,Somalia,SOM,4662.0,"Number (cumulative total by Dec 26,2020)",2020.0
-4,Governance,Voice and accountability estimate,C2_Workplace closing,Somalia,SOM,-1.835274,score,2019.0
+5,Governance,Voice and accountability estimate,C2_Workplace closing,Somalia,SOM,-1.835274,score,2019.0
 6,Economics,Employment in services (% of total employment) (modeled ILO estimate),C2_Workplace closing,Somalia,SOM,13.4350004,Percentage of total employment,2020.0
-7,Environment,CO2 emissions (kt),C2_Workplace closing,Somalia,SOM,645.392,kt,2016.0
-8,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Somalia,SOM,0.1119,Ones,2014.0
-10,Governance,Government effectiveness estimate,C2_Workplace closing,Somalia,SOM,-2.237149,score,2019.0
-11,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Somalia,SOM,0.671731,per 100 people,2019.0
-13,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Somalia,SOM,6.0,score,2021.0
-14,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Somalia,SOM,27.4,percent,2020.0
-15,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Somalia,SOM,100.0,percent of total,2017.0
-16,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Somalia,SOM,0.045496,metric tons per capita,2016.0
-17,Social issues ,Life Ladder ,C2_Workplace closing,Somalia,SOM,4.667941093444824,score,2016.0
-19,Health,Prevalence of total cancers,C2_Workplace closing,Somalia,SOM,0.00163,percent,2019.0
-20,Social issues ,Net migration,C2_Workplace closing,Somalia,SOM,-200002.0,net total / data are 5 year estimates,2019.0
-21,Health,Summary exposure value tobacco,C2_Workplace closing,Somalia,SOM,12.20393,Rate (risk-weighted prevalence),2019.0
-22,Governance,Total freedom in the world score ,C2_Workplace closing,Somalia,SOM,7.0,score,2021.0
-25,Governance,Rule of law estimate ,C2_Workplace closing,Somalia,SOM,-2.350358,score,2019.0
-28,Health,Prevalence of anxiety disorders,C2_Workplace closing,Somalia,SOM,0.02804,percent,2019.0
-29,Health,Prevalence of Diabetes,C2_Workplace closing,Somalia,SOM,0.016555,percent,2019.0
-32,Health,Prevalence of Depressive disorders,C2_Workplace closing,Somalia,SOM,0.033103,percent,2019.0
-34,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Somalia,SOM,42.0,percent,2019.0
-36,Health,Mortality due to COVID-19,C2_Workplace closing,Somalia,SOM,124.0,"Number (cumulative total by Dec 26,2020)",2020.0
-37,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Somalia,SOM,0.03002,percent,2019.0
-41,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Somalia,SOM,258.0,Cases,2019.0
-43,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Somalia,SOM,2.9,percent,2020.0
-44,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Somalia,SOM,0.023,Ones,2014.0
-46,Health,Prevalence of obesity,C2_Workplace closing,Somalia,SOM,8.3,percent,2016.0
-48,Social issues ,Press freedom score,C2_Workplace closing,Somalia,SOM,55.45,score,2020.0
-51,Environment,Access to electricity ,C2_Workplace closing,Somalia,SOM,35.2555351257324,percent of population,2018.0
-52,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Somalia,SOM,2.0,rating,2019.0
-53,Demographics,Secure Internet servers ,C2_Workplace closing,Somalia,SOM,8.54761458417312,per 1 million people,2019.0
-55,Governance,Fragile States Index Total ,C2_Workplace closing,Somalia,SOM,110.88895932474605,score,2020.0
-58,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Somalia,SOM,24.36363636,proportion,2020.0
-61,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Somalia,SOM,47.4360008,Percentage of total population,2020.0
-63,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Somalia,SOM,1.0,score,2021.0
-64,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Somalia,SOM,65.0,number,2019.0
-67,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Somalia,SOM,46.0,percent,2019.0
-68,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Somalia,SOM,0.231141,percent,2019.0
-69,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Somalia,SOM,-2.383227,score,2019.0
-71,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Somalia,SOM,21.7700005,Percentage of females of the total population,2020.0
-74,Governance,Control of corruption estimate,C2_Workplace closing,Somalia,SOM,-1.709963,score,2019.0
-76,Governance,Regulatory quality estimate,C2_Workplace closing,Somalia,SOM,-2.203132,score,2019.0
-77,Health,Prevalence of down syndrome,C2_Workplace closing,Somalia,SOM,0.000159,percent,2019.0
-82,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Somalia,SOM,0.000686,percent,2019.0
-83,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Somalia,SOM,48.7964,per 100 people,2019.0
-87,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Somalia,SOM,0.1,percent,2019.0
-92,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Somalia,SOM,32.03458,micrograms per cubic meter,2017.0
-97,Governance,Corruption Perceptions Index,C2_Workplace closing,Somalia,SOM,12.0,score,2020.0
-110,Environment,Renewable energy consumption ,C2_Workplace closing,Somalia,SOM,94.2859666089416,percent of total final energy consumption,2015.0
+8,Demographics,Mobile cellular subscriptions,C2_Workplace closing,Somalia,SOM,48.7964,per 100 people,2019.0
+10,Environment,CO2 emissions (metric tons per capita),C2_Workplace closing,Somalia,SOM,0.045496,metric tons per capita,2016.0
+11,Health,Prevalence of Depressive disorders,C2_Workplace closing,Somalia,SOM,0.033103,percent,2019.0
+12,Health,"Immunization, measles (% of children ages 12-23 months)",C2_Workplace closing,Somalia,SOM,46.0,percent,2019.0
+14,Demographics,Fixed broadband subscriptions,C2_Workplace closing,Somalia,SOM,0.671731,per 100 people,2019.0
+15,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C2_Workplace closing,Somalia,SOM,27.4,percent,2020.0
+16,Environment,CO2 emissions (kt),C2_Workplace closing,Somalia,SOM,645.392,kt,2016.0
+17,Governance,Aggregate score for the Civil Liberties category,C2_Workplace closing,Somalia,SOM,6.0,score,2021.0
+18,Social issues ,Net migration,C2_Workplace closing,Somalia,SOM,-200002.0,net total / data are 5 year estimates,2019.0
+19,Environment,Renewable energy consumption ,C2_Workplace closing,Somalia,SOM,94.2859666089416,percent of total final energy consumption,2015.0
+20,Governance,Fragile States Index Total ,C2_Workplace closing,Somalia,SOM,110.88895932474605,score,2020.0
+21,Health,Prevalence of chronic kidney disease,C2_Workplace closing,Somalia,SOM,0.03002,percent,2019.0
+22,Environment,"PM2.5 air pollution, mean annual exposure",C2_Workplace closing,Somalia,SOM,32.03458,micrograms per cubic meter,2017.0
+23,Health,"Physicians (per 1,000 people)",C2_Workplace closing,Somalia,SOM,0.023,Ones,2014.0
+26,Governance,Total freedom in the world score ,C2_Workplace closing,Somalia,SOM,7.0,score,2021.0
+27,Health,Prevalence of Diabetes,C2_Workplace closing,Somalia,SOM,0.016555,percent,2019.0
+28,Health,"Immunization, DPT (% of children ages 12-23 months)",C2_Workplace closing,Somalia,SOM,42.0,percent,2019.0
+29,Health,Prevalence of anxiety disorders,C2_Workplace closing,Somalia,SOM,0.02804,percent,2019.0
+31,Health,Prevalence of Respiratory infections and tuberculosis,C2_Workplace closing,Somalia,SOM,0.231141,percent,2019.0
+32,Governance,Corruption Perceptions Index,C2_Workplace closing,Somalia,SOM,12.0,score,2020.0
+33,Health,"Nurses and midwives (per 1,000 people)",C2_Workplace closing,Somalia,SOM,0.1119,Ones,2014.0
+35,Health,Prevalence of down syndrome,C2_Workplace closing,Somalia,SOM,0.000159,percent,2019.0
+38,Health,"Incidence of tuberculosis (per 100,000 people)",C2_Workplace closing,Somalia,SOM,258.0,Cases,2019.0
+39,Health,Prevalence of total cancers,C2_Workplace closing,Somalia,SOM,0.00163,percent,2019.0
+40,Governance,Government effectiveness estimate,C2_Workplace closing,Somalia,SOM,-2.237149,score,2019.0
+41,Health,Summary exposure value tobacco,C2_Workplace closing,Somalia,SOM,12.20393,Rate (risk-weighted prevalence),2019.0
+42,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C2_Workplace closing,Somalia,SOM,2.9,percent,2020.0
+44,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Somalia,SOM,-2.383227,score,2019.0
+45,Social issues ,Life Ladder ,C2_Workplace closing,Somalia,SOM,4.667941093444824,score,2016.0
+48,Governance,Regulatory quality estimate,C2_Workplace closing,Somalia,SOM,-2.203132,score,2019.0
+51,Social issues ,Press freedom score,C2_Workplace closing,Somalia,SOM,55.45,score,2020.0
+52,Health,Prevalence of obesity,C2_Workplace closing,Somalia,SOM,8.3,percent,2016.0
+53,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C2_Workplace closing,Somalia,SOM,2.0,rating,2019.0
+57,Governance,Control of corruption estimate,C2_Workplace closing,Somalia,SOM,-1.709963,score,2019.0
+58,Demographics,Secure Internet servers ,C2_Workplace closing,Somalia,SOM,8.54761458417312,per 1 million people,2019.0
+59,Governance,Rule of law estimate ,C2_Workplace closing,Somalia,SOM,-2.350358,score,2019.0
+62,Health,Prevalence of Hypertensive heart disease,C2_Workplace closing,Somalia,SOM,0.000686,percent,2019.0
+66,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Somalia,SOM,47.4360008,Percentage of total population,2020.0
+67,Social issues ,Proportion of seats held by women in national parliaments (%),C2_Workplace closing,Somalia,SOM,24.36363636,proportion,2020.0
+69,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C2_Workplace closing,Somalia,SOM,100.0,percent of total,2017.0
+77,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C2_Workplace closing,Somalia,SOM,21.7700005,Percentage of females of the total population,2020.0
+80,Governance,Aggregate score for the Political Rights category,C2_Workplace closing,Somalia,SOM,1.0,score,2021.0
+82,Demographics,Fixed telephone subscriptions,C2_Workplace closing,Somalia,SOM,65.0,number,2019.0
+83,Health,Mortality due to COVID-19,C2_Workplace closing,Somalia,SOM,124.0,"Number (cumulative total by Dec 26,2020)",2020.0
+86,Health,"Prevalence of HIV, total (% of population ages 15-49)",C2_Workplace closing,Somalia,SOM,0.1,percent,2019.0
+90,Environment,Access to electricity ,C2_Workplace closing,Somalia,SOM,35.2555351257324,percent of population,2018.0

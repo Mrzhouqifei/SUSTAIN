@@ -1,22 +1,22 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Gibraltar,GIB,94.4445,percent of population,2019.0
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
 4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Gibraltar,GIB,56.2891,per 100 people,2019.0
-10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Gibraltar,GIB,634.391,kt,2016.0
-22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Gibraltar,GIB,0.0,kWh,2015.0
-29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Gibraltar,GIB,120.284,per 100 people,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
-35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of total,2015.0
-36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
-39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of total,2015.0
-40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of energy use,2014.0
-43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total,2015.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
-47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Gibraltar,GIB,99.51282,percent of total,2014.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of population,2018.0
-49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
-55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total energy,2014.0
-57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Gibraltar,GIB,16968.0,number,2019.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
-73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
-89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total,2014.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Gibraltar,GIB,1153.0,"Number (cumulative total by Dec 26,2020)",2020.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Gibraltar,GIB,16201.29966469838,per 1 million people,2019.0
+9,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of energy use,2014.0
+10,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of total,2015.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Gibraltar,GIB,120.284,per 100 people,2019.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Gibraltar,GIB,6.0,"Number (cumulative total by Dec 26,2020)",2020.0
+21,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total,2015.0
+22,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Gibraltar,GIB,5812.453669384729,kg of oil equivalent per capita,2014.0
+24,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Gibraltar,GIB,0.0,kWh,2015.0
+31,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Gibraltar,GIB,99.51282,percent of total,2014.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Gibraltar,GIB,634.391,kt,2016.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Gibraltar,GIB,16968.0,number,2019.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Gibraltar,GIB,18.80401,metric tons per capita,2016.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of population,2018.0
+65,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total energy,2014.0
+74,Environment,Electric power consumption ,C4_Restrictions on gatherings,Gibraltar,GIB,5693.106004447739,kWh per capita,2014.0
+81,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Gibraltar,GIB,100.0,percent of total,2015.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total final energy consumption,2015.0
+93,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Gibraltar,GIB,0.0,percent of total,2014.0

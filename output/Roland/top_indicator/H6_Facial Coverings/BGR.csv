@@ -2,73 +2,73 @@ rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,H6_Facial Coverings,Bulgaria,BGR,67.947,percent of population,2019.0
 2,Health,Prevalence of Respiratory infections and tuberculosis,H6_Facial Coverings,Bulgaria,BGR,0.225973,percent,2019.0
 3,Demographics,Fixed telephone subscriptions,H6_Facial Coverings,Bulgaria,BGR,972255.0,number,2019.0
-4,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Bulgaria,BGR,63.6520004,Percentage of total employment,2020.0
-5,Health,Prevalence of COVID-19,H6_Facial Coverings,Bulgaria,BGR,190027.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Bulgaria,BGR,0.037262,percent,2019.0
-7,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Bulgaria,BGR,49.112999,Percentage of females of the total population,2020.0
-8,Governance,Economic Freedom Score,H6_Facial Coverings,Bulgaria,BGR,7.74,score,2018.0
-10,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Bulgaria,BGR,116.206,per 100 people,2019.0
-11,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Bulgaria,BGR,5.7,percent,2020.0
-12,Governance,Personal Freedom Score ,H6_Facial Coverings,Bulgaria,BGR,8.11,score,2018.0
-13,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Bulgaria,BGR,27.6502,per 100 people,2019.0
-14,Social issues ,Net migration,H6_Facial Coverings,Bulgaria,BGR,-24001.0,net total / data are 5 year estimates,2019.0
-15,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Bulgaria,BGR,0.006279,percent,2019.0
-16,Health,Mortality due to COVID-19,H6_Facial Coverings,Bulgaria,BGR,6496.0,"Number (cumulative total by Dec 26,2020)",2020.0
-17,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Bulgaria,BGR,4.0332,Ones,2015.0
-18,Health,Prevalence of total cancers,H6_Facial Coverings,Bulgaria,BGR,0.025146,percent,2019.0
-19,Environment,Combustible renewables and waste,H6_Facial Coverings,Bulgaria,BGR,5.996297,percent of total energy,2014.0
-20,Governance,Total freedom in the world score ,H6_Facial Coverings,Bulgaria,BGR,78.0,score,2021.0
-21,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Bulgaria,BGR,55.243,Percentage of total population,2020.0
+4,Health,Prevalence of COVID-19,H6_Facial Coverings,Bulgaria,BGR,190027.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Bulgaria,BGR,49.112999,Percentage of females of the total population,2020.0
+6,Environment,"Energy imports, net ",H6_Facial Coverings,Bulgaria,BGR,36.55077772468187,percent of energy use,2014.0
+7,Governance,Economic Freedom Score,H6_Facial Coverings,Bulgaria,BGR,7.74,score,2018.0
+8,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Bulgaria,BGR,0.141258,percent,2019.0
+9,Governance,Personal Freedom Score ,H6_Facial Coverings,Bulgaria,BGR,8.11,score,2018.0
+10,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Bulgaria,BGR,45.0,score,2021.0
+11,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Bulgaria,BGR,38.57,percent,2018.0
+12,Environment,Combustible renewables and waste,H6_Facial Coverings,Bulgaria,BGR,5.996297,percent of total energy,2014.0
+13,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Bulgaria,BGR,33.0,score,2021.0
+14,Demographics,Fixed broadband subscriptions,H6_Facial Coverings,Bulgaria,BGR,27.6502,per 100 people,2019.0
+16,Economics,Volume of imports,H6_Facial Coverings,Bulgaria,BGR,5.185,percent change,2020.0
+18,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Bulgaria,BGR,3107000000.0,kWh,2015.0
+19,Social issues ,Net migration,H6_Facial Coverings,Bulgaria,BGR,-24001.0,net total / data are 5 year estimates,2019.0
+20,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Bulgaria,BGR,4.2,percent,2018.0
+21,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Bulgaria,BGR,1.3046665939,"proportion, pero 100,000 people",2018.0
 22,Environment,"Adjusted net savings, including particulate emission damage",H6_Facial Coverings,Bulgaria,BGR,15.1401354438355,percent of GNI,2018.0
-23,Health,Prevalence of obesity,H6_Facial Coverings,Bulgaria,BGR,25.0,percent,2016.0
-24,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,Bulgaria,BGR,40.4,index ,2017.0
-25,Health,Prevalence of down syndrome,H6_Facial Coverings,Bulgaria,BGR,0.000145,percent,2019.0
-26,Environment,"Electricity production from renewable sources, excluding hydroelectric",H6_Facial Coverings,Bulgaria,BGR,3107000000.0,kWh,2015.0
-27,Social issues ,Life Ladder ,H6_Facial Coverings,Bulgaria,BGR,5.265500068664551,score,2021.0
-28,Governance,Control of corruption estimate,H6_Facial Coverings,Bulgaria,BGR,-0.1551902,score,2019.0
-29,Health,Summary exposure value tobacco,H6_Facial Coverings,Bulgaria,BGR,33.85154,Rate (risk-weighted prevalence),2019.0
-30,Governance,Fragile States Index Total ,H6_Facial Coverings,Bulgaria,BGR,49.17165481543572,score,2020.0
-31,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),H6_Facial Coverings,Bulgaria,BGR,4.2,percent,2018.0
-33,Governance,Serious assault (rate),H6_Facial Coverings,Bulgaria,BGR,35.71,rate,2018.0
-34,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Bulgaria,BGR,71.04592,percent of total,2014.0
-35,Environment,Electricity production from coal sources ,H6_Facial Coverings,Bulgaria,BGR,46.20655697345205,percent of total,2015.0
-36,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Bulgaria,BGR,19.14913,micrograms per cubic meter,2017.0
-37,Environment,Renewable energy consumption ,H6_Facial Coverings,Bulgaria,BGR,17.6500779274042,percent of total final energy consumption,2015.0
-38,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Bulgaria,BGR,6.4,percent,2020.0
-39,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Bulgaria,BGR,21.0,Cases,2019.0
-40,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Bulgaria,BGR,50.40416888925362,percent of total,2015.0
-42,Environment,CO2 emissions (kt),H6_Facial Coverings,Bulgaria,BGR,41708.46,kt,2016.0
-43,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Bulgaria,BGR,93.0,percent,2019.0
-44,Economics,Volume of imports,H6_Facial Coverings,Bulgaria,BGR,5.185,percent change,2020.0
-46,Social issues ,Press freedom score,H6_Facial Coverings,Bulgaria,BGR,35.06,score,2020.0
-47,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Bulgaria,BGR,4.8156,Ones,2015.0
-48,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Bulgaria,BGR,26.66666667,proportion,2020.0
-49,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Bulgaria,BGR,0.040476,percent,2019.0
-50,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Bulgaria,BGR,5.851501,metric tons per capita,2016.0
-52,Governance,Human Development Index,H6_Facial Coverings,Bulgaria,BGR,0.816,index,2019.0
-53,Governance,Corruption Perceptions Index,H6_Facial Coverings,Bulgaria,BGR,44.0,score,2020.0
-55,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Bulgaria,BGR,99.8946743201431,percent of total,2017.0
-56,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Bulgaria,BGR,0.5401217,score,2019.0
-57,Governance,Voice and accountability estimate,H6_Facial Coverings,Bulgaria,BGR,0.3849187,score,2019.0
-58,Demographics,Secure Internet servers ,H6_Facial Coverings,Bulgaria,BGR,40238.04714639736,per 1 million people,2019.0
-59,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Bulgaria,BGR,92.0,percent,2019.0
-60,Governance,Regulatory quality estimate,H6_Facial Coverings,Bulgaria,BGR,0.5316786,score,2019.0
-61,Governance,Aggregate score for the Political Rights category,H6_Facial Coverings,Bulgaria,BGR,33.0,score,2021.0
-62,Social issues ,"Intentional homicides (per 100,000 people)",H6_Facial Coverings,Bulgaria,BGR,1.3046665939,"proportion, pero 100,000 people",2018.0
-64,Health,Prevalence of Diabetes,H6_Facial Coverings,Bulgaria,BGR,0.098452,percent,2019.0
-65,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Bulgaria,BGR,0.1,percent,2019.0
-67,Governance,Aggregate score for the Civil Liberties category,H6_Facial Coverings,Bulgaria,BGR,45.0,score,2021.0
-68,Governance,Human Freedom Score ,H6_Facial Coverings,Bulgaria,BGR,7.93,score,2018.0
-69,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Bulgaria,BGR,33.81209112025061,percent of total,2014.0
-70,Economics,Volume of exports,H6_Facial Coverings,Bulgaria,BGR,4.358,percent change,2020.0
-71,Environment,"Energy imports, net ",H6_Facial Coverings,Bulgaria,BGR,36.55077772468187,percent of energy use,2014.0
-74,Governance,Government effectiveness estimate,H6_Facial Coverings,Bulgaria,BGR,0.3390003,score,2019.0
-75,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Bulgaria,BGR,3.8499999,percent of total labor force,2020.0
-78,Environment,Access to electricity ,H6_Facial Coverings,Bulgaria,BGR,100.0,percent of population,2018.0
-82,Environment,Electricity production from oil sources,H6_Facial Coverings,Bulgaria,BGR,0.373394608345985,percent of total,2015.0
-83,Health,Prevalence of chronic kidney disease,H6_Facial Coverings,Bulgaria,BGR,0.141258,percent,2019.0
-86,Social issues ,Proportion of women in managerial positions (%),H6_Facial Coverings,Bulgaria,BGR,38.57,percent,2018.0
-91,Governance,Rule of law estimate ,H6_Facial Coverings,Bulgaria,BGR,0.0358966,score,2019.0
-92,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Bulgaria,BGR,2477.65540069696,kg of oil equivalent per capita,2014.0
-93,Environment,Energy use ,H6_Facial Coverings,Bulgaria,BGR,132.2621599661743,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-96,Environment,Electric power consumption ,H6_Facial Coverings,Bulgaria,BGR,4708.92745757231,kWh per capita,2014.0
+23,Environment,Electricity production from oil sources,H6_Facial Coverings,Bulgaria,BGR,0.373394608345985,percent of total,2015.0
+24,Health,Prevalence of obesity,H6_Facial Coverings,Bulgaria,BGR,25.0,percent,2016.0
+25,Environment,Energy use ,H6_Facial Coverings,Bulgaria,BGR,132.2621599661743,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+26,Social issues ,Gini index (World Bank estimate),H6_Facial Coverings,Bulgaria,BGR,40.4,index ,2017.0
+27,Environment,"PM2.5 air pollution, mean annual exposure",H6_Facial Coverings,Bulgaria,BGR,19.14913,micrograms per cubic meter,2017.0
+28,Environment,CO2 emissions (kt),H6_Facial Coverings,Bulgaria,BGR,41708.46,kt,2016.0
+29,Governance,Corruption Perceptions Index,H6_Facial Coverings,Bulgaria,BGR,44.0,score,2020.0
+30,Health,Prevalence of Diabetes,H6_Facial Coverings,Bulgaria,BGR,0.098452,percent,2019.0
+31,Environment,Renewable energy consumption ,H6_Facial Coverings,Bulgaria,BGR,17.6500779274042,percent of total final energy consumption,2015.0
+32,Environment,Electric power consumption ,H6_Facial Coverings,Bulgaria,BGR,4708.92745757231,kWh per capita,2014.0
+33,Social issues ,Life Ladder ,H6_Facial Coverings,Bulgaria,BGR,5.265500068664551,score,2021.0
+34,Governance,Fragile States Index Total ,H6_Facial Coverings,Bulgaria,BGR,49.17165481543572,score,2020.0
+35,Environment,"Electricity production from oil, gas and coal sources",H6_Facial Coverings,Bulgaria,BGR,50.40416888925362,percent of total,2015.0
+37,Health,Prevalence of anxiety disorders,H6_Facial Coverings,Bulgaria,BGR,0.040476,percent,2019.0
+38,Governance,Human Freedom Score ,H6_Facial Coverings,Bulgaria,BGR,7.93,score,2018.0
+39,Economics,Employment in services (% of total employment) (modeled ILO estimate),H6_Facial Coverings,Bulgaria,BGR,63.6520004,Percentage of total employment,2020.0
+40,Environment,CO2 emissions (metric tons per capita),H6_Facial Coverings,Bulgaria,BGR,5.851501,metric tons per capita,2016.0
+41,Governance,Control of corruption estimate,H6_Facial Coverings,Bulgaria,BGR,-0.1551902,score,2019.0
+42,Social issues ,Press freedom score,H6_Facial Coverings,Bulgaria,BGR,35.06,score,2020.0
+43,Health,"Nurses and midwives (per 1,000 people)",H6_Facial Coverings,Bulgaria,BGR,4.8156,Ones,2015.0
+44,Demographics,Mobile cellular subscriptions,H6_Facial Coverings,Bulgaria,BGR,116.206,per 100 people,2019.0
+45,Health,"Immunization, measles (% of children ages 12-23 months)",H6_Facial Coverings,Bulgaria,BGR,93.0,percent,2019.0
+46,Health,Prevalence of down syndrome,H6_Facial Coverings,Bulgaria,BGR,0.000145,percent,2019.0
+47,Health,Prevalence of Depressive disorders,H6_Facial Coverings,Bulgaria,BGR,0.037262,percent,2019.0
+48,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",H6_Facial Coverings,Bulgaria,BGR,5.7,percent,2020.0
+49,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",H6_Facial Coverings,Bulgaria,BGR,3.8499999,percent of total labor force,2020.0
+50,Environment,Energy use (kg of oil equivalent per capita),H6_Facial Coverings,Bulgaria,BGR,2477.65540069696,kg of oil equivalent per capita,2014.0
+51,Health,Prevalence of Hypertensive heart disease,H6_Facial Coverings,Bulgaria,BGR,0.006279,percent,2019.0
+52,Demographics,Secure Internet servers ,H6_Facial Coverings,Bulgaria,BGR,40238.04714639736,per 1 million people,2019.0
+53,Health,"Physicians (per 1,000 people)",H6_Facial Coverings,Bulgaria,BGR,4.0332,Ones,2015.0
+54,Health,Prevalence of total cancers,H6_Facial Coverings,Bulgaria,BGR,0.025146,percent,2019.0
+55,Health,"Incidence of tuberculosis (per 100,000 people)",H6_Facial Coverings,Bulgaria,BGR,21.0,Cases,2019.0
+56,Health,Summary exposure value tobacco,H6_Facial Coverings,Bulgaria,BGR,33.85154,Rate (risk-weighted prevalence),2019.0
+58,Governance,Regulatory quality estimate,H6_Facial Coverings,Bulgaria,BGR,0.5316786,score,2019.0
+59,Governance,Human Development Index,H6_Facial Coverings,Bulgaria,BGR,0.816,index,2019.0
+60,Social issues ,Proportion of seats held by women in national parliaments (%),H6_Facial Coverings,Bulgaria,BGR,26.66666667,proportion,2020.0
+61,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",H6_Facial Coverings,Bulgaria,BGR,6.4,percent,2020.0
+62,Governance,Serious assault (rate),H6_Facial Coverings,Bulgaria,BGR,35.71,rate,2018.0
+65,Governance,Government effectiveness estimate,H6_Facial Coverings,Bulgaria,BGR,0.3390003,score,2019.0
+68,Health,"Immunization, DPT (% of children ages 12-23 months)",H6_Facial Coverings,Bulgaria,BGR,92.0,percent,2019.0
+69,Health,Mortality due to COVID-19,H6_Facial Coverings,Bulgaria,BGR,6496.0,"Number (cumulative total by Dec 26,2020)",2020.0
+71,Health,"Prevalence of HIV, total (% of population ages 15-49)",H6_Facial Coverings,Bulgaria,BGR,0.1,percent,2019.0
+72,Governance,Voice and accountability estimate,H6_Facial Coverings,Bulgaria,BGR,0.3849187,score,2019.0
+74,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",H6_Facial Coverings,Bulgaria,BGR,99.8946743201431,percent of total,2017.0
+75,Environment,Fossil fuel energy consumption,H6_Facial Coverings,Bulgaria,BGR,71.04592,percent of total,2014.0
+76,Governance,Political stability and absence of violence/terrorism estimate,H6_Facial Coverings,Bulgaria,BGR,0.5401217,score,2019.0
+77,Economics,Volume of exports,H6_Facial Coverings,Bulgaria,BGR,4.358,percent change,2020.0
+79,Governance,Total freedom in the world score ,H6_Facial Coverings,Bulgaria,BGR,78.0,score,2021.0
+80,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",H6_Facial Coverings,Bulgaria,BGR,55.243,Percentage of total population,2020.0
+82,Governance,Rule of law estimate ,H6_Facial Coverings,Bulgaria,BGR,0.0358966,score,2019.0
+84,Environment,Access to electricity ,H6_Facial Coverings,Bulgaria,BGR,100.0,percent of population,2018.0
+90,Environment,Electricity production from coal sources ,H6_Facial Coverings,Bulgaria,BGR,46.20655697345205,percent of total,2015.0
+116,Environment,Electricity production from nuclear sources ,H6_Facial Coverings,Bulgaria,BGR,33.81209112025061,percent of total,2014.0

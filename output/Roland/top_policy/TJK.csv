@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-TJK,H6_Facial Coverings,0.10049628335109388,1
-TJK,C7_Restrictions on internal movement,0.08494380326951513,2
-TJK,C4_Restrictions on gatherings,0.08198340320982166,3
-TJK,C6_Stay at home requirements,0.0805950538324807,4
-TJK,C3_Cancel public events,0.07774504252989735,5
-TJK,C5_Close public transport,0.06865832392756817,6
-TJK,C1_School closing,0.06355547627389849,7
-TJK,C8_International travel controls,0.06322013443041916,8
-TJK,E2_Debt/contract relief,0.046413846218192494,9
-TJK,H3_Contact tracing,0.044663322327573335,10
-TJK,E1_Income support,0.042813090536916114,11
-TJK,C2_Workplace closing,0.03808557265968407,12
-TJK,H7_Vaccination policy,0.03667509781272758,13
-TJK,H1_Public information campaigns,0.02599651900986397,14
-TJK,H2_Testing policy,0.013941216182143406,15
+TJK,H6_Facial Coverings,0.0945308123178577,1
+TJK,C7_Restrictions on internal movement,0.0775780756930361,2
+TJK,C4_Restrictions on gatherings,0.072794091405886,3
+TJK,C6_Stay at home requirements,0.0707985367491084,4
+TJK,E2_Debt/contract relief,0.0690581073726378,5
+TJK,C1_School closing,0.0664873076398444,6
+TJK,C8_International travel controls,0.0659936509948004,7
+TJK,C5_Close public transport,0.0622569175923671,8
+TJK,H3_Contact tracing,0.0617509653888328,9
+TJK,E1_Income support,0.0499776818087955,10
+TJK,C2_Workplace closing,0.0486441441512477,11
+TJK,H7_Vaccination policy,0.0408875886987932,12
+TJK,H1_Public information campaigns,0.0267275573912101,13
+TJK,C3_Cancel public events,0.0248600928814552,14
+TJK,H2_Testing policy,0.0190228585464957,15

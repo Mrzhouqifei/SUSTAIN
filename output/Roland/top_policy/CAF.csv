@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-CAF,H2_Testing policy,0.10479515179857764,1
-CAF,C2_Workplace closing,0.09164485048049134,2
-CAF,C6_Stay at home requirements,0.08327692149326665,3
-CAF,C7_Restrictions on internal movement,0.07872154532365745,4
-CAF,E1_Income support,0.07530648483343731,5
-CAF,H6_Facial Coverings,0.06826763549125439,6
-CAF,H3_Contact tracing,0.06771767657845425,7
-CAF,H1_Public information campaigns,0.05873032727409382,8
-CAF,C4_Restrictions on gatherings,0.0581397096953382,9
-CAF,E2_Debt/contract relief,0.055670569741042224,10
-CAF,C1_School closing,0.05310002348835435,11
-CAF,C3_Cancel public events,0.04109637284772413,12
-CAF,C8_International travel controls,0.02487054535954331,13
-CAF,C5_Close public transport,0.0118581454961625,14
+CAF,H2_Testing policy,0.0939391736205027,1
+CAF,C2_Workplace closing,0.0815592873515388,2
+CAF,C6_Stay at home requirements,0.0811355322581454,3
+CAF,C7_Restrictions on internal movement,0.0765676316636913,4
+CAF,E2_Debt/contract relief,0.0746076735831522,5
+CAF,H6_Facial Coverings,0.0662177228207052,6
+CAF,H3_Contact tracing,0.0652685070139358,7
+CAF,H1_Public information campaigns,0.0603388264290551,8
+CAF,C3_Cancel public events,0.059762791865645,9
+CAF,C1_School closing,0.0540346004223922,10
+CAF,C8_International travel controls,0.0360447294063043,11
+CAF,E1_Income support,0.027719880369519,12
+CAF,C5_Close public transport,0.0248979477742933,13
+CAF,C4_Restrictions on gatherings,0.0105284736341304,14
 CAF,H7_Vaccination policy,0.0,15

@@ -1,16 +1,16 @@
 ISO,Policy,score,rank
-MCO,H7_Vaccination policy,0.1194916122424138,1
-MCO,C8_International travel controls,0.09105214352687192,2
-MCO,C2_Workplace closing,0.07510574466639615,3
-MCO,C3_Cancel public events,0.07282578086073832,4
-MCO,H6_Facial Coverings,0.0674510310093447,5
-MCO,C7_Restrictions on internal movement,0.06341451360024443,6
-MCO,E1_Income support,0.0585549928741925,7
-MCO,H2_Testing policy,0.05557056640359747,8
-MCO,C1_School closing,0.050129168237840416,9
-MCO,C6_Stay at home requirements,0.04944641367896164,10
-MCO,H3_Contact tracing,0.04807077293175185,11
-MCO,E2_Debt/contract relief,0.0416004895652098,12
-MCO,H1_Public information campaigns,0.02654289099544396,13
-MCO,C5_Close public transport,0.009387497902869734,14
-MCO,C4_Restrictions on gatherings,0.006878647701404564,15
+MCO,H3_Contact tracing,0.0999221571255275,1
+MCO,E1_Income support,0.0744228210988545,2
+MCO,H7_Vaccination policy,0.0738163835930112,3
+MCO,C6_Stay at home requirements,0.0650187497212639,4
+MCO,C3_Cancel public events,0.0617424247427928,5
+MCO,H6_Facial Coverings,0.0597849852573611,6
+MCO,C2_Workplace closing,0.0541377035588372,7
+MCO,H2_Testing policy,0.0524727552783305,8
+MCO,C1_School closing,0.052211910307307,9
+MCO,C8_International travel controls,0.0506252067141495,10
+MCO,C7_Restrictions on internal movement,0.0468342290016762,11
+MCO,C5_Close public transport,0.043921035526697,12
+MCO,E2_Debt/contract relief,0.0436428483720433,13
+MCO,H1_Public information campaigns,0.0374196639871581,14
+MCO,C4_Restrictions on gatherings,0.0180670732809006,15

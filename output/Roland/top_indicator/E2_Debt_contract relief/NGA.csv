@@ -1,73 +1,73 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Nigeria,NGA,42.0,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Nigeria,NGA,25.0,score,2020.0
-3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Nigeria,NGA,77013.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Nigeria,NGA,18.87677,percent of total,2014.0
-6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Nigeria,NGA,74.81951992708888,per 1 million people,2019.0
-7,Social issues ,Life Ladder ,E2_Debt/contract relief,Nigeria,NGA,4.759300231933594,score,2021.0
-8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Nigeria,NGA,219.0,Cases,2019.0
-9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Nigeria,NGA,9.018408,Rate (risk-weighted prevalence),2019.0
-10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Nigeria,NGA,0.0377614,per 100 people,2019.0
-11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Nigeria,NGA,54.0,percent,2019.0
-12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Nigeria,NGA,100.0,percent of total,2017.0
-13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Nigeria,NGA,1212.0,"Number (cumulative total by Dec 26,2020)",2020.0
-14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Nigeria,NGA,0.6,percent,2018.0
-15,Social issues ,Press freedom score,E2_Debt/contract relief,Nigeria,NGA,35.63,score,2020.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Nigeria,NGA,53.1030006,Percentage of total employment,2020.0
-17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Nigeria,NGA,120369.3,kt,2016.0
-18,Governance,Control of corruption estimate,E2_Debt/contract relief,Nigeria,NGA,-1.094948,score,2019.0
-19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Nigeria,NGA,0.238966,percent,2019.0
-20,Social issues ,Net migration,E2_Debt/contract relief,Nigeria,NGA,-300000.0,net total / data are 5 year estimates,2019.0
-21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Nigeria,NGA,0.027786,percent,2019.0
-22,Governance,Economic Freedom Score,E2_Debt/contract relief,Nigeria,NGA,6.93,score,2018.0
-23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Nigeria,NGA,0.014004,percent,2019.0
-24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Nigeria,NGA,21.0,score,2021.0
-26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Nigeria,NGA,0.00099,percent,2019.0
-27,Economics,Volume of exports,E2_Debt/contract relief,Nigeria,NGA,6.162,percent change,2020.0
-28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Nigeria,NGA,47.5610008,Percentage of females of the total population,2020.0
-29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Nigeria,NGA,0.0508124413238705,percent of GNI,2018.0
-30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Nigeria,NGA,0.3806,Ones,2018.0
-31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Nigeria,NGA,5.16,score,2018.0
-32,Governance,Human Development Index,E2_Debt/contract relief,Nigeria,NGA,0.539,index,2019.0
-33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Nigeria,NGA,86.6356215634187,percent of total final energy consumption,2015.0
-35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Nigeria,NGA,2.7,percent,2020.0
-36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Nigeria,NGA,-1.934674,score,2019.0
-37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Nigeria,NGA,1.3,percent,2019.0
-38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Nigeria,NGA,-0.412996,score,2019.0
-39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Nigeria,NGA,34.524045903,"proportion, pero 100,000 people",2016.0
-40,Environment,Combustible renewables and waste,E2_Debt/contract relief,Nigeria,NGA,74.33917,percent of total energy,2014.0
-41,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Nigeria,NGA,0.0,kWh,2015.0
-43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Nigeria,NGA,71.79817,micrograms per cubic meter,2017.0
-44,Environment,"Energy imports, net ",E2_Debt/contract relief,Nigeria,NGA,-93.02721929253659,percent of energy use,2014.0
-45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Nigeria,NGA,0.038962,percent,2019.0
-46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Nigeria,NGA,24.0,score,2021.0
-47,Environment,Electricity production from oil sources,E2_Debt/contract relief,Nigeria,NGA,0.0,percent of total,2015.0
-48,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Nigeria,NGA,35.1,index ,2018.0
-49,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Nigeria,NGA,763.631976621602,kg of oil equivalent per capita,2014.0
-50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Nigeria,NGA,0.027553,percent,2019.0
-51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Nigeria,NGA,88.1842,per 100 people,2019.0
-52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Nigeria,NGA,-1.088634,score,2019.0
-53,Governance,Rule of law estimate ,E2_Debt/contract relief,Nigeria,NGA,-0.8979821,score,2019.0
-54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Nigeria,NGA,0.647285,metric tons per capita,2016.0
-55,Health,Prevalence of total cancers,E2_Debt/contract relief,Nigeria,NGA,0.001973,percent,2019.0
-56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Nigeria,NGA,0.000134,percent,2019.0
-57,Environment,Electric power consumption ,E2_Debt/contract relief,Nigeria,NGA,144.5254622232664,kWh per capita,2014.0
-59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Nigeria,NGA,45.0,score,2021.0
-61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Nigeria,NGA,7.96000004,percent of total labor force,2020.0
-63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Nigeria,NGA,3.631284916,proportion,2020.0
-65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Nigeria,NGA,57.0,percent,2019.0
-66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Nigeria,NGA,140491.0,number,2019.0
-68,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Nigeria,NGA,0.0,percent of total,2015.0
-69,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Nigeria,NGA,81.80487494431362,percent of total,2015.0
-71,Economics,Volume of imports,E2_Debt/contract relief,Nigeria,NGA,2.502,percent change,2020.0
-73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Nigeria,NGA,35.3,percent,2020.0
-74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Nigeria,NGA,-0.8609852,score,2019.0
-80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Nigeria,NGA,97.2675111298435,score,2020.0
-82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Nigeria,NGA,52.6930008,Percentage of total population,2020.0
-83,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Nigeria,NGA,3.0,rating,2019.0
-85,Environment,Energy use ,E2_Debt/contract relief,Nigeria,NGA,138.4297449087446,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-86,Governance,Human Freedom Score ,E2_Debt/contract relief,Nigeria,NGA,6.05,score,2018.0
-98,Health,Prevalence of obesity,E2_Debt/contract relief,Nigeria,NGA,8.9,percent,2016.0
-106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Nigeria,NGA,1.1792,Ones,2018.0
+2,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Nigeria,NGA,140491.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Nigeria,NGA,0.238966,percent,2019.0
+4,Health,Prevalence of COVID-19,E2_Debt/contract relief,Nigeria,NGA,77013.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,E2_Debt/contract relief,Nigeria,NGA,-0.8979821,score,2019.0
+6,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Nigeria,NGA,0.3806,Ones,2018.0
+7,Environment,Electricity production from oil sources,E2_Debt/contract relief,Nigeria,NGA,0.0,percent of total,2015.0
+8,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Nigeria,NGA,7.96000004,percent of total labor force,2020.0
+9,Environment,Fossil fuel energy consumption,E2_Debt/contract relief,Nigeria,NGA,18.87677,percent of total,2014.0
+10,Governance,Human Freedom Score ,E2_Debt/contract relief,Nigeria,NGA,6.05,score,2018.0
+11,Governance,Voice and accountability estimate,E2_Debt/contract relief,Nigeria,NGA,-0.412996,score,2019.0
+12,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Nigeria,NGA,0.0377614,per 100 people,2019.0
+13,Governance,Personal Freedom Score ,E2_Debt/contract relief,Nigeria,NGA,5.16,score,2018.0
+14,Governance,Economic Freedom Score,E2_Debt/contract relief,Nigeria,NGA,6.93,score,2018.0
+15,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Nigeria,NGA,34.524045903,"proportion, pero 100,000 people",2016.0
+16,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Nigeria,NGA,0.647285,metric tons per capita,2016.0
+17,Environment,Energy use (kg of oil equivalent per capita),E2_Debt/contract relief,Nigeria,NGA,763.631976621602,kg of oil equivalent per capita,2014.0
+18,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Nigeria,NGA,2.7,percent,2020.0
+19,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Nigeria,NGA,1.1792,Ones,2018.0
+20,Environment,Electricity production from coal sources ,E2_Debt/contract relief,Nigeria,NGA,0.0,percent of total,2015.0
+21,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Nigeria,NGA,53.1030006,Percentage of total employment,2020.0
+23,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Nigeria,NGA,71.79817,micrograms per cubic meter,2017.0
+24,Health,Prevalence of total cancers,E2_Debt/contract relief,Nigeria,NGA,0.001973,percent,2019.0
+25,Social issues ,Net migration,E2_Debt/contract relief,Nigeria,NGA,-300000.0,net total / data are 5 year estimates,2019.0
+26,Social issues ,Press freedom score,E2_Debt/contract relief,Nigeria,NGA,35.63,score,2020.0
+27,Environment,Combustible renewables and waste,E2_Debt/contract relief,Nigeria,NGA,74.33917,percent of total energy,2014.0
+29,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Nigeria,NGA,25.0,score,2020.0
+32,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Nigeria,NGA,35.3,percent,2020.0
+33,Environment,"Electricity production from renewable sources, excluding hydroelectric",E2_Debt/contract relief,Nigeria,NGA,0.0,kWh,2015.0
+34,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Nigeria,NGA,0.027786,percent,2019.0
+35,Health,Prevalence of Diabetes,E2_Debt/contract relief,Nigeria,NGA,0.014004,percent,2019.0
+36,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Nigeria,NGA,219.0,Cases,2019.0
+37,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Nigeria,NGA,0.0508124413238705,percent of GNI,2018.0
+38,Demographics,Secure Internet servers ,E2_Debt/contract relief,Nigeria,NGA,74.81951992708888,per 1 million people,2019.0
+39,Governance,Fragile States Index Total ,E2_Debt/contract relief,Nigeria,NGA,97.2675111298435,score,2020.0
+40,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Nigeria,NGA,100.0,percent of total,2017.0
+41,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Nigeria,NGA,88.1842,per 100 people,2019.0
+42,Social issues ,Life Ladder ,E2_Debt/contract relief,Nigeria,NGA,4.759300231933594,score,2021.0
+43,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Nigeria,NGA,-1.934674,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Nigeria,NGA,21.0,score,2021.0
+45,Health,Summary exposure value tobacco,E2_Debt/contract relief,Nigeria,NGA,9.018408,Rate (risk-weighted prevalence),2019.0
+46,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Nigeria,NGA,1.3,percent,2019.0
+47,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Nigeria,NGA,52.6930008,Percentage of total population,2020.0
+48,Environment,"Energy imports, net ",E2_Debt/contract relief,Nigeria,NGA,-93.02721929253659,percent of energy use,2014.0
+49,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Nigeria,NGA,0.038962,percent,2019.0
+50,Governance,Government effectiveness estimate,E2_Debt/contract relief,Nigeria,NGA,-1.088634,score,2019.0
+51,Health,Prevalence of obesity,E2_Debt/contract relief,Nigeria,NGA,8.9,percent,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Nigeria,NGA,24.0,score,2021.0
+53,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Nigeria,NGA,47.5610008,Percentage of females of the total population,2020.0
+54,Health,Mortality due to COVID-19,E2_Debt/contract relief,Nigeria,NGA,1212.0,"Number (cumulative total by Dec 26,2020)",2020.0
+57,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Nigeria,NGA,57.0,percent,2019.0
+58,Environment,Energy use ,E2_Debt/contract relief,Nigeria,NGA,138.4297449087446,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+59,Economics,Volume of exports,E2_Debt/contract relief,Nigeria,NGA,6.162,percent change,2020.0
+60,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Nigeria,NGA,0.027553,percent,2019.0
+61,Governance,Regulatory quality estimate,E2_Debt/contract relief,Nigeria,NGA,-0.8609852,score,2019.0
+63,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Nigeria,NGA,0.6,percent,2018.0
+64,Social issues ,Gini index (World Bank estimate),E2_Debt/contract relief,Nigeria,NGA,35.1,index ,2018.0
+65,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Nigeria,NGA,0.00099,percent,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Nigeria,NGA,54.0,percent,2019.0
+68,Governance,Human Development Index,E2_Debt/contract relief,Nigeria,NGA,0.539,index,2019.0
+69,Environment,CO2 emissions (kt),E2_Debt/contract relief,Nigeria,NGA,120369.3,kt,2016.0
+71,Governance,Total freedom in the world score ,E2_Debt/contract relief,Nigeria,NGA,45.0,score,2021.0
+73,Health,Prevalence of down syndrome,E2_Debt/contract relief,Nigeria,NGA,0.000134,percent,2019.0
+76,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Nigeria,NGA,3.631284916,proportion,2020.0
+77,Governance,Control of corruption estimate,E2_Debt/contract relief,Nigeria,NGA,-1.094948,score,2019.0
+79,Environment,Electric power consumption ,E2_Debt/contract relief,Nigeria,NGA,144.5254622232664,kWh per capita,2014.0
+80,Economics,Volume of imports,E2_Debt/contract relief,Nigeria,NGA,2.502,percent change,2020.0
+81,Environment,Access to electricity ,E2_Debt/contract relief,Nigeria,NGA,56.5,percent of population,2018.0
+85,Environment,Renewable energy consumption ,E2_Debt/contract relief,Nigeria,NGA,86.6356215634187,percent of total final energy consumption,2015.0
+113,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",E2_Debt/contract relief,Nigeria,NGA,3.0,rating,2019.0
+114,Environment,"Electricity production from oil, gas and coal sources",E2_Debt/contract relief,Nigeria,NGA,81.80487494431362,percent of total,2015.0
 115,Environment,Electricity production from nuclear sources ,E2_Debt/contract relief,Nigeria,NGA,0.0,percent of total,2014.0
-117,Environment,Access to electricity ,E2_Debt/contract relief,Nigeria,NGA,56.5,percent of population,2018.0

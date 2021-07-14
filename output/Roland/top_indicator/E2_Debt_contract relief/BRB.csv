@@ -1,72 +1,72 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,E2_Debt/contract relief,Barbados,BRB,81.7608,percent of population,2019.0
-2,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Barbados,BRB,64.0,score,2020.0
-3,Health,Prevalence of COVID-19,E2_Debt/contract relief,Barbados,BRB,305.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Demographics,Secure Internet servers ,E2_Debt/contract relief,Barbados,BRB,940.6846093545857,per 1 million people,2019.0
-8,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Barbados,BRB,0.0,Cases,2019.0
-9,Health,Summary exposure value tobacco,E2_Debt/contract relief,Barbados,BRB,10.06039,Rate (risk-weighted prevalence),2019.0
-10,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Barbados,BRB,37.2103,per 100 people,2019.0
-11,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Barbados,BRB,92.0,percent,2019.0
-12,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Barbados,BRB,100.0,percent of total,2017.0
-13,Health,Mortality due to COVID-19,E2_Debt/contract relief,Barbados,BRB,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
-14,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Barbados,BRB,2.9,percent,2018.0
-16,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Barbados,BRB,78.5100021,Percentage of total employment,2020.0
-17,Environment,CO2 emissions (kt),E2_Debt/contract relief,Barbados,BRB,1276.116,kt,2016.0
-18,Governance,Control of corruption estimate,E2_Debt/contract relief,Barbados,BRB,1.261709,score,2019.0
-19,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Barbados,BRB,0.245301,percent,2019.0
-20,Social issues ,Net migration,E2_Debt/contract relief,Barbados,BRB,-397.0,net total / data are 5 year estimates,2019.0
-21,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Barbados,BRB,0.049347,percent,2019.0
-22,Governance,Economic Freedom Score,E2_Debt/contract relief,Barbados,BRB,6.22,score,2018.0
-23,Health,Prevalence of Diabetes,E2_Debt/contract relief,Barbados,BRB,0.123307,percent,2019.0
-24,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Barbados,BRB,38.0,score,2021.0
-25,Economics,"Central government debt, total",E2_Debt/contract relief,Barbados,BRB,141.7288148568399,percent of GDP,2015.0
-26,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Barbados,BRB,0.003869,percent,2019.0
-27,Economics,Volume of exports,E2_Debt/contract relief,Barbados,BRB,2.911,percent change,2020.0
-28,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Barbados,BRB,61.4000015,Percentage of females of the total population,2020.0
-29,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Barbados,BRB,-0.626937448351921,percent of GNI,2016.0
-30,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Barbados,BRB,2.4843,Ones,2017.0
-31,Governance,Personal Freedom Score ,E2_Debt/contract relief,Barbados,BRB,7.76,score,2018.0
-32,Governance,Human Development Index,E2_Debt/contract relief,Barbados,BRB,0.814,index,2019.0
-33,Environment,Renewable energy consumption ,E2_Debt/contract relief,Barbados,BRB,2.78635820637435,percent of total final energy consumption,2015.0
-34,Demographics,Age dependency ratio (% of working-age population),E2_Debt/contract relief,Barbados,BRB,49.88328920777654,proportion,2019.0
-35,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Barbados,BRB,11.4,percent,2020.0
-36,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Barbados,BRB,0.9417337,score,2019.0
-37,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Barbados,BRB,0.8,percent,2019.0
-38,Governance,Voice and accountability estimate,E2_Debt/contract relief,Barbados,BRB,1.131867,score,2019.0
-39,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Barbados,BRB,9.7683505442,"proportion, pero 100,000 people",2018.0
-42,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Barbados,BRB,48.6,percent,2016.0
-43,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Barbados,BRB,23.08018,micrograms per cubic meter,2017.0
-45,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Barbados,BRB,0.132863,percent,2019.0
-46,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Barbados,BRB,57.0,score,2021.0
-50,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Barbados,BRB,0.039605,percent,2019.0
-51,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Barbados,BRB,108.609,per 100 people,2019.0
-52,Governance,Government effectiveness estimate,E2_Debt/contract relief,Barbados,BRB,0.631425,score,2019.0
-53,Governance,Rule of law estimate ,E2_Debt/contract relief,Barbados,BRB,0.3570292,score,2019.0
-54,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Barbados,BRB,4.465129,metric tons per capita,2016.0
-55,Health,Prevalence of total cancers,E2_Debt/contract relief,Barbados,BRB,0.028345,percent,2019.0
-56,Health,Prevalence of down syndrome,E2_Debt/contract relief,Barbados,BRB,0.000224,percent,2019.0
-58,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E2_Debt/contract relief,Barbados,BRB,0.336767345666885,proportion,2016.0
-59,Governance,Total freedom in the world score ,E2_Debt/contract relief,Barbados,BRB,95.0,score,2021.0
-61,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Barbados,BRB,10.9379997,percent of total labor force,2020.0
-63,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Barbados,BRB,20.0,proportion,2020.0
-65,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Barbados,BRB,90.0,percent,2019.0
-66,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Barbados,BRB,138312.0,number,2019.0
-70,Demographics,Urban population (% of total population),E2_Debt/contract relief,Barbados,BRB,31.158,total,2019.0
-71,Economics,Volume of imports,E2_Debt/contract relief,Barbados,BRB,2.294,percent change,2020.0
-73,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Barbados,BRB,6.6,percent,2020.0
-74,Governance,Regulatory quality estimate,E2_Debt/contract relief,Barbados,BRB,0.412301,score,2019.0
-76,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Barbados,BRB,97.2793784985907,proportion,2017.0
-77,Demographics,Rural population (% of total population),E2_Debt/contract relief,Barbados,BRB,68.842,proportion,2019.0
-79,Demographics,People with basic handwashing facilities including soap and water (% of population),E2_Debt/contract relief,Barbados,BRB,88.4693506083686,proportion,2016.0
-80,Governance,Fragile States Index Total ,E2_Debt/contract relief,Barbados,BRB,46.40725753500914,score,2020.0
-82,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Barbados,BRB,64.901001,Percentage of total population,2020.0
-84,Social issues ,"Primary completion rate, total (% of relevant age group)",E2_Debt/contract relief,Barbados,BRB,90.0936737060547,proportion,2019.0
-86,Governance,Human Freedom Score ,E2_Debt/contract relief,Barbados,BRB,6.99,score,2018.0
-87,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E2_Debt/contract relief,Barbados,BRB,99.5999984741211,proportion,2014.0
-88,Demographics,"Age dependency ratio, old (% of working-age population)",E2_Debt/contract relief,Barbados,BRB,24.32754218037692,proportion,2019.0
-89,Governance,Serious assault (rate),E2_Debt/contract relief,Barbados,BRB,502.05,rate,2017.0
-98,Health,Prevalence of obesity,E2_Debt/contract relief,Barbados,BRB,23.1,percent,2016.0
-106,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Barbados,BRB,3.06,Ones,2018.0
-109,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E2_Debt/contract relief,Barbados,BRB,16.3744926452637,proportion,2016.0
-110,Demographics,"Population, total",E2_Debt/contract relief,Barbados,BRB,287025.0,total,2019.0
-117,Environment,Access to electricity ,E2_Debt/contract relief,Barbados,BRB,100.0,percent of population,2018.0
+2,Demographics,Fixed telephone subscriptions,E2_Debt/contract relief,Barbados,BRB,138312.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,E2_Debt/contract relief,Barbados,BRB,0.245301,percent,2019.0
+4,Health,Prevalence of COVID-19,E2_Debt/contract relief,Barbados,BRB,305.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Governance,Rule of law estimate ,E2_Debt/contract relief,Barbados,BRB,0.3570292,score,2019.0
+6,Health,"Physicians (per 1,000 people)",E2_Debt/contract relief,Barbados,BRB,2.4843,Ones,2017.0
+8,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",E2_Debt/contract relief,Barbados,BRB,10.9379997,percent of total labor force,2020.0
+10,Governance,Human Freedom Score ,E2_Debt/contract relief,Barbados,BRB,6.99,score,2018.0
+11,Governance,Voice and accountability estimate,E2_Debt/contract relief,Barbados,BRB,1.131867,score,2019.0
+12,Demographics,Fixed broadband subscriptions,E2_Debt/contract relief,Barbados,BRB,37.2103,per 100 people,2019.0
+13,Governance,Personal Freedom Score ,E2_Debt/contract relief,Barbados,BRB,7.76,score,2018.0
+14,Governance,Economic Freedom Score,E2_Debt/contract relief,Barbados,BRB,6.22,score,2018.0
+15,Social issues ,"Intentional homicides (per 100,000 people)",E2_Debt/contract relief,Barbados,BRB,9.7683505442,"proportion, pero 100,000 people",2018.0
+16,Environment,CO2 emissions (metric tons per capita),E2_Debt/contract relief,Barbados,BRB,4.465129,metric tons per capita,2016.0
+18,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",E2_Debt/contract relief,Barbados,BRB,11.4,percent,2020.0
+19,Health,"Nurses and midwives (per 1,000 people)",E2_Debt/contract relief,Barbados,BRB,3.06,Ones,2018.0
+21,Economics,Employment in services (% of total employment) (modeled ILO estimate),E2_Debt/contract relief,Barbados,BRB,78.5100021,Percentage of total employment,2020.0
+23,Environment,"PM2.5 air pollution, mean annual exposure",E2_Debt/contract relief,Barbados,BRB,23.08018,micrograms per cubic meter,2017.0
+24,Health,Prevalence of total cancers,E2_Debt/contract relief,Barbados,BRB,0.028345,percent,2019.0
+25,Social issues ,Net migration,E2_Debt/contract relief,Barbados,BRB,-397.0,net total / data are 5 year estimates,2019.0
+28,Social issues ,Proportion of women in managerial positions (%),E2_Debt/contract relief,Barbados,BRB,48.6,percent,2016.0
+29,Governance,Corruption Perceptions Index,E2_Debt/contract relief,Barbados,BRB,64.0,score,2020.0
+31,Economics,"Central government debt, total",E2_Debt/contract relief,Barbados,BRB,141.7288148568399,percent of GDP,2015.0
+32,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",E2_Debt/contract relief,Barbados,BRB,6.6,percent,2020.0
+34,Health,Prevalence of anxiety disorders,E2_Debt/contract relief,Barbados,BRB,0.049347,percent,2019.0
+35,Health,Prevalence of Diabetes,E2_Debt/contract relief,Barbados,BRB,0.123307,percent,2019.0
+36,Health,"Incidence of tuberculosis (per 100,000 people)",E2_Debt/contract relief,Barbados,BRB,0.0,Cases,2019.0
+37,Environment,"Adjusted net savings, including particulate emission damage",E2_Debt/contract relief,Barbados,BRB,-0.626937448351921,percent of GNI,2016.0
+38,Demographics,Secure Internet servers ,E2_Debt/contract relief,Barbados,BRB,940.6846093545857,per 1 million people,2019.0
+39,Governance,Fragile States Index Total ,E2_Debt/contract relief,Barbados,BRB,46.40725753500914,score,2020.0
+40,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",E2_Debt/contract relief,Barbados,BRB,100.0,percent of total,2017.0
+41,Demographics,Mobile cellular subscriptions,E2_Debt/contract relief,Barbados,BRB,108.609,per 100 people,2019.0
+43,Governance,Political stability and absence of violence/terrorism estimate,E2_Debt/contract relief,Barbados,BRB,0.9417337,score,2019.0
+44,Governance,Aggregate score for the Political Rights category,E2_Debt/contract relief,Barbados,BRB,38.0,score,2021.0
+45,Health,Summary exposure value tobacco,E2_Debt/contract relief,Barbados,BRB,10.06039,Rate (risk-weighted prevalence),2019.0
+46,Health,"Prevalence of HIV, total (% of population ages 15-49)",E2_Debt/contract relief,Barbados,BRB,0.8,percent,2019.0
+47,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Barbados,BRB,64.901001,Percentage of total population,2020.0
+49,Health,Prevalence of chronic kidney disease,E2_Debt/contract relief,Barbados,BRB,0.132863,percent,2019.0
+50,Governance,Government effectiveness estimate,E2_Debt/contract relief,Barbados,BRB,0.631425,score,2019.0
+51,Health,Prevalence of obesity,E2_Debt/contract relief,Barbados,BRB,23.1,percent,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,E2_Debt/contract relief,Barbados,BRB,57.0,score,2021.0
+53,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",E2_Debt/contract relief,Barbados,BRB,61.4000015,Percentage of females of the total population,2020.0
+54,Health,Mortality due to COVID-19,E2_Debt/contract relief,Barbados,BRB,7.0,"Number (cumulative total by Dec 26,2020)",2020.0
+56,Demographics,Rural population (% of total population),E2_Debt/contract relief,Barbados,BRB,68.842,proportion,2019.0
+57,Health,"Immunization, DPT (% of children ages 12-23 months)",E2_Debt/contract relief,Barbados,BRB,90.0,percent,2019.0
+59,Economics,Volume of exports,E2_Debt/contract relief,Barbados,BRB,2.911,percent change,2020.0
+60,Health,Prevalence of Depressive disorders,E2_Debt/contract relief,Barbados,BRB,0.039605,percent,2019.0
+61,Governance,Regulatory quality estimate,E2_Debt/contract relief,Barbados,BRB,0.412301,score,2019.0
+62,Demographics,Urban population (% of total population),E2_Debt/contract relief,Barbados,BRB,31.158,total,2019.0
+63,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),E2_Debt/contract relief,Barbados,BRB,2.9,percent,2018.0
+65,Health,Prevalence of Hypertensive heart disease,E2_Debt/contract relief,Barbados,BRB,0.003869,percent,2019.0
+66,Social issues ,"Primary completion rate, total (% of relevant age group)",E2_Debt/contract relief,Barbados,BRB,90.0936737060547,proportion,2019.0
+67,Health,"Immunization, measles (% of children ages 12-23 months)",E2_Debt/contract relief,Barbados,BRB,92.0,percent,2019.0
+68,Governance,Human Development Index,E2_Debt/contract relief,Barbados,BRB,0.814,index,2019.0
+69,Environment,CO2 emissions (kt),E2_Debt/contract relief,Barbados,BRB,1276.116,kt,2016.0
+71,Governance,Total freedom in the world score ,E2_Debt/contract relief,Barbados,BRB,95.0,score,2021.0
+73,Health,Prevalence of down syndrome,E2_Debt/contract relief,Barbados,BRB,0.000224,percent,2019.0
+74,Social issues ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),E2_Debt/contract relief,Barbados,BRB,16.3744926452637,proportion,2016.0
+75,Demographics,"Population, total",E2_Debt/contract relief,Barbados,BRB,287025.0,total,2019.0
+76,Social issues ,Proportion of seats held by women in national parliaments (%),E2_Debt/contract relief,Barbados,BRB,20.0,proportion,2020.0
+77,Governance,Control of corruption estimate,E2_Debt/contract relief,Barbados,BRB,1.261709,score,2019.0
+80,Economics,Volume of imports,E2_Debt/contract relief,Barbados,BRB,2.294,percent change,2020.0
+81,Environment,Access to electricity ,E2_Debt/contract relief,Barbados,BRB,100.0,percent of population,2018.0
+83,Demographics,People with basic handwashing facilities including soap and water (% of population),E2_Debt/contract relief,Barbados,BRB,88.4693506083686,proportion,2016.0
+85,Environment,Renewable energy consumption ,E2_Debt/contract relief,Barbados,BRB,2.78635820637435,percent of total final energy consumption,2015.0
+90,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",E2_Debt/contract relief,Barbados,BRB,99.5999984741211,proportion,2014.0
+94,Demographics,"Age dependency ratio, old (% of working-age population)",E2_Debt/contract relief,Barbados,BRB,24.32754218037692,proportion,2019.0
+95,Demographics,Age dependency ratio (% of working-age population),E2_Debt/contract relief,Barbados,BRB,49.88328920777654,proportion,2019.0
+100,Governance,Serious assault (rate),E2_Debt/contract relief,Barbados,BRB,502.05,rate,2017.0
+109,Social issues ,Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),E2_Debt/contract relief,Barbados,BRB,0.336767345666885,proportion,2016.0
+110,Demographics,People using at least basic sanitation services (% of population),E2_Debt/contract relief,Barbados,BRB,97.2793784985907,proportion,2017.0

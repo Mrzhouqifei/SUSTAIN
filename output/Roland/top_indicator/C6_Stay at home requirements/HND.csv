@@ -1,90 +1,90 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C6_Stay at home requirements,Honduras,HND,31.7,percent of population,2019.0
-2,Health,Prevalence of COVID-19,C6_Stay at home requirements,Honduras,HND,115474.0,"Number (cumulative total by Dec 26,2020)",2020.0
-3,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Honduras,HND,24.0,score,2020.0
-4,Demographics,Secure Internet servers ,C6_Stay at home requirements,Honduras,HND,93.37051874095089,per 1 million people,2019.0
-6,Governance,Serious assault (rate),C6_Stay at home requirements,Honduras,HND,24.21,rate,2018.0
-7,Social issues ,Press freedom score,C6_Stay at home requirements,Honduras,HND,48.2,score,2020.0
-8,Economics,Volume of exports,C6_Stay at home requirements,Honduras,HND,3.453,percent change,2020.0
-9,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Honduras,HND,72.7438,per 100 people,2019.0
-10,Health,Summary exposure value tobacco,C6_Stay at home requirements,Honduras,HND,16.77821,Rate (risk-weighted prevalence),2019.0
-11,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Honduras,HND,4.00546,per 100 people,2019.0
-12,Health,Prevalence of down syndrome,C6_Stay at home requirements,Honduras,HND,0.000368,percent,2019.0
-13,Social issues ,Net migration,C6_Stay at home requirements,Honduras,HND,-34000.0,net total / data are 5 year estimates,2019.0
-14,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Honduras,HND,87.0,percent,2019.0
-15,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Honduras,HND,490103.0,number,2019.0
-16,Social issues ,Life Ladder ,C6_Stay at home requirements,Honduras,HND,5.9191999435424805,score,2021.0
-17,Health,Prevalence of total cancers,C6_Stay at home requirements,Honduras,HND,0.004195,percent,2019.0
-18,Health,Prevalence of obesity,C6_Stay at home requirements,Honduras,HND,21.4,percent,2016.0
-19,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Honduras,HND,0.3089,Ones,2017.0
-20,Governance,Control of corruption estimate,C6_Stay at home requirements,Honduras,HND,-0.8084533,score,2019.0
-21,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Honduras,HND,21.09375,proportion,2020.0
-22,Health,Prevalence of Diabetes,C6_Stay at home requirements,Honduras,HND,0.06179,percent,2019.0
-23,Governance,Government effectiveness estimate,C6_Stay at home requirements,Honduras,HND,-0.6117631,score,2019.0
-24,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Honduras,HND,2.8,percent,2018.0
-25,Governance,Human Freedom Score ,C6_Stay at home requirements,Honduras,HND,6.94,score,2018.0
-26,Governance,Human Development Index,C6_Stay at home requirements,Honduras,HND,0.634,index,2019.0
-27,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Honduras,HND,1.037367540435025,percent of total,2015.0
-28,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Honduras,HND,25.0,score,2021.0
-29,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Honduras,HND,1.058474,metric tons per capita,2016.0
-30,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Honduras,HND,20.62885,micrograms per cubic meter,2017.0
-31,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Honduras,HND,0.041832,percent,2019.0
-32,Health,Mortality due to COVID-19,C6_Stay at home requirements,Honduras,HND,3021.0,"Number (cumulative total by Dec 26,2020)",2020.0
-33,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Honduras,HND,52.0960007,Percentage of females of the total population,2020.0
-34,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Honduras,HND,5.22900009,percent of total labor force,2020.0
-35,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Honduras,HND,51.35,percent,2018.0
-36,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Honduras,HND,0.7357,Ones,2018.0
-37,Health,Hospital beds (per 10 000 population),C6_Stay at home requirements,Honduras,HND,6.4,Ones,2017.0
-38,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Honduras,HND,31.0,Cases,2019.0
-39,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Honduras,HND,19.3992860892021,percent of GNI,2018.0
-40,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Honduras,HND,19.9,percent,2020.0
-41,Environment,Renewable energy consumption ,C6_Stay at home requirements,Honduras,HND,51.5374135797421,percent of total final energy consumption,2015.0
-42,Governance,Voice and accountability estimate,C6_Stay at home requirements,Honduras,HND,-0.5518603,score,2019.0
+2,Demographics,Fixed telephone subscriptions,C6_Stay at home requirements,Honduras,HND,490103.0,number,2019.0
+3,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Honduras,HND,0.333067,percent,2019.0
+4,Health,Prevalence of COVID-19,C6_Stay at home requirements,Honduras,HND,115474.0,"Number (cumulative total by Dec 26,2020)",2020.0
+5,Health,Prevalence of anxiety disorders,C6_Stay at home requirements,Honduras,HND,0.041832,percent,2019.0
+6,Environment,Electric power consumption ,C6_Stay at home requirements,Honduras,HND,619.8363949037857,kWh per capita,2014.0
+7,Environment,Electricity production from oil sources,C6_Stay at home requirements,Honduras,HND,56.68711656441717,percent of total,2015.0
+8,Environment,Energy use ,C6_Stay at home requirements,Honduras,HND,115.4881656783384,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+9,Governance,Fragile States Index Total ,C6_Stay at home requirements,Honduras,HND,76.78897699605234,score,2020.0
+10,Health,"Nurses and midwives (per 1,000 people)",C6_Stay at home requirements,Honduras,HND,0.7357,Ones,2018.0
+11,Governance,Regulatory quality estimate,C6_Stay at home requirements,Honduras,HND,-0.4927323,score,2019.0
+12,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Honduras,HND,0.028605,percent,2019.0
+13,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Honduras,HND,52.47931,percent of total,2014.0
+14,Demographics,Mobile cellular subscriptions,C6_Stay at home requirements,Honduras,HND,72.7438,per 100 people,2019.0
+15,Governance,Economic Freedom Score,C6_Stay at home requirements,Honduras,HND,7.28,score,2018.0
+16,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Honduras,HND,5.7,percent,2020.0
+17,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Honduras,HND,0.080318,percent,2019.0
+18,Environment,Combustible renewables and waste,C6_Stay at home requirements,Honduras,HND,39.3929,percent of total energy,2014.0
+19,Demographics,Fixed broadband subscriptions,C6_Stay at home requirements,Honduras,HND,4.00546,per 100 people,2019.0
+20,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Honduras,HND,38.925591104,"proportion, pero 100,000 people",2018.0
+21,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Honduras,HND,597.9295164170665,kg of oil equivalent per capita,2014.0
+22,Economics,Volume of exports,C6_Stay at home requirements,Honduras,HND,3.453,percent change,2020.0
+23,Governance,Corruption Perceptions Index,C6_Stay at home requirements,Honduras,HND,24.0,score,2020.0
+24,Environment,"Energy imports, net ",C6_Stay at home requirements,Honduras,HND,52.99643628878778,percent of energy use,2014.0
+25,Environment,CO2 emissions (kt),C6_Stay at home requirements,Honduras,HND,9812.892,kt,2016.0
+26,Social issues ,Net migration,C6_Stay at home requirements,Honduras,HND,-34000.0,net total / data are 5 year estimates,2019.0
+27,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Honduras,HND,68.7850037,Percentage of total population,2020.0
+28,Health,Hospital beds (per 10 000 population),C6_Stay at home requirements,Honduras,HND,6.4,Ones,2017.0
+29,Governance,Aggregate score for the Civil Liberties category,C6_Stay at home requirements,Honduras,HND,25.0,score,2021.0
+30,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Honduras,HND,-0.5306973,score,2019.0
+31,Health,Prevalence of down syndrome,C6_Stay at home requirements,Honduras,HND,0.000368,percent,2019.0
+32,Environment,Electricity production from coal sources ,C6_Stay at home requirements,Honduras,HND,1.037367540435025,percent of total,2015.0
+33,Governance,Personal Freedom Score ,C6_Stay at home requirements,Honduras,HND,6.59,score,2018.0
+34,Health,"Immunization, measles (% of children ages 12-23 months)",C6_Stay at home requirements,Honduras,HND,87.0,percent,2019.0
+35,Social issues ,Proportion of seats held by women in national parliaments (%),C6_Stay at home requirements,Honduras,HND,21.09375,proportion,2020.0
+36,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Honduras,HND,52.0960007,Percentage of females of the total population,2020.0
+37,Economics,Volume of imports,C6_Stay at home requirements,Honduras,HND,4.703,percent change,2020.0
+38,Health,Mortality due to COVID-19,C6_Stay at home requirements,Honduras,HND,3021.0,"Number (cumulative total by Dec 26,2020)",2020.0
+39,Health,Summary exposure value tobacco,C6_Stay at home requirements,Honduras,HND,16.77821,Rate (risk-weighted prevalence),2019.0
+40,Environment,"Adjusted net savings, including particulate emission damage",C6_Stay at home requirements,Honduras,HND,19.3992860892021,percent of GNI,2018.0
+41,Health,"Physicians (per 1,000 people)",C6_Stay at home requirements,Honduras,HND,0.3089,Ones,2017.0
+42,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Honduras,HND,19.0,score,2021.0
 43,Health,"Prevalence of HIV, total (% of population ages 15-49)",C6_Stay at home requirements,Honduras,HND,0.3,percent,2019.0
-45,Governance,Regulatory quality estimate,C6_Stay at home requirements,Honduras,HND,-0.4927323,score,2019.0
-46,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Honduras,HND,52.1,index ,2018.0
-47,Governance,Political stability and absence of violence/terrorism estimate,C6_Stay at home requirements,Honduras,HND,-0.5306973,score,2019.0
-48,Health,Prevalence of chronic kidney disease,C6_Stay at home requirements,Honduras,HND,0.080318,percent,2019.0
-49,Governance,Rule of law estimate ,C6_Stay at home requirements,Honduras,HND,-1.00908,score,2019.0
-51,Environment,"Energy imports, net ",C6_Stay at home requirements,Honduras,HND,52.99643628878778,percent of energy use,2014.0
-52,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Honduras,HND,0.000819,percent,2019.0
-53,Environment,Electricity production from oil sources,C6_Stay at home requirements,Honduras,HND,56.68711656441717,percent of total,2015.0
-54,Demographics,People with basic handwashing facilities including soap and water (% of population),C6_Stay at home requirements,Honduras,HND,84.1692526093255,proportion,2016.0
-55,Environment,Fossil fuel energy consumption,C6_Stay at home requirements,Honduras,HND,52.47931,percent of total,2014.0
+44,Environment,CO2 emissions (metric tons per capita),C6_Stay at home requirements,Honduras,HND,1.058474,metric tons per capita,2016.0
+45,Demographics,Age dependency ratio (% of working-age population),C6_Stay at home requirements,Honduras,HND,56.21976744596089,proportion,2019.0
+47,Governance,Voice and accountability estimate,C6_Stay at home requirements,Honduras,HND,-0.5518603,score,2019.0
+48,Health,Prevalence of Hypertensive heart disease,C6_Stay at home requirements,Honduras,HND,0.000819,percent,2019.0
+49,Demographics,People with basic handwashing facilities including soap and water (% of population),C6_Stay at home requirements,Honduras,HND,84.1692526093255,proportion,2016.0
+50,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C6_Stay at home requirements,Honduras,HND,2.8,percent,2018.0
+51,Health,Prevalence of Diabetes,C6_Stay at home requirements,Honduras,HND,0.06179,percent,2019.0
+52,Health,Prevalence of obesity,C6_Stay at home requirements,Honduras,HND,21.4,percent,2016.0
+53,Demographics,Urban population (% of total population),C6_Stay at home requirements,Honduras,HND,57.73,total,2019.0
+54,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Honduras,HND,50.2070007,Percentage of total employment,2020.0
+55,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Honduras,HND,57.7244841048522,percent of total,2015.0
 56,Governance,Total freedom in the world score ,C6_Stay at home requirements,Honduras,HND,44.0,score,2021.0
-57,Economics,Volume of imports,C6_Stay at home requirements,Honduras,HND,4.703,percent change,2020.0
-58,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Honduras,HND,99.9835217097179,percent of total,2017.0
-59,Environment,"Electricity production from oil, gas and coal sources",C6_Stay at home requirements,Honduras,HND,57.7244841048522,percent of total,2015.0
-60,Environment,CO2 emissions (kt),C6_Stay at home requirements,Honduras,HND,9812.892,kt,2016.0
-61,Environment,Access to electricity ,C6_Stay at home requirements,Honduras,HND,91.88720703125,percent of population,2018.0
-62,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C6_Stay at home requirements,Honduras,HND,9.58257007598877,proportion,2018.0
-63,Governance,Economic Freedom Score,C6_Stay at home requirements,Honduras,HND,7.28,score,2018.0
-64,Health,Prevalence of Depressive disorders,C6_Stay at home requirements,Honduras,HND,0.028605,percent,2019.0
-65,Social issues ,"Primary completion rate, total (% of relevant age group)",C6_Stay at home requirements,Honduras,HND,79.4581069946289,proportion,2019.0
-66,Governance,Aggregate score for the Political Rights category,C6_Stay at home requirements,Honduras,HND,19.0,score,2021.0
-67,Demographics,People using at least basic sanitation services (% of population),C6_Stay at home requirements,Honduras,HND,81.2512629376572,proportion,2017.0
-68,Environment,Energy use ,C6_Stay at home requirements,Honduras,HND,115.4881656783384,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-70,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Honduras,HND,1450000000.0,kWh,2015.0
-71,Economics,Employment in services (% of total employment) (modeled ILO estimate),C6_Stay at home requirements,Honduras,HND,50.2070007,Percentage of total employment,2020.0
-72,Social issues ,Coverage of social safety net programs (% of population),C6_Stay at home requirements,Honduras,HND,41.2616499563277,proportion,2017.0
-73,Environment,Combustible renewables and waste,C6_Stay at home requirements,Honduras,HND,39.3929,percent of total energy,2014.0
-74,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C6_Stay at home requirements,Honduras,HND,68.7850037,Percentage of total population,2020.0
-75,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Honduras,HND,0.0,percent of total,2014.0
-77,Health,Prevalence of Respiratory infections and tuberculosis,C6_Stay at home requirements,Honduras,HND,0.333067,percent,2019.0
-78,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C6_Stay at home requirements,Honduras,HND,87.2052383422852,proportion,2018.0
-82,Governance,Fragile States Index Total ,C6_Stay at home requirements,Honduras,HND,76.78897699605234,score,2020.0
-83,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C6_Stay at home requirements,Honduras,HND,5.7,percent,2020.0
-84,Demographics,Rural population (% of total population),C6_Stay at home requirements,Honduras,HND,42.27,proportion,2019.0
-85,Governance,Personal Freedom Score ,C6_Stay at home requirements,Honduras,HND,6.59,score,2018.0
-87,Environment,Electric power consumption ,C6_Stay at home requirements,Honduras,HND,619.8363949037857,kWh per capita,2014.0
-88,Social issues ,Progression to secondary school (%),C6_Stay at home requirements,Honduras,HND,70.95757,proportion,2015.0
-90,Environment,Energy use (kg of oil equivalent per capita),C6_Stay at home requirements,Honduras,HND,597.9295164170665,kg of oil equivalent per capita,2014.0
-92,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Honduras,HND,87.0,percent,2019.0
-94,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C6_Stay at home requirements,Honduras,HND,2.5,rating,2019.0
-95,Social issues ,Proportion of people living below 50 percent of median income (%),C6_Stay at home requirements,Honduras,HND,25.0,proportion,2018.0
-102,Demographics,Urban population (% of total population),C6_Stay at home requirements,Honduras,HND,57.73,total,2019.0
-104,Demographics,"Population, total",C6_Stay at home requirements,Honduras,HND,9746117.0,total,2019.0
-105,Social issues ,"Intentional homicides (per 100,000 people)",C6_Stay at home requirements,Honduras,HND,38.925591104,"proportion, pero 100,000 people",2018.0
-108,Demographics,Refugee population by country or territory of asylum,C6_Stay at home requirements,Honduras,HND,75.0,proportion,2019.0
-111,Demographics,Age dependency ratio (% of working-age population),C6_Stay at home requirements,Honduras,HND,56.21976744596089,proportion,2019.0
-112,Demographics,"Age dependency ratio, old (% of working-age population)",C6_Stay at home requirements,Honduras,HND,7.542586446390784,proportion,2019.0
+57,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C6_Stay at home requirements,Honduras,HND,19.9,percent,2020.0
+58,Environment,"PM2.5 air pollution, mean annual exposure",C6_Stay at home requirements,Honduras,HND,20.62885,micrograms per cubic meter,2017.0
+59,Environment,Electricity production from nuclear sources ,C6_Stay at home requirements,Honduras,HND,0.0,percent of total,2014.0
+61,Health,"Immunization, DPT (% of children ages 12-23 months)",C6_Stay at home requirements,Honduras,HND,87.0,percent,2019.0
+62,Governance,Human Freedom Score ,C6_Stay at home requirements,Honduras,HND,6.94,score,2018.0
+63,Social issues ,Life Ladder ,C6_Stay at home requirements,Honduras,HND,5.9191999435424805,score,2021.0
+64,Social issues ,Progression to secondary school (%),C6_Stay at home requirements,Honduras,HND,70.95757,proportion,2015.0
+66,Health,Prevalence of total cancers,C6_Stay at home requirements,Honduras,HND,0.004195,percent,2019.0
+67,Social issues ,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",C6_Stay at home requirements,Honduras,HND,9.58257007598877,proportion,2018.0
+68,Social issues ,Press freedom score,C6_Stay at home requirements,Honduras,HND,48.2,score,2020.0
+69,Governance,Human Development Index,C6_Stay at home requirements,Honduras,HND,0.634,index,2019.0
+70,Governance,Control of corruption estimate,C6_Stay at home requirements,Honduras,HND,-0.8084533,score,2019.0
+72,Governance,Government effectiveness estimate,C6_Stay at home requirements,Honduras,HND,-0.6117631,score,2019.0
+73,Social issues ,Gini index (World Bank estimate),C6_Stay at home requirements,Honduras,HND,52.1,index ,2018.0
+74,Demographics,Secure Internet servers ,C6_Stay at home requirements,Honduras,HND,93.37051874095089,per 1 million people,2019.0
+76,Governance,Rule of law estimate ,C6_Stay at home requirements,Honduras,HND,-1.00908,score,2019.0
+77,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C6_Stay at home requirements,Honduras,HND,5.22900009,percent of total labor force,2020.0
+79,Demographics,Refugee population by country or territory of asylum,C6_Stay at home requirements,Honduras,HND,75.0,proportion,2019.0
+80,Environment,Renewable energy consumption ,C6_Stay at home requirements,Honduras,HND,51.5374135797421,percent of total final energy consumption,2015.0
+81,Social issues ,Coverage of social safety net programs (% of population),C6_Stay at home requirements,Honduras,HND,41.2616499563277,proportion,2017.0
+82,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C6_Stay at home requirements,Honduras,HND,99.9835217097179,percent of total,2017.0
+83,Governance,Serious assault (rate),C6_Stay at home requirements,Honduras,HND,24.21,rate,2018.0
+88,Demographics,People using at least basic sanitation services (% of population),C6_Stay at home requirements,Honduras,HND,81.2512629376572,proportion,2017.0
+89,Social issues ,"Primary completion rate, total (% of relevant age group)",C6_Stay at home requirements,Honduras,HND,79.4581069946289,proportion,2019.0
+90,Environment,"Electricity production from renewable sources, excluding hydroelectric",C6_Stay at home requirements,Honduras,HND,1450000000.0,kWh,2015.0
+92,Governance,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",C6_Stay at home requirements,Honduras,HND,2.5,rating,2019.0
+94,Demographics,"Age dependency ratio, old (% of working-age population)",C6_Stay at home requirements,Honduras,HND,7.542586446390784,proportion,2019.0
+102,Demographics,Rural population (% of total population),C6_Stay at home requirements,Honduras,HND,42.27,proportion,2019.0
+105,Demographics,"Population, total",C6_Stay at home requirements,Honduras,HND,9746117.0,total,2019.0
+107,Health,"Incidence of tuberculosis (per 100,000 people)",C6_Stay at home requirements,Honduras,HND,31.0,Cases,2019.0
+109,Social issues ,Proportion of women in managerial positions (%),C6_Stay at home requirements,Honduras,HND,51.35,percent,2018.0
+112,Social issues ,Proportion of people living below 50 percent of median income (%),C6_Stay at home requirements,Honduras,HND,25.0,proportion,2018.0
+113,Social issues ,"Literacy rate, adult total (% of people ages 15 and above)",C6_Stay at home requirements,Honduras,HND,87.2052383422852,proportion,2018.0
+117,Environment,Access to electricity ,C6_Stay at home requirements,Honduras,HND,91.88720703125,percent of population,2018.0

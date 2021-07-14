@@ -1,74 +1,74 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 1,Demographics,Individuals using the Internet,C4_Restrictions on gatherings,Albania,ALB,69.6429,percent of population,2019.0
 2,Governance,Corruption Perceptions Index,C4_Restrictions on gatherings,Albania,ALB,36.0,score,2020.0
-3,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Albania,ALB,767.2927284824317,per 1 million people,2019.0
+3,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Albania,ALB,0.2743798,score,2019.0
 4,Demographics,Fixed broadband subscriptions,C4_Restrictions on gatherings,Albania,ALB,15.1407,per 100 people,2019.0
-6,Social issues ,Press freedom score,C4_Restrictions on gatherings,Albania,ALB,30.25,score,2020.0
-7,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Albania,ALB,-1.55487751567793,percent of GNI,2018.0
-8,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Albania,ALB,7.8,score,2018.0
-9,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Albania,ALB,58.75381081040027,score,2020.0
-10,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Albania,ALB,4536.079,kt,2016.0
-11,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Albania,ALB,0.1518047,score,2019.0
-12,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Albania,ALB,43.6629982,Percentage of total employment,2020.0
-13,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Albania,ALB,33.62786,Rate (risk-weighted prevalence),2019.0
-14,Economics,Volume of imports,C4_Restrictions on gatherings,Albania,ALB,4.832,percent change,2020.0
-15,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Albania,ALB,2.8,percent,2018.0
-16,Governance,Serious assault (rate),C4_Restrictions on gatherings,Albania,ALB,4.68,rate,2018.0
-17,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Albania,ALB,16.0,Cases,2019.0
-18,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Albania,ALB,99.0,percent,2019.0
-19,Governance,Human Development Index,C4_Restrictions on gatherings,Albania,ALB,0.795,index,2019.0
-20,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Albania,ALB,55.5909996,Percentage of total population,2020.0
-21,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Albania,ALB,0.044595,percent,2019.0
-22,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Albania,ALB,0.0,kWh,2015.0
-23,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Albania,ALB,66.0,score,2021.0
-24,Social issues ,Net migration,C4_Restrictions on gatherings,Albania,ALB,-69998.0,net total / data are 5 year estimates,2019.0
+5,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Albania,ALB,52004.0,"Number (cumulative total by Dec 26,2020)",2020.0
+6,Health,Summary exposure value tobacco,C4_Restrictions on gatherings,Albania,ALB,33.62786,Rate (risk-weighted prevalence),2019.0
+7,Demographics,Secure Internet servers ,C4_Restrictions on gatherings,Albania,ALB,767.2927284824317,per 1 million people,2019.0
+8,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Albania,ALB,7.81,score,2018.0
+9,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Albania,ALB,13.79797089796564,percent of energy use,2014.0
+10,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2015.0
+11,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Albania,ALB,-0.5287576,score,2019.0
+12,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Albania,ALB,14.6,percent,2020.0
+13,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Albania,ALB,91.293,per 100 people,2019.0
+14,Social issues ,Press freedom score,C4_Restrictions on gatherings,Albania,ALB,30.25,score,2020.0
+15,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Albania,ALB,1066.0,"Number (cumulative total by Dec 26,2020)",2020.0
+16,Economics,Employment in services (% of total employment) (modeled ILO estimate),C4_Restrictions on gatherings,Albania,ALB,43.6629982,Percentage of total employment,2020.0
+17,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Albania,ALB,9.6,percent,2020.0
+19,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Albania,ALB,18.2006,micrograms per cubic meter,2017.0
+20,Health,Prevalence of obesity,C4_Restrictions on gatherings,Albania,ALB,21.7,percent,2016.0
+21,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2015.0
+22,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Albania,ALB,808.455839595944,kg of oil equivalent per capita,2014.0
+23,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Albania,ALB,0.105404,percent,2019.0
+24,Environment,"Electricity production from renewable sources, excluding hydroelectric",C4_Restrictions on gatherings,Albania,ALB,0.0,kWh,2015.0
+25,Social issues ,Net migration,C4_Restrictions on gatherings,Albania,ALB,-69998.0,net total / data are 5 year estimates,2019.0
 26,Health,"Immunization, measles (% of children ages 12-23 months)",C4_Restrictions on gatherings,Albania,ALB,95.0,percent,2019.0
-27,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Albania,ALB,0.207619,percent,2019.0
-28,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Albania,ALB,3.6495,Ones,2016.0
-29,Demographics,Mobile cellular subscriptions,C4_Restrictions on gatherings,Albania,ALB,91.293,per 100 people,2019.0
-30,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Albania,ALB,0.1185695,score,2019.0
-31,Health,Prevalence of COVID-19,C4_Restrictions on gatherings,Albania,ALB,52004.0,"Number (cumulative total by Dec 26,2020)",2020.0
-32,Economics,"Central government debt, total",C4_Restrictions on gatherings,Albania,ALB,80.7355753879892,percent of GDP,2016.0
-33,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Albania,ALB,39.0,score,2021.0
-34,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Albania,ALB,2.2894924438,"proportion, pero 100,000 people",2018.0
-35,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2015.0
-36,Environment,Energy use (kg of oil equivalent per capita),C4_Restrictions on gatherings,Albania,ALB,808.455839595944,kg of oil equivalent per capita,2014.0
-37,Governance,Human Freedom Score ,C4_Restrictions on gatherings,Albania,ALB,7.81,score,2018.0
-38,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Albania,ALB,-0.4111794,score,2019.0
-39,Environment,Electricity production from oil sources,C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2015.0
-40,Environment,"Energy imports, net ",C4_Restrictions on gatherings,Albania,ALB,13.79797089796564,percent of energy use,2014.0
-41,Health,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Albania,ALB,9.6,percent,2020.0
-42,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Albania,ALB,1.2164,Ones,2016.0
-43,Environment,Electricity production from coal sources ,C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2015.0
-44,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Albania,ALB,0.1,percent,2019.0
-45,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Albania,ALB,22.61,percent,2017.0
-46,Health,Mortality due to COVID-19,C4_Restrictions on gatherings,Albania,ALB,1066.0,"Number (cumulative total by Dec 26,2020)",2020.0
-47,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Albania,ALB,61.4218,percent of total,2014.0
-48,Environment,Access to electricity ,C4_Restrictions on gatherings,Albania,ALB,100.0,percent of population,2018.0
-49,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Albania,ALB,1.577163,metric tons per capita,2016.0
-50,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Albania,ALB,12.8129997,percent of total labor force,2020.0
-51,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Albania,ALB,5.117400169372559,score,2021.0
-53,Governance,Regulatory quality estimate,C4_Restrictions on gatherings,Albania,ALB,0.2743798,score,2019.0
-54,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Albania,ALB,0.000151,percent,2019.0
-55,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Albania,ALB,9.361381,percent of total energy,2014.0
-56,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Albania,ALB,0.030548,percent,2019.0
-57,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Albania,ALB,242859.0,number,2019.0
-58,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Albania,ALB,38.6152104692153,percent of total final energy consumption,2015.0
-59,Economics,Volume of exports,C4_Restrictions on gatherings,Albania,ALB,5.842,percent change,2020.0
-60,Governance,Control of corruption estimate,C4_Restrictions on gatherings,Albania,ALB,-0.5287576,score,2019.0
-64,Health,Prevalence of obesity,C4_Restrictions on gatherings,Albania,ALB,21.7,percent,2016.0
-65,Health,"Prevalence of overweight (modeled estimate, % of children under 5)",C4_Restrictions on gatherings,Albania,ALB,14.6,percent,2020.0
-68,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Albania,ALB,7.81,score,2018.0
-69,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Albania,ALB,27.0,score,2021.0
-70,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Albania,ALB,0.001544,percent,2019.0
-71,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Albania,ALB,0.012352,percent,2019.0
-72,Environment,Energy use ,C4_Restrictions on gatherings,Albania,ALB,68.34967572198514,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
-73,Environment,Electric power consumption ,C4_Restrictions on gatherings,Albania,ALB,2309.36650255581,kWh per capita,2014.0
-74,Health,Prevalence of chronic kidney disease,C4_Restrictions on gatherings,Albania,ALB,0.105404,percent,2019.0
-76,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Albania,ALB,0.051966,percent,2019.0
-78,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Albania,ALB,-0.0613309,score,2019.0
-79,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Albania,ALB,46.6030006,Percentage of females of the total population,2020.0
-80,Environment,"PM2.5 air pollution, mean annual exposure",C4_Restrictions on gatherings,Albania,ALB,18.2006,micrograms per cubic meter,2017.0
-88,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Albania,ALB,99.9999999999643,percent of total,2017.0
-89,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2014.0
-106,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Albania,ALB,33.2,index ,2017.0
+27,Health,"Physicians (per 1,000 people)",C4_Restrictions on gatherings,Albania,ALB,1.2164,Ones,2016.0
+28,Social issues ,"Intentional homicides (per 100,000 people)",C4_Restrictions on gatherings,Albania,ALB,2.2894924438,"proportion, pero 100,000 people",2018.0
+29,Environment,Energy use ,C4_Restrictions on gatherings,Albania,ALB,68.34967572198514,"(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",2014.0
+30,Health,"Incidence of tuberculosis (per 100,000 people)",C4_Restrictions on gatherings,Albania,ALB,16.0,Cases,2019.0
+31,Environment,Fossil fuel energy consumption,C4_Restrictions on gatherings,Albania,ALB,61.4218,percent of total,2014.0
+32,Health,Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE),C4_Restrictions on gatherings,Albania,ALB,2.8,percent,2018.0
+33,Governance,Fragile States Index Total ,C4_Restrictions on gatherings,Albania,ALB,58.75381081040027,score,2020.0
+34,Health,Prevalence of anxiety disorders,C4_Restrictions on gatherings,Albania,ALB,0.044595,percent,2019.0
+35,Health,Prevalence of Depressive disorders,C4_Restrictions on gatherings,Albania,ALB,0.030548,percent,2019.0
+36,Governance,Aggregate score for the Political Rights category,C4_Restrictions on gatherings,Albania,ALB,27.0,score,2021.0
+37,Governance,Government effectiveness estimate,C4_Restrictions on gatherings,Albania,ALB,-0.0613309,score,2019.0
+38,Environment,"Adjusted net savings, including particulate emission damage",C4_Restrictions on gatherings,Albania,ALB,-1.55487751567793,percent of GNI,2018.0
+39,Economics,"Central government debt, total",C4_Restrictions on gatherings,Albania,ALB,80.7355753879892,percent of GDP,2016.0
+40,Economics,Volume of imports,C4_Restrictions on gatherings,Albania,ALB,4.832,percent change,2020.0
+41,Health,"Prevalence of HIV, total (% of population ages 15-49)",C4_Restrictions on gatherings,Albania,ALB,0.1,percent,2019.0
+42,Governance,Human Development Index,C4_Restrictions on gatherings,Albania,ALB,0.795,index,2019.0
+43,Environment,CO2 emissions (kt),C4_Restrictions on gatherings,Albania,ALB,4536.079,kt,2016.0
+44,Health,Prevalence of Diabetes,C4_Restrictions on gatherings,Albania,ALB,0.051966,percent,2019.0
+46,Demographics,Fixed telephone subscriptions,C4_Restrictions on gatherings,Albania,ALB,242859.0,number,2019.0
+47,Governance,Political stability and absence of violence/terrorism estimate,C4_Restrictions on gatherings,Albania,ALB,0.1185695,score,2019.0
+48,Social issues ,Proportion of women in managerial positions (%),C4_Restrictions on gatherings,Albania,ALB,22.61,percent,2017.0
+49,Governance,Total freedom in the world score ,C4_Restrictions on gatherings,Albania,ALB,66.0,score,2021.0
+50,Environment,CO2 emissions (metric tons per capita),C4_Restrictions on gatherings,Albania,ALB,1.577163,metric tons per capita,2016.0
+52,Governance,Aggregate score for the Civil Liberties category,C4_Restrictions on gatherings,Albania,ALB,39.0,score,2021.0
+54,Environment,Access to electricity ,C4_Restrictions on gatherings,Albania,ALB,100.0,percent of population,2018.0
+55,Health,Prevalence of Respiratory infections and tuberculosis,C4_Restrictions on gatherings,Albania,ALB,0.207619,percent,2019.0
+57,Economics,"Unemployment, total (% of total labor force) (modeled ILO estimate)",C4_Restrictions on gatherings,Albania,ALB,12.8129997,percent of total labor force,2020.0
+58,Health,"Immunization, DPT (% of children ages 12-23 months)",C4_Restrictions on gatherings,Albania,ALB,99.0,percent,2019.0
+60,Economics,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Albania,ALB,46.6030006,Percentage of females of the total population,2020.0
+61,Environment,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",C4_Restrictions on gatherings,Albania,ALB,99.9999999999643,percent of total,2017.0
+62,Governance,Voice and accountability estimate,C4_Restrictions on gatherings,Albania,ALB,0.1518047,score,2019.0
+64,Health,"Nurses and midwives (per 1,000 people)",C4_Restrictions on gatherings,Albania,ALB,3.6495,Ones,2016.0
+65,Environment,Combustible renewables and waste,C4_Restrictions on gatherings,Albania,ALB,9.361381,percent of total energy,2014.0
+66,Health,Prevalence of Hypertensive heart disease,C4_Restrictions on gatherings,Albania,ALB,0.001544,percent,2019.0
+68,Health,Prevalence of total cancers,C4_Restrictions on gatherings,Albania,ALB,0.012352,percent,2019.0
+71,Governance,Economic Freedom Score,C4_Restrictions on gatherings,Albania,ALB,7.8,score,2018.0
+72,Social issues ,Life Ladder ,C4_Restrictions on gatherings,Albania,ALB,5.117400169372559,score,2021.0
+74,Environment,Electric power consumption ,C4_Restrictions on gatherings,Albania,ALB,2309.36650255581,kWh per capita,2014.0
+75,Health,Prevalence of down syndrome,C4_Restrictions on gatherings,Albania,ALB,0.000151,percent,2019.0
+76,Governance,Rule of law estimate ,C4_Restrictions on gatherings,Albania,ALB,-0.4111794,score,2019.0
+77,Economics,Volume of exports,C4_Restrictions on gatherings,Albania,ALB,5.842,percent change,2020.0
+80,Social issues ,Gini index (World Bank estimate),C4_Restrictions on gatherings,Albania,ALB,33.2,index ,2017.0
+81,Environment,"Electricity production from oil, gas and coal sources",C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2015.0
+83,Environment,Renewable energy consumption ,C4_Restrictions on gatherings,Albania,ALB,38.6152104692153,percent of total final energy consumption,2015.0
+85,Governance,Serious assault (rate),C4_Restrictions on gatherings,Albania,ALB,4.68,rate,2018.0
+86,Governance,Personal Freedom Score ,C4_Restrictions on gatherings,Albania,ALB,7.81,score,2018.0
+90,Economics,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",C4_Restrictions on gatherings,Albania,ALB,55.5909996,Percentage of total population,2020.0
+93,Environment,Electricity production from nuclear sources ,C4_Restrictions on gatherings,Albania,ALB,0.0,percent of total,2014.0

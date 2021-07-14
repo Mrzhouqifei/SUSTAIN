@@ -1,12 +1,12 @@
 rank,Category,Indicator,Policy,Country,ISO,value,unit,year
 3,Health,Prevalence of COVID-19,C5_Close public transport,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-6,Health,Mortality due to COVID-19,C5_Close public transport,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-10,Health,Prevalence of anxiety disorders,C5_Close public transport,Tokelau,TKL,0.040476,percent,2019.0
-13,Health,Summary exposure value tobacco,C5_Close public transport,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0
-14,Health,Prevalence of Diabetes,C5_Close public transport,Tokelau,TKL,0.111261,percent,2019.0
-19,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Tokelau,TKL,0.362278,percent,2019.0
-30,Health,Prevalence of chronic kidney disease,C5_Close public transport,Tokelau,TKL,0.106118,percent,2019.0
-35,Health,Prevalence of total cancers,C5_Close public transport,Tokelau,TKL,0.007214,percent,2019.0
-37,Health,Prevalence of down syndrome,C5_Close public transport,Tokelau,TKL,0.000145,percent,2019.0
-41,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Tokelau,TKL,0.003708,percent,2019.0
-42,Health,Prevalence of Depressive disorders,C5_Close public transport,Tokelau,TKL,0.030871,percent,2019.0
+4,Health,Prevalence of Respiratory infections and tuberculosis,C5_Close public transport,Tokelau,TKL,0.362278,percent,2019.0
+24,Health,Prevalence of down syndrome,C5_Close public transport,Tokelau,TKL,0.000145,percent,2019.0
+30,Health,Prevalence of anxiety disorders,C5_Close public transport,Tokelau,TKL,0.040476,percent,2019.0
+34,Health,Mortality due to COVID-19,C5_Close public transport,Tokelau,TKL,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
+41,Health,Prevalence of total cancers,C5_Close public transport,Tokelau,TKL,0.007214,percent,2019.0
+43,Health,Prevalence of chronic kidney disease,C5_Close public transport,Tokelau,TKL,0.106118,percent,2019.0
+60,Health,Prevalence of Depressive disorders,C5_Close public transport,Tokelau,TKL,0.030871,percent,2019.0
+85,Health,Prevalence of Hypertensive heart disease,C5_Close public transport,Tokelau,TKL,0.003708,percent,2019.0
+88,Health,Prevalence of Diabetes,C5_Close public transport,Tokelau,TKL,0.111261,percent,2019.0
+90,Health,Summary exposure value tobacco,C5_Close public transport,Tokelau,TKL,27.98347,Rate (risk-weighted prevalence),2019.0

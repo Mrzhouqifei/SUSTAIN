@@ -1,8 +1,0 @@
-rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Health,Prevalence of COVID-19,C7_Restrictions on internal movement,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-5,Governance,Rule of law estimate ,C7_Restrictions on internal movement,Anguilla,AIA,0.3557367,score,2019.0
-10,Health,Mortality due to COVID-19,C7_Restrictions on internal movement,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-28,Governance,Government effectiveness estimate,C7_Restrictions on internal movement,Anguilla,AIA,0.8158239,score,2019.0
-78,Governance,Control of corruption estimate,C7_Restrictions on internal movement,Anguilla,AIA,1.234392,score,2019.0
-82,Governance,Political stability and absence of violence/terrorism estimate,C7_Restrictions on internal movement,Anguilla,AIA,1.367357,score,2019.0
-91,Governance,Regulatory quality estimate,C7_Restrictions on internal movement,Anguilla,AIA,0.8462311,score,2019.0

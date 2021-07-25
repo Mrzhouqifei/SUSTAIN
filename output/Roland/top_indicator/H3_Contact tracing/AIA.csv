@@ -1,8 +1,0 @@
-rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Health,Prevalence of COVID-19,H3_Contact tracing,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Mortality due to COVID-19,H3_Contact tracing,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Governance,Rule of law estimate ,H3_Contact tracing,Anguilla,AIA,0.3557367,score,2019.0
-12,Governance,Regulatory quality estimate,H3_Contact tracing,Anguilla,AIA,0.8462311,score,2019.0
-73,Governance,Control of corruption estimate,H3_Contact tracing,Anguilla,AIA,1.234392,score,2019.0
-81,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Anguilla,AIA,1.367357,score,2019.0
-84,Governance,Government effectiveness estimate,H3_Contact tracing,Anguilla,AIA,0.8158239,score,2019.0

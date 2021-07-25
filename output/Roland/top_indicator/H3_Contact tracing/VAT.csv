@@ -1,4 +1,0 @@
-rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Health,Prevalence of COVID-19,H3_Contact tracing,Vatican City,VAT,26.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Mortality due to COVID-19,H3_Contact tracing,Vatican City,VAT,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-19,Governance,Serious assault (rate),H3_Contact tracing,Vatican City,VAT,0.0,rate,2015.0

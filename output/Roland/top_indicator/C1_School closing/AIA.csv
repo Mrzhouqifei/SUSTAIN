@@ -1,8 +1,0 @@
-rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Health,Prevalence of COVID-19,C1_School closing,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-8,Governance,Political stability and absence of violence/terrorism estimate,C1_School closing,Anguilla,AIA,1.367357,score,2019.0
-15,Governance,Government effectiveness estimate,C1_School closing,Anguilla,AIA,0.8158239,score,2019.0
-30,Governance,Regulatory quality estimate,C1_School closing,Anguilla,AIA,0.8462311,score,2019.0
-45,Governance,Rule of law estimate ,C1_School closing,Anguilla,AIA,0.3557367,score,2019.0
-56,Health,Mortality due to COVID-19,C1_School closing,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0
-91,Governance,Control of corruption estimate,C1_School closing,Anguilla,AIA,1.234392,score,2019.0

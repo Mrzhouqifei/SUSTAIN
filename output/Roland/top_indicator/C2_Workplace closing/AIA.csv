@@ -1,8 +1,0 @@
-rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-3,Health,Prevalence of COVID-19,C2_Workplace closing,Anguilla,AIA,10.0,"Number (cumulative total by Dec 26,2020)",2020.0
-40,Governance,Government effectiveness estimate,C2_Workplace closing,Anguilla,AIA,0.8158239,score,2019.0
-44,Governance,Political stability and absence of violence/terrorism estimate,C2_Workplace closing,Anguilla,AIA,1.367357,score,2019.0
-48,Governance,Regulatory quality estimate,C2_Workplace closing,Anguilla,AIA,0.8462311,score,2019.0
-57,Governance,Control of corruption estimate,C2_Workplace closing,Anguilla,AIA,1.234392,score,2019.0
-59,Governance,Rule of law estimate ,C2_Workplace closing,Anguilla,AIA,0.3557367,score,2019.0
-83,Health,Mortality due to COVID-19,C2_Workplace closing,Anguilla,AIA,0.0,"Number (cumulative total by Dec 26,2020)",2020.0

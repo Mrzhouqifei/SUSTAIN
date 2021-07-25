@@ -1,8 +1,0 @@
-rank,Category,Indicator,Policy,Country,ISO,value,unit,year
-4,Health,Prevalence of COVID-19,H3_Contact tracing,Martinique,MTQ,5601.0,"Number (cumulative total by Dec 26,2020)",2020.0
-7,Health,Mortality due to COVID-19,H3_Contact tracing,Martinique,MTQ,42.0,"Number (cumulative total by Dec 26,2020)",2020.0
-9,Governance,Rule of law estimate ,H3_Contact tracing,Martinique,MTQ,0.6005772,score,2019.0
-12,Governance,Regulatory quality estimate,H3_Contact tracing,Martinique,MTQ,1.228176,score,2019.0
-73,Governance,Control of corruption estimate,H3_Contact tracing,Martinique,MTQ,1.234392,score,2019.0
-81,Governance,Political stability and absence of violence/terrorism estimate,H3_Contact tracing,Martinique,MTQ,0.7850212,score,2019.0
-84,Governance,Government effectiveness estimate,H3_Contact tracing,Martinique,MTQ,1.089055,score,2019.0

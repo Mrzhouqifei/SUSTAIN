@@ -102,7 +102,12 @@ def re_construct_top_policy():
         group = group.sort_values('score', ascending=False)
         group['rank'] = range(1, len(group) + 1)
         group[['ISO', 'Policy', 'score', 'rank']].to_csv('output/Roland/top_policy/' + key +'.csv', index=False)
-        group[['ISO', 'Policy', 'rank']].to_json('output/Roland/top_policy/' + key + '.json', orient='records')
+
+        group = group[['ISO', 'Policy', 'rank']].to_dict(orient='records')
+        res_json = json.dumps(group, indent=1)
+        f2 = open('output/Roland/top_policy/' + key + '.json', 'w')
+        f2.write(res_json)
+        f2.close()
 
 
 def re_construct_covid_forecast():
@@ -190,15 +195,19 @@ def re_construct_top_indicator():
             os.makedirs('output/Roland/top_indicator/' + key1)
         for key2, group2 in group1.groupby('ISO'):
             # group2[['rank', 'Category', 'Indicator', 'Policy', 'Country', 'ISO', 'value', 'unit', 'year']].sort_values('rank').to_csv('output/Roland/top_indicator/' + key1 + '/' + key2 + '.csv', index=False)
-            group2[['rank', 'Category', 'Indicator', 'Policy', 'Country', 'ISO', 'value', 'unit', 'year']].sort_values('rank').to_json('output/Roland/top_indicator/' + key1 + '/' + key2 + '.json', orient='records')
-
+            # group2[['rank', 'Category', 'Indicator', 'Policy', 'Country', 'ISO', 'value', 'unit', 'year']].sort_values('rank').to_json('output/Roland/top_indicator/' + key1 + '/' + key2 + '.json', orient='records')
+            group2 = group2[['rank', 'Category', 'Indicator', 'Policy', 'Country', 'ISO', 'value', 'unit', 'year']].sort_values('rank').to_dict(orient='records')
+            res_json = json.dumps(group2, indent=1)
+            f2 = open('output/Roland/top_indicator/' + key1 + '/' + key2 + '.json', 'w')
+            f2.write(res_json)
+            f2.close()
 
 if __name__ == '__main__':
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
         ['country', 'iso']]
     population = population.rename(columns={'country': 'Country', 'iso': 'ISO'})
 
-    re_construct_covid_forecast()
+    # re_construct_covid_forecast()
     # re_construct_policy_rank_score()
-    # re_construct_top_policy()
-    # re_construct_top_indicator()
+    re_construct_top_policy()
+    re_construct_top_indicator()

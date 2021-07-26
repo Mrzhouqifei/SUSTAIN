@@ -517,4 +517,4 @@ if __name__ == '__main__':
     # policy_indicator_analysis_category(population, confirmed, policies, indicators_category)
 
     policy_country_analysis(population, confirmed, policies)
-    # policy_indicator_analysis_overall(population, confirmed, policies, indicators)
+    policy_indicator_analysis_overall(population, confirmed, policies, indicators)

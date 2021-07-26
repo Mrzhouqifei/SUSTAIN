@@ -9,7 +9,8 @@ def fix_countries_name():
     df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace(
         'Russia', 'Russian Federation').str.replace('Burma', 'Myanmar [Burma]').str.replace(
             'Korea, South', 'South Korea').str.replace('Vietnam', 'Viet Nam').str.replace('Iran', 'Iran (Islamic Republic of)').str.replace('Cabo Verde', 'Cape Verde').str.replace(
-                        'Cote d\'Ivoire', 'Cote d\'Ivoire (Ivory Coast)').str.replace('Czechia', 'Czech Republic')
+                        'Cote d\'Ivoire', 'Cote d\'Ivoire (Ivory Coast)').str.replace('Czechia', 'Czech Republic').str.replace('Timor-Leste', 'East Timor')
+                        
     # Myanmar [Burma] Viet Nam Slovakia Kyrgyzstan -> Kyrgyz Republic Iran -> Iran (Islamic Republic of) Cabo Verde -> Cape Verde
     # Cote d'Ivoire -> Cote d'Ivoire (Ivory Coast) Czechia -> Czech Republic
 
@@ -20,7 +21,7 @@ def fix_countries_name():
     df1['entity'] = df1['entity'].str.replace('Russia', 'Russian Federation').str.replace(
         'Myanmar', 'Myanmar [Burma]').str.replace('Vietnam', 'Viet Nam').str.replace('Kyrgyz Republic', 'Kyrgyzstan').str.replace(
             'Iran', 'Iran (Islamic Republic of)').str.replace('Cote d\'Ivoire', 'Cote d\'Ivoire (Ivory Coast)').str.replace(
-                'Slovak Republic', 'Slovakia')
+                'Slovak Republic', 'Slovakia').str.replace('Timor-Leste', 'East Timor').str.replace('Democratic Republic of Congo', 'Congo (Dem. Rep.)')
     # df1 = df1.rename(columns={'Russia': 'Russian Federation'})
     df1.to_csv('raw_data/policies_all_countries.csv', index=False)
 

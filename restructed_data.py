@@ -61,8 +61,7 @@ def mixed_policies_forecast(business_policy_intensity, mixed_policy_intensity,
 
 
 def re_construct_policy_rank_score():
-    # policy_rank_score = pd.read_excel(r'D:\sustain_model\compiled_policy ranking and scores.xlsx')
-    policy_rank_score = pd.read_excel('output/Roland/compiled_policy ranking and scores.xlsx')
+    policy_rank_score = pd.read_excel('output/compiled_policy ranking and scores.xlsx').fillna('NULL')
     if not os.path.exists('output/Roland/policy_rank_score'):
         os.makedirs('output/Roland/policy_rank_score')
     for key, group in policy_rank_score.groupby('policy'):
@@ -94,7 +93,7 @@ def re_construct_top_policy():
                                                       & (policy_score_per_country['Policy'] != 'E3_Fiscal measures')
                                                       & (policy_score_per_country['Policy'] != 'H4_Emergency investment in healthcare')]
 
-    policy_score_per_country=population.merge(policy_score_per_country, on='Country')
+    policy_score_per_country=population.merge(policy_score_per_country, on='Country').fillna('NULL')
     for key, group in policy_score_per_country.groupby('ISO'):
         if not os.path.exists('output/Roland/top_policy'):
             os.makedirs('output/Roland/top_policy')
@@ -140,11 +139,12 @@ def re_construct_covid_forecast():
     data = data.merge(upper, on=['Country', 'Date'], how='outer')
     data = data.merge(population, on=['Country'])
 
+    data = data.fillna('NULL')
+
     for key, group in data.groupby('ISO'):
         if not os.path.exists('output/Roland/covid_forecast'):
             os.makedirs('output/Roland/covid_forecast')
         # group.to_csv('output/Roland/covid_forecast/' + key + '.csv', index=False)
-
         group = group.to_dict(orient='records')
         res_json = json.dumps(group, indent=1)
         f2 = open('output/Roland/covid_forecast/' + key + '.json', 'w')
@@ -189,6 +189,7 @@ def re_construct_top_indicator():
     data = indicators_category.merge(policy_indicator, on=['Indicator']).dropna(axis=0, subset=['value'])
     data['unit'] = data['unit'].fillna('score')
 
+    data = data.fillna('NULL')
     for key1, group1 in data.groupby('Policy'):
         key1 = key1.replace('/', '_')
         if not os.path.exists('output/Roland/top_indicator/' + key1):
@@ -206,8 +207,9 @@ if __name__ == '__main__':
     population = pd.read_excel('raw_data/UN Population Data, 1950 to 2020_Worldwide.xls', skiprows=[0, 1, 2])[
         ['country', 'iso']]
     population = population.rename(columns={'country': 'Country', 'iso': 'ISO'})
+#     re_construct_policy_rank_score()
 
-    # re_construct_covid_forecast()
-    # re_construct_policy_rank_score()
-    re_construct_top_policy()
-    re_construct_top_indicator()
+    # re_construct_top_policy()
+    # re_construct_top_indicator()
+    
+    re_construct_covid_forecast()

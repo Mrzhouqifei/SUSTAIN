@@ -114,7 +114,7 @@ def get_train_data(
 
     countries = sorted(list(
         set(policies.entity).intersection(set(series.columns)).intersection(set(indicators['Country']))))
-    print(countries)
+#     print(countries)
     indicator_names = list(set(indicators.Indicator))
     policy_names = [x for x in list(policies.columns) if x not in ['entity', 'iso', 'date']]
 

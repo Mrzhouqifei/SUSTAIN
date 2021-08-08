@@ -121,7 +121,8 @@ def policy_preprocess():
     df = df[policy_column]
     df = df.rename(columns={'CountryName': 'entity', 'CountryCode': 'iso', 'Date': 'date'})
     df['date'] = pd.to_datetime(df.date.apply(str))
-    df = df.fillna(0) # check是否会改变结果
+    df = df.ffill()
+    df = df.fillna(0) # check是否会改变结果，会让最新缺失数据变成NULL
     df = df.dropna()
 
     df.to_csv('raw_data/policies_all_countries_raw.csv', index=False)

@@ -127,7 +127,7 @@ def policy_analysis(population, confirmed, policies):
 
 def policy_country_analysis(population, confirmed, policies):  # deaths, recovered,
     countries = sorted(list((set(confirmed['Country/Region'])).intersection(set(policies.entity)).intersection(population.columns)))
-
+    print(countries)
     population = population[countries]
     confirmed = pre_series(confirmed, countries)
     # deaths = pre_series(deaths, countries)
@@ -516,6 +516,5 @@ if __name__ == '__main__':
     # policy_analysis(population, confirmed, policies)
     # policy_indicator_analysis_category(population, confirmed, policies, indicators_category)
 
-    # policy_indicator_analysis_overall(population, confirmed, policies, indicators)
-
+    policy_indicator_analysis_overall(population, confirmed, policies, indicators)
     policy_country_analysis(population, confirmed, policies)

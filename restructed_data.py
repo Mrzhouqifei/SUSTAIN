@@ -60,6 +60,50 @@ def mixed_policies_forecast(business_policy_intensity, mixed_policy_intensity,
     return mixed_policy_series
 
 
+def mixed_policies_newcases_forecast(business_policy_intensity, mixed_policy_intensity, business_newcases_series, population):
+    """
+    intensity 1-5
+    :param business_policy_intensity: dict, {'H7_Vaccination policy': 2, 'C5_Close public transport':3, ...}
+    :param mixed_policy_intensity: dict, {'H7_Vaccination policy': 2, 'C5_Close public transport':3, ...}
+    :param newest_real_contagion: float, the newest contagion rate now
+    :param business_contagion_series: list, the "business as usual" contagion series of a specific country.
+    :return: mixed_policies_contagion_series
+    """
+    policy_alphas = {   # intensity increase 1 unit, the contagion delta will multiply alpha
+        'H7_Vaccination policy': 0.976,
+        'C8_International travel controls': 0.979,
+        'E1_Income support': 0.981,
+        'H6_Facial Coverings': 0.982,
+        'C5_Close public transport': 0.983,
+        'H2_Testing policy': 0.984,
+        'C4_Restrictions on gatherings': 0.985,
+        'C2_Workplace closing': 0.986,
+        'H3_Contact tracing': 0.988,
+        'H8_Protection of elderly people': 0.989,
+        'E2_Debt/contract relief': 0.991,
+        'C7_Restrictions on internal movement': 0.991,
+        'C6_Stay at home requirements': 0.993,
+        'C3_Cancel public events': 0.995,
+        'H1_Public information campaigns': 0.996,
+        'C1_School closing': 0.998
+    }
+    delta_y = [x/population for x in business_newcases_series]
+
+    policy_names = list(business_policy_intensity.keys())
+    for policy in policy_names:
+        alpha = policy_alphas[policy]
+        intensity_change = mixed_policy_intensity[policy] - business_policy_intensity[policy]
+        delta_cg = 1
+        if intensity_change < 0:
+            delta_cg = (1 / alpha) ** abs(intensity_change)
+        elif intensity_change > 0:
+            delta_cg = alpha ** intensity_change
+        delta_y = [delta_cg * x for x in delta_y]
+
+    mixed_policy_series = [int(x*population) for x in delta_y]
+    return mixed_policy_series
+
+
 def re_construct_policy_rank_score():
     policy_rank_score = pd.read_excel('output/compiled_policy ranking and scores.xlsx').fillna('NULL')
     if not os.path.exists('output/Roland/policy_heat_map/countries'):
@@ -265,7 +309,8 @@ def re_construct_covid_new_cases():
         group['weakest_policy'] = (group['weakest_policy'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
 
         group = group[['Date', 'history', 'average', 'strongest_policy', 'weakest_policy']].fillna('NULL').iloc[1:].rename(columns={'average': 'bussiness_as_usual'})
-
+        
+        group.to_csv('output/Roland/covid_new_cases/' + key + '.csv', index=False)
         group = group.to_dict(orient='records')
         res_json = json.dumps(group, indent=1)
         f2 = open('output/Roland/covid_new_cases/' + key + '.json', 'w')

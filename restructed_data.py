@@ -227,7 +227,6 @@ def re_construct_covid_new_cases():
         'C4_Restrictions on gatherings': 0,
         'C2_Workplace closing': 0,
         'H3_Contact tracing': 0,
-        # 'H8_Protection of elderly people': 0,
         'E2_Debt/contract relief': 0,
         'C7_Restrictions on internal movement': 0,
         'C6_Stay at home requirements': 0,
@@ -246,7 +245,6 @@ def re_construct_covid_new_cases():
         'C4_Restrictions on gatherings': 4,
         'C2_Workplace closing': 3,
         'H3_Contact tracing': 2,
-        # 'H8_Protection of elderly people': 3,
         'E2_Debt/contract relief': 2,
         'C7_Restrictions on internal movement': 2,
         'C6_Stay at home requirements': 3,
@@ -302,13 +300,17 @@ def re_construct_covid_new_cases():
         group['weakest_policy'] = group['weakest_policy'].diff()
 
         group['history'] = group['history'].diff()
+
+        group['rolling'] = (group['history'].fillna(0) + group['average'].fillna(0)).rolling(7).mean()
         
         group['history'] = (group['history'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
         group['average'] = (group['average'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
+        group['rolling_7days'] = (group['rolling'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
         group['strongest_policy'] = (group['strongest_policy'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
         group['weakest_policy'] = (group['weakest_policy'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
 
-        group = group[['Date', 'history', 'average', 'strongest_policy', 'weakest_policy']].fillna('NULL').iloc[1:].rename(columns={'average': 'bussiness_as_usual'})
+        group = group[['Date', 'history', 'rolling_7days', 'average', 'strongest_policy', 'weakest_policy']].fillna('NULL').iloc[1:].rename(
+            columns={'average': 'bussiness_as_usual'})
         
         group.to_csv('output/Roland/covid_new_cases/' + key + '.csv', index=False)
         group = group.to_dict(orient='records')

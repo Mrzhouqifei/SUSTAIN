@@ -1673,3 +1673,259 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
   0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.79it/s, epoch=49/50, avg_epoch_loss=-10.3]
   0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.77it/s, epoch=50/50, avg_epoch_loss=-10.3]
 learning rate from ``lr_scheduler`` has been overwritten by ``learning_rate`` in optimizer.
+2021-08-18
+update_data.py:42: DtypeWarning: Columns (2,3) have mixed types.Specify dtype option on import or set low_memory=False.
+  download_policy()
+update_data.py:45: DtypeWarning: Columns (2,3) have mixed types.Specify dtype option on import or set low_memory=False.
+  policy_preprocess()
+update_data.py:9: FutureWarning: The default value of regex will change from True to False in a future version.
+  df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace(
+download success for confirmed
+download success for policy
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/pandas/core/indexing.py:723: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  iloc._setitem_with_indexer(indexer, value, self.name)
+/home/zhouqifei/SUSTAIN/preprocess/get_data.py:37: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  'start': [pd.Timestamp(process_series_diff.index[0], freq='1D')
+  0%|          | 0/50 [00:00<?, ?it/s]/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:321: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  timestamp = pd.Timestamp(string, freq=freq)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:324: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  if isinstance(timestamp.freq, Tick):
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:326: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  timestamp.floor(timestamp.freq), timestamp.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:325: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  return pd.Timestamp(
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:36: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return _shift_timestamp_helper(ts, ts.freq, offset)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:57: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return ts + offset * ts.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/feature.py:352: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  self._min_time_point, self._max_time_point, freq=start.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:36: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return _shift_timestamp_helper(ts, ts.freq, offset)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:57: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return ts + offset * ts.freq
+100%|██████████| 50/50 [00:00<00:00, 50.29it/s, epoch=1/50, avg_epoch_loss=-9.69]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.79it/s, epoch=2/50, avg_epoch_loss=-9.96]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.53it/s, epoch=3/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.89it/s, epoch=4/50, avg_epoch_loss=-9.95]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.63it/s, epoch=5/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.82it/s, epoch=6/50, avg_epoch_loss=-9.95]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.07it/s, epoch=7/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.11it/s, epoch=8/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.76it/s, epoch=9/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.55it/s, epoch=10/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.67it/s, epoch=11/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.26it/s, epoch=12/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.13it/s, epoch=13/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.30it/s, epoch=14/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.31it/s, epoch=15/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.40it/s, epoch=16/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.52it/s, epoch=17/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.50it/s, epoch=18/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.46it/s, epoch=19/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.66it/s, epoch=20/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.54it/s, epoch=21/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.15it/s, epoch=22/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.03it/s, epoch=23/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.59it/s, epoch=24/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.07it/s, epoch=25/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.80it/s, epoch=26/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.74it/s, epoch=27/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.65it/s, epoch=28/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.42it/s, epoch=29/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 88.66it/s, epoch=30/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.41it/s, epoch=31/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.59it/s, epoch=32/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.95it/s, epoch=33/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.58it/s, epoch=34/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.23it/s, epoch=35/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.07it/s, epoch=36/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.23it/s, epoch=37/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.35it/s, epoch=38/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.69it/s, epoch=39/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.74it/s, epoch=40/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.81it/s, epoch=41/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.17it/s, epoch=42/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.92it/s, epoch=43/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.93it/s, epoch=44/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 86.43it/s, epoch=45/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.35it/s, epoch=46/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.89it/s, epoch=47/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.20it/s, epoch=48/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.79it/s, epoch=49/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.15it/s, epoch=50/50, avg_epoch_loss=-10.3]
+learning rate from ``lr_scheduler`` has been overwritten by ``learning_rate`` in optimizer.
+2021-08-19
+update_data.py:42: DtypeWarning: Columns (2,3) have mixed types.Specify dtype option on import or set low_memory=False.
+  download_policy()
+update_data.py:45: DtypeWarning: Columns (2,3) have mixed types.Specify dtype option on import or set low_memory=False.
+  policy_preprocess()
+update_data.py:9: FutureWarning: The default value of regex will change from True to False in a future version.
+  df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace(
+download success for confirmed
+download success for policy
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/pandas/core/indexing.py:723: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  iloc._setitem_with_indexer(indexer, value, self.name)
+/home/zhouqifei/SUSTAIN/preprocess/get_data.py:37: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  'start': [pd.Timestamp(process_series_diff.index[0], freq='1D')
+  0%|          | 0/50 [00:00<?, ?it/s]/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:321: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  timestamp = pd.Timestamp(string, freq=freq)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:324: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  if isinstance(timestamp.freq, Tick):
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:326: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  timestamp.floor(timestamp.freq), timestamp.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:325: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  return pd.Timestamp(
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:36: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return _shift_timestamp_helper(ts, ts.freq, offset)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:57: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return ts + offset * ts.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/feature.py:352: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  self._min_time_point, self._max_time_point, freq=start.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:36: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return _shift_timestamp_helper(ts, ts.freq, offset)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:57: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return ts + offset * ts.freq
+100%|██████████| 50/50 [00:01<00:00, 49.51it/s, epoch=1/50, avg_epoch_loss=-9.58]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.13it/s, epoch=2/50, avg_epoch_loss=-9.94]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.56it/s, epoch=3/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.05it/s, epoch=4/50, avg_epoch_loss=-9.91]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.46it/s, epoch=5/50, avg_epoch_loss=-9.95]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.32it/s, epoch=6/50, avg_epoch_loss=-9.95]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.45it/s, epoch=7/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.45it/s, epoch=8/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.83it/s, epoch=9/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.43it/s, epoch=10/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.83it/s, epoch=11/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.43it/s, epoch=12/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.59it/s, epoch=13/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.81it/s, epoch=14/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.15it/s, epoch=15/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.26it/s, epoch=16/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.08it/s, epoch=17/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.22it/s, epoch=18/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.21it/s, epoch=19/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.44it/s, epoch=20/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.67it/s, epoch=21/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.01it/s, epoch=22/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.70it/s, epoch=23/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.50it/s, epoch=24/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.23it/s, epoch=25/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.61it/s, epoch=26/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.56it/s, epoch=27/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.74it/s, epoch=28/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.32it/s, epoch=29/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.35it/s, epoch=30/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 89.16it/s, epoch=31/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.99it/s, epoch=32/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.03it/s, epoch=33/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.64it/s, epoch=34/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.02it/s, epoch=35/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 89.19it/s, epoch=36/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.70it/s, epoch=37/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.05it/s, epoch=38/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.19it/s, epoch=39/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.93it/s, epoch=40/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.11it/s, epoch=41/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.15it/s, epoch=42/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.62it/s, epoch=43/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.61it/s, epoch=44/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.21it/s, epoch=45/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 88.32it/s, epoch=46/50, avg_epoch_loss=-10.5]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.93it/s, epoch=47/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 86.21it/s, epoch=48/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.23it/s, epoch=49/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.05it/s, epoch=50/50, avg_epoch_loss=-10.3]
+learning rate from ``lr_scheduler`` has been overwritten by ``learning_rate`` in optimizer.
+2021-08-20
+update_data.py:42: DtypeWarning: Columns (2,3) have mixed types.Specify dtype option on import or set low_memory=False.
+  download_policy()
+update_data.py:45: DtypeWarning: Columns (2,3) have mixed types.Specify dtype option on import or set low_memory=False.
+  policy_preprocess()
+update_data.py:9: FutureWarning: The default value of regex will change from True to False in a future version.
+  df['Country/Region'] = df['Country/Region'].str.replace('Taiwan\\*', 'Taiwan').str.replace(
+download success for confirmed
+download success for policy
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/pandas/core/indexing.py:723: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  iloc._setitem_with_indexer(indexer, value, self.name)
+/home/zhouqifei/SUSTAIN/preprocess/get_data.py:37: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  'start': [pd.Timestamp(process_series_diff.index[0], freq='1D')
+  0%|          | 0/50 [00:00<?, ?it/s]/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:321: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  timestamp = pd.Timestamp(string, freq=freq)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:324: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  if isinstance(timestamp.freq, Tick):
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:326: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  timestamp.floor(timestamp.freq), timestamp.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/dataset/common.py:325: FutureWarning: The 'freq' argument in Timestamp is deprecated and will be removed in a future version.
+  return pd.Timestamp(
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:36: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return _shift_timestamp_helper(ts, ts.freq, offset)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:57: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return ts + offset * ts.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/feature.py:352: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  self._min_time_point, self._max_time_point, freq=start.freq
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:36: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return _shift_timestamp_helper(ts, ts.freq, offset)
+/home/zhouqifei/anaconda3/lib/python3.8/site-packages/gluonts/transform/split.py:57: FutureWarning: Timestamp.freq is deprecated and will be removed in a future version
+  return ts + offset * ts.freq
+100%|██████████| 50/50 [00:00<00:00, 50.27it/s, epoch=1/50, avg_epoch_loss=-9.61]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.34it/s, epoch=2/50, avg_epoch_loss=-9.89]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.30it/s, epoch=3/50, avg_epoch_loss=-9.98]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.12it/s, epoch=4/50, avg_epoch_loss=-9.98]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.09it/s, epoch=5/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.08it/s, epoch=6/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.66it/s, epoch=7/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.67it/s, epoch=8/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 98.37it/s, epoch=9/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.21it/s, epoch=10/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.90it/s, epoch=11/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.62it/s, epoch=12/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.35it/s, epoch=13/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.65it/s, epoch=14/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.11it/s, epoch=15/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.67it/s, epoch=16/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.71it/s, epoch=17/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.28it/s, epoch=18/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.94it/s, epoch=19/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.08it/s, epoch=20/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.69it/s, epoch=21/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.39it/s, epoch=22/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.93it/s, epoch=23/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.95it/s, epoch=24/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.69it/s, epoch=25/50, avg_epoch_loss=-10]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 98.02it/s, epoch=26/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.44it/s, epoch=27/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.51it/s, epoch=28/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 98.52it/s, epoch=29/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.89it/s, epoch=30/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.13it/s, epoch=31/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.17it/s, epoch=32/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.02it/s, epoch=33/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.47it/s, epoch=34/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.63it/s, epoch=35/50, avg_epoch_loss=-10.1]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 94.67it/s, epoch=36/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 93.47it/s, epoch=37/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.99it/s, epoch=38/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.77it/s, epoch=39/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 91.97it/s, epoch=40/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.89it/s, epoch=41/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.51it/s, epoch=42/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.87it/s, epoch=43/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.78it/s, epoch=44/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 95.91it/s, epoch=45/50, avg_epoch_loss=-10.2]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.49it/s, epoch=46/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 92.78it/s, epoch=47/50, avg_epoch_loss=-10.4]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 97.46it/s, epoch=48/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 90.11it/s, epoch=49/50, avg_epoch_loss=-10.3]
+  0%|          | 0/50 [00:00<?, ?it/s]100%|██████████| 50/50 [00:00<00:00, 96.87it/s, epoch=50/50, avg_epoch_loss=-10.4]
+learning rate from ``lr_scheduler`` has been overwritten by ``learning_rate`` in optimizer.
+2021-08-21

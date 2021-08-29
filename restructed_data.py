@@ -202,9 +202,10 @@ def re_construct_covid_forecast():
     data = data.merge(average, on=['Country', 'Date'], how='outer')
     data = data.merge(upper, on=['Country', 'Date'], how='outer')
     data = data.merge(population, on=['Country'])
+    data['case_number'] = ((data['history'].fillna(0) + data['average'].fillna(0)) * data['Population']).astype(int)
 
     data = data.fillna('NULL')
-    data = data[['ISO', 'Date', 'history', 'lower', 'average', 'upper']]
+    data = data[['ISO', 'Date', 'history', 'lower', 'average', 'upper', 'case_number']]
 
     for key, group in data.groupby('ISO'):
         if not os.path.exists('output/Roland/covid_forecast'):
@@ -258,6 +259,15 @@ def re_construct_covid_new_cases():
     average = pd.read_csv('output/covid_forecast/contagion/prediction_median.csv',
                         index_col=0).unstack().reset_index().rename(
         columns={'level_0': 'Country', 'level_1': 'Date', 0: 'average'})
+
+    lower = pd.read_csv('output/covid_forecast/contagion/prediction_lower.csv',
+                        index_col=0).unstack().reset_index().rename(
+        columns={'level_0': 'Country', 'level_1': 'Date', 0: 'lower'})
+
+    upper = pd.read_csv('output/covid_forecast/contagion/prediction_upper.csv',
+                        index_col=0).unstack().reset_index().rename(
+        columns={'level_0': 'Country', 'level_1': 'Date', 0: 'upper'})
+
     policies = pd.read_csv('raw_data/policies_all_countries.csv').drop(['iso', 'H8_Protection of elderly people',
                                                                             'E4_International support',
                                                                             'H5_Investment in vaccines',
@@ -272,11 +282,17 @@ def re_construct_covid_new_cases():
 
     data = policies.merge(history, on=['Country', 'Date'], how='right').ffill()
     data = data.merge(average, on=['Country', 'Date'], how='outer')
+    data = data.merge(lower, on=['Country', 'Date'], how='outer')
+    data = data.merge(upper, on=['Country', 'Date'], how='outer')
     data = data.merge(population, on=['Country'])
 
     for key, group in data.groupby('ISO'):
         if not os.path.exists('output/Roland/covid_new_cases'):
             os.makedirs('output/Roland/covid_new_cases')
+
+        lower_new_case = int(min((group.lower * group.Population).diff().dropna()))
+        upper_new_case = int(max((group.upper * group.Population).diff().dropna()))
+
         newest_v = group['history'][group['Date']==last_date].values[0]
 
         bussiness_policies = group[list(strongest_mixed_policy_intensity.keys())].ffill().iloc[-1].to_dict()
@@ -314,7 +330,12 @@ def re_construct_covid_new_cases():
         
         group.to_csv('output/Roland/covid_new_cases/' + key + '.csv', index=False)
         group = group.to_dict(orient='records')
-        res_json = json.dumps(group, indent=1)
+
+        res = {}
+        res['upper_new_case'] = upper_new_case
+        res['lower_new_case'] = lower_new_case
+        res['data'] = group
+        res_json = json.dumps(res, indent=1)
         f2 = open('output/Roland/covid_new_cases/' + key + '.json', 'w')
         f2.write(res_json)
         f2.close()

@@ -319,11 +319,11 @@ def re_construct_covid_new_cases():
 
         group['rolling'] = (group['history'].fillna(0) + group['average'].fillna(0)).rolling(7).mean()
         
-        group['history'] = (group['history'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
-        group['average'] = (group['average'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
-        group['rolling_7days'] = (group['rolling'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
-        group['strongest_policy'] = (group['strongest_policy'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
-        group['weakest_policy'] = (group['weakest_policy'] * group['Population']).apply(lambda x: str(int(x)) if pd.notna(x) else x)
+        group['history'] = (group['history'] * group['Population']).apply(lambda x: str(round(x)) if pd.notna(x) else x)
+        group['average'] = (group['average'] * group['Population']).apply(lambda x: str(round(x)) if pd.notna(x) else x)
+        group['rolling_7days'] = (group['rolling'] * group['Population']).apply(lambda x: str(round(x)) if pd.notna(x) else x)
+        group['strongest_policy'] = (group['strongest_policy'] * group['Population']).apply(lambda x: str(round(x)) if pd.notna(x) else x)
+        group['weakest_policy'] = (group['weakest_policy'] * group['Population']).apply(lambda x: str(round(x)) if pd.notna(x) else x)
 
         group = group[['Date', 'history', 'rolling_7days', 'average', 'strongest_policy', 'weakest_policy']].fillna('NULL').iloc[1:].rename(
             columns={'average': 'bussiness_as_usual'})

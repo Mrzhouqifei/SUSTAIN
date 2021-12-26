@@ -4,7 +4,7 @@ The Social and Sustainable Artificial Intelligence (SUSTAIN) Model for Viral Out
 System: Linux   
 Language: Python 3.8
 
-Download the codes and install the requirements:
+Download the codes and install the requirements ($xxx is your directory):
 
     mkdir $xxx
     cd $xxx
@@ -37,6 +37,11 @@ modify "/home/zhouqifei" to your folder "$xxx"
     git commit -m "$today"
     git push
 
-run the model and upload the SUSTAIN DATA to Github
+manually run the model and upload the SUSTAIN DATA to Github
 
     sh run.sh
+
+Set the task to run automatically every day
+
+    crontab -e
+    0 17 * * * chmod +x $xxx/SUSTAIN/run.sh && $xxx/SUSTAIN/run.sh
